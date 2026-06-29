@@ -20,24 +20,23 @@
 		white-space: nowrap;
 		text-decoration: none;
 	}
-	/* obs — sourced fact: quiet, normal weight */
+	/* design-spec §2.4 — one amber family for inf/unk, distinguished by weight +
+	   marker, never hue. obs is the quiet default. No red anywhere. */
+	/* obs — sourced fact: quiet, normal weight, no fill */
 	.epi-obs {
 		color: var(--muted);
-		border-color: var(--line);
-		background: var(--surface);
+		font-weight: 400;
 	}
-	/* inf — inferred: muted + italic */
+	/* inf — inferred: warm amber, italic (echoes the editorial serif) */
 	.epi-inf {
-		color: #8a6d3b;
-		background: rgba(190, 150, 70, 0.12);
-		border-color: rgba(190, 150, 70, 0.4);
+		color: var(--impulse-amber);
+		background: rgba(196, 134, 42, 0.08);
 		font-style: italic;
 	}
-	/* unk — uncertain: visually distinct, must not read as fact */
+	/* unk — uncertain: same amber family, but bold + "?" marker */
 	.epi-unk {
-		color: #9a3a2f;
-		background: rgba(180, 70, 55, 0.12);
-		border-color: rgba(180, 70, 55, 0.5);
+		color: var(--impulse-amber);
+		background: rgba(196, 134, 42, 0.12);
 		font-weight: 700;
 	}
 </style>

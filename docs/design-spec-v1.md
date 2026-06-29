@@ -6,7 +6,8 @@ tags: jazz-canon, design, spec, visual
 
 # A Jazz Canon — Visual Design Spec v1
 
-**Status:** Draft — 2026-06-28
+**Status:** Draft — 2026-06-28 · revised 2026-06-29 (epistemic treatment dialed
+back per `docs/sunday-update.md` §1: red retired, epistemic folded into §2.4)
 **Companion to:** `docs/app-spec-v1.md` and timeline redesign prompts
 **Purpose:** Design layer applied on top of existing structural work. Defines
 color, typography, epistemic treatment, and layout principles derived from the
@@ -50,7 +51,7 @@ design DNA.
 
 ### Accent system (new — derived from album cover analysis)
 
-Three accents, each mapped to a specific role in the site's information
+Two accents, each mapped to a specific role in the site's information
 architecture:
 
 ```
@@ -60,18 +61,19 @@ architecture:
 --bn-blue-light: #4a7c95   /* lighter variant — hover, secondary, focus rings */
 
 --impulse-amber: #c4862a  /* Impulse! warm brass — EDITORIAL accent */
-                         /* editorial notes, section headers, "Editorial note" labels */
-
---accent-red: #a83228     /* Columbia/Miles red — RESERVED for unk only */
-                         /* the single most visually urgent epistemic state */
-                         /* appears nowhere else in the UI */
+                         /* editorial notes, section headers, inf/unk epistemic states */
 ```
 
 **Design logic:** Blue Note blue is the brand accent — it carries the site's
 identity in the same way the Blue Note label carried theirs. Impulse! amber is
-the voice of editorial content — warm, human, distinct from sourced facts.
-Columbia red is reserved exclusively for the `unk` epistemic label, giving it
-the visual weight of the single red accent on *Birth of the Cool*.
+the voice of editorial content — warm, human, distinct from sourced facts — and
+it also carries the `inf`/`unk` epistemic states (see §2.4).
+
+**No red.** The palette deliberately contains no red. (An earlier draft reserved
+a Columbia/Miles red exclusively for the `unk` epistemic state; that proved
+disproportionate to a state that appears in roughly 1.5% of the data — see §2.4.)
+Red appears nowhere in v1. Reserve it for future error states only if a genuine
+need arises.
 
 ### Era band colors (recalibrated)
 
@@ -84,6 +86,45 @@ Low-saturation tints that harmonize with the cover art palette:
 --era-postbop:  rgba(122, 82, 140, 0.18)   /* deep violet — post-bop = searching */
 --era-ink: #5a5249                          /* era label text */
 ```
+
+### 2.4 Epistemic color treatment
+
+This is where the design language and the site's core principle (app-spec §3)
+meet. The `obs` / `inf` / `unk` labels must be visually distinct everywhere they
+appear — but the treatment is deliberately quiet. In the actual data, 98.5% of
+performance records are `obs`, and `unk` surfaces only ~9 times across the whole
+dataset; a typical visitor encounters zero or one `unk` badge in a session. So a
+single color family (amber) carries both `inf` and `unk`; they differ by **weight
+and marker, not hue.**
+
+Single source of truth: one component (`EpistemicBadge.svelte`). All three states
+share the same structural treatment (small badge, uppercase, `cursor: help`) and
+differ only as below:
+
+| State | Color | Background | Weight | Style | Text | Title attribute |
+|-------|-------|------------|--------|-------|------|-----------------|
+| `obs` | `--muted` | transparent | 400 | normal | `obs` | "Directly observed (liner notes or primary source)" |
+| `inf` | `--impulse-amber` | `rgba(196, 134, 42, 0.08)` | 400 | italic | `inf` | "Inferred from session lists or cross-references" |
+| `unk` | `--impulse-amber` | `rgba(196, 134, 42, 0.12)` | 700 | normal | `unk?` | "Uncertain attribution" |
+
+- **`obs`** is the quiet default — sourced facts don't shout, so they sit in the
+  standard secondary text color with no fill.
+- **`inf`** is the warm editorial register; its italic echoes the serif
+  treatment used for editorial notes — both are interpretation, not fact.
+- **`unk`** stays in the same amber family but goes **bold with a `?` marker**.
+  It is distinct from `inf` by weight and marker, not by jumping to a different
+  hue.
+
+**Anti-pattern.** Do NOT use a traffic-light palette (green/amber/red). Green
+implies "verified correct" and red implies "wrong." These are epistemically
+distinct states, not quality-ranked assessments. A musician listed as `unk` is
+genuinely uncertain — not incorrect. The one-color-family treatment above avoids
+this trap by design.
+
+**Edge styling in the Personnel Network (deferred).** Epistemic encoding on
+network edges is deferred for v1. Edges show weight only (`shared_albums` count
+as stroke-width). The epistemic treatment lives in the Deep Dive panel, where it
+is meaningful (per-track, per-musician).
 
 ---
 
@@ -113,7 +154,7 @@ Load via Google Fonts in `app.html` (or SvelteKit layout):
 Three families is the maximum. The tradeoff: Lora adds one font for editorial
 content only, but it creates a visual distinction between sourced facts
 (sans-serif) and editorial interpretation (serif italic) that directly serves
-the spec's epistemic principle (§3). Worth the load.
+the epistemic principle (app-spec §3). Worth the load.
 
 ### Type hierarchy
 
@@ -136,77 +177,18 @@ the spec's epistemic principle (§3). Worth the load.
 | Personnel instrument | Inter | 400 | 0.8rem | none | --muted color |
 | Editorial note label | Archivo Narrow | 600 | 0.7rem | uppercase | "Editorial note" |
 | Editorial note body | Lora | 400 italic | 0.9rem | none | The serif distinction |
-| Epistemic badges | Inter | 600 | 0.62rem | uppercase | See §4 |
+| Epistemic badges | Inter | 400/700 | 0.62rem | uppercase | See §2.4 |
 | Personnel Network title | Archivo Narrow | 700 | 1.4rem | none | Center musician name |
 | Personnel Network hint | Inter | 400 | 0.8rem | none | --muted color |
 | Apple Music link | Inter | 500 | 0.85rem | none | --bn-blue color |
 
 ---
 
-## 4. Epistemic Visual Treatment
-
-This is where the design language and the site's core principle (spec §3) meet.
-The `obs` / `inf` / `unk` labels must be visually distinct everywhere they appear.
-The treatment maps to the album cover accent system:
-
-### Badge style (in personnel lists, tracklists)
-
-Single source of truth: one component (`EpistemicBadge.svelte` or equivalent).
-All three states share the same structural treatment (small badge, uppercase,
-border, `cursor: help`) but differ in color and weight:
-
-**`obs` — observed (sourced fact):**
-- Color: `--bn-blue` at low opacity
-- Background: `rgba(43, 95, 122, 0.08)`
-- Border: `rgba(43, 95, 122, 0.3)`
-- Font weight: 400 (normal)
-- Font style: normal
-- Title attribute: "Directly observed (liner notes or primary source)"
-- Mood: quiet confidence. This is the default — sourced facts don't shout.
-
-**`inf` — inferred:**
-- Color: `--impulse-amber`
-- Background: `rgba(196, 134, 42, 0.10)`
-- Border: `rgba(196, 134, 42, 0.35)`
-- Font weight: 400
-- Font style: italic
-- Title attribute: "Inferred from session lists or cross-references"
-- Mood: warm, human. The editorial register. Italic visually echoes the
-  serif treatment used for editorial notes — both are interpretation, not fact.
-
-**`unk` — uncertain:**
-- Color: `--accent-red`
-- Background: `rgba(168, 50, 40, 0.08)`
-- Border: `rgba(168, 50, 40, 0.4)`
-- Font weight: 700 (bold)
-- Font style: normal
-- Text: `unk?` (with question mark)
-- Title attribute: "Uncertain attribution"
-- Mood: restrained urgency. This is the only place red appears in the entire
-  UI. It carries the visual weight of the single red accent on *Birth of the
-  Cool*. It draws the eye without being alarming.
-
-### Anti-pattern
-
-Do NOT use a traffic-light palette (green/amber/red). Green implies "verified
-correct" and red implies "wrong." These are epistemically distinct states, not
-quality-ranked assessments. A musician listed as `unk` is genuinely uncertain —
-not incorrect.
-
-### Edge styling in Personnel Network (deferred)
-
-Epistemic encoding on network edges is deferred for v1. Edges show weight only
-(`shared_albums` count as stroke-width). The epistemic treatment lives in the
-Deep Dive panel where it is meaningful (per-track, per-musician). See punch list
-shared item for the design decision.
-
----
-
-## 5. Layout Principles
+## 4. Layout Principles
 
 Three rules derived from the album cover design tradition:
 
-### 5.1 Asymmetry over symmetry
+### 4.1 Asymmetry over symmetry
 
 Album covers from this era rarely center everything. The site title, era labels,
 and card layouts should feel intentionally off-balance. Text anchored to edges
@@ -214,7 +196,7 @@ and corners, not floating in the center. The site title "A Jazz Canon" sits
 left-aligned in the header, not centered. Era labels in swim lanes align to the
 left edge of their band, not the center.
 
-### 5.2 Negative space is confidence
+### 4.2 Negative space is confidence
 
 The covers breathe. The site should too. Generous padding. Elements that don't
 touch the edges of their containers. The card grid should have visible space
@@ -230,7 +212,7 @@ Recommended spacing values (existing in `app.css` — keep and extend):
 --sp-5: 32px      /* airy: major section breaks (new) */
 ```
 
-### 5.3 Photography is the hero
+### 4.3 Photography is the hero
 
 The album covers let the image do the work. On the site:
 
@@ -247,7 +229,7 @@ The album covers let the image do the work. On the site:
 
 ---
 
-## 6. Component-Specific Notes
+## 5. Component-Specific Notes
 
 ### Album cards
 
@@ -308,37 +290,39 @@ The album covers let the image do the work. On the site:
 
 ---
 
-## 7. What NOT to Do
+## 6. What NOT to Do
 
 - No dark mode. Light theme only. Standing rule.
 - No traffic-light color scheme for epistemic badges (green/amber/red hierarchy).
 - No borders or drop shadows around album cover art in cards.
 - No centered layouts where asymmetry would be stronger.
 - No more than three font families loaded.
-- No red anywhere in the UI except the `unk` epistemic badge.
+- No red anywhere in the UI.
 - No generic system fonts as the primary face (Helvetica Neue alone is too
   anonymous for this project's visual identity).
 
 ---
 
-## 8. Implementation Notes
+## 7. Implementation Notes
 
 ### For Claude Code (plain JS + CSS custom properties)
 
 Replace `--font` in `app.css` with the three font variables above. Add the new
-accent tokens to `:root`. Load fonts via `<link>` in `app.html`. Update
-`EpistemicBadge.svelte` color treatments to the new tokens. Apply `--font-display`
-to headings and titles, `--font-body` to body text, `--font-serif` italic to
-editorial notes.
+accent tokens to `:root` (`--bn-blue`, `--bn-blue-light`, `--impulse-amber` — no
+red token). Load fonts via `<link>` in `app.html`. Update `EpistemicBadge.svelte`
+color treatments per §2.4 (amber family for `inf`/`unk`, `--muted` for `obs`; no
+red). Apply `--font-display` to headings and titles, `--font-body` to body text,
+`--font-serif` italic to editorial notes.
 
 ### For Kimi (TypeScript + Tailwind)
 
 Add the three Google Fonts via `<link>` in `app.html` or layout. Configure
 Tailwind theme extension for the three font families. Map accent colors as
-Tailwind custom colors or use inline styles for the accent system (the `unk`
-red should be a named token, not a raw Tailwind `rose-*` utility). Update
-`EpistemicBadge.svelte` to use the new color scheme. Apply `font-display`
-class to headings, `font-body` to text, `font-serif italic` to editorial notes.
+Tailwind custom colors or use inline styles for the accent system. Update
+`EpistemicBadge.svelte` to use the §2.4 treatment: `--muted` for `obs`,
+`--impulse-amber` for `inf` (italic) and `unk` (bold 700, `?` marker). No red
+token needed. Apply `font-display` class to headings, `font-body` to text,
+`font-serif italic` to editorial notes.
 
 ### Google Fonts performance
 

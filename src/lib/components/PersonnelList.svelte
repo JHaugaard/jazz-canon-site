@@ -59,7 +59,7 @@
 		border: none;
 		padding: 0;
 		font: inherit;
-		color: var(--accent);
+		color: var(--bn-blue);
 		cursor: pointer;
 		text-align: left;
 	}

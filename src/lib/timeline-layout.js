@@ -73,18 +73,3 @@ export function eraLanes(blocks) {
 	].map((e) => ({ ...e, ...bandExtent(blocks, e.start, e.end) }));
 }
 
-/**
- * Focus opacity for a block given the currently-centered year (spec: center 1.0,
- * ±1 0.85, ±2 0.6, ±3 0.35, beyond floored so the strip stays continuous).
- * @param {number} blockYear
- * @param {number} centerYear
- * @returns {number}
- */
-export function focusOpacity(blockYear, centerYear) {
-	const d = Math.abs(blockYear - centerYear);
-	if (d === 0) return 1;
-	if (d === 1) return 0.85;
-	if (d === 2) return 0.6;
-	if (d === 3) return 0.35;
-	return 0.2;
-}

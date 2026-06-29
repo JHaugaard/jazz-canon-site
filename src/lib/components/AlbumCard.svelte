@@ -89,6 +89,7 @@
 		padding: var(--sp-2);
 	}
 	.title {
+		font-family: var(--font-display);
 		font-size: var(--fs-base);
 		font-weight: 600;
 		line-height: 1.25;
@@ -108,7 +109,7 @@
 	}
 	.style {
 		font-size: 0.7rem;
-		color: var(--accent);
+		color: var(--muted);
 		text-transform: uppercase;
 		letter-spacing: 0.03em;
 		margin-top: 2px;

@@ -14,15 +14,17 @@
 <style>
 	.year-axis {
 		position: relative;
-		height: 26px;
+		height: 44px;
 		border-bottom: 1px solid var(--line);
 	}
 	.tick {
 		position: absolute;
-		top: 4px;
+		top: 6px;
 		transform: translateX(-50%);
-		font-size: var(--fs-sm);
-		color: var(--muted);
+		font-family: var(--font-display, inherit);
+		font-size: 1.5rem;
+		font-weight: 600;
+		color: var(--ink);
 		white-space: nowrap;
 	}
 </style>

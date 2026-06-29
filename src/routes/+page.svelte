@@ -25,8 +25,13 @@
 </svelte:head>
 
 <header class="site-header">
-	<h1>A Jazz Canon</h1>
-	<p class="tagline">Jazz on record · 1949–1972</p>
+	<div class="brand">
+		<h1>A Jazz Canon</h1>
+		<p class="tagline">Jazz on record · 1949–1972</p>
+	</div>
+	<nav class="site-nav">
+		<a href="/about">About</a>
+	</nav>
 </header>
 
 <Timeline albums={data.albums} />
@@ -35,9 +40,12 @@
 
 <style>
 	.site-header {
+		display: flex;
+		justify-content: space-between;
+		align-items: flex-end;
 		padding: var(--sp-4) var(--sp-4) var(--sp-3);
 	}
-	.site-header h1 {
+	.brand h1 {
 		margin: 0;
 	}
 	.tagline {
@@ -45,5 +53,16 @@
 		color: var(--muted);
 		font-size: var(--fs-base);
 		letter-spacing: 0.01em;
+	}
+	.site-nav a {
+		font-family: var(--font-display, inherit);
+		font-size: var(--fs-base);
+		text-transform: uppercase;
+		letter-spacing: 0.04em;
+		color: var(--bn-blue);
+		text-decoration: none;
+	}
+	.site-nav a:hover {
+		text-decoration: underline;
 	}
 </style>

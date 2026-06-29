@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Concept 4 — Shelf &amp; Record</title>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo+Narrow:wght@600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root { --bg:#faf8f3; --ink:#1c1a17; --muted:#6b6358; --line:#e6e0d6; }
+    * { box-sizing: border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink);
+           font-family:'Helvetica Neue',Arial,sans-serif; padding:32px; }
+    h1 { font-family:'Archivo Narrow',sans-serif; text-transform:uppercase;
+         letter-spacing:.02em; font-weight:700; font-size:1.6rem; margin:0 0 4px; }
+    p.note { color:var(--muted); margin:0 0 28px; max-width:60ch; }
+    .row { display:flex; flex-wrap:wrap; gap:24px; align-items:center; margin-bottom:28px; }
+    .chip { padding:20px; border-radius:8px; border:1px solid var(--line); }
+    .paper { background:#faf8f3; }
+    .white { background:#fff; }
+    .dark  { background:#1c2530; border-color:#2c3a48; }
+    .label { font-size:.72rem; text-transform:uppercase; letter-spacing:.06em;
+             color:var(--muted); margin-bottom:10px; }
+    .dark .label { color:#9fb0bf; }
+    img.big   { height:120px; }
+    img.med   { height:64px; }
+    img.fav   { height:32px; }
+    img.fav16 { height:16px; }
+    .favs { display:flex; gap:18px; align-items:flex-end; }
+  </style>
+</head>
+<body>
+  <h1>Concept 4 — Shelf &amp; Record</h1>
+  <p class="note">Mashup of the canon shelf (2) and the spine→record resolution (3):
+    a play-arrow + track threading a shelf of uniform LP spines, one amber record
+    leaning into a gap, resolving through a stretched oval into a grooved record with
+    an amber spindle. Mark only — wordmark comes next.</p>
+
+  <div class="row">
+    <div class="chip paper">
+      <div class="label">warm paper (site bg)</div>
+      <img class="big" src="concept-4-shelf-record.svg" alt="" />
+    </div>
+    <div class="chip white">
+      <div class="label">white (cards/panels)</div>
+      <img class="big" src="concept-4-shelf-record.svg" alt="" />
+    </div>
+    <div class="chip dark">
+      <div class="label">dark (reversed-variant check)</div>
+      <img class="big" src="concept-4-shelf-record.svg" alt="" />
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="chip paper">
+      <div class="label">medium</div>
+      <img class="med" src="concept-4-shelf-record.svg" alt="" />
+    </div>
+    <div class="chip paper">
+      <div class="label">favicon sizes (legibility floor)</div>
+      <div class="favs">
+        <img class="fav" src="concept-4-shelf-record.svg" alt="" />
+        <img class="fav16" src="concept-4-shelf-record.svg" alt="" />
+      </div>
+    </div>
+  </div>
+</body>
+</html>

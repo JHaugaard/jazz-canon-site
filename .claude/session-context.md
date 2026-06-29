@@ -1,72 +1,71 @@
-# Session Context — `build-1`
+# Session Context
 
-**Project:** jazz-canon-site — public discovery app for *A Jazz Canon* (100 albums,
-1949–1972). Static SvelteKit + adapter-static, plain JS+JSDoc, D3 for the network graph,
-Cloudflare Pages target (deploy gated). Data = pre-exported JSON in `data/`.
+## Status (2026-06-29)
+**jazz-canon-site** — public discovery app for *A Jazz Canon* (100 albums, 1949–1972).
+Static SvelteKit + adapter-static, plain JS+JSDoc, D3 graph, Cloudflare Pages target.
+v1 is functionally built (Phases 0–4), the timeline was redesigned, and the design spec is
+now applied in code. A **design / look-and-feel pass is wrapping**; John is starting a
+**build session** next for structural/logic work.
 
-**Status (2026-06-29):** v1 is **functionally built end-to-end and verified green**
-(`npm run check` 0/0 · `npm run test` 28→25 passing · `npm run build` static output).
-Session `build-1` is complete pending visual review + the design pass. A new **design
-session** is being created next.
+- **Uncommitted:** everything since the GitHub push (head `a911a2b`) is local working-tree
+  only — the whole design pass + timeline redesign. Consider committing early in the build session.
+- **Running:** app dev server on vps8 `:5173` (`npm run dev -- --host`) → Mac at
+  `http://vps8-core:5173`. (Logo-preview `:8080` was stopped.)
 
----
+## The app (Phases 0–4)
+- **Data** (`data/`): albums.json (100), album/{slug}.json (100, lazy via `import.meta.glob`),
+  network.json (305 musicians / 209 edges, per-link `album_refs` epistemic), musicians.json.
+- **Timeline** (`Timeline`/`EraBands`/`YearAxis`/`YearStack`/`AlbumCard`, geometry in pure
+  `timeline-layout.js` w/ tests): **year-block strip** — each year's width = its 4-wide card
+  grid; cards on a proportional axis; one horizontal scroll. **Full-height years** (no cap);
+  multi-row years show a top-right **"More ↓"** badge. Three layers: swim-lane era bands
+  (sliding labels) · year axis (large numerals) · album cards (~200px covers).
+- **Deep Dive** (`DeepDivePanel` + `Tracklist`/`PersonnelList`/`AppleMusicLink`/`EpistemicBadge`):
+  slide-in; per-track personnel; epistemic obs/inf/unk single-sourced in `epistemic.js`.
+- **Hero graph** (`PersonnelNetwork` + `graph/force.js`), branded **"Constellation"**: D3
+  force graph scoped to a musician; album-node → Deep Dive; musician-node → re-scope.
 
-## What was built (Phases 0–4 + a timeline redesign)
+## Design pass — done (2026-06-29)
+- Design spec reconciled into `docs/design-spec-v1.md` (retired `--accent-red`; epistemic →
+  §2.4 amber family, weight+marker not hue) and **applied in code**: fonts (Archivo Narrow /
+  Inter / Lora), tokens `--bn-blue / --bn-blue-light / --impulse-amber / --sp-5`, era-band
+  palette, EpistemicBadge amber.
+- Timeline: opacity fade **removed** (covers 100%); **full-height** years + **"More ↓"** badge;
+  year-axis numerals **2×**; removed the confusing "·count" by the date.
+- Personnel Network: removed "Personnel Network" kicker; **"Constellation"** label (singular)
+  top-left of the field, enlarged **~2×** (signature concept); modal enlarged; labels always on.
+- **About page** stubbed at `/about` + header "About" link.
+- Logo **concept 4 "Shelf & Record"** designed (`docs/logo-concepts/concept-4*`), "being lived with".
 
-- **Phase 0** — data export validated; `data/` = albums.json (100), album/{slug}.json (100,
-  lazy-loaded), network.json (305 musicians / 209 edges, now with per-link `album_refs`
-  epistemic), musicians.json.
-- **Phase 1** — SvelteKit scaffold; `$data` alias → repo-root `data/`; prerender; loader
-  `src/lib/data/albums.js` (TDD).
-- **Phase 2 → REDESIGNED (2026-06-28)** — the timeline. Now a **year-block strip**: each
-  year's width = its card grid (1–4 cols by album count; empty years thin gap), cards on a
-  proportional axis, one horizontal scroll, opacity by distance from the viewport-center
-  year. Three layers: **swim-lane era bands** (4 lanes, ~20% overlap, sliding labels) ·
-  **proportional year axis** · **4-wide album-card grid** (cover ~200px; tall years capped
-  ~560px + scroll-within). Geometry in `src/lib/timeline-layout.js` (pure, TDD); components
-  `Timeline` / `EraBands` / `YearAxis` / `YearStack` / `AlbumCard`. (Old `timeline.js`
-  deleted.)
-- **Phase 3** — Album Deep Dive slide-in (`DeepDivePanel` + `Tracklist`, `PersonnelList`,
-  `AppleMusicLink`, `EpistemicBadge`). Epistemic obs/inf/unk in one source (`epistemic.js`);
-  lazy `loadAlbum` via `import.meta.glob`.
-- **Phase 4** — the hero graph (provisionally **"Constellations"**, see below): D3
-  force-directed, scoped to a clicked musician (star topology), drag/zoom, album-node →
-  Deep Dive, musician-node → re-scope. D3 fenced to `graph/force.js` + `PersonnelNetwork.svelte`.
-  Epistemic **edges** wired (solid=obs / dashed=inf / dotted=unk) + legend.
+## → NEXT: build session (what John is doing now)
+- **Edge-epistemic semantics** — confirm "best/most-certain credit wins" (current) vs
+  "most-cautious"; one-line flip in `export.py` (`min`↔`max` rank) + re-run export.
+- **Personnel Network edges** — spec defers edge-epistemic for v1 (weight only); decide
+  whether to flatten the faint obs/inf/unk dashes to plain lines.
+- **Phase 5 logic polish** — accessibility (keyboard/focus for panels + graph); empty/missing
+  states vs real nulls (4 albums no studio, 3 no apple_id).
+- **Commit** the uncommitted design + build work when ready.
 
-Per-phase build scripts: `docs/phase{1,2,3,4}-build-script.md`. Binding spec:
-`docs/app-spec-v1.md`. Plan: `docs/implementation-plan-v1.md`.
+## Open design follow-ups (for the later logo/header pass)
+- **Logo + header** (John returning to this): wordmark lockup (A JAZZ CANON, Archivo Narrow),
+  simplified favicon glyph, reversed/white variant; concept-4 levers — spine 11px / lean 16° /
+  gap 3px. See [[logo-concept-4-shelf-record]].
+- "Listen on Apple Music" — filled button → blue **text link** (spec) pending John's preference.
+- **Meta description** still says "Personnel Network" → update when the name is locked
+  (Constellation vs Constellations; currently singular).
+- [[era-bands-vs-genre-labels-tension]] still unresolved.
 
----
+## Repo / ops
+- GitHub `github.com/JHaugaard/jazz-canon-site`, branch `main` (head `a911a2b`). Future: plain
+  `git push`; branch off `main` for features; commits/pushes on John's say-so.
+- **Secrets clean:** `.env.local` ignored; `.env.example` placeholders only; Apple Team ID
+  fully scrubbed from history + local clone. Real secret (`.p8`) never in repo.
 
-## Open items / decisions pending
+## Dev workflow + gotchas ([[vps8-dev-server-workflow]])
+`npm run dev -- --host` on vps8 → `http://vps8-core:5173`. Don't run `check`/`build` while the
+dev server runs (svelte-kit sync → reload loop). After `npm install`, `rm -rf node_modules/.vite`
+if the server hangs. Relaunch logo gallery: `python3 -m http.server 8080 --bind 0.0.0.0
+--directory docs` → `/logo-concepts/`.
 
-- **Visual review** of the timeline redesign on the Mac (sizing/opacity/lane overlap/
-  sliding-label feel) — not yet confirmed.
-- **Edge-epistemic semantics** — currently "best/most-certain credit on the album" wins
-  (obs>inf>unk). John to confirm vs. "most-cautious." One-line flip in `export.py`.
-- **Feature naming** — "Personnel Network" → too HR. **PENCILLED: "Constellations"**
-  (action verb "follow the thread"; runner-up "Roll Call"). Confirm with the design spec,
-  then rename in `PersonnelNetwork.svelte`.
-- **Logo** — 3 concepts preserved in `docs/logo-concepts/` (+ NOTES.md, gallery). Lead =
-  "Sound Lens." Refinement (palette reconcile, outlined type, reversed variant, favicon)
-  waits on the design spec.
-- **Not committed** — entire build + `data/*.json` are uncommitted (commits are John's).
-- **Phase 5 backlog** — a11y; genre-vs-year-range tension ([[era-bands-vs-genre-labels-tension]]);
-  timeline density ideas (`docs/timeline-density-ideas.md`).
-
----
-
-## → NEXT: design session
-
-John brings the **full site design spec** (colors, typefaces, everything except logo) drawn
-from **Blue Note / Prestige / Columbia** album-cover-art vibe. Work: reconcile `app.css`
-tokens + timeline/redesign styling + the logo to it, and lock "Constellations." Current
-light-theme tokens in `app.css` are **placeholder — will be superseded.** See memory
-[[site-design-direction]].
-
-## Dev / view workflow (headless vps8 + Mac over Tailscale)
-`npm run dev -- --host` on vps8 → Mac browser at `http://vps8-core:5173`. Gotchas:
-don't run `check`/`build` while dev runs (reload loop); after `npm install`, `rm -rf
-node_modules/.vite` if the server hangs. See [[vps8-dev-server-workflow]]. (Background dev
-server from this session may be stopped during tidy-up; relaunch as above.)
+## Memories
+[[site-design-direction]] · [[logo-concept-4-shelf-record]] · [[era-bands-vs-genre-labels-tension]] · [[vps8-dev-server-workflow]]

@@ -7,10 +7,19 @@
 	--ink: #1c1a17;
 	--muted: #6b6358;
 	--line: #e6e0d6;
-	--accent: #8a5a2b; /* muted brass */
+	--accent: #8a5a2b; /* muted brass (legacy — being superseded by the accents below) */
 
-	/* Type scale */
-	--font: 'Helvetica Neue', Helvetica, Arial, system-ui, sans-serif;
+	/* Accent system (design-spec §2) */
+	--bn-blue: #2b5f7a; /* Blue Note teal-blue — primary accent */
+	--bn-blue-light: #4a7c95; /* lighter variant — hover/secondary */
+	--impulse-amber: #c4862a; /* Impulse! warm brass — editorial accent */
+
+	/* Typography (design-spec §3) — Archivo Narrow (display, Reid Miles DNA),
+	   Inter (body), Lora italic (editorial voice). */
+	--font-display: 'Archivo Narrow', 'Helvetica Neue Condensed', sans-serif;
+	--font-body: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	--font-serif: 'Lora', Georgia, 'Times New Roman', serif;
+	--font: var(--font-body); /* legacy alias — components inherit body */
 	--fs-sm: 0.78rem;
 	--fs-base: 0.95rem;
 	--fs-lg: 1.15rem;
@@ -21,15 +30,17 @@
 	--sp-2: 8px;
 	--sp-3: 16px;
 	--sp-4: 24px;
+	--sp-5: 32px; /* airy: major section breaks */
 	--radius: 6px;
 
-	/* Era band tints — harmonized low-saturation family, all at equal weight so
-	   overlaps blend evenly. Bands fade at their edges (gradient), so these are the
-	   mid-band peak alpha. */
-	--era-cool: rgba(96, 142, 178, 0.24);
-	--era-hardbop: rgba(196, 126, 72, 0.24);
-	--era-modal: rgba(112, 158, 116, 0.24);
-	--era-postbop: rgba(150, 112, 168, 0.24);
+	/* Era band tints — recalibrated to the locked palette (design-spec §2):
+	   Cool → Blue Note blue family, Hard Bop → Impulse! amber, Modal → muted sage,
+	   Post-Bop → deep violet. Equal 0.18 alpha so overlaps blend evenly; bands also
+	   fade horizontally at their edges (gradient in EraBands.svelte). */
+	--era-cool: rgba(43, 95, 122, 0.18); /* Blue Note blue */
+	--era-hardbop: rgba(196, 134, 42, 0.18); /* Impulse! amber */
+	--era-modal: rgba(74, 124, 107, 0.18); /* muted sage */
+	--era-postbop: rgba(122, 82, 140, 0.18); /* deep violet */
 	--era-ink: #5a5249;
 }
 
@@ -43,17 +54,26 @@ body {
 	padding: 0;
 	background: var(--bg);
 	color: var(--ink);
-	font-family: var(--font);
+	font-family: var(--font-body);
 	font-size: var(--fs-base);
 	line-height: 1.45;
 }
 
+/* Display face for all headings (design-spec §3 type hierarchy). */
+h1,
+h2,
+h3 {
+	font-family: var(--font-display);
+}
+
 h1 {
 	font-size: var(--fs-xl);
-	font-weight: 600;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.01em;
 	margin: var(--sp-4) var(--sp-4) var(--sp-3);
 }
 
 a {
-	color: var(--accent);
+	color: var(--bn-blue);
 }

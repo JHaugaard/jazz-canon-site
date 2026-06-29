@@ -3,7 +3,6 @@ import {
 	buildLayout,
 	bandExtent,
 	eraLanes,
-	focusOpacity,
 	COLS_MAX,
 	EMPTY_YEAR_W,
 	AXIS_MIN,
@@ -65,12 +64,3 @@ describe('bandExtent / eraLanes', () => {
 	});
 });
 
-describe('focusOpacity', () => {
-	it('peaks at the center year and ramps down by distance', () => {
-		expect(focusOpacity(1960, 1960)).toBe(1);
-		expect(focusOpacity(1961, 1960)).toBe(0.85);
-		expect(focusOpacity(1962, 1960)).toBe(0.6);
-		expect(focusOpacity(1963, 1960)).toBe(0.35);
-		expect(focusOpacity(1968, 1960)).toBe(0.2);
-	});
-});

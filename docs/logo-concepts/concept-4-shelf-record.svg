@@ -1,0 +1,46 @@
+<svg viewBox="0 0 408 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="A Jazz Canon — Shelf &amp; Record mark">
+  <!-- MASHUP of concept 2 (canon shelf) + concept 3 (spine→record resolution).
+       Left→right: play-arrow + track threading a shelf of thin, uniform-width LP
+       spines (blue family); a gap with one amber record leaning in — nested so its
+       bottom-left and top-right corners just touch its neighbours, no overlap; the
+       run tightens through a stretched oval into a grooved record with an amber
+       spindle. Spines 12px, gap 4px, lean 18°. Palette from design-spec §2. -->
+  <defs>
+    <clipPath id="c4-rec"><circle cx="316" cy="110" r="74"/></clipPath>
+  </defs>
+
+  <!-- standing spines: thin, uniform width, blue family. 5 left of the gap, 4 right -->
+  <g>
+    <rect x="18"  y="24" width="12" height="172" rx="2.5" fill="#2b5f7a"/>
+    <rect x="34"  y="24" width="12" height="172" rx="2.5" fill="#4a7c95"/>
+    <rect x="50"  y="24" width="12" height="172" rx="2.5" fill="#21506a"/>
+    <rect x="66"  y="24" width="12" height="172" rx="2.5" fill="#2b5f7a"/>
+    <rect x="82"  y="24" width="12" height="172" rx="2.5" fill="#4a7c95"/>
+    <!-- gap (94→159): the leaning LP nests here -->
+    <rect x="159" y="24" width="12" height="172" rx="2.5" fill="#21506a"/>
+    <rect x="175" y="24" width="12" height="172" rx="2.5" fill="#2b5f7a"/>
+    <rect x="191" y="24" width="12" height="172" rx="2.5" fill="#4a7c95"/>
+    <rect x="207" y="24" width="12" height="172" rx="2.5" fill="#21506a"/>
+  </g>
+
+  <!-- right third, tight: oval butts the last spine, record sits flush to the oval -->
+  <ellipse cx="232" cy="110" rx="13" ry="82" fill="#4a7c95"/>
+  <circle cx="316" cy="110" r="74" fill="#2b5f7a"/>
+  <g clip-path="url(#c4-rec)" fill="none" stroke="#faf8f3" stroke-opacity="0.5" stroke-width="2.4">
+    <circle cx="316" cy="110" r="26"/>
+    <circle cx="316" cy="110" r="42"/>
+    <circle cx="316" cy="110" r="58"/>
+  </g>
+  <circle cx="316" cy="110" r="8" fill="#c4862a"/>
+
+  <!-- play system (lighter weight): track threads through the shelf to the morph,
+       triangle carved into the first spine. Drawn before the leaner so it passes
+       behind it — the track never cuts through the leaning record. -->
+  <rect x="14" y="107.5" width="205" height="5" rx="2.5" fill="#faf8f3"/>
+  <path d="M20 100 L28 110 L20 120 Z" fill="#faf8f3"/>
+
+  <!-- the leaning LP — single amber accent. Pivots on its bottom-left corner at the
+       base of spine 5 (94,196), leans 18° so its top-right corner just meets the
+       next standing spine at x=159. Drawn last → rests in front, track behind it. -->
+  <rect x="94" y="24" width="12" height="172" rx="2.5" fill="#c4862a" transform="rotate(18 94 196)"/>
+</svg>

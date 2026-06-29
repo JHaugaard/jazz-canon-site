@@ -8,8 +8,14 @@
 
 	// D3 owns everything inside this <svg>; Svelte only decides when the panel
 	// shows and provides the element. The two libraries meet only here.
-	const W = 960;
-	const H = 680;
+	const W = 1200;
+	const H = 820;
+
+	// Node palette (design-spec §5). Shared by the D3 dot fills and the header
+	// text so the color-coding stays a single source of truth.
+	const COLOR_CENTER = '#2b5f7a'; // --bn-blue — the centered "main artist"
+	const COLOR_ALBUM = '#c4862a'; // --impulse-amber — albums
+	const COLOR_MUSICIAN = '#4a7c95'; // --bn-blue-light — co-personnel
 
 	/** @type {SVGSVGElement | undefined} */
 	let svgEl = $state();
@@ -17,9 +23,9 @@
 	let centerLabel = $state('');
 
 	const fillFor = (/** @type {any} */ n) => {
-		if (n.type === 'album') return '#c98a3c'; // brass — albums
-		if (n.isCenter) return '#8a5a2b'; // accent — the centered musician
-		return '#5f86a8'; // muted blue — co-personnel
+		if (n.type === 'album') return COLOR_ALBUM;
+		if (n.isCenter) return COLOR_CENTER;
+		return COLOR_MUSICIAN;
 	};
 
 	// Epistemic edge encoding (spec §5.3): solid=obs, dashed=inf, dotted=unk.
@@ -85,9 +91,9 @@
 			.attr('paint-order', 'stroke')
 			.attr('stroke', 'rgba(250,248,243,0.85)')
 			.attr('stroke-width', 3)
-			// Only the center is labelled by default; others reveal on hover so the
-			// star stays legible (dense hubs would otherwise be a thicket of text).
-			.attr('opacity', (/** @type {any} */ d) => (d.isCenter ? 1 : 0));
+			// All labels are visible immediately. The paper-colored halo (paint-order
+			// stroke above) keeps them legible where nodes crowd together.
+			.attr('opacity', 1);
 
 		node
 			.append('title')
@@ -106,16 +112,11 @@
 			}
 		});
 
-		// Reveal a node's label on hover (and lift it above its neighbours).
-		node
-			.on('mouseenter', /** @this {SVGGElement} */ function () {
-				const g = select(this);
-				g.raise();
-				g.select('text').attr('opacity', 1);
-			})
-			.on('mouseleave', /** @this {SVGGElement} */ function (/** @type {any} */ _ev, /** @type {any} */ d) {
-				if (!d.isCenter) select(this).select('text').attr('opacity', 0);
-			});
+		// Labels stay visible; hover just lifts a node (and its label) above its
+		// neighbours so a crowded cluster can be read.
+		node.on('mouseenter', /** @this {SVGGElement} */ function () {
+			select(this).raise();
+		});
 
 		const sim = createForceSim(graph.nodes, graph.links, W, H);
 
@@ -162,21 +163,19 @@
 		<div class="net-panel">
 			<header class="net-head">
 				<div>
-					<span class="net-kicker">Personnel Network</span>
-					<h2>{centerLabel}</h2>
+					<h2 style="color: {COLOR_CENTER};">{centerLabel}</h2>
 					<p class="net-hint">
-						Click an <strong>album</strong> to open it · click a <strong>musician</strong> to follow
-						the thread · drag to rearrange · scroll to zoom
+						Click an <strong style="color: {COLOR_ALBUM};">album</strong> to open it · click a
+						<strong style="color: {COLOR_MUSICIAN};">musician</strong> to follow the thread · drag to
+						rearrange · scroll to zoom
 					</p>
-					<div class="net-legend" aria-label="Edge epistemic legend">
-						<span><span class="lk solid"></span> observed</span>
-						<span><span class="lk dashed"></span> inferred</span>
-						<span><span class="lk dotted"></span> uncertain</span>
-					</div>
 				</div>
 				<button class="net-close" onclick={clearMusician} aria-label="Close network">×</button>
 			</header>
-			<svg bind:this={svgEl} viewBox="0 0 {W} {H}" preserveAspectRatio="xMidYMid meet"></svg>
+			<div class="net-field">
+				<span class="field-label">Constellation</span>
+				<svg bind:this={svgEl} viewBox="0 0 {W} {H}" preserveAspectRatio="xMidYMid meet"></svg>
+			</div>
 		</div>
 	</div>
 {/if}
@@ -196,8 +195,8 @@
 		background: var(--surface);
 		border-radius: var(--radius);
 		box-shadow: 0 12px 40px rgba(0, 0, 0, 0.22);
-		width: min(1000px, 96vw);
-		height: min(760px, 92vh);
+		width: min(1320px, 97vw);
+		height: min(920px, 94vh);
 		display: flex;
 		flex-direction: column;
 		overflow: hidden;
@@ -209,36 +208,9 @@
 		padding: var(--sp-3);
 		border-bottom: 1px solid var(--line);
 	}
-	.net-kicker {
-		font-size: 0.62rem;
-		text-transform: uppercase;
-		letter-spacing: 0.06em;
-		color: var(--accent);
-		font-weight: 700;
-	}
 	.net-head h2 {
 		margin: 2px 0;
 		font-size: var(--fs-xl);
-	}
-	.net-legend {
-		display: flex;
-		gap: var(--sp-3);
-		margin-top: var(--sp-2);
-		font-size: var(--fs-sm);
-		color: var(--muted);
-	}
-	.net-legend .lk {
-		display: inline-block;
-		width: 20px;
-		border-top: 2px solid #8a7a66;
-		vertical-align: middle;
-		margin-right: 4px;
-	}
-	.net-legend .lk.dashed {
-		border-top-style: dashed;
-	}
-	.net-legend .lk.dotted {
-		border-top-style: dotted;
 	}
 	.net-hint {
 		margin: 2px 0 0;
@@ -252,6 +224,26 @@
 		line-height: 1;
 		cursor: pointer;
 		color: var(--muted);
+	}
+	.net-field {
+		position: relative;
+		flex: 1;
+		min-height: 0;
+		display: flex;
+	}
+	.field-label {
+		position: absolute;
+		top: var(--sp-2);
+		left: var(--sp-3);
+		z-index: 1;
+		pointer-events: none;
+		font-family: var(--font-display, inherit);
+		/* signature concept — given pride of place, ~2× */
+		font-size: 1.6rem;
+		font-weight: 700;
+		letter-spacing: 0.06em;
+		text-transform: uppercase;
+		color: var(--bn-blue);
 	}
 	svg {
 		flex: 1;

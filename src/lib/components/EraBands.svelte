@@ -9,6 +9,7 @@
 	const LANE_H = 46; // height of one lane
 	const STEP = LANE_H * 0.8; // vertical step → ~20% overlap between adjacent lanes
 	const PAD = 8;
+	const FADE = 48; // horizontal gradient fade at each band edge (spec §5: bands fade at edges)
 
 	/** measured label widths, for clamping the slide @type {number[]} */
 	let labelW = $state([]);
@@ -30,7 +31,7 @@
 	{#each lanes as lane, i (lane.name)}
 		<div
 			class="lane"
-			style="left: {lane.x}px; width: {lane.width}px; top: {i * STEP}px; height: {LANE_H}px; background: {lane.color};"
+			style="left: {lane.x}px; width: {lane.width}px; top: {i * STEP}px; height: {LANE_H}px; background: linear-gradient(90deg, transparent 0, {lane.color} {FADE}px, {lane.color} calc(100% - {FADE}px), transparent 100%);"
 		>
 			<span
 				class="lane-label"
@@ -56,8 +57,9 @@
 		position: absolute;
 		left: 8px;
 		top: 50%;
+		font-family: var(--font-display);
 		font-size: var(--fs-sm);
-		font-weight: 700;
+		font-weight: 600;
 		letter-spacing: 0.04em;
 		text-transform: uppercase;
 		color: var(--era-ink);

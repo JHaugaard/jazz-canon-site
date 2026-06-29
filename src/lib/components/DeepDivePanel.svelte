@@ -139,7 +139,7 @@
 	}
 	.style {
 		margin: 2px 0 var(--sp-3);
-		color: var(--accent);
+		color: var(--muted);
 		text-transform: uppercase;
 		font-size: 0.7rem;
 		letter-spacing: 0.04em;
@@ -148,15 +148,22 @@
 		margin: var(--sp-3) 0;
 		padding: var(--sp-2) var(--sp-3);
 		background: var(--bg);
-		border-left: 3px solid var(--accent);
+		border-left: 3px solid var(--impulse-amber);
 		border-radius: var(--radius);
 	}
 	.editorial-tag {
+		font-family: var(--font-display);
 		font-size: 0.62rem;
 		text-transform: uppercase;
 		letter-spacing: 0.05em;
-		color: var(--accent);
-		font-weight: 700;
+		color: var(--impulse-amber);
+		font-weight: 600;
+	}
+	/* editorial body — serif italic: interpretation, visibly not sourced fact */
+	.editorial p {
+		font-family: var(--font-serif);
+		font-style: italic;
+		margin: var(--sp-1) 0 0;
 	}
 	.recording {
 		margin: var(--sp-3) 0;
