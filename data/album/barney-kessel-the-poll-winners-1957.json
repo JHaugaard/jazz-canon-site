@@ -1,0 +1,330 @@
+{
+  "id": "barney-kessel-the-poll-winners-1957",
+  "title": "The Poll Winners",
+  "artist_name": "Barney Kessel",
+  "year": 1957,
+  "label": "Contemporary",
+  "catalog_number": "CR00386",
+  "recording_dates_text": "1957-03-18, 1957-03-19",
+  "description": null,
+  "style_primary": "cool-jazz",
+  "style_display": "Cool Jazz",
+  "cover_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0e/7f/49/0e7f491a-6558-239f-794c-bc734cb8b2b8/00025218615624.rgb.jpg/1000x1000bb.jpg",
+  "apple_album_id": "1443860013",
+  "studios": [
+    "Contemporary Records studio, Los Angeles"
+  ],
+  "personnel": [
+    {
+      "person_id": "751f51f9-4de0-465a-86e6-2444fbf87b15",
+      "canonical_name": "Barney Kessel",
+      "name_slug": "barney-kessel",
+      "instrument": "guitar",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "cbddfe90-22cd-4af4-af01-e3e57d8eff5e",
+      "canonical_name": "Ray Brown",
+      "name_slug": "ray-brown",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+      "canonical_name": "Shelly Manne",
+      "name_slug": "shelly-manne",
+      "instrument": "drums",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "fe29aefa-c50b-400e-a24d-f6f7a8b1995a",
+      "title": "Jordu",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "3:27",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "751f51f9-4de0-465a-86e6-2444fbf87b15",
+          "canonical_name": "Barney Kessel",
+          "name_slug": "barney-kessel",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cbddfe90-22cd-4af4-af01-e3e57d8eff5e",
+          "canonical_name": "Ray Brown",
+          "name_slug": "ray-brown",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "079b872e-07f0-4a3b-9f81-3cfaa40e1876",
+      "title": "Satin Doll",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "6:30",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "751f51f9-4de0-465a-86e6-2444fbf87b15",
+          "canonical_name": "Barney Kessel",
+          "name_slug": "barney-kessel",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cbddfe90-22cd-4af4-af01-e3e57d8eff5e",
+          "canonical_name": "Ray Brown",
+          "name_slug": "ray-brown",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "13a5066f-6dcd-42e6-9c84-d9307c9ea628",
+      "title": "It Could Happen to You",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "4:23",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "751f51f9-4de0-465a-86e6-2444fbf87b15",
+          "canonical_name": "Barney Kessel",
+          "name_slug": "barney-kessel",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cbddfe90-22cd-4af4-af01-e3e57d8eff5e",
+          "canonical_name": "Ray Brown",
+          "name_slug": "ray-brown",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "6ab13566-6b98-43e9-97c6-a7a05b05a7fc",
+      "title": "Mean to Me",
+      "track_number": 4,
+      "side": "A",
+      "duration_text": "6:28",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "751f51f9-4de0-465a-86e6-2444fbf87b15",
+          "canonical_name": "Barney Kessel",
+          "name_slug": "barney-kessel",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cbddfe90-22cd-4af4-af01-e3e57d8eff5e",
+          "canonical_name": "Ray Brown",
+          "name_slug": "ray-brown",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "70697530-ddbf-46e6-81f2-73358ebc49e5",
+      "title": "Don't Worry 'bout Me",
+      "track_number": 5,
+      "side": "A",
+      "duration_text": "4:34",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "751f51f9-4de0-465a-86e6-2444fbf87b15",
+          "canonical_name": "Barney Kessel",
+          "name_slug": "barney-kessel",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cbddfe90-22cd-4af4-af01-e3e57d8eff5e",
+          "canonical_name": "Ray Brown",
+          "name_slug": "ray-brown",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "238e0e7d-0b13-44a9-aff3-679fdd1a9d38",
+      "title": "On Green Dolphin Street",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "4:02",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "751f51f9-4de0-465a-86e6-2444fbf87b15",
+          "canonical_name": "Barney Kessel",
+          "name_slug": "barney-kessel",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cbddfe90-22cd-4af4-af01-e3e57d8eff5e",
+          "canonical_name": "Ray Brown",
+          "name_slug": "ray-brown",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "05c1718c-a28d-4ca9-82bd-0652a4ade121",
+      "title": "You Go to My Head",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": "4:22",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "751f51f9-4de0-465a-86e6-2444fbf87b15",
+          "canonical_name": "Barney Kessel",
+          "name_slug": "barney-kessel",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cbddfe90-22cd-4af4-af01-e3e57d8eff5e",
+          "canonical_name": "Ray Brown",
+          "name_slug": "ray-brown",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "ad3955df-cd6b-465f-bef3-5e864d3559e1",
+      "title": "Minor Mood",
+      "track_number": 8,
+      "side": "B",
+      "duration_text": "3:18",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "751f51f9-4de0-465a-86e6-2444fbf87b15",
+          "canonical_name": "Barney Kessel",
+          "name_slug": "barney-kessel",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cbddfe90-22cd-4af4-af01-e3e57d8eff5e",
+          "canonical_name": "Ray Brown",
+          "name_slug": "ray-brown",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "57a8f5de-1d1a-4d8b-af3f-a2aa6ef5f0bd",
+      "title": "Nagasaki",
+      "track_number": 9,
+      "side": "B",
+      "duration_text": "3:05",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "751f51f9-4de0-465a-86e6-2444fbf87b15",
+          "canonical_name": "Barney Kessel",
+          "name_slug": "barney-kessel",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cbddfe90-22cd-4af4-af01-e3e57d8eff5e",
+          "canonical_name": "Ray Brown",
+          "name_slug": "ray-brown",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

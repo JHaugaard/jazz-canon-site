@@ -1,0 +1,234 @@
+{
+  "id": "bill-evans-waltz-for-debby-1961",
+  "title": "Waltz for Debby",
+  "artist_name": "Bill Evans",
+  "year": 1961,
+  "label": "Riverside",
+  "catalog_number": "RLP-9399",
+  "recording_dates_text": "1961-06-25",
+  "description": null,
+  "style_primary": "modal-jazz",
+  "style_display": "Modal Jazz",
+  "cover_art_url": "http://coverartarchive.org/release/115fa22e-2e53-4454-966a-4bc2308f560f/10801321038-500.jpg",
+  "apple_album_id": "1440747830",
+  "studios": [
+    "Village Vanguard, New York City (live)"
+  ],
+  "personnel": [
+    {
+      "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+      "canonical_name": "Bill Evans",
+      "name_slug": "bill-evans",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "2fd4a434-0c6f-4946-8bb7-ee3285637919",
+      "canonical_name": "Paul Motian",
+      "name_slug": "paul-motian",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "3ac96e3b-18a9-40cd-bacb-e467f4c1e99d",
+      "canonical_name": "Scott LaFaro",
+      "name_slug": "scott-lafaro",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "e34ced21-0282-4149-b1c0-0e16235bb87e",
+      "title": "My Foolish Heart",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "4:58",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2fd4a434-0c6f-4946-8bb7-ee3285637919",
+          "canonical_name": "Paul Motian",
+          "name_slug": "paul-motian",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3ac96e3b-18a9-40cd-bacb-e467f4c1e99d",
+          "canonical_name": "Scott LaFaro",
+          "name_slug": "scott-lafaro",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "fb35c679-6c42-46fb-8512-bd09759a17d2",
+      "title": "Waltz for Debby",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "7:00",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2fd4a434-0c6f-4946-8bb7-ee3285637919",
+          "canonical_name": "Paul Motian",
+          "name_slug": "paul-motian",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3ac96e3b-18a9-40cd-bacb-e467f4c1e99d",
+          "canonical_name": "Scott LaFaro",
+          "name_slug": "scott-lafaro",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "9b5711d1-f5e8-4677-a946-9a685d79e703",
+      "title": "Detour Ahead",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "7:37",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2fd4a434-0c6f-4946-8bb7-ee3285637919",
+          "canonical_name": "Paul Motian",
+          "name_slug": "paul-motian",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3ac96e3b-18a9-40cd-bacb-e467f4c1e99d",
+          "canonical_name": "Scott LaFaro",
+          "name_slug": "scott-lafaro",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "819dc833-1a02-44cf-a965-707303ee4637",
+      "title": "My Romance",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "7:13",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2fd4a434-0c6f-4946-8bb7-ee3285637919",
+          "canonical_name": "Paul Motian",
+          "name_slug": "paul-motian",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3ac96e3b-18a9-40cd-bacb-e467f4c1e99d",
+          "canonical_name": "Scott LaFaro",
+          "name_slug": "scott-lafaro",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "277e58be-e4c6-4dbf-ba9b-1e6afcc870ab",
+      "title": "Some Other Time",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "5:11",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2fd4a434-0c6f-4946-8bb7-ee3285637919",
+          "canonical_name": "Paul Motian",
+          "name_slug": "paul-motian",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3ac96e3b-18a9-40cd-bacb-e467f4c1e99d",
+          "canonical_name": "Scott LaFaro",
+          "name_slug": "scott-lafaro",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "d4eafa5a-62a8-42c9-a3ac-9f450c764c3f",
+      "title": "Milestones",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "6:30",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2fd4a434-0c6f-4946-8bb7-ee3285637919",
+          "canonical_name": "Paul Motian",
+          "name_slug": "paul-motian",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3ac96e3b-18a9-40cd-bacb-e467f4c1e99d",
+          "canonical_name": "Scott LaFaro",
+          "name_slug": "scott-lafaro",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

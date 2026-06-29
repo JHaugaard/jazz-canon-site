@@ -1,0 +1,378 @@
+{
+  "id": "clifford-brown-clifford-brown-and-max-roach-1954",
+  "title": "Clifford Brown and Max Roach",
+  "artist_name": "Clifford Brown & Max Roach",
+  "year": 1954,
+  "label": "EmArcy",
+  "catalog_number": "534 946-2",
+  "recording_dates_text": "1954-08-02/1954-08-06, 1955-02-24/1955-02-25",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "http://coverartarchive.org/release/eb4142e0-eba7-49a5-8814-d0a74a341a49/3680971338-500.jpg",
+  "apple_album_id": "1868798541",
+  "studios": [
+    "Capitol Studios, Hollywood"
+  ],
+  "personnel": [
+    {
+      "person_id": "1317d6d0-c6d6-4a2c-ad62-ca092d5427df",
+      "canonical_name": "Clifford Brown",
+      "name_slug": "clifford-brown",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "8399213b-b509-4f29-992f-95654fe497ef",
+      "canonical_name": "George Morrow",
+      "name_slug": "george-morrow",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "18d51cc6-88dd-4d0c-af7f-c5c56459c10b",
+      "canonical_name": "Harold Land",
+      "name_slug": "harold-land",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "0c62dbce-fdbb-4b90-871d-910ab769d30e",
+      "canonical_name": "Max Roach",
+      "name_slug": "max-roach",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "98b65649-3fd7-4a0d-a606-6cde5cdef655",
+      "canonical_name": "Richie Powell",
+      "name_slug": "richie-powell",
+      "instrument": "piano",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "f439b3f2-2871-457f-a08c-a1167b16964a",
+      "title": "Delilah",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "8:03",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "1317d6d0-c6d6-4a2c-ad62-ca092d5427df",
+          "canonical_name": "Clifford Brown",
+          "name_slug": "clifford-brown",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8399213b-b509-4f29-992f-95654fe497ef",
+          "canonical_name": "George Morrow",
+          "name_slug": "george-morrow",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "18d51cc6-88dd-4d0c-af7f-c5c56459c10b",
+          "canonical_name": "Harold Land",
+          "name_slug": "harold-land",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0c62dbce-fdbb-4b90-871d-910ab769d30e",
+          "canonical_name": "Max Roach",
+          "name_slug": "max-roach",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "98b65649-3fd7-4a0d-a606-6cde5cdef655",
+          "canonical_name": "Richie Powell",
+          "name_slug": "richie-powell",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "3769b3c1-7ca5-4103-999a-295f92b18bbb",
+      "title": "Parisian Thoroughfare",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "7:16",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "1317d6d0-c6d6-4a2c-ad62-ca092d5427df",
+          "canonical_name": "Clifford Brown",
+          "name_slug": "clifford-brown",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8399213b-b509-4f29-992f-95654fe497ef",
+          "canonical_name": "George Morrow",
+          "name_slug": "george-morrow",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "18d51cc6-88dd-4d0c-af7f-c5c56459c10b",
+          "canonical_name": "Harold Land",
+          "name_slug": "harold-land",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0c62dbce-fdbb-4b90-871d-910ab769d30e",
+          "canonical_name": "Max Roach",
+          "name_slug": "max-roach",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "98b65649-3fd7-4a0d-a606-6cde5cdef655",
+          "canonical_name": "Richie Powell",
+          "name_slug": "richie-powell",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "742b8792-7e89-4b2a-a80c-791305bb8adb",
+      "title": "The Blues Walk",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "6:53",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "1317d6d0-c6d6-4a2c-ad62-ca092d5427df",
+          "canonical_name": "Clifford Brown",
+          "name_slug": "clifford-brown",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8399213b-b509-4f29-992f-95654fe497ef",
+          "canonical_name": "George Morrow",
+          "name_slug": "george-morrow",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "18d51cc6-88dd-4d0c-af7f-c5c56459c10b",
+          "canonical_name": "Harold Land",
+          "name_slug": "harold-land",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0c62dbce-fdbb-4b90-871d-910ab769d30e",
+          "canonical_name": "Max Roach",
+          "name_slug": "max-roach",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "98b65649-3fd7-4a0d-a606-6cde5cdef655",
+          "canonical_name": "Richie Powell",
+          "name_slug": "richie-powell",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "579f59cc-35e6-4019-94ad-7227d8d58dcf",
+      "title": "Daahoud",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "4:01",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "1317d6d0-c6d6-4a2c-ad62-ca092d5427df",
+          "canonical_name": "Clifford Brown",
+          "name_slug": "clifford-brown",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8399213b-b509-4f29-992f-95654fe497ef",
+          "canonical_name": "George Morrow",
+          "name_slug": "george-morrow",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "18d51cc6-88dd-4d0c-af7f-c5c56459c10b",
+          "canonical_name": "Harold Land",
+          "name_slug": "harold-land",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0c62dbce-fdbb-4b90-871d-910ab769d30e",
+          "canonical_name": "Max Roach",
+          "name_slug": "max-roach",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "98b65649-3fd7-4a0d-a606-6cde5cdef655",
+          "canonical_name": "Richie Powell",
+          "name_slug": "richie-powell",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "4c0f11e5-c5e4-40b6-99d9-d83d75c600d9",
+      "title": "Joy Spring",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "6:48",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "1317d6d0-c6d6-4a2c-ad62-ca092d5427df",
+          "canonical_name": "Clifford Brown",
+          "name_slug": "clifford-brown",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8399213b-b509-4f29-992f-95654fe497ef",
+          "canonical_name": "George Morrow",
+          "name_slug": "george-morrow",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "18d51cc6-88dd-4d0c-af7f-c5c56459c10b",
+          "canonical_name": "Harold Land",
+          "name_slug": "harold-land",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0c62dbce-fdbb-4b90-871d-910ab769d30e",
+          "canonical_name": "Max Roach",
+          "name_slug": "max-roach",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "98b65649-3fd7-4a0d-a606-6cde5cdef655",
+          "canonical_name": "Richie Powell",
+          "name_slug": "richie-powell",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "3dadeb8e-a798-451a-945a-07e948d462b5",
+      "title": "Jordu",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "4:00",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "1317d6d0-c6d6-4a2c-ad62-ca092d5427df",
+          "canonical_name": "Clifford Brown",
+          "name_slug": "clifford-brown",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8399213b-b509-4f29-992f-95654fe497ef",
+          "canonical_name": "George Morrow",
+          "name_slug": "george-morrow",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "18d51cc6-88dd-4d0c-af7f-c5c56459c10b",
+          "canonical_name": "Harold Land",
+          "name_slug": "harold-land",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0c62dbce-fdbb-4b90-871d-910ab769d30e",
+          "canonical_name": "Max Roach",
+          "name_slug": "max-roach",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "98b65649-3fd7-4a0d-a606-6cde5cdef655",
+          "canonical_name": "Richie Powell",
+          "name_slug": "richie-powell",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "be226fea-ec04-4ae7-a4b9-6f0ecdb3508d",
+      "title": "What Am I Here For?",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": "3:04",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "1317d6d0-c6d6-4a2c-ad62-ca092d5427df",
+          "canonical_name": "Clifford Brown",
+          "name_slug": "clifford-brown",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8399213b-b509-4f29-992f-95654fe497ef",
+          "canonical_name": "George Morrow",
+          "name_slug": "george-morrow",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "18d51cc6-88dd-4d0c-af7f-c5c56459c10b",
+          "canonical_name": "Harold Land",
+          "name_slug": "harold-land",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0c62dbce-fdbb-4b90-871d-910ab769d30e",
+          "canonical_name": "Max Roach",
+          "name_slug": "max-roach",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "98b65649-3fd7-4a0d-a606-6cde5cdef655",
+          "canonical_name": "Richie Powell",
+          "name_slug": "richie-powell",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

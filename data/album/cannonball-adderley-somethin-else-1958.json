@@ -1,0 +1,332 @@
+{
+  "id": "cannonball-adderley-somethin-else-1958",
+  "title": "Somethin' Else",
+  "artist_name": "Cannonball Adderley",
+  "year": 1958,
+  "label": "Blue Note",
+  "catalog_number": "BLP 1595",
+  "recording_dates_text": "1958-03-09",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "https://coverartarchive.org/release-group/495c22f5-90b3-3e87-8be1-2c55aef3ed82/front",
+  "apple_album_id": "721271258",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+      "canonical_name": "Art Blakey",
+      "name_slug": "art-blakey",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+      "canonical_name": "Cannonball Adderley",
+      "name_slug": "cannonball-adderley",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "6e1dbfc1-5e56-41ca-8027-f554fd54c73f",
+      "canonical_name": "Hank Jones",
+      "name_slug": "hank-jones",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+      "canonical_name": "Miles Davis",
+      "name_slug": "miles-davis",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "6595cff2-5123-4c20-84e6-0de2e898a60e",
+      "canonical_name": "Sam Jones",
+      "name_slug": "sam-jones",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "60949161-e9f5-4371-b19e-7b4243ac32e1",
+      "title": "Autumn Leaves",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "10:55",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6e1dbfc1-5e56-41ca-8027-f554fd54c73f",
+          "canonical_name": "Hank Jones",
+          "name_slug": "hank-jones",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6595cff2-5123-4c20-84e6-0de2e898a60e",
+          "canonical_name": "Sam Jones",
+          "name_slug": "sam-jones",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "eacf8267-f53c-4392-a6f3-c0dcd0dba2a5",
+      "title": "Love for Sale",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "7:01",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6e1dbfc1-5e56-41ca-8027-f554fd54c73f",
+          "canonical_name": "Hank Jones",
+          "name_slug": "hank-jones",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6595cff2-5123-4c20-84e6-0de2e898a60e",
+          "canonical_name": "Sam Jones",
+          "name_slug": "sam-jones",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "87218b53-e425-4ae8-bfe0-9442d1e49bec",
+      "title": "Somethin' Else",
+      "track_number": 3,
+      "side": "B",
+      "duration_text": "8:15",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6e1dbfc1-5e56-41ca-8027-f554fd54c73f",
+          "canonical_name": "Hank Jones",
+          "name_slug": "hank-jones",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6595cff2-5123-4c20-84e6-0de2e898a60e",
+          "canonical_name": "Sam Jones",
+          "name_slug": "sam-jones",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "8e9207d4-f57a-45f5-b6ca-474bf463dfcd",
+      "title": "One for Daddy-O",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "8:26",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6e1dbfc1-5e56-41ca-8027-f554fd54c73f",
+          "canonical_name": "Hank Jones",
+          "name_slug": "hank-jones",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6595cff2-5123-4c20-84e6-0de2e898a60e",
+          "canonical_name": "Sam Jones",
+          "name_slug": "sam-jones",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "208c399d-2bb1-4b84-ac25-7adc4d2a0278",
+      "title": "Dancing in the Dark",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "4:07",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6e1dbfc1-5e56-41ca-8027-f554fd54c73f",
+          "canonical_name": "Hank Jones",
+          "name_slug": "hank-jones",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6595cff2-5123-4c20-84e6-0de2e898a60e",
+          "canonical_name": "Sam Jones",
+          "name_slug": "sam-jones",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "d7f10b68-85d6-4f90-8e42-bf64646fa040",
+      "title": "Bangoon",
+      "track_number": 6,
+      "side": null,
+      "duration_text": "5:05",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6e1dbfc1-5e56-41ca-8027-f554fd54c73f",
+          "canonical_name": "Hank Jones",
+          "name_slug": "hank-jones",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6595cff2-5123-4c20-84e6-0de2e898a60e",
+          "canonical_name": "Sam Jones",
+          "name_slug": "sam-jones",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

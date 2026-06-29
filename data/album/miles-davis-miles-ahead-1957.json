@@ -1,0 +1,1699 @@
+{
+  "id": "miles-davis-miles-ahead-1957",
+  "title": "Miles Ahead",
+  "artist_name": "Miles Davis",
+  "year": 1957,
+  "label": "Columbia",
+  "catalog_number": "CL 1041",
+  "recording_dates_text": "1957-05-06, 1957-05-10, 1957-05-23, 1957-05-27, 1957-08-22",
+  "description": null,
+  "style_primary": "cool-jazz",
+  "style_display": "Cool Jazz",
+  "cover_art_url": "https://coverartarchive.org/release-group/cc0c7530-a135-3386-a682-0d33d14c876e/front",
+  "apple_album_id": "200300007",
+  "studios": [
+    "Columbia 30th Street Studio, New York City"
+  ],
+  "personnel": [
+    {
+      "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+      "canonical_name": "Art Taylor",
+      "name_slug": "art-taylor",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "c81b9529-8610-4864-b5c8-e113a09233ba",
+      "canonical_name": "Bernie Glow",
+      "name_slug": "bernie-glow",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+      "canonical_name": "Bill Barber",
+      "name_slug": "bill-barber",
+      "instrument": "tuba",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "56045864-645d-4de6-9487-7b568993ba8a",
+      "canonical_name": "Danny Bank",
+      "name_slug": "danny-bank",
+      "instrument": "bass clarinet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "6a9ba74a-52d1-4c05-ae58-ef683795dc5b",
+      "canonical_name": "Eddie Caine",
+      "name_slug": "eddie-caine",
+      "instrument": "flute",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "da2c8212-a645-4fd9-a5e3-9ea4a3318d7b",
+      "canonical_name": "Ernie Royal",
+      "name_slug": "ernie-royal",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "e188f790-4a42-4f61-9970-e69b017957f8",
+      "canonical_name": "Frank Rehak",
+      "name_slug": "frank-rehak",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "2a95e23c-43d7-44a0-907c-3d4a5ebe270b",
+      "canonical_name": "Jimmy Buffington",
+      "name_slug": "jimmy-buffington",
+      "instrument": "French horn",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "984bc449-da1b-49b6-9aa5-a8e5b8b31f53",
+      "canonical_name": "Jimmy Cleveland",
+      "name_slug": "jimmy-cleveland",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "2e387bfd-16d4-44ba-809e-11bc71f3dfdb",
+      "canonical_name": "Joe Bennett",
+      "name_slug": "joe-bennett",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "29f1bb4a-7869-42b1-868a-0ec3335c2f9e",
+      "canonical_name": "John Carisi",
+      "name_slug": "john-carisi",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+      "canonical_name": "Lee Konitz",
+      "name_slug": "lee-konitz",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "becdfbba-2a62-45b1-b54f-f478fd5c8888",
+      "canonical_name": "Louis Mucci",
+      "name_slug": "louis-mucci",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+      "canonical_name": "Miles Davis",
+      "name_slug": "miles-davis",
+      "instrument": "flugelhorn",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+      "canonical_name": "Paul Chambers",
+      "name_slug": "paul-chambers",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "72b1a8c3-a902-4422-92f2-ba7470e0250e",
+      "canonical_name": "Romeo Penque",
+      "name_slug": "romeo-penque",
+      "instrument": "flute",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "af03786b-adb4-4126-8166-322b5169d6ab",
+      "canonical_name": "Sid Cooper",
+      "name_slug": "sid-cooper",
+      "instrument": "flute",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "9eb7325c-ebae-4e14-84ce-4fa32382447f",
+      "canonical_name": "Taft Jordan",
+      "name_slug": "taft-jordan",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "bc1ce84e-9e18-426d-bf4c-ec51252cdab8",
+      "canonical_name": "Tom Mitchell",
+      "name_slug": "tom-mitchell",
+      "instrument": "bass trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "54f8c339-0af6-4bbd-a9f0-daf5b7d8239d",
+      "canonical_name": "Tony Miranda",
+      "name_slug": "tony-miranda",
+      "instrument": "French horn",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "124cd9a6-18b2-4773-9b62-6124047b747e",
+      "canonical_name": "Willie Ruff",
+      "name_slug": "willie-ruff",
+      "instrument": "French horn",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "5142f243-780f-41a6-a50a-a9f75160ff60",
+      "canonical_name": "Wynton Kelly",
+      "name_slug": "wynton-kelly",
+      "instrument": "piano",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "48381122-fd91-4e85-884a-9a91da541b88",
+      "title": "Springsville",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "3:27",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c81b9529-8610-4864-b5c8-e113a09233ba",
+          "canonical_name": "Bernie Glow",
+          "name_slug": "bernie-glow",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "56045864-645d-4de6-9487-7b568993ba8a",
+          "canonical_name": "Danny Bank",
+          "name_slug": "danny-bank",
+          "instrument": "bass clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6a9ba74a-52d1-4c05-ae58-ef683795dc5b",
+          "canonical_name": "Eddie Caine",
+          "name_slug": "eddie-caine",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "da2c8212-a645-4fd9-a5e3-9ea4a3318d7b",
+          "canonical_name": "Ernie Royal",
+          "name_slug": "ernie-royal",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e188f790-4a42-4f61-9970-e69b017957f8",
+          "canonical_name": "Frank Rehak",
+          "name_slug": "frank-rehak",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2a95e23c-43d7-44a0-907c-3d4a5ebe270b",
+          "canonical_name": "Jimmy Buffington",
+          "name_slug": "jimmy-buffington",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "984bc449-da1b-49b6-9aa5-a8e5b8b31f53",
+          "canonical_name": "Jimmy Cleveland",
+          "name_slug": "jimmy-cleveland",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2e387bfd-16d4-44ba-809e-11bc71f3dfdb",
+          "canonical_name": "Joe Bennett",
+          "name_slug": "joe-bennett",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29f1bb4a-7869-42b1-868a-0ec3335c2f9e",
+          "canonical_name": "John Carisi",
+          "name_slug": "john-carisi",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "becdfbba-2a62-45b1-b54f-f478fd5c8888",
+          "canonical_name": "Louis Mucci",
+          "name_slug": "louis-mucci",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "flugelhorn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "72b1a8c3-a902-4422-92f2-ba7470e0250e",
+          "canonical_name": "Romeo Penque",
+          "name_slug": "romeo-penque",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "af03786b-adb4-4126-8166-322b5169d6ab",
+          "canonical_name": "Sid Cooper",
+          "name_slug": "sid-cooper",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9eb7325c-ebae-4e14-84ce-4fa32382447f",
+          "canonical_name": "Taft Jordan",
+          "name_slug": "taft-jordan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "54f8c339-0af6-4bbd-a9f0-daf5b7d8239d",
+          "canonical_name": "Tony Miranda",
+          "name_slug": "tony-miranda",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "124cd9a6-18b2-4773-9b62-6124047b747e",
+          "canonical_name": "Willie Ruff",
+          "name_slug": "willie-ruff",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "3327264c-e247-4960-973b-fdfdbe916867",
+      "title": "The Maids of Cadiz",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "3:53",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c81b9529-8610-4864-b5c8-e113a09233ba",
+          "canonical_name": "Bernie Glow",
+          "name_slug": "bernie-glow",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "56045864-645d-4de6-9487-7b568993ba8a",
+          "canonical_name": "Danny Bank",
+          "name_slug": "danny-bank",
+          "instrument": "bass clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6a9ba74a-52d1-4c05-ae58-ef683795dc5b",
+          "canonical_name": "Eddie Caine",
+          "name_slug": "eddie-caine",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "da2c8212-a645-4fd9-a5e3-9ea4a3318d7b",
+          "canonical_name": "Ernie Royal",
+          "name_slug": "ernie-royal",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e188f790-4a42-4f61-9970-e69b017957f8",
+          "canonical_name": "Frank Rehak",
+          "name_slug": "frank-rehak",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2a95e23c-43d7-44a0-907c-3d4a5ebe270b",
+          "canonical_name": "Jimmy Buffington",
+          "name_slug": "jimmy-buffington",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "984bc449-da1b-49b6-9aa5-a8e5b8b31f53",
+          "canonical_name": "Jimmy Cleveland",
+          "name_slug": "jimmy-cleveland",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2e387bfd-16d4-44ba-809e-11bc71f3dfdb",
+          "canonical_name": "Joe Bennett",
+          "name_slug": "joe-bennett",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29f1bb4a-7869-42b1-868a-0ec3335c2f9e",
+          "canonical_name": "John Carisi",
+          "name_slug": "john-carisi",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "becdfbba-2a62-45b1-b54f-f478fd5c8888",
+          "canonical_name": "Louis Mucci",
+          "name_slug": "louis-mucci",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "flugelhorn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "72b1a8c3-a902-4422-92f2-ba7470e0250e",
+          "canonical_name": "Romeo Penque",
+          "name_slug": "romeo-penque",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "af03786b-adb4-4126-8166-322b5169d6ab",
+          "canonical_name": "Sid Cooper",
+          "name_slug": "sid-cooper",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9eb7325c-ebae-4e14-84ce-4fa32382447f",
+          "canonical_name": "Taft Jordan",
+          "name_slug": "taft-jordan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "bc1ce84e-9e18-426d-bf4c-ec51252cdab8",
+          "canonical_name": "Tom Mitchell",
+          "name_slug": "tom-mitchell",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "54f8c339-0af6-4bbd-a9f0-daf5b7d8239d",
+          "canonical_name": "Tony Miranda",
+          "name_slug": "tony-miranda",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "124cd9a6-18b2-4773-9b62-6124047b747e",
+          "canonical_name": "Willie Ruff",
+          "name_slug": "willie-ruff",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "c04e3471-1573-4045-a02e-c43787ea7ea5",
+      "title": "The Duke",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "3:35",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c81b9529-8610-4864-b5c8-e113a09233ba",
+          "canonical_name": "Bernie Glow",
+          "name_slug": "bernie-glow",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "56045864-645d-4de6-9487-7b568993ba8a",
+          "canonical_name": "Danny Bank",
+          "name_slug": "danny-bank",
+          "instrument": "bass clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6a9ba74a-52d1-4c05-ae58-ef683795dc5b",
+          "canonical_name": "Eddie Caine",
+          "name_slug": "eddie-caine",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "da2c8212-a645-4fd9-a5e3-9ea4a3318d7b",
+          "canonical_name": "Ernie Royal",
+          "name_slug": "ernie-royal",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e188f790-4a42-4f61-9970-e69b017957f8",
+          "canonical_name": "Frank Rehak",
+          "name_slug": "frank-rehak",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2a95e23c-43d7-44a0-907c-3d4a5ebe270b",
+          "canonical_name": "Jimmy Buffington",
+          "name_slug": "jimmy-buffington",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "984bc449-da1b-49b6-9aa5-a8e5b8b31f53",
+          "canonical_name": "Jimmy Cleveland",
+          "name_slug": "jimmy-cleveland",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2e387bfd-16d4-44ba-809e-11bc71f3dfdb",
+          "canonical_name": "Joe Bennett",
+          "name_slug": "joe-bennett",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29f1bb4a-7869-42b1-868a-0ec3335c2f9e",
+          "canonical_name": "John Carisi",
+          "name_slug": "john-carisi",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "becdfbba-2a62-45b1-b54f-f478fd5c8888",
+          "canonical_name": "Louis Mucci",
+          "name_slug": "louis-mucci",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "flugelhorn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "72b1a8c3-a902-4422-92f2-ba7470e0250e",
+          "canonical_name": "Romeo Penque",
+          "name_slug": "romeo-penque",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "af03786b-adb4-4126-8166-322b5169d6ab",
+          "canonical_name": "Sid Cooper",
+          "name_slug": "sid-cooper",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9eb7325c-ebae-4e14-84ce-4fa32382447f",
+          "canonical_name": "Taft Jordan",
+          "name_slug": "taft-jordan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "bc1ce84e-9e18-426d-bf4c-ec51252cdab8",
+          "canonical_name": "Tom Mitchell",
+          "name_slug": "tom-mitchell",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "54f8c339-0af6-4bbd-a9f0-daf5b7d8239d",
+          "canonical_name": "Tony Miranda",
+          "name_slug": "tony-miranda",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "124cd9a6-18b2-4773-9b62-6124047b747e",
+          "canonical_name": "Willie Ruff",
+          "name_slug": "willie-ruff",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "aa6a0bd9-1ed1-41f4-a132-c026ef49dbff",
+      "title": "My Ship",
+      "track_number": 4,
+      "side": "A",
+      "duration_text": "4:28",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c81b9529-8610-4864-b5c8-e113a09233ba",
+          "canonical_name": "Bernie Glow",
+          "name_slug": "bernie-glow",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "56045864-645d-4de6-9487-7b568993ba8a",
+          "canonical_name": "Danny Bank",
+          "name_slug": "danny-bank",
+          "instrument": "bass clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6a9ba74a-52d1-4c05-ae58-ef683795dc5b",
+          "canonical_name": "Eddie Caine",
+          "name_slug": "eddie-caine",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "da2c8212-a645-4fd9-a5e3-9ea4a3318d7b",
+          "canonical_name": "Ernie Royal",
+          "name_slug": "ernie-royal",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e188f790-4a42-4f61-9970-e69b017957f8",
+          "canonical_name": "Frank Rehak",
+          "name_slug": "frank-rehak",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2a95e23c-43d7-44a0-907c-3d4a5ebe270b",
+          "canonical_name": "Jimmy Buffington",
+          "name_slug": "jimmy-buffington",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "984bc449-da1b-49b6-9aa5-a8e5b8b31f53",
+          "canonical_name": "Jimmy Cleveland",
+          "name_slug": "jimmy-cleveland",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2e387bfd-16d4-44ba-809e-11bc71f3dfdb",
+          "canonical_name": "Joe Bennett",
+          "name_slug": "joe-bennett",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29f1bb4a-7869-42b1-868a-0ec3335c2f9e",
+          "canonical_name": "John Carisi",
+          "name_slug": "john-carisi",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "becdfbba-2a62-45b1-b54f-f478fd5c8888",
+          "canonical_name": "Louis Mucci",
+          "name_slug": "louis-mucci",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "flugelhorn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "72b1a8c3-a902-4422-92f2-ba7470e0250e",
+          "canonical_name": "Romeo Penque",
+          "name_slug": "romeo-penque",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "af03786b-adb4-4126-8166-322b5169d6ab",
+          "canonical_name": "Sid Cooper",
+          "name_slug": "sid-cooper",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9eb7325c-ebae-4e14-84ce-4fa32382447f",
+          "canonical_name": "Taft Jordan",
+          "name_slug": "taft-jordan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "54f8c339-0af6-4bbd-a9f0-daf5b7d8239d",
+          "canonical_name": "Tony Miranda",
+          "name_slug": "tony-miranda",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "124cd9a6-18b2-4773-9b62-6124047b747e",
+          "canonical_name": "Willie Ruff",
+          "name_slug": "willie-ruff",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "646bf373-ca0c-479b-94c0-b8b8ff31abb1",
+      "title": "Miles Ahead",
+      "track_number": 5,
+      "side": "A",
+      "duration_text": "3:29",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c81b9529-8610-4864-b5c8-e113a09233ba",
+          "canonical_name": "Bernie Glow",
+          "name_slug": "bernie-glow",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "56045864-645d-4de6-9487-7b568993ba8a",
+          "canonical_name": "Danny Bank",
+          "name_slug": "danny-bank",
+          "instrument": "bass clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6a9ba74a-52d1-4c05-ae58-ef683795dc5b",
+          "canonical_name": "Eddie Caine",
+          "name_slug": "eddie-caine",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "da2c8212-a645-4fd9-a5e3-9ea4a3318d7b",
+          "canonical_name": "Ernie Royal",
+          "name_slug": "ernie-royal",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e188f790-4a42-4f61-9970-e69b017957f8",
+          "canonical_name": "Frank Rehak",
+          "name_slug": "frank-rehak",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2a95e23c-43d7-44a0-907c-3d4a5ebe270b",
+          "canonical_name": "Jimmy Buffington",
+          "name_slug": "jimmy-buffington",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "984bc449-da1b-49b6-9aa5-a8e5b8b31f53",
+          "canonical_name": "Jimmy Cleveland",
+          "name_slug": "jimmy-cleveland",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2e387bfd-16d4-44ba-809e-11bc71f3dfdb",
+          "canonical_name": "Joe Bennett",
+          "name_slug": "joe-bennett",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29f1bb4a-7869-42b1-868a-0ec3335c2f9e",
+          "canonical_name": "John Carisi",
+          "name_slug": "john-carisi",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "becdfbba-2a62-45b1-b54f-f478fd5c8888",
+          "canonical_name": "Louis Mucci",
+          "name_slug": "louis-mucci",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "flugelhorn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "72b1a8c3-a902-4422-92f2-ba7470e0250e",
+          "canonical_name": "Romeo Penque",
+          "name_slug": "romeo-penque",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "af03786b-adb4-4126-8166-322b5169d6ab",
+          "canonical_name": "Sid Cooper",
+          "name_slug": "sid-cooper",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9eb7325c-ebae-4e14-84ce-4fa32382447f",
+          "canonical_name": "Taft Jordan",
+          "name_slug": "taft-jordan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "54f8c339-0af6-4bbd-a9f0-daf5b7d8239d",
+          "canonical_name": "Tony Miranda",
+          "name_slug": "tony-miranda",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "124cd9a6-18b2-4773-9b62-6124047b747e",
+          "canonical_name": "Willie Ruff",
+          "name_slug": "willie-ruff",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "df0570be-863c-410b-8b7c-0c086bb47fcc",
+      "title": "Blues for Pablo",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "5:18",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c81b9529-8610-4864-b5c8-e113a09233ba",
+          "canonical_name": "Bernie Glow",
+          "name_slug": "bernie-glow",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "56045864-645d-4de6-9487-7b568993ba8a",
+          "canonical_name": "Danny Bank",
+          "name_slug": "danny-bank",
+          "instrument": "bass clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6a9ba74a-52d1-4c05-ae58-ef683795dc5b",
+          "canonical_name": "Eddie Caine",
+          "name_slug": "eddie-caine",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "da2c8212-a645-4fd9-a5e3-9ea4a3318d7b",
+          "canonical_name": "Ernie Royal",
+          "name_slug": "ernie-royal",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e188f790-4a42-4f61-9970-e69b017957f8",
+          "canonical_name": "Frank Rehak",
+          "name_slug": "frank-rehak",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2a95e23c-43d7-44a0-907c-3d4a5ebe270b",
+          "canonical_name": "Jimmy Buffington",
+          "name_slug": "jimmy-buffington",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "984bc449-da1b-49b6-9aa5-a8e5b8b31f53",
+          "canonical_name": "Jimmy Cleveland",
+          "name_slug": "jimmy-cleveland",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2e387bfd-16d4-44ba-809e-11bc71f3dfdb",
+          "canonical_name": "Joe Bennett",
+          "name_slug": "joe-bennett",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29f1bb4a-7869-42b1-868a-0ec3335c2f9e",
+          "canonical_name": "John Carisi",
+          "name_slug": "john-carisi",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "becdfbba-2a62-45b1-b54f-f478fd5c8888",
+          "canonical_name": "Louis Mucci",
+          "name_slug": "louis-mucci",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "flugelhorn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "72b1a8c3-a902-4422-92f2-ba7470e0250e",
+          "canonical_name": "Romeo Penque",
+          "name_slug": "romeo-penque",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "af03786b-adb4-4126-8166-322b5169d6ab",
+          "canonical_name": "Sid Cooper",
+          "name_slug": "sid-cooper",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9eb7325c-ebae-4e14-84ce-4fa32382447f",
+          "canonical_name": "Taft Jordan",
+          "name_slug": "taft-jordan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "54f8c339-0af6-4bbd-a9f0-daf5b7d8239d",
+          "canonical_name": "Tony Miranda",
+          "name_slug": "tony-miranda",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "124cd9a6-18b2-4773-9b62-6124047b747e",
+          "canonical_name": "Willie Ruff",
+          "name_slug": "willie-ruff",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "cefdeb10-541d-4ce4-b8bb-c9f40af92f73",
+      "title": "New Rhumba",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": "4:37",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c81b9529-8610-4864-b5c8-e113a09233ba",
+          "canonical_name": "Bernie Glow",
+          "name_slug": "bernie-glow",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "56045864-645d-4de6-9487-7b568993ba8a",
+          "canonical_name": "Danny Bank",
+          "name_slug": "danny-bank",
+          "instrument": "bass clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6a9ba74a-52d1-4c05-ae58-ef683795dc5b",
+          "canonical_name": "Eddie Caine",
+          "name_slug": "eddie-caine",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "da2c8212-a645-4fd9-a5e3-9ea4a3318d7b",
+          "canonical_name": "Ernie Royal",
+          "name_slug": "ernie-royal",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e188f790-4a42-4f61-9970-e69b017957f8",
+          "canonical_name": "Frank Rehak",
+          "name_slug": "frank-rehak",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2a95e23c-43d7-44a0-907c-3d4a5ebe270b",
+          "canonical_name": "Jimmy Buffington",
+          "name_slug": "jimmy-buffington",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "984bc449-da1b-49b6-9aa5-a8e5b8b31f53",
+          "canonical_name": "Jimmy Cleveland",
+          "name_slug": "jimmy-cleveland",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2e387bfd-16d4-44ba-809e-11bc71f3dfdb",
+          "canonical_name": "Joe Bennett",
+          "name_slug": "joe-bennett",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29f1bb4a-7869-42b1-868a-0ec3335c2f9e",
+          "canonical_name": "John Carisi",
+          "name_slug": "john-carisi",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "becdfbba-2a62-45b1-b54f-f478fd5c8888",
+          "canonical_name": "Louis Mucci",
+          "name_slug": "louis-mucci",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "flugelhorn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "72b1a8c3-a902-4422-92f2-ba7470e0250e",
+          "canonical_name": "Romeo Penque",
+          "name_slug": "romeo-penque",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "af03786b-adb4-4126-8166-322b5169d6ab",
+          "canonical_name": "Sid Cooper",
+          "name_slug": "sid-cooper",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9eb7325c-ebae-4e14-84ce-4fa32382447f",
+          "canonical_name": "Taft Jordan",
+          "name_slug": "taft-jordan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "54f8c339-0af6-4bbd-a9f0-daf5b7d8239d",
+          "canonical_name": "Tony Miranda",
+          "name_slug": "tony-miranda",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "124cd9a6-18b2-4773-9b62-6124047b747e",
+          "canonical_name": "Willie Ruff",
+          "name_slug": "willie-ruff",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "ed1e87be-6546-4369-a0d2-fc8d00b666bd",
+      "title": "The Meaning of the Blues",
+      "track_number": 8,
+      "side": "B",
+      "duration_text": "2:48",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c81b9529-8610-4864-b5c8-e113a09233ba",
+          "canonical_name": "Bernie Glow",
+          "name_slug": "bernie-glow",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "56045864-645d-4de6-9487-7b568993ba8a",
+          "canonical_name": "Danny Bank",
+          "name_slug": "danny-bank",
+          "instrument": "bass clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6a9ba74a-52d1-4c05-ae58-ef683795dc5b",
+          "canonical_name": "Eddie Caine",
+          "name_slug": "eddie-caine",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "da2c8212-a645-4fd9-a5e3-9ea4a3318d7b",
+          "canonical_name": "Ernie Royal",
+          "name_slug": "ernie-royal",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e188f790-4a42-4f61-9970-e69b017957f8",
+          "canonical_name": "Frank Rehak",
+          "name_slug": "frank-rehak",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2a95e23c-43d7-44a0-907c-3d4a5ebe270b",
+          "canonical_name": "Jimmy Buffington",
+          "name_slug": "jimmy-buffington",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "984bc449-da1b-49b6-9aa5-a8e5b8b31f53",
+          "canonical_name": "Jimmy Cleveland",
+          "name_slug": "jimmy-cleveland",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2e387bfd-16d4-44ba-809e-11bc71f3dfdb",
+          "canonical_name": "Joe Bennett",
+          "name_slug": "joe-bennett",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29f1bb4a-7869-42b1-868a-0ec3335c2f9e",
+          "canonical_name": "John Carisi",
+          "name_slug": "john-carisi",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "becdfbba-2a62-45b1-b54f-f478fd5c8888",
+          "canonical_name": "Louis Mucci",
+          "name_slug": "louis-mucci",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "flugelhorn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "72b1a8c3-a902-4422-92f2-ba7470e0250e",
+          "canonical_name": "Romeo Penque",
+          "name_slug": "romeo-penque",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "af03786b-adb4-4126-8166-322b5169d6ab",
+          "canonical_name": "Sid Cooper",
+          "name_slug": "sid-cooper",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9eb7325c-ebae-4e14-84ce-4fa32382447f",
+          "canonical_name": "Taft Jordan",
+          "name_slug": "taft-jordan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "54f8c339-0af6-4bbd-a9f0-daf5b7d8239d",
+          "canonical_name": "Tony Miranda",
+          "name_slug": "tony-miranda",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "124cd9a6-18b2-4773-9b62-6124047b747e",
+          "canonical_name": "Willie Ruff",
+          "name_slug": "willie-ruff",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "2fa35409-981c-4138-b33c-d4d46b9253d0",
+      "title": "Lament",
+      "track_number": 9,
+      "side": "B",
+      "duration_text": "2:14",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c81b9529-8610-4864-b5c8-e113a09233ba",
+          "canonical_name": "Bernie Glow",
+          "name_slug": "bernie-glow",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "56045864-645d-4de6-9487-7b568993ba8a",
+          "canonical_name": "Danny Bank",
+          "name_slug": "danny-bank",
+          "instrument": "bass clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6a9ba74a-52d1-4c05-ae58-ef683795dc5b",
+          "canonical_name": "Eddie Caine",
+          "name_slug": "eddie-caine",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "da2c8212-a645-4fd9-a5e3-9ea4a3318d7b",
+          "canonical_name": "Ernie Royal",
+          "name_slug": "ernie-royal",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e188f790-4a42-4f61-9970-e69b017957f8",
+          "canonical_name": "Frank Rehak",
+          "name_slug": "frank-rehak",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2a95e23c-43d7-44a0-907c-3d4a5ebe270b",
+          "canonical_name": "Jimmy Buffington",
+          "name_slug": "jimmy-buffington",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "984bc449-da1b-49b6-9aa5-a8e5b8b31f53",
+          "canonical_name": "Jimmy Cleveland",
+          "name_slug": "jimmy-cleveland",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2e387bfd-16d4-44ba-809e-11bc71f3dfdb",
+          "canonical_name": "Joe Bennett",
+          "name_slug": "joe-bennett",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29f1bb4a-7869-42b1-868a-0ec3335c2f9e",
+          "canonical_name": "John Carisi",
+          "name_slug": "john-carisi",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "becdfbba-2a62-45b1-b54f-f478fd5c8888",
+          "canonical_name": "Louis Mucci",
+          "name_slug": "louis-mucci",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "flugelhorn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "72b1a8c3-a902-4422-92f2-ba7470e0250e",
+          "canonical_name": "Romeo Penque",
+          "name_slug": "romeo-penque",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "af03786b-adb4-4126-8166-322b5169d6ab",
+          "canonical_name": "Sid Cooper",
+          "name_slug": "sid-cooper",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9eb7325c-ebae-4e14-84ce-4fa32382447f",
+          "canonical_name": "Taft Jordan",
+          "name_slug": "taft-jordan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "54f8c339-0af6-4bbd-a9f0-daf5b7d8239d",
+          "canonical_name": "Tony Miranda",
+          "name_slug": "tony-miranda",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "124cd9a6-18b2-4773-9b62-6124047b747e",
+          "canonical_name": "Willie Ruff",
+          "name_slug": "willie-ruff",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "89a904da-20fa-4621-91a7-1fd5788978fd",
+      "title": "I Don't Wanna Be Kissed (By Anyone but You)",
+      "track_number": 10,
+      "side": "B",
+      "duration_text": "3:05",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c81b9529-8610-4864-b5c8-e113a09233ba",
+          "canonical_name": "Bernie Glow",
+          "name_slug": "bernie-glow",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "56045864-645d-4de6-9487-7b568993ba8a",
+          "canonical_name": "Danny Bank",
+          "name_slug": "danny-bank",
+          "instrument": "bass clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6a9ba74a-52d1-4c05-ae58-ef683795dc5b",
+          "canonical_name": "Eddie Caine",
+          "name_slug": "eddie-caine",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "da2c8212-a645-4fd9-a5e3-9ea4a3318d7b",
+          "canonical_name": "Ernie Royal",
+          "name_slug": "ernie-royal",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e188f790-4a42-4f61-9970-e69b017957f8",
+          "canonical_name": "Frank Rehak",
+          "name_slug": "frank-rehak",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2a95e23c-43d7-44a0-907c-3d4a5ebe270b",
+          "canonical_name": "Jimmy Buffington",
+          "name_slug": "jimmy-buffington",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "984bc449-da1b-49b6-9aa5-a8e5b8b31f53",
+          "canonical_name": "Jimmy Cleveland",
+          "name_slug": "jimmy-cleveland",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2e387bfd-16d4-44ba-809e-11bc71f3dfdb",
+          "canonical_name": "Joe Bennett",
+          "name_slug": "joe-bennett",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29f1bb4a-7869-42b1-868a-0ec3335c2f9e",
+          "canonical_name": "John Carisi",
+          "name_slug": "john-carisi",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "becdfbba-2a62-45b1-b54f-f478fd5c8888",
+          "canonical_name": "Louis Mucci",
+          "name_slug": "louis-mucci",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "flugelhorn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "72b1a8c3-a902-4422-92f2-ba7470e0250e",
+          "canonical_name": "Romeo Penque",
+          "name_slug": "romeo-penque",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "af03786b-adb4-4126-8166-322b5169d6ab",
+          "canonical_name": "Sid Cooper",
+          "name_slug": "sid-cooper",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9eb7325c-ebae-4e14-84ce-4fa32382447f",
+          "canonical_name": "Taft Jordan",
+          "name_slug": "taft-jordan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "54f8c339-0af6-4bbd-a9f0-daf5b7d8239d",
+          "canonical_name": "Tony Miranda",
+          "name_slug": "tony-miranda",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "124cd9a6-18b2-4773-9b62-6124047b747e",
+          "canonical_name": "Willie Ruff",
+          "name_slug": "willie-ruff",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

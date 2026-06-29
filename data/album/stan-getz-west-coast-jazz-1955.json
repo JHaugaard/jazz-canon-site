@@ -1,0 +1,332 @@
+{
+  "id": "stan-getz-west-coast-jazz-1955",
+  "title": "West Coast Jazz",
+  "artist_name": "Stan Getz",
+  "year": 1955,
+  "label": "Norgran",
+  "catalog_number": "223998-203",
+  "recording_dates_text": "1955-08-10/1955-08-19",
+  "description": null,
+  "style_primary": "cool-jazz",
+  "style_display": "Cool Jazz",
+  "cover_art_url": "http://coverartarchive.org/release/e5ab13d5-753d-4fc5-94fe-6ef0962093a6/34445809565-500.jpg",
+  "apple_album_id": "1443133429",
+  "studios": [
+    "Radio Recorders, Hollywood, CA"
+  ],
+  "personnel": [
+    {
+      "person_id": "5cc202ab-3cd0-4753-97ad-d87aff14bd0d",
+      "canonical_name": "Conte Candoli",
+      "name_slug": "conte-candoli",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "30a9cc03-3843-4efd-b41f-4f9347e3a449",
+      "canonical_name": "Leroy Vinnegar",
+      "name_slug": "leroy-vinnegar",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "773c84fd-308e-42c2-8e04-6c005846fd9f",
+      "canonical_name": "Lou Levy",
+      "name_slug": "lou-levy",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+      "canonical_name": "Shelly Manne",
+      "name_slug": "shelly-manne",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f3c4827f-c6b8-443f-ad59-9764c30c3ebc",
+      "canonical_name": "Stan Getz",
+      "name_slug": "stan-getz",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "016f7baf-870a-4243-beae-fa6e570537d7",
+      "title": "East of the Sun (and West of the Moon)",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "6:17",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "5cc202ab-3cd0-4753-97ad-d87aff14bd0d",
+          "canonical_name": "Conte Candoli",
+          "name_slug": "conte-candoli",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "30a9cc03-3843-4efd-b41f-4f9347e3a449",
+          "canonical_name": "Leroy Vinnegar",
+          "name_slug": "leroy-vinnegar",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "773c84fd-308e-42c2-8e04-6c005846fd9f",
+          "canonical_name": "Lou Levy",
+          "name_slug": "lou-levy",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3c4827f-c6b8-443f-ad59-9764c30c3ebc",
+          "canonical_name": "Stan Getz",
+          "name_slug": "stan-getz",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "9f7913f7-5ea7-4d17-a782-3339b4362378",
+      "title": "Four",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "7:32",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "5cc202ab-3cd0-4753-97ad-d87aff14bd0d",
+          "canonical_name": "Conte Candoli",
+          "name_slug": "conte-candoli",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "30a9cc03-3843-4efd-b41f-4f9347e3a449",
+          "canonical_name": "Leroy Vinnegar",
+          "name_slug": "leroy-vinnegar",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "773c84fd-308e-42c2-8e04-6c005846fd9f",
+          "canonical_name": "Lou Levy",
+          "name_slug": "lou-levy",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3c4827f-c6b8-443f-ad59-9764c30c3ebc",
+          "canonical_name": "Stan Getz",
+          "name_slug": "stan-getz",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "f9d92e70-6703-46ee-813b-9dd1ae028801",
+      "title": "Suddenly It's Spring",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "6:56",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "5cc202ab-3cd0-4753-97ad-d87aff14bd0d",
+          "canonical_name": "Conte Candoli",
+          "name_slug": "conte-candoli",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "30a9cc03-3843-4efd-b41f-4f9347e3a449",
+          "canonical_name": "Leroy Vinnegar",
+          "name_slug": "leroy-vinnegar",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "773c84fd-308e-42c2-8e04-6c005846fd9f",
+          "canonical_name": "Lou Levy",
+          "name_slug": "lou-levy",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3c4827f-c6b8-443f-ad59-9764c30c3ebc",
+          "canonical_name": "Stan Getz",
+          "name_slug": "stan-getz",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "3be06fda-6cec-4d36-8ae7-a4dc97ba092e",
+      "title": "A Night in Tunisia",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "6:09",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "5cc202ab-3cd0-4753-97ad-d87aff14bd0d",
+          "canonical_name": "Conte Candoli",
+          "name_slug": "conte-candoli",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "30a9cc03-3843-4efd-b41f-4f9347e3a449",
+          "canonical_name": "Leroy Vinnegar",
+          "name_slug": "leroy-vinnegar",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "773c84fd-308e-42c2-8e04-6c005846fd9f",
+          "canonical_name": "Lou Levy",
+          "name_slug": "lou-levy",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3c4827f-c6b8-443f-ad59-9764c30c3ebc",
+          "canonical_name": "Stan Getz",
+          "name_slug": "stan-getz",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "09ed7fa1-a305-4298-82a2-bff58a49fa2d",
+      "title": "Summertime",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "6:04",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "5cc202ab-3cd0-4753-97ad-d87aff14bd0d",
+          "canonical_name": "Conte Candoli",
+          "name_slug": "conte-candoli",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "30a9cc03-3843-4efd-b41f-4f9347e3a449",
+          "canonical_name": "Leroy Vinnegar",
+          "name_slug": "leroy-vinnegar",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "773c84fd-308e-42c2-8e04-6c005846fd9f",
+          "canonical_name": "Lou Levy",
+          "name_slug": "lou-levy",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3c4827f-c6b8-443f-ad59-9764c30c3ebc",
+          "canonical_name": "Stan Getz",
+          "name_slug": "stan-getz",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "3ad90f32-f8b5-4db2-a670-345f0652a8dd",
+      "title": "S-H-I-N-E",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "8:53",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "5cc202ab-3cd0-4753-97ad-d87aff14bd0d",
+          "canonical_name": "Conte Candoli",
+          "name_slug": "conte-candoli",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "30a9cc03-3843-4efd-b41f-4f9347e3a449",
+          "canonical_name": "Leroy Vinnegar",
+          "name_slug": "leroy-vinnegar",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "773c84fd-308e-42c2-8e04-6c005846fd9f",
+          "canonical_name": "Lou Levy",
+          "name_slug": "lou-levy",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3c4827f-c6b8-443f-ad59-9764c30c3ebc",
+          "canonical_name": "Stan Getz",
+          "name_slug": "stan-getz",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

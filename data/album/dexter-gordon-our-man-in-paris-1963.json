@@ -1,0 +1,244 @@
+{
+  "id": "dexter-gordon-our-man-in-paris-1963",
+  "title": "Our Man in Paris",
+  "artist_name": "Dexter Gordon",
+  "year": 1963,
+  "label": "Blue Note",
+  "catalog_number": "BST 84146",
+  "recording_dates_text": "1963-05-23",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "https://coverartarchive.org/release/b8ed6df5-8f0b-4ad7-b9ec-e6914fb3a2c0/15728225547-500.jpg",
+  "apple_album_id": "1442835524",
+  "studios": [
+    "CBS Studios, Paris"
+  ],
+  "personnel": [
+    {
+      "person_id": "6749c650-9966-4089-b1c9-846d861cf1a5",
+      "canonical_name": "Bud Powell",
+      "name_slug": "bud-powell",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "e581e764-8852-408d-bb00-ce789fd1e4d6",
+      "canonical_name": "Dexter Gordon",
+      "name_slug": "dexter-gordon",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "5eae0e9e-034e-4b00-81dd-8ea16885bbbc",
+      "canonical_name": "Kenny Clarke",
+      "name_slug": "kenny-clarke",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "7e21030b-5f99-4c5d-b8d7-8a212fb42993",
+      "canonical_name": "Pierre Michelot",
+      "name_slug": "pierre-michelot",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "8cd459de-913e-419c-a9eb-a96bbb017233",
+      "title": "Scrapple from the Apple",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "7:22",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "6749c650-9966-4089-b1c9-846d861cf1a5",
+          "canonical_name": "Bud Powell",
+          "name_slug": "bud-powell",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e581e764-8852-408d-bb00-ce789fd1e4d6",
+          "canonical_name": "Dexter Gordon",
+          "name_slug": "dexter-gordon",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5eae0e9e-034e-4b00-81dd-8ea16885bbbc",
+          "canonical_name": "Kenny Clarke",
+          "name_slug": "kenny-clarke",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e21030b-5f99-4c5d-b8d7-8a212fb42993",
+          "canonical_name": "Pierre Michelot",
+          "name_slug": "pierre-michelot",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "ed9011ef-66f1-4edd-ae5b-124de0172a82",
+      "title": "Willow Weep for Me",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "8:47",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "6749c650-9966-4089-b1c9-846d861cf1a5",
+          "canonical_name": "Bud Powell",
+          "name_slug": "bud-powell",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e581e764-8852-408d-bb00-ce789fd1e4d6",
+          "canonical_name": "Dexter Gordon",
+          "name_slug": "dexter-gordon",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5eae0e9e-034e-4b00-81dd-8ea16885bbbc",
+          "canonical_name": "Kenny Clarke",
+          "name_slug": "kenny-clarke",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e21030b-5f99-4c5d-b8d7-8a212fb42993",
+          "canonical_name": "Pierre Michelot",
+          "name_slug": "pierre-michelot",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "25d0883c-12a3-4e8f-8919-fb07b36d5fb0",
+      "title": "Broadway",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "6:44",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "6749c650-9966-4089-b1c9-846d861cf1a5",
+          "canonical_name": "Bud Powell",
+          "name_slug": "bud-powell",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e581e764-8852-408d-bb00-ce789fd1e4d6",
+          "canonical_name": "Dexter Gordon",
+          "name_slug": "dexter-gordon",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5eae0e9e-034e-4b00-81dd-8ea16885bbbc",
+          "canonical_name": "Kenny Clarke",
+          "name_slug": "kenny-clarke",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e21030b-5f99-4c5d-b8d7-8a212fb42993",
+          "canonical_name": "Pierre Michelot",
+          "name_slug": "pierre-michelot",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "e9b7e90c-6b09-4a9d-981c-85b98d19ebd0",
+      "title": "Stairway to the Stars",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "6:57",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "6749c650-9966-4089-b1c9-846d861cf1a5",
+          "canonical_name": "Bud Powell",
+          "name_slug": "bud-powell",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e581e764-8852-408d-bb00-ce789fd1e4d6",
+          "canonical_name": "Dexter Gordon",
+          "name_slug": "dexter-gordon",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5eae0e9e-034e-4b00-81dd-8ea16885bbbc",
+          "canonical_name": "Kenny Clarke",
+          "name_slug": "kenny-clarke",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e21030b-5f99-4c5d-b8d7-8a212fb42993",
+          "canonical_name": "Pierre Michelot",
+          "name_slug": "pierre-michelot",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "f506ba70-612f-4f6d-a968-07a22aa77951",
+      "title": "A Night in Tunisia",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "8:15",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "6749c650-9966-4089-b1c9-846d861cf1a5",
+          "canonical_name": "Bud Powell",
+          "name_slug": "bud-powell",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e581e764-8852-408d-bb00-ce789fd1e4d6",
+          "canonical_name": "Dexter Gordon",
+          "name_slug": "dexter-gordon",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5eae0e9e-034e-4b00-81dd-8ea16885bbbc",
+          "canonical_name": "Kenny Clarke",
+          "name_slug": "kenny-clarke",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e21030b-5f99-4c5d-b8d7-8a212fb42993",
+          "canonical_name": "Pierre Michelot",
+          "name_slug": "pierre-michelot",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

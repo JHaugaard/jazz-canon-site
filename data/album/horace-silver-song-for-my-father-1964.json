@@ -1,0 +1,346 @@
+{
+  "id": "horace-silver-song-for-my-father-1964",
+  "title": "Song for My Father",
+  "artist_name": "Horace Silver",
+  "year": 1964,
+  "label": "Blue Note",
+  "catalog_number": "BST 84185",
+  "recording_dates_text": "1963-10-31, 1964-10-26",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "https://coverartarchive.org/release-group/5fd8134c-ff96-3f48-a0a7-952a1e00e78e/front",
+  "apple_album_id": "1471085186",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "d6c6e20a-6511-44de-ab89-2d06def19e8c",
+      "canonical_name": "Blue Mitchell",
+      "name_slug": "blue-mitchell",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "ebbd46ab-d6f3-4adc-8d81-e4b3ba6a506d",
+      "canonical_name": "Carmell Jones",
+      "name_slug": "carmell-jones",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "df60e875-2c33-4fe4-a6ca-78cbf2eb9f58",
+      "canonical_name": "Gene Taylor",
+      "name_slug": "gene-taylor",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+      "canonical_name": "Horace Silver",
+      "name_slug": "horace-silver",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+      "canonical_name": "Joe Henderson",
+      "name_slug": "joe-henderson",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "fdb84b21-4097-4cc8-85dc-2260601b0fdd",
+      "canonical_name": "Junior Cook",
+      "name_slug": "junior-cook",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "43401634-3817-49e7-a2a1-dcf5a2dc67c2",
+      "canonical_name": "Roger Humphries",
+      "name_slug": "roger-humphries",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "038cd35a-6378-4b67-9b6b-b35f4b45c51c",
+      "canonical_name": "Roy Brooks",
+      "name_slug": "roy-brooks",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "ba0d474c-ca49-4160-9b18-0e8656299731",
+      "canonical_name": "Teddy Smith",
+      "name_slug": "teddy-smith",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "63daeb96-2970-41dc-ad2a-6c29cc162c82",
+      "title": "Song for My Father",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "7:17",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "ebbd46ab-d6f3-4adc-8d81-e4b3ba6a506d",
+          "canonical_name": "Carmell Jones",
+          "name_slug": "carmell-jones",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "43401634-3817-49e7-a2a1-dcf5a2dc67c2",
+          "canonical_name": "Roger Humphries",
+          "name_slug": "roger-humphries",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ba0d474c-ca49-4160-9b18-0e8656299731",
+          "canonical_name": "Teddy Smith",
+          "name_slug": "teddy-smith",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "c9c81958-dcf8-4789-9d35-26afd9251849",
+      "title": "The Natives Are Restless Tonight",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "6:09",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "ebbd46ab-d6f3-4adc-8d81-e4b3ba6a506d",
+          "canonical_name": "Carmell Jones",
+          "name_slug": "carmell-jones",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "43401634-3817-49e7-a2a1-dcf5a2dc67c2",
+          "canonical_name": "Roger Humphries",
+          "name_slug": "roger-humphries",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ba0d474c-ca49-4160-9b18-0e8656299731",
+          "canonical_name": "Teddy Smith",
+          "name_slug": "teddy-smith",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "5ef7cb23-cc65-41c2-a8b9-cee80bfb05c6",
+      "title": "Calcutta Cutie",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "8:31",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d6c6e20a-6511-44de-ab89-2d06def19e8c",
+          "canonical_name": "Blue Mitchell",
+          "name_slug": "blue-mitchell",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "df60e875-2c33-4fe4-a6ca-78cbf2eb9f58",
+          "canonical_name": "Gene Taylor",
+          "name_slug": "gene-taylor",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fdb84b21-4097-4cc8-85dc-2260601b0fdd",
+          "canonical_name": "Junior Cook",
+          "name_slug": "junior-cook",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "038cd35a-6378-4b67-9b6b-b35f4b45c51c",
+          "canonical_name": "Roy Brooks",
+          "name_slug": "roy-brooks",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "1c35eb54-afa9-483d-9263-ce2961ddcf35",
+      "title": "Que Pasa",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "7:47",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "ebbd46ab-d6f3-4adc-8d81-e4b3ba6a506d",
+          "canonical_name": "Carmell Jones",
+          "name_slug": "carmell-jones",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "43401634-3817-49e7-a2a1-dcf5a2dc67c2",
+          "canonical_name": "Roger Humphries",
+          "name_slug": "roger-humphries",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ba0d474c-ca49-4160-9b18-0e8656299731",
+          "canonical_name": "Teddy Smith",
+          "name_slug": "teddy-smith",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "e725e651-2bef-4b59-90c9-6fa5f95b2749",
+      "title": "The Kicker",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "5:26",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "ebbd46ab-d6f3-4adc-8d81-e4b3ba6a506d",
+          "canonical_name": "Carmell Jones",
+          "name_slug": "carmell-jones",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "43401634-3817-49e7-a2a1-dcf5a2dc67c2",
+          "canonical_name": "Roger Humphries",
+          "name_slug": "roger-humphries",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ba0d474c-ca49-4160-9b18-0e8656299731",
+          "canonical_name": "Teddy Smith",
+          "name_slug": "teddy-smith",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "d4bd91d9-05f7-485a-aaec-617111a9912c",
+      "title": "Lonely Woman",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "7:02",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "df60e875-2c33-4fe4-a6ca-78cbf2eb9f58",
+          "canonical_name": "Gene Taylor",
+          "name_slug": "gene-taylor",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "038cd35a-6378-4b67-9b6b-b35f4b45c51c",
+          "canonical_name": "Roy Brooks",
+          "name_slug": "roy-brooks",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

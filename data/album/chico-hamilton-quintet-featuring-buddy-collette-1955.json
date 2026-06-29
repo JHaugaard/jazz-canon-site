@@ -1,0 +1,516 @@
+{
+  "id": "chico-hamilton-quintet-featuring-buddy-collette-1955",
+  "title": "Chico Hamilton Quintet featuring Buddy Collette",
+  "artist_name": "Chico Hamilton",
+  "year": 1955,
+  "label": "Pacific Jazz",
+  "catalog_number": "LAE 12039",
+  "recording_dates_text": "1955-08-04, 1955-08-23",
+  "description": null,
+  "style_primary": "cool-jazz",
+  "style_display": "Cool Jazz",
+  "cover_art_url": "http://coverartarchive.org/release/400bd0b0-355f-4a92-8c23-f097ae3dbdf3/16629769961-500.jpg",
+  "apple_album_id": "1443923804",
+  "studios": [
+    "The Strollers, Long Beach, California (live, 1955-08-04); Radio Recorders, Hollywood, California (studio, 1955-08-23)"
+  ],
+  "personnel": [
+    {
+      "person_id": "6b2b1809-f31f-4ef9-831e-2b935658d0ba",
+      "canonical_name": "Buddy Collette",
+      "name_slug": "buddy-collette",
+      "instrument": "flute",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "a629ef2d-7cb1-44c5-8214-1b032123983e",
+      "canonical_name": "Carson Smith",
+      "name_slug": "carson-smith",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+      "canonical_name": "Chico Hamilton",
+      "name_slug": "chico-hamilton",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "48acd036-72c6-4150-821a-5f0a23829e0e",
+      "canonical_name": "Fred Katz",
+      "name_slug": "fred-katz",
+      "instrument": "cello",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+      "canonical_name": "Jim Hall",
+      "name_slug": "jim-hall",
+      "instrument": "guitar",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "5a61fd87-040e-4160-ab1c-ce7a39b6b9b8",
+      "title": "A Nice Day",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "2:53",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "6b2b1809-f31f-4ef9-831e-2b935658d0ba",
+          "canonical_name": "Buddy Collette",
+          "name_slug": "buddy-collette",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a629ef2d-7cb1-44c5-8214-1b032123983e",
+          "canonical_name": "Carson Smith",
+          "name_slug": "carson-smith",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+          "canonical_name": "Chico Hamilton",
+          "name_slug": "chico-hamilton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "48acd036-72c6-4150-821a-5f0a23829e0e",
+          "canonical_name": "Fred Katz",
+          "name_slug": "fred-katz",
+          "instrument": "cello",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "0f83ee16-6903-478f-8244-9ad6c22b1e20",
+      "title": "My Funny Valentine",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "4:16",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "6b2b1809-f31f-4ef9-831e-2b935658d0ba",
+          "canonical_name": "Buddy Collette",
+          "name_slug": "buddy-collette",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a629ef2d-7cb1-44c5-8214-1b032123983e",
+          "canonical_name": "Carson Smith",
+          "name_slug": "carson-smith",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+          "canonical_name": "Chico Hamilton",
+          "name_slug": "chico-hamilton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "48acd036-72c6-4150-821a-5f0a23829e0e",
+          "canonical_name": "Fred Katz",
+          "name_slug": "fred-katz",
+          "instrument": "cello",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "c03014fb-f155-42a4-868b-c045d9b1c9b8",
+      "title": "Blue Sands",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "6:30",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "6b2b1809-f31f-4ef9-831e-2b935658d0ba",
+          "canonical_name": "Buddy Collette",
+          "name_slug": "buddy-collette",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a629ef2d-7cb1-44c5-8214-1b032123983e",
+          "canonical_name": "Carson Smith",
+          "name_slug": "carson-smith",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+          "canonical_name": "Chico Hamilton",
+          "name_slug": "chico-hamilton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "48acd036-72c6-4150-821a-5f0a23829e0e",
+          "canonical_name": "Fred Katz",
+          "name_slug": "fred-katz",
+          "instrument": "cello",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "d7aa3b9e-539b-4085-8f6a-3382d9c2a471",
+      "title": "The Sage",
+      "track_number": 4,
+      "side": "A",
+      "duration_text": "3:34",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "6b2b1809-f31f-4ef9-831e-2b935658d0ba",
+          "canonical_name": "Buddy Collette",
+          "name_slug": "buddy-collette",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a629ef2d-7cb1-44c5-8214-1b032123983e",
+          "canonical_name": "Carson Smith",
+          "name_slug": "carson-smith",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+          "canonical_name": "Chico Hamilton",
+          "name_slug": "chico-hamilton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "48acd036-72c6-4150-821a-5f0a23829e0e",
+          "canonical_name": "Fred Katz",
+          "name_slug": "fred-katz",
+          "instrument": "cello",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "5cf7254b-8321-4b8e-b1c0-c96ea174965a",
+      "title": "The Morning After",
+      "track_number": 5,
+      "side": "A",
+      "duration_text": "2:07",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "6b2b1809-f31f-4ef9-831e-2b935658d0ba",
+          "canonical_name": "Buddy Collette",
+          "name_slug": "buddy-collette",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a629ef2d-7cb1-44c5-8214-1b032123983e",
+          "canonical_name": "Carson Smith",
+          "name_slug": "carson-smith",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+          "canonical_name": "Chico Hamilton",
+          "name_slug": "chico-hamilton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "48acd036-72c6-4150-821a-5f0a23829e0e",
+          "canonical_name": "Fred Katz",
+          "name_slug": "fred-katz",
+          "instrument": "cello",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "d929e01e-7002-4253-ba0e-d8fd49fe4674",
+      "title": "I Want to Be Happy",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "2:10",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "6b2b1809-f31f-4ef9-831e-2b935658d0ba",
+          "canonical_name": "Buddy Collette",
+          "name_slug": "buddy-collette",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a629ef2d-7cb1-44c5-8214-1b032123983e",
+          "canonical_name": "Carson Smith",
+          "name_slug": "carson-smith",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+          "canonical_name": "Chico Hamilton",
+          "name_slug": "chico-hamilton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "48acd036-72c6-4150-821a-5f0a23829e0e",
+          "canonical_name": "Fred Katz",
+          "name_slug": "fred-katz",
+          "instrument": "cello",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "0f4fe411-b0b8-4d13-86d1-b7196c45eed8",
+      "title": "Spectacular",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": "5:12",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "6b2b1809-f31f-4ef9-831e-2b935658d0ba",
+          "canonical_name": "Buddy Collette",
+          "name_slug": "buddy-collette",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a629ef2d-7cb1-44c5-8214-1b032123983e",
+          "canonical_name": "Carson Smith",
+          "name_slug": "carson-smith",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+          "canonical_name": "Chico Hamilton",
+          "name_slug": "chico-hamilton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "48acd036-72c6-4150-821a-5f0a23829e0e",
+          "canonical_name": "Fred Katz",
+          "name_slug": "fred-katz",
+          "instrument": "cello",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "7f2f31d5-b3a7-415c-ba38-1bddb54250d6",
+      "title": "Free Form",
+      "track_number": 8,
+      "side": "B",
+      "duration_text": "5:00",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "6b2b1809-f31f-4ef9-831e-2b935658d0ba",
+          "canonical_name": "Buddy Collette",
+          "name_slug": "buddy-collette",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a629ef2d-7cb1-44c5-8214-1b032123983e",
+          "canonical_name": "Carson Smith",
+          "name_slug": "carson-smith",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+          "canonical_name": "Chico Hamilton",
+          "name_slug": "chico-hamilton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "48acd036-72c6-4150-821a-5f0a23829e0e",
+          "canonical_name": "Fred Katz",
+          "name_slug": "fred-katz",
+          "instrument": "cello",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "7ee1a1a1-3c78-49a1-bae4-fc8d79c84d86",
+      "title": "Walking Carson Blues",
+      "track_number": 9,
+      "side": "B",
+      "duration_text": "6:08",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "6b2b1809-f31f-4ef9-831e-2b935658d0ba",
+          "canonical_name": "Buddy Collette",
+          "name_slug": "buddy-collette",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a629ef2d-7cb1-44c5-8214-1b032123983e",
+          "canonical_name": "Carson Smith",
+          "name_slug": "carson-smith",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+          "canonical_name": "Chico Hamilton",
+          "name_slug": "chico-hamilton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "48acd036-72c6-4150-821a-5f0a23829e0e",
+          "canonical_name": "Fred Katz",
+          "name_slug": "fred-katz",
+          "instrument": "cello",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "dee6732f-28d4-45df-84da-c2f8517f8116",
+      "title": "Buddy Boo",
+      "track_number": 10,
+      "side": "B",
+      "duration_text": "6:16",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "6b2b1809-f31f-4ef9-831e-2b935658d0ba",
+          "canonical_name": "Buddy Collette",
+          "name_slug": "buddy-collette",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a629ef2d-7cb1-44c5-8214-1b032123983e",
+          "canonical_name": "Carson Smith",
+          "name_slug": "carson-smith",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+          "canonical_name": "Chico Hamilton",
+          "name_slug": "chico-hamilton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "48acd036-72c6-4150-821a-5f0a23829e0e",
+          "canonical_name": "Fred Katz",
+          "name_slug": "fred-katz",
+          "instrument": "cello",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

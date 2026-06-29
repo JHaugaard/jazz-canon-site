@@ -1,0 +1,219 @@
+{
+  "id": "john-coltrane-a-love-supreme-1964",
+  "title": "A Love Supreme",
+  "artist_name": "John Coltrane",
+  "year": 1964,
+  "label": "Impulse!",
+  "catalog_number": "A 77",
+  "recording_dates_text": "1964-12-09",
+  "description": null,
+  "style_primary": "modal-jazz",
+  "style_display": "Modal Jazz",
+  "cover_art_url": "https://coverartarchive.org/release-group/77cf47ba-58cd-3f3d-a5f9-79bf89860421/front",
+  "apple_album_id": "1440713018",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "8f9b0fa7-f1a0-4ed0-8b0b-cd4fc5b9c481",
+      "canonical_name": "Archie Shepp",
+      "name_slug": "archie-shepp",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "fd3f8414-c397-42ea-96bb-8fb0d8159fa8",
+      "canonical_name": "Art Davis",
+      "name_slug": "art-davis",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+      "canonical_name": "Elvin Jones",
+      "name_slug": "elvin-jones",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "7c359a1f-af5b-43af-aaff-e74d35cf5e44",
+      "canonical_name": "Jimmy Garrison",
+      "name_slug": "jimmy-garrison",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+      "canonical_name": "John Coltrane",
+      "name_slug": "john-coltrane",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+      "canonical_name": "McCoy Tyner",
+      "name_slug": "mccoy-tyner",
+      "instrument": "piano",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "c49cd1b9-7165-463d-9bef-be69ba202124",
+      "title": "Part 1: Acknowledgement",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "7:47",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7c359a1f-af5b-43af-aaff-e74d35cf5e44",
+          "canonical_name": "Jimmy Garrison",
+          "name_slug": "jimmy-garrison",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "fccb5d6c-3886-4af1-865f-9e783f4eed50",
+      "title": "Part 2: Resolution",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "7:22",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7c359a1f-af5b-43af-aaff-e74d35cf5e44",
+          "canonical_name": "Jimmy Garrison",
+          "name_slug": "jimmy-garrison",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "3804898e-acd2-403a-bddb-7b86bc861b5f",
+      "title": "Part 3: Pursuance",
+      "track_number": 3,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7c359a1f-af5b-43af-aaff-e74d35cf5e44",
+          "canonical_name": "Jimmy Garrison",
+          "name_slug": "jimmy-garrison",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "54b41646-b619-4063-a2af-b1fae37359c3",
+      "title": "Part 4: Psalm",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7c359a1f-af5b-43af-aaff-e74d35cf5e44",
+          "canonical_name": "Jimmy Garrison",
+          "name_slug": "jimmy-garrison",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "id": "larry-young-unity-1965",
+  "title": "Unity",
+  "artist_name": "Larry Young",
+  "year": 1965,
+  "label": "Blue Note",
+  "catalog_number": "BST 84221",
+  "recording_dates_text": "1965-11-10",
+  "description": null,
+  "style_primary": "modal-jazz",
+  "style_display": "Modal Jazz",
+  "cover_art_url": "http://coverartarchive.org/release/fe0cc2a8-4722-4f71-aedd-e7d72747d588/3881235184-500.jpg",
+  "apple_album_id": "1457590359",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+      "canonical_name": "Elvin Jones",
+      "name_slug": "elvin-jones",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+      "canonical_name": "Joe Henderson",
+      "name_slug": "joe-henderson",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "467e318c-4cca-4029-9003-326e4ef9e393",
+      "canonical_name": "Larry Young",
+      "name_slug": "larry-young",
+      "instrument": "organ (hammond)",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "38d0cdde-c6ae-4112-8488-f794da824c83",
+      "canonical_name": "Woody Shaw",
+      "name_slug": "woody-shaw",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "de7fe80b-90fa-4125-a271-6f193a7af97d",
+      "title": "Zoltan",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "7:41",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "467e318c-4cca-4029-9003-326e4ef9e393",
+          "canonical_name": "Larry Young",
+          "name_slug": "larry-young",
+          "instrument": "organ (hammond)",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "38d0cdde-c6ae-4112-8488-f794da824c83",
+          "canonical_name": "Woody Shaw",
+          "name_slug": "woody-shaw",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "8b648211-f7e5-4d23-8942-7fae72359b52",
+      "title": "Monk's Dream",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "5:48",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "467e318c-4cca-4029-9003-326e4ef9e393",
+          "canonical_name": "Larry Young",
+          "name_slug": "larry-young",
+          "instrument": "organ (hammond)",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "38d0cdde-c6ae-4112-8488-f794da824c83",
+          "canonical_name": "Woody Shaw",
+          "name_slug": "woody-shaw",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "ee0e9fc2-a70c-4365-b29a-9163dc6b8030",
+      "title": "If",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "6:46",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "467e318c-4cca-4029-9003-326e4ef9e393",
+          "canonical_name": "Larry Young",
+          "name_slug": "larry-young",
+          "instrument": "organ (hammond)",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "38d0cdde-c6ae-4112-8488-f794da824c83",
+          "canonical_name": "Woody Shaw",
+          "name_slug": "woody-shaw",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "654010ef-a6db-46c6-afb4-e5b24c49036d",
+      "title": "The Moontrane",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "7:21",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "467e318c-4cca-4029-9003-326e4ef9e393",
+          "canonical_name": "Larry Young",
+          "name_slug": "larry-young",
+          "instrument": "organ (hammond)",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "38d0cdde-c6ae-4112-8488-f794da824c83",
+          "canonical_name": "Woody Shaw",
+          "name_slug": "woody-shaw",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "c0fefc42-1c12-4325-9d19-afeba6a35570",
+      "title": "Softly, as in a Morning Sunrise",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "6:24",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "467e318c-4cca-4029-9003-326e4ef9e393",
+          "canonical_name": "Larry Young",
+          "name_slug": "larry-young",
+          "instrument": "organ (hammond)",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "38d0cdde-c6ae-4112-8488-f794da824c83",
+          "canonical_name": "Woody Shaw",
+          "name_slug": "woody-shaw",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "b2c4572f-c613-4bef-8cc7-971ecf248a0f",
+      "title": "Beyond All Limits",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "6:02",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "467e318c-4cca-4029-9003-326e4ef9e393",
+          "canonical_name": "Larry Young",
+          "name_slug": "larry-young",
+          "instrument": "organ (hammond)",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "38d0cdde-c6ae-4112-8488-f794da824c83",
+          "canonical_name": "Woody Shaw",
+          "name_slug": "woody-shaw",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

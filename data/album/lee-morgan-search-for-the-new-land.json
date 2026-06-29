@@ -1,0 +1,328 @@
+{
+  "id": "lee-morgan-search-for-the-new-land",
+  "title": "Search for the New Land",
+  "artist_name": "Lee Morgan",
+  "year": 1966,
+  "label": "Blue Note",
+  "catalog_number": "BST 84169 (stereo); BLP 4169 (mono)",
+  "recording_dates_text": "1964-02-15",
+  "description": null,
+  "style_primary": "modal-jazz",
+  "style_display": "Modal Jazz",
+  "cover_art_url": "http://coverartarchive.org/release/4fdedf3a-409c-47c1-9bf9-d26616c537a4/5127830578-500.jpg",
+  "apple_album_id": "1445882359",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "b377b606-451e-4391-981f-01666c7c4ffa",
+      "canonical_name": "Billy Higgins",
+      "name_slug": "billy-higgins",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "0611cf39-d7e0-4f31-95a6-8f78445fe0a1",
+      "canonical_name": "Grant Green",
+      "name_slug": "grant-green",
+      "instrument": "guitar",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+      "canonical_name": "Herbie Hancock",
+      "name_slug": "herbie-hancock",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+      "canonical_name": "Lee Morgan",
+      "name_slug": "lee-morgan",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+      "canonical_name": "Reggie Workman",
+      "name_slug": "reggie-workman",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+      "canonical_name": "Wayne Shorter",
+      "name_slug": "wayne-shorter",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "5bea37eb-dbc6-4b12-9aa1-6a926717e750",
+      "title": "Search for the New Land",
+      "track_number": 1,
+      "side": null,
+      "duration_text": "15:45",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b377b606-451e-4391-981f-01666c7c4ffa",
+          "canonical_name": "Billy Higgins",
+          "name_slug": "billy-higgins",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0611cf39-d7e0-4f31-95a6-8f78445fe0a1",
+          "canonical_name": "Grant Green",
+          "name_slug": "grant-green",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+          "canonical_name": "Reggie Workman",
+          "name_slug": "reggie-workman",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "6db015e8-6476-40ba-949d-7446ddc27c9e",
+      "title": "The Joker",
+      "track_number": 2,
+      "side": null,
+      "duration_text": "5:04",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b377b606-451e-4391-981f-01666c7c4ffa",
+          "canonical_name": "Billy Higgins",
+          "name_slug": "billy-higgins",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0611cf39-d7e0-4f31-95a6-8f78445fe0a1",
+          "canonical_name": "Grant Green",
+          "name_slug": "grant-green",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+          "canonical_name": "Reggie Workman",
+          "name_slug": "reggie-workman",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "e8713c79-f586-4635-8b3c-68192764f975",
+      "title": "Mr. Kenyatta",
+      "track_number": 3,
+      "side": null,
+      "duration_text": "8:43",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b377b606-451e-4391-981f-01666c7c4ffa",
+          "canonical_name": "Billy Higgins",
+          "name_slug": "billy-higgins",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0611cf39-d7e0-4f31-95a6-8f78445fe0a1",
+          "canonical_name": "Grant Green",
+          "name_slug": "grant-green",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+          "canonical_name": "Reggie Workman",
+          "name_slug": "reggie-workman",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "2fbfc62b-6689-48bb-a9b7-811627660ea3",
+      "title": "Melancholee",
+      "track_number": 4,
+      "side": null,
+      "duration_text": "6:14",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b377b606-451e-4391-981f-01666c7c4ffa",
+          "canonical_name": "Billy Higgins",
+          "name_slug": "billy-higgins",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0611cf39-d7e0-4f31-95a6-8f78445fe0a1",
+          "canonical_name": "Grant Green",
+          "name_slug": "grant-green",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+          "canonical_name": "Reggie Workman",
+          "name_slug": "reggie-workman",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "94594925-7303-48d6-beb1-92d918f694a3",
+      "title": "Morgan the Pirate",
+      "track_number": 5,
+      "side": null,
+      "duration_text": "6:30",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b377b606-451e-4391-981f-01666c7c4ffa",
+          "canonical_name": "Billy Higgins",
+          "name_slug": "billy-higgins",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0611cf39-d7e0-4f31-95a6-8f78445fe0a1",
+          "canonical_name": "Grant Green",
+          "name_slug": "grant-green",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+          "canonical_name": "Reggie Workman",
+          "name_slug": "reggie-workman",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

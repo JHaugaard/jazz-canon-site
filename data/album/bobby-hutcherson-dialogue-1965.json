@@ -1,0 +1,381 @@
+{
+  "id": "bobby-hutcherson-dialogue-1965",
+  "title": "Dialogue",
+  "artist_name": "Bobby Hutcherson",
+  "year": 1965,
+  "label": "Blue Note",
+  "catalog_number": "BST 84198",
+  "recording_dates_text": "1965-04-03",
+  "description": null,
+  "style_primary": "post-bop",
+  "style_display": "Post-Bop",
+  "cover_art_url": "https://coverartarchive.org/release/87f8f5a1-2db3-3110-b5e7-1fbeae81392e/38474884593-500.jpg",
+  "apple_album_id": "723562758",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "b83ce81e-ee2e-4d9e-974b-443ca2518227",
+      "canonical_name": "Andrew Hill",
+      "name_slug": "andrew-hill",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+      "canonical_name": "Bobby Hutcherson",
+      "name_slug": "bobby-hutcherson",
+      "instrument": "vibraphone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+      "canonical_name": "Freddie Hubbard",
+      "name_slug": "freddie-hubbard",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "3f42e6c3-2181-4353-a4c7-2798af96fa68",
+      "canonical_name": "Joe Chambers",
+      "name_slug": "joe-chambers",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "17dab1b9-7957-486f-8844-f6801aba6167",
+      "canonical_name": "Richard Davis",
+      "name_slug": "richard-davis",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "cf32a29b-514d-4f19-86a5-14157f2b3387",
+      "canonical_name": "Sam Rivers",
+      "name_slug": "sam-rivers",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "c9a0bff6-377c-488d-abed-8b36c3be3adf",
+      "title": "Catta",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "7:19",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b83ce81e-ee2e-4d9e-974b-443ca2518227",
+          "canonical_name": "Andrew Hill",
+          "name_slug": "andrew-hill",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+          "canonical_name": "Bobby Hutcherson",
+          "name_slug": "bobby-hutcherson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3f42e6c3-2181-4353-a4c7-2798af96fa68",
+          "canonical_name": "Joe Chambers",
+          "name_slug": "joe-chambers",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17dab1b9-7957-486f-8844-f6801aba6167",
+          "canonical_name": "Richard Davis",
+          "name_slug": "richard-davis",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf32a29b-514d-4f19-86a5-14157f2b3387",
+          "canonical_name": "Sam Rivers",
+          "name_slug": "sam-rivers",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "c1c51707-ffb0-490c-bd2e-34f6ec5a4fd8",
+      "title": "Idle While",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "6:37",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b83ce81e-ee2e-4d9e-974b-443ca2518227",
+          "canonical_name": "Andrew Hill",
+          "name_slug": "andrew-hill",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+          "canonical_name": "Bobby Hutcherson",
+          "name_slug": "bobby-hutcherson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3f42e6c3-2181-4353-a4c7-2798af96fa68",
+          "canonical_name": "Joe Chambers",
+          "name_slug": "joe-chambers",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17dab1b9-7957-486f-8844-f6801aba6167",
+          "canonical_name": "Richard Davis",
+          "name_slug": "richard-davis",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf32a29b-514d-4f19-86a5-14157f2b3387",
+          "canonical_name": "Sam Rivers",
+          "name_slug": "sam-rivers",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "8b1f6a4e-b978-49fa-80c1-6fb798314c11",
+      "title": "Les Noirs Marchant",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "6:41",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b83ce81e-ee2e-4d9e-974b-443ca2518227",
+          "canonical_name": "Andrew Hill",
+          "name_slug": "andrew-hill",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+          "canonical_name": "Bobby Hutcherson",
+          "name_slug": "bobby-hutcherson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3f42e6c3-2181-4353-a4c7-2798af96fa68",
+          "canonical_name": "Joe Chambers",
+          "name_slug": "joe-chambers",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17dab1b9-7957-486f-8844-f6801aba6167",
+          "canonical_name": "Richard Davis",
+          "name_slug": "richard-davis",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf32a29b-514d-4f19-86a5-14157f2b3387",
+          "canonical_name": "Sam Rivers",
+          "name_slug": "sam-rivers",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "980ece4a-8d8f-46f5-986b-f2f6976a559b",
+      "title": "Dialogue",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "9:59",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b83ce81e-ee2e-4d9e-974b-443ca2518227",
+          "canonical_name": "Andrew Hill",
+          "name_slug": "andrew-hill",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+          "canonical_name": "Bobby Hutcherson",
+          "name_slug": "bobby-hutcherson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3f42e6c3-2181-4353-a4c7-2798af96fa68",
+          "canonical_name": "Joe Chambers",
+          "name_slug": "joe-chambers",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17dab1b9-7957-486f-8844-f6801aba6167",
+          "canonical_name": "Richard Davis",
+          "name_slug": "richard-davis",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf32a29b-514d-4f19-86a5-14157f2b3387",
+          "canonical_name": "Sam Rivers",
+          "name_slug": "sam-rivers",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "2e30ae52-7446-45e7-9aca-3d5a3da82ec5",
+      "title": "Ghetto Lights",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "6:16",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b83ce81e-ee2e-4d9e-974b-443ca2518227",
+          "canonical_name": "Andrew Hill",
+          "name_slug": "andrew-hill",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+          "canonical_name": "Bobby Hutcherson",
+          "name_slug": "bobby-hutcherson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3f42e6c3-2181-4353-a4c7-2798af96fa68",
+          "canonical_name": "Joe Chambers",
+          "name_slug": "joe-chambers",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17dab1b9-7957-486f-8844-f6801aba6167",
+          "canonical_name": "Richard Davis",
+          "name_slug": "richard-davis",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf32a29b-514d-4f19-86a5-14157f2b3387",
+          "canonical_name": "Sam Rivers",
+          "name_slug": "sam-rivers",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "4d7c00af-3ff1-43da-83f8-e6604a6b783a",
+      "title": "Jasper",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "8:29",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b83ce81e-ee2e-4d9e-974b-443ca2518227",
+          "canonical_name": "Andrew Hill",
+          "name_slug": "andrew-hill",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+          "canonical_name": "Bobby Hutcherson",
+          "name_slug": "bobby-hutcherson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3f42e6c3-2181-4353-a4c7-2798af96fa68",
+          "canonical_name": "Joe Chambers",
+          "name_slug": "joe-chambers",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17dab1b9-7957-486f-8844-f6801aba6167",
+          "canonical_name": "Richard Davis",
+          "name_slug": "richard-davis",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf32a29b-514d-4f19-86a5-14157f2b3387",
+          "canonical_name": "Sam Rivers",
+          "name_slug": "sam-rivers",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

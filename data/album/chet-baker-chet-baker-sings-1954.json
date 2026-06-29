@@ -1,0 +1,427 @@
+{
+  "id": "chet-baker-chet-baker-sings-1954",
+  "title": "Chet Baker Sings",
+  "artist_name": "Chet Baker",
+  "year": 1954,
+  "label": "Pacific Jazz",
+  "catalog_number": "PJLP-11",
+  "recording_dates_text": "1954-02-15, 1956-07-23, 1956-07-30",
+  "description": null,
+  "style_primary": "cool-jazz",
+  "style_display": "Cool Jazz",
+  "cover_art_url": "http://coverartarchive.org/release/e9081dcc-0e9f-3e7c-b15e-f28dbddb3a20/4602224638-500.jpg",
+  "apple_album_id": "1440864756",
+  "studios": [
+    "Hollywood (1954); Forum Theatre, Los Angeles (1956)"
+  ],
+  "personnel": [
+    {
+      "person_id": "31072cfe-9fcb-450f-a8ec-1c5b58aefb4d",
+      "canonical_name": "Bob Neel",
+      "name_slug": "bob-neel",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "a629ef2d-7cb1-44c5-8214-1b032123983e",
+      "canonical_name": "Carson Smith",
+      "name_slug": "carson-smith",
+      "instrument": "double bass",
+      "epistemic": "unk"
+    },
+    {
+      "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
+      "canonical_name": "Chet Baker",
+      "name_slug": "chet-baker",
+      "instrument": "voice",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "14a56c14-e789-4235-b6ad-42bca7f839c1",
+      "canonical_name": "Jimmy Bond",
+      "name_slug": "jimmy-bond",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "8d29e51f-aa9c-4d97-a39c-8bf10e878b36",
+      "canonical_name": "Joe Mondragon",
+      "name_slug": "joe-mondragon",
+      "instrument": "double bass",
+      "epistemic": "unk"
+    },
+    {
+      "person_id": "bf10c075-449b-4c93-aa61-caf2c3e29348",
+      "canonical_name": "Larance Marable",
+      "name_slug": "larance-marable",
+      "instrument": "drums",
+      "epistemic": "unk"
+    },
+    {
+      "person_id": "95b00727-e6a3-4b6c-82da-ad3956388373",
+      "canonical_name": "Peter Littman",
+      "name_slug": "peter-littman",
+      "instrument": "drums",
+      "epistemic": "unk"
+    },
+    {
+      "person_id": "8be5df38-4ed9-4ce9-8a28-eb97477c3354",
+      "canonical_name": "Russ Freeman",
+      "name_slug": "russ-freeman",
+      "instrument": "piano",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "5d3f54bb-cea0-4f8f-b05f-b0dbd1473590",
+      "title": "But Not for Me",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "3:04",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
+          "canonical_name": "Chet Baker",
+          "name_slug": "chet-baker",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8be5df38-4ed9-4ce9-8a28-eb97477c3354",
+          "canonical_name": "Russ Freeman",
+          "name_slug": "russ-freeman",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "40cbcd14-af5f-4a75-81f2-a0bf44bc90b5",
+      "title": "Time After Time",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "2:46",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
+          "canonical_name": "Chet Baker",
+          "name_slug": "chet-baker",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8be5df38-4ed9-4ce9-8a28-eb97477c3354",
+          "canonical_name": "Russ Freeman",
+          "name_slug": "russ-freeman",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "c0be84fe-ab70-4268-bdb2-43ac2feeea0a",
+      "title": "My Funny Valentine",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "2:21",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
+          "canonical_name": "Chet Baker",
+          "name_slug": "chet-baker",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8be5df38-4ed9-4ce9-8a28-eb97477c3354",
+          "canonical_name": "Russ Freeman",
+          "name_slug": "russ-freeman",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "229e68e5-2527-4313-bbbc-148fe990a44f",
+      "title": "I Fall in Love Too Easily",
+      "track_number": 4,
+      "side": "A",
+      "duration_text": "3:21",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
+          "canonical_name": "Chet Baker",
+          "name_slug": "chet-baker",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8be5df38-4ed9-4ce9-8a28-eb97477c3354",
+          "canonical_name": "Russ Freeman",
+          "name_slug": "russ-freeman",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "488b43f4-d2ad-4519-8918-3fee2048e7f7",
+      "title": "There Will Never Be Another You",
+      "track_number": 5,
+      "side": "A",
+      "duration_text": "3:00",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
+          "canonical_name": "Chet Baker",
+          "name_slug": "chet-baker",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8be5df38-4ed9-4ce9-8a28-eb97477c3354",
+          "canonical_name": "Russ Freeman",
+          "name_slug": "russ-freeman",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "8c818918-a02c-4222-8323-b8c1900b24a2",
+      "title": "I Get Along Without You Very Well",
+      "track_number": 6,
+      "side": "A",
+      "duration_text": "2:59",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
+          "canonical_name": "Chet Baker",
+          "name_slug": "chet-baker",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8be5df38-4ed9-4ce9-8a28-eb97477c3354",
+          "canonical_name": "Russ Freeman",
+          "name_slug": "russ-freeman",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "52e512b3-61b3-4469-afbb-8d8931e50dd6",
+      "title": "The Thrill Is Gone",
+      "track_number": 7,
+      "side": "A",
+      "duration_text": "2:51",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
+          "canonical_name": "Chet Baker",
+          "name_slug": "chet-baker",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8be5df38-4ed9-4ce9-8a28-eb97477c3354",
+          "canonical_name": "Russ Freeman",
+          "name_slug": "russ-freeman",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "aac2264b-929c-4a42-a715-67a49d211813",
+      "title": "Look for the Silver Lining",
+      "track_number": 8,
+      "side": "A",
+      "duration_text": "2:39",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
+          "canonical_name": "Chet Baker",
+          "name_slug": "chet-baker",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8be5df38-4ed9-4ce9-8a28-eb97477c3354",
+          "canonical_name": "Russ Freeman",
+          "name_slug": "russ-freeman",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "789d476b-33b3-417a-9d9e-7e09e196b32a",
+      "title": "That Old Feeling",
+      "track_number": 9,
+      "side": "B",
+      "duration_text": "3:03",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
+          "canonical_name": "Chet Baker",
+          "name_slug": "chet-baker",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8be5df38-4ed9-4ce9-8a28-eb97477c3354",
+          "canonical_name": "Russ Freeman",
+          "name_slug": "russ-freeman",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "5d11d5b6-c2fc-43af-92d1-ebde11ae937e",
+      "title": "It's Always You",
+      "track_number": 10,
+      "side": "B",
+      "duration_text": "3:35",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
+          "canonical_name": "Chet Baker",
+          "name_slug": "chet-baker",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8be5df38-4ed9-4ce9-8a28-eb97477c3354",
+          "canonical_name": "Russ Freeman",
+          "name_slug": "russ-freeman",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "7a636703-4eda-4a1a-a1ce-5422184febce",
+      "title": "Like Someone in Love",
+      "track_number": 11,
+      "side": "B",
+      "duration_text": "2:26",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
+          "canonical_name": "Chet Baker",
+          "name_slug": "chet-baker",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8be5df38-4ed9-4ce9-8a28-eb97477c3354",
+          "canonical_name": "Russ Freeman",
+          "name_slug": "russ-freeman",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "f6a27ea6-969e-4c98-a450-7d60ae2a2f48",
+      "title": "My Ideal",
+      "track_number": 12,
+      "side": "B",
+      "duration_text": "4:22",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
+          "canonical_name": "Chet Baker",
+          "name_slug": "chet-baker",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8be5df38-4ed9-4ce9-8a28-eb97477c3354",
+          "canonical_name": "Russ Freeman",
+          "name_slug": "russ-freeman",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "35a9024c-1f19-462d-baef-67b38b946696",
+      "title": "I've Never Been in Love Before",
+      "track_number": 13,
+      "side": "B",
+      "duration_text": "4:29",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
+          "canonical_name": "Chet Baker",
+          "name_slug": "chet-baker",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8be5df38-4ed9-4ce9-8a28-eb97477c3354",
+          "canonical_name": "Russ Freeman",
+          "name_slug": "russ-freeman",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "edd3f121-8a62-49b5-96a2-97d1b0a88a5a",
+      "title": "My Buddy",
+      "track_number": 14,
+      "side": "B",
+      "duration_text": "3:19",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
+          "canonical_name": "Chet Baker",
+          "name_slug": "chet-baker",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8be5df38-4ed9-4ce9-8a28-eb97477c3354",
+          "canonical_name": "Russ Freeman",
+          "name_slug": "russ-freeman",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

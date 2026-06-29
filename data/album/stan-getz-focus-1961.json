@@ -1,0 +1,504 @@
+{
+  "id": "stan-getz-focus-1961",
+  "title": "Focus",
+  "artist_name": "Stan Getz",
+  "year": 1961,
+  "label": "Verve",
+  "catalog_number": "V-8412",
+  "recording_dates_text": "1961-07-14, 1961-07-28",
+  "description": null,
+  "style_primary": "cool-jazz",
+  "style_display": "Cool Jazz",
+  "cover_art_url": "https://coverartarchive.org/release-group/e60ac23f-7b63-3015-8b23-cf16c6ca6725/front",
+  "apple_album_id": "1852361609",
+  "studios": [
+    "Webster Hall, New York City"
+  ],
+  "personnel": [
+    {
+      "person_id": "83287ab2-3aed-465f-baa6-f31620f431e9",
+      "canonical_name": "Alan Martin",
+      "name_slug": "alan-martin",
+      "instrument": "violin",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "c9bfebb8-833c-409d-8b48-e3d75bc00471",
+      "canonical_name": "Bruce Rogers",
+      "name_slug": "bruce-rogers",
+      "instrument": "cello",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "ccba50c0-7dbd-4591-91ea-68269167e774",
+      "canonical_name": "Gerald Tarack",
+      "name_slug": "gerald-tarack",
+      "instrument": "violin",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "1fe7a42e-7348-411d-a10d-04d995927e4d",
+      "canonical_name": "Jacob Glick",
+      "name_slug": "jacob-glick",
+      "instrument": "viola",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "2b4785e1-110d-4873-9a07-f91fd2f61fef",
+      "canonical_name": "John Neves",
+      "name_slug": "john-neves",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "4c1d5fa4-e2cc-465a-83c4-f5f93554b3cf",
+      "canonical_name": "Norman Carr",
+      "name_slug": "norman-carr",
+      "instrument": "violin",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+      "canonical_name": "Roy Haynes",
+      "name_slug": "roy-haynes",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f3c4827f-c6b8-443f-ad59-9764c30c3ebc",
+      "canonical_name": "Stan Getz",
+      "name_slug": "stan-getz",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "2620731b-4ef2-40f3-8f5b-f48187acdf86",
+      "canonical_name": "Steve Kuhn",
+      "name_slug": "steve-kuhn",
+      "instrument": "piano",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "a6c2bbe3-f77e-4f0e-bafd-9f036710066b",
+      "title": "I'm Late, I'm Late",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "8:10",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "83287ab2-3aed-465f-baa6-f31620f431e9",
+          "canonical_name": "Alan Martin",
+          "name_slug": "alan-martin",
+          "instrument": "violin",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c9bfebb8-833c-409d-8b48-e3d75bc00471",
+          "canonical_name": "Bruce Rogers",
+          "name_slug": "bruce-rogers",
+          "instrument": "cello",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ccba50c0-7dbd-4591-91ea-68269167e774",
+          "canonical_name": "Gerald Tarack",
+          "name_slug": "gerald-tarack",
+          "instrument": "violin",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1fe7a42e-7348-411d-a10d-04d995927e4d",
+          "canonical_name": "Jacob Glick",
+          "name_slug": "jacob-glick",
+          "instrument": "viola",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4c1d5fa4-e2cc-465a-83c4-f5f93554b3cf",
+          "canonical_name": "Norman Carr",
+          "name_slug": "norman-carr",
+          "instrument": "violin",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3c4827f-c6b8-443f-ad59-9764c30c3ebc",
+          "canonical_name": "Stan Getz",
+          "name_slug": "stan-getz",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "167a7305-30c9-450c-a7d1-28c9b021ef43",
+      "title": "Her",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "6:13",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "83287ab2-3aed-465f-baa6-f31620f431e9",
+          "canonical_name": "Alan Martin",
+          "name_slug": "alan-martin",
+          "instrument": "violin",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c9bfebb8-833c-409d-8b48-e3d75bc00471",
+          "canonical_name": "Bruce Rogers",
+          "name_slug": "bruce-rogers",
+          "instrument": "cello",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ccba50c0-7dbd-4591-91ea-68269167e774",
+          "canonical_name": "Gerald Tarack",
+          "name_slug": "gerald-tarack",
+          "instrument": "violin",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1fe7a42e-7348-411d-a10d-04d995927e4d",
+          "canonical_name": "Jacob Glick",
+          "name_slug": "jacob-glick",
+          "instrument": "viola",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4c1d5fa4-e2cc-465a-83c4-f5f93554b3cf",
+          "canonical_name": "Norman Carr",
+          "name_slug": "norman-carr",
+          "instrument": "violin",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3c4827f-c6b8-443f-ad59-9764c30c3ebc",
+          "canonical_name": "Stan Getz",
+          "name_slug": "stan-getz",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "c98fec1f-c524-458a-8bb7-ff31c63854e7",
+      "title": "Pan",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "3:58",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "83287ab2-3aed-465f-baa6-f31620f431e9",
+          "canonical_name": "Alan Martin",
+          "name_slug": "alan-martin",
+          "instrument": "violin",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c9bfebb8-833c-409d-8b48-e3d75bc00471",
+          "canonical_name": "Bruce Rogers",
+          "name_slug": "bruce-rogers",
+          "instrument": "cello",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ccba50c0-7dbd-4591-91ea-68269167e774",
+          "canonical_name": "Gerald Tarack",
+          "name_slug": "gerald-tarack",
+          "instrument": "violin",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1fe7a42e-7348-411d-a10d-04d995927e4d",
+          "canonical_name": "Jacob Glick",
+          "name_slug": "jacob-glick",
+          "instrument": "viola",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4c1d5fa4-e2cc-465a-83c4-f5f93554b3cf",
+          "canonical_name": "Norman Carr",
+          "name_slug": "norman-carr",
+          "instrument": "violin",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3c4827f-c6b8-443f-ad59-9764c30c3ebc",
+          "canonical_name": "Stan Getz",
+          "name_slug": "stan-getz",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "bde315ee-3edd-4d1d-96d4-fcf81a677d5b",
+      "title": "I Remember When",
+      "track_number": 4,
+      "side": "A",
+      "duration_text": "5:03",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "83287ab2-3aed-465f-baa6-f31620f431e9",
+          "canonical_name": "Alan Martin",
+          "name_slug": "alan-martin",
+          "instrument": "violin",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c9bfebb8-833c-409d-8b48-e3d75bc00471",
+          "canonical_name": "Bruce Rogers",
+          "name_slug": "bruce-rogers",
+          "instrument": "cello",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ccba50c0-7dbd-4591-91ea-68269167e774",
+          "canonical_name": "Gerald Tarack",
+          "name_slug": "gerald-tarack",
+          "instrument": "violin",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1fe7a42e-7348-411d-a10d-04d995927e4d",
+          "canonical_name": "Jacob Glick",
+          "name_slug": "jacob-glick",
+          "instrument": "viola",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4c1d5fa4-e2cc-465a-83c4-f5f93554b3cf",
+          "canonical_name": "Norman Carr",
+          "name_slug": "norman-carr",
+          "instrument": "violin",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3c4827f-c6b8-443f-ad59-9764c30c3ebc",
+          "canonical_name": "Stan Getz",
+          "name_slug": "stan-getz",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "616e8a7a-859b-40b4-becd-47bad89db5ff",
+      "title": "Night Rider",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "3:58",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "83287ab2-3aed-465f-baa6-f31620f431e9",
+          "canonical_name": "Alan Martin",
+          "name_slug": "alan-martin",
+          "instrument": "violin",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c9bfebb8-833c-409d-8b48-e3d75bc00471",
+          "canonical_name": "Bruce Rogers",
+          "name_slug": "bruce-rogers",
+          "instrument": "cello",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ccba50c0-7dbd-4591-91ea-68269167e774",
+          "canonical_name": "Gerald Tarack",
+          "name_slug": "gerald-tarack",
+          "instrument": "violin",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1fe7a42e-7348-411d-a10d-04d995927e4d",
+          "canonical_name": "Jacob Glick",
+          "name_slug": "jacob-glick",
+          "instrument": "viola",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4c1d5fa4-e2cc-465a-83c4-f5f93554b3cf",
+          "canonical_name": "Norman Carr",
+          "name_slug": "norman-carr",
+          "instrument": "violin",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3c4827f-c6b8-443f-ad59-9764c30c3ebc",
+          "canonical_name": "Stan Getz",
+          "name_slug": "stan-getz",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "7a2b8a7a-724d-4347-b161-ffc0d1c4c17c",
+      "title": "Once Upon a Time",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "4:48",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "83287ab2-3aed-465f-baa6-f31620f431e9",
+          "canonical_name": "Alan Martin",
+          "name_slug": "alan-martin",
+          "instrument": "violin",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c9bfebb8-833c-409d-8b48-e3d75bc00471",
+          "canonical_name": "Bruce Rogers",
+          "name_slug": "bruce-rogers",
+          "instrument": "cello",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ccba50c0-7dbd-4591-91ea-68269167e774",
+          "canonical_name": "Gerald Tarack",
+          "name_slug": "gerald-tarack",
+          "instrument": "violin",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1fe7a42e-7348-411d-a10d-04d995927e4d",
+          "canonical_name": "Jacob Glick",
+          "name_slug": "jacob-glick",
+          "instrument": "viola",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4c1d5fa4-e2cc-465a-83c4-f5f93554b3cf",
+          "canonical_name": "Norman Carr",
+          "name_slug": "norman-carr",
+          "instrument": "violin",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3c4827f-c6b8-443f-ad59-9764c30c3ebc",
+          "canonical_name": "Stan Getz",
+          "name_slug": "stan-getz",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "41719bc9-68c1-4ab4-908a-2808928a8a1a",
+      "title": "A Summer Afternoon",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": "6:03",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "83287ab2-3aed-465f-baa6-f31620f431e9",
+          "canonical_name": "Alan Martin",
+          "name_slug": "alan-martin",
+          "instrument": "violin",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c9bfebb8-833c-409d-8b48-e3d75bc00471",
+          "canonical_name": "Bruce Rogers",
+          "name_slug": "bruce-rogers",
+          "instrument": "cello",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ccba50c0-7dbd-4591-91ea-68269167e774",
+          "canonical_name": "Gerald Tarack",
+          "name_slug": "gerald-tarack",
+          "instrument": "violin",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1fe7a42e-7348-411d-a10d-04d995927e4d",
+          "canonical_name": "Jacob Glick",
+          "name_slug": "jacob-glick",
+          "instrument": "viola",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4c1d5fa4-e2cc-465a-83c4-f5f93554b3cf",
+          "canonical_name": "Norman Carr",
+          "name_slug": "norman-carr",
+          "instrument": "violin",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3c4827f-c6b8-443f-ad59-9764c30c3ebc",
+          "canonical_name": "Stan Getz",
+          "name_slug": "stan-getz",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,615 @@
+{
+  "id": "miles-davis-birth-of-the-cool-1950",
+  "title": "Birth of the Cool",
+  "artist_name": "Miles Davis",
+  "year": 1950,
+  "label": "Capitol",
+  "catalog_number": "JT 941",
+  "recording_dates_text": "1949-01-21, 1949-04-22, 1950-03-09",
+  "description": null,
+  "style_primary": "cool-jazz",
+  "style_display": "Cool Jazz",
+  "cover_art_url": "http://coverartarchive.org/release/9f97004b-25e9-4cd9-8aca-a87cb199fe43/19126231822-500.jpg",
+  "apple_album_id": "1440951879",
+  "studios": [
+    "WOR Studios, New York City"
+  ],
+  "personnel": [
+    {
+      "person_id": "a587111b-57a1-4759-99bc-211a3a36a226",
+      "canonical_name": "Al Haig",
+      "name_slug": "al-haig",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "ed6b5ebb-7e1c-49c3-80cc-4596d2b3b2fa",
+      "canonical_name": "Al McKibbon",
+      "name_slug": "al-mckibbon",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+      "canonical_name": "Bill Barber",
+      "name_slug": "bill-barber",
+      "instrument": "tuba",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+      "canonical_name": "Gerry Mulligan",
+      "name_slug": "gerry-mulligan",
+      "instrument": "baritone saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "5be09b48-87ba-4c83-9a40-20dc42c789be",
+      "canonical_name": "Gunther Schuller",
+      "name_slug": "gunther-schuller",
+      "instrument": "French horn",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "a0b81ff2-6735-41c0-b1b1-4f1bbb463f6d",
+      "canonical_name": "J.J. Johnson",
+      "name_slug": "jj-johnson",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "c5f1b1cd-4421-4b0c-be52-8bd63ce015b8",
+      "canonical_name": "Joe Shulman",
+      "name_slug": "joe-shulman",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "5d86b7d8-7af1-42f2-8049-b7452149c300",
+      "canonical_name": "John Lewis",
+      "name_slug": "john-lewis",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "16e83c2c-279c-4970-9b81-d6fec81c79e5",
+      "canonical_name": "Junior Collins",
+      "name_slug": "junior-collins",
+      "instrument": "French horn",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "1fa132aa-678f-41ce-b719-6f99c8226a84",
+      "canonical_name": "Kai Winding",
+      "name_slug": "kai-winding",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "5eae0e9e-034e-4b00-81dd-8ea16885bbbc",
+      "canonical_name": "Kenny Clarke",
+      "name_slug": "kenny-clarke",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "4e658e11-42d1-4568-8ed0-66bbe77a7b95",
+      "canonical_name": "Kenny Hagood",
+      "name_slug": "kenny-hagood",
+      "instrument": "voice",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+      "canonical_name": "Lee Konitz",
+      "name_slug": "lee-konitz",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "0c62dbce-fdbb-4b90-871d-910ab769d30e",
+      "canonical_name": "Max Roach",
+      "name_slug": "max-roach",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+      "canonical_name": "Miles Davis",
+      "name_slug": "miles-davis",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "c4a2c143-6766-4c9c-b61f-8bd65b6cac15",
+      "canonical_name": "Nelson Boyd",
+      "name_slug": "nelson-boyd",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f4a8047b-7477-42d8-ab34-e8c32848b47b",
+      "canonical_name": "Sandy Siegelstein",
+      "name_slug": "sandy-siegelstein",
+      "instrument": "French horn",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "1fbaf83e-f845-4235-a786-cdadc1d3756e",
+      "title": "Move",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "a900f061-42e0-4df5-841b-09e0d41b1d8d",
+      "title": "Jeru",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "2f3af83c-1568-4d8e-bb32-a832d6275a5e",
+      "title": "Moon Dreams",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "5d566638-7bae-4399-a348-9ea70ff8b5dc",
+      "title": "Venus de Milo",
+      "track_number": 4,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "c97cfa41-24e4-4018-99d7-d53b74ecfee1",
+      "title": "Budo",
+      "track_number": 5,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "ae919961-c130-4df6-83a9-b065932398e8",
+      "title": "Deception",
+      "track_number": 6,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "5868efae-6cb5-4e62-b211-c0261de0b854",
+      "title": "Godchild",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "22b0d4bb-0a1e-4e11-b931-6ca92659a330",
+      "title": "Boplicity",
+      "track_number": 8,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "b44827ae-cfdf-4e5f-8480-806695009e9a",
+      "title": "Rocker",
+      "track_number": 9,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "90cd339e-0e49-422c-b388-af44733c224c",
+      "title": "Israel",
+      "track_number": 10,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "4c80fb5f-2608-4f4a-bd7a-22e89a36a436",
+      "title": "Rouge",
+      "track_number": 11,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "7361f43b-b8f2-4266-8746-d9933bc4a7e9",
+      "title": "Darn That Dream",
+      "track_number": 12,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4e658e11-42d1-4568-8ed0-66bbe77a7b95",
+          "canonical_name": "Kenny Hagood",
+          "name_slug": "kenny-hagood",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

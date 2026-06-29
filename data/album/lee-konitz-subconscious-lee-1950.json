@@ -1,0 +1,666 @@
+{
+  "id": "lee-konitz-subconscious-lee-1950",
+  "title": "Subconscious-Lee",
+  "artist_name": "Lee Konitz",
+  "year": 1950,
+  "label": "Prestige",
+  "catalog_number": "PRLP 7004",
+  "recording_dates_text": "1949-01-11, 1949-06-28, 1949-09-27, 1950-04-07",
+  "description": null,
+  "style_primary": "cool-jazz",
+  "style_display": "Cool Jazz",
+  "cover_art_url": "http://coverartarchive.org/release/940e1c05-ff09-41bf-b3d8-7a0642a0258f/35240181478-500.jpg",
+  "apple_album_id": null,
+  "studios": [],
+  "personnel": [
+    {
+      "person_id": "d0c311e8-1c9d-4ca7-b5c7-c2b912ac1666",
+      "canonical_name": "Arnold Fishkin",
+      "name_slug": "arnold-fishkin",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "1287a68b-8359-45d3-b4c1-b5963aea5918",
+      "canonical_name": "Billy Bauer",
+      "name_slug": "billy-bauer",
+      "instrument": "guitar",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "cfcb3b75-46d8-4873-b20a-e568ebb2d1fe",
+      "canonical_name": "Denzil Best",
+      "name_slug": "denzil-best",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "b7e8da38-9427-4427-b06c-6380eeb38b1f",
+      "canonical_name": "Jeff Morton",
+      "name_slug": "jeff-morton",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+      "canonical_name": "Lee Konitz",
+      "name_slug": "lee-konitz",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "c63f68a0-652b-4e42-913f-8d1db4519c35",
+      "canonical_name": "Lennie Tristano",
+      "name_slug": "lennie-tristano",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "29b5cde2-3eec-4022-aba4-2af0d19b04bb",
+      "canonical_name": "Sal Mosca",
+      "name_slug": "sal-mosca",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+      "canonical_name": "Shelly Manne",
+      "name_slug": "shelly-manne",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "4976b5ea-1333-4921-af2f-c8ff99220e24",
+      "canonical_name": "Warne Marsh",
+      "name_slug": "warne-marsh",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "0f62b317-c166-449e-8b9a-7267a51f3d06",
+      "title": "Progression",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "3:00",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d0c311e8-1c9d-4ca7-b5c7-c2b912ac1666",
+          "canonical_name": "Arnold Fishkin",
+          "name_slug": "arnold-fishkin",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1287a68b-8359-45d3-b4c1-b5963aea5918",
+          "canonical_name": "Billy Bauer",
+          "name_slug": "billy-bauer",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c63f68a0-652b-4e42-913f-8d1db4519c35",
+          "canonical_name": "Lennie Tristano",
+          "name_slug": "lennie-tristano",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "fbe8f910-0296-4393-9c52-af5362d17090",
+      "title": "Tautology",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "2:45",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d0c311e8-1c9d-4ca7-b5c7-c2b912ac1666",
+          "canonical_name": "Arnold Fishkin",
+          "name_slug": "arnold-fishkin",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "bc11447c-003d-41b2-aefc-e382686bd457",
+      "title": "Retrospection",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "3:09",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d0c311e8-1c9d-4ca7-b5c7-c2b912ac1666",
+          "canonical_name": "Arnold Fishkin",
+          "name_slug": "arnold-fishkin",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1287a68b-8359-45d3-b4c1-b5963aea5918",
+          "canonical_name": "Billy Bauer",
+          "name_slug": "billy-bauer",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c63f68a0-652b-4e42-913f-8d1db4519c35",
+          "canonical_name": "Lennie Tristano",
+          "name_slug": "lennie-tristano",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "7f0f7a85-2339-4562-91d6-f9a9569c8eb8",
+      "title": "Subconscious-Lee",
+      "track_number": 4,
+      "side": "A",
+      "duration_text": "2:49",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d0c311e8-1c9d-4ca7-b5c7-c2b912ac1666",
+          "canonical_name": "Arnold Fishkin",
+          "name_slug": "arnold-fishkin",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1287a68b-8359-45d3-b4c1-b5963aea5918",
+          "canonical_name": "Billy Bauer",
+          "name_slug": "billy-bauer",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c63f68a0-652b-4e42-913f-8d1db4519c35",
+          "canonical_name": "Lennie Tristano",
+          "name_slug": "lennie-tristano",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "fa4028dc-f2d7-4ddf-904a-c892519dc464",
+      "title": "Judy",
+      "track_number": 5,
+      "side": "A",
+      "duration_text": "2:56",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d0c311e8-1c9d-4ca7-b5c7-c2b912ac1666",
+          "canonical_name": "Arnold Fishkin",
+          "name_slug": "arnold-fishkin",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1287a68b-8359-45d3-b4c1-b5963aea5918",
+          "canonical_name": "Billy Bauer",
+          "name_slug": "billy-bauer",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c63f68a0-652b-4e42-913f-8d1db4519c35",
+          "canonical_name": "Lennie Tristano",
+          "name_slug": "lennie-tristano",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "93f09014-a6b0-45a6-a016-7944293b19e6",
+      "title": "Marshmallow",
+      "track_number": 6,
+      "side": "A",
+      "duration_text": "2:55",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d0c311e8-1c9d-4ca7-b5c7-c2b912ac1666",
+          "canonical_name": "Arnold Fishkin",
+          "name_slug": "arnold-fishkin",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cfcb3b75-46d8-4873-b20a-e568ebb2d1fe",
+          "canonical_name": "Denzil Best",
+          "name_slug": "denzil-best",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29b5cde2-3eec-4022-aba4-2af0d19b04bb",
+          "canonical_name": "Sal Mosca",
+          "name_slug": "sal-mosca",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4976b5ea-1333-4921-af2f-c8ff99220e24",
+          "canonical_name": "Warne Marsh",
+          "name_slug": "warne-marsh",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "18835c26-d8b3-4c5c-9482-80d3627cffdc",
+      "title": "Fishin' Around",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": "3:47",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d0c311e8-1c9d-4ca7-b5c7-c2b912ac1666",
+          "canonical_name": "Arnold Fishkin",
+          "name_slug": "arnold-fishkin",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cfcb3b75-46d8-4873-b20a-e568ebb2d1fe",
+          "canonical_name": "Denzil Best",
+          "name_slug": "denzil-best",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29b5cde2-3eec-4022-aba4-2af0d19b04bb",
+          "canonical_name": "Sal Mosca",
+          "name_slug": "sal-mosca",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4976b5ea-1333-4921-af2f-c8ff99220e24",
+          "canonical_name": "Warne Marsh",
+          "name_slug": "warne-marsh",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "e3039341-f1e5-4058-89be-577216e3ddf7",
+      "title": "Tautology",
+      "track_number": 8,
+      "side": "B",
+      "duration_text": "2:56",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d0c311e8-1c9d-4ca7-b5c7-c2b912ac1666",
+          "canonical_name": "Arnold Fishkin",
+          "name_slug": "arnold-fishkin",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1287a68b-8359-45d3-b4c1-b5963aea5918",
+          "canonical_name": "Billy Bauer",
+          "name_slug": "billy-bauer",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b7e8da38-9427-4427-b06c-6380eeb38b1f",
+          "canonical_name": "Jeff Morton",
+          "name_slug": "jeff-morton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c63f68a0-652b-4e42-913f-8d1db4519c35",
+          "canonical_name": "Lennie Tristano",
+          "name_slug": "lennie-tristano",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29b5cde2-3eec-4022-aba4-2af0d19b04bb",
+          "canonical_name": "Sal Mosca",
+          "name_slug": "sal-mosca",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4976b5ea-1333-4921-af2f-c8ff99220e24",
+          "canonical_name": "Warne Marsh",
+          "name_slug": "warne-marsh",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "2f0ce3d6-9f95-4401-84be-2b4a970dd13e",
+      "title": "Sound-Lee",
+      "track_number": 9,
+      "side": "B",
+      "duration_text": "4:08",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d0c311e8-1c9d-4ca7-b5c7-c2b912ac1666",
+          "canonical_name": "Arnold Fishkin",
+          "name_slug": "arnold-fishkin",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b7e8da38-9427-4427-b06c-6380eeb38b1f",
+          "canonical_name": "Jeff Morton",
+          "name_slug": "jeff-morton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29b5cde2-3eec-4022-aba4-2af0d19b04bb",
+          "canonical_name": "Sal Mosca",
+          "name_slug": "sal-mosca",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4976b5ea-1333-4921-af2f-c8ff99220e24",
+          "canonical_name": "Warne Marsh",
+          "name_slug": "warne-marsh",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "4bc59e21-30a1-4025-9dcf-ffd436fdaf70",
+      "title": "Rebecca",
+      "track_number": 10,
+      "side": "B",
+      "duration_text": "3:05",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d0c311e8-1c9d-4ca7-b5c7-c2b912ac1666",
+          "canonical_name": "Arnold Fishkin",
+          "name_slug": "arnold-fishkin",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1287a68b-8359-45d3-b4c1-b5963aea5918",
+          "canonical_name": "Billy Bauer",
+          "name_slug": "billy-bauer",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b7e8da38-9427-4427-b06c-6380eeb38b1f",
+          "canonical_name": "Jeff Morton",
+          "name_slug": "jeff-morton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29b5cde2-3eec-4022-aba4-2af0d19b04bb",
+          "canonical_name": "Sal Mosca",
+          "name_slug": "sal-mosca",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "3bfe41d9-8116-46fc-8ead-69b4632461aa",
+      "title": "You Go to My Head",
+      "track_number": 11,
+      "side": "B",
+      "duration_text": "2:38",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d0c311e8-1c9d-4ca7-b5c7-c2b912ac1666",
+          "canonical_name": "Arnold Fishkin",
+          "name_slug": "arnold-fishkin",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1287a68b-8359-45d3-b4c1-b5963aea5918",
+          "canonical_name": "Billy Bauer",
+          "name_slug": "billy-bauer",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b7e8da38-9427-4427-b06c-6380eeb38b1f",
+          "canonical_name": "Jeff Morton",
+          "name_slug": "jeff-morton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29b5cde2-3eec-4022-aba4-2af0d19b04bb",
+          "canonical_name": "Sal Mosca",
+          "name_slug": "sal-mosca",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "d44af70b-80c8-4552-a277-a850d509ff46",
+      "title": "Ice Cream Konitz",
+      "track_number": 12,
+      "side": "B",
+      "duration_text": "2:45",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d0c311e8-1c9d-4ca7-b5c7-c2b912ac1666",
+          "canonical_name": "Arnold Fishkin",
+          "name_slug": "arnold-fishkin",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1287a68b-8359-45d3-b4c1-b5963aea5918",
+          "canonical_name": "Billy Bauer",
+          "name_slug": "billy-bauer",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b7e8da38-9427-4427-b06c-6380eeb38b1f",
+          "canonical_name": "Jeff Morton",
+          "name_slug": "jeff-morton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29b5cde2-3eec-4022-aba4-2af0d19b04bb",
+          "canonical_name": "Sal Mosca",
+          "name_slug": "sal-mosca",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "d915f4bc-2986-43e8-a9fd-c550ca8e553b",
+      "title": "Palo Alto",
+      "track_number": 13,
+      "side": "B",
+      "duration_text": "2:31",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d0c311e8-1c9d-4ca7-b5c7-c2b912ac1666",
+          "canonical_name": "Arnold Fishkin",
+          "name_slug": "arnold-fishkin",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1287a68b-8359-45d3-b4c1-b5963aea5918",
+          "canonical_name": "Billy Bauer",
+          "name_slug": "billy-bauer",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b7e8da38-9427-4427-b06c-6380eeb38b1f",
+          "canonical_name": "Jeff Morton",
+          "name_slug": "jeff-morton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29b5cde2-3eec-4022-aba4-2af0d19b04bb",
+          "canonical_name": "Sal Mosca",
+          "name_slug": "sal-mosca",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

@@ -21,6 +21,14 @@ import psycopg2
 from psycopg2.extras import RealDictCursor
 
 
+# Minimum shared-album count for an edge to appear in network.json.
+# Filters one-off coincidences (shared==1) while preserving meaningful
+# collaboration signals. Raise as the canon grows. The scoped network view
+# (always centered on a single musician) degrades gracefully at any threshold,
+# so this is purely a full-file size/noise concern. See app-spec-v1.md §6.
+EDGE_MIN_SHARED = 2
+
+
 def load_env(path=".env.local"):
     if not Path(path).exists():
         return
@@ -135,12 +143,13 @@ def export_album_detail(cur, out_dir, albums):
         # Tracks
         cur.execute("""
             SELECT
-                t.id::text      AS track_id,
+                t.id::text              AS track_id,
                 t.title,
                 t.track_number,
                 t.side,
                 t.duration_text,
-                t.apple_track_id
+                t.apple_track_id,
+                t.epistemic_track::text AS epistemic_track
             FROM _jazzcanon.track t
             WHERE t.album_id = %s
             ORDER BY t.track_number
@@ -212,22 +221,49 @@ def export_network(cur, out_dir):
     """)
     albums = [dict(r) for r in cur.fetchall()]
 
-    # Musicians with their canon album IDs and instruments
+    # Musicians with their canon album IDs, instruments, and per-album epistemic.
+    # album_refs carries the musician's epistemic label PER canon album so the
+    # Personnel Network can style "played on" edges (solid=obs, dashed=inf,
+    # dotted=unk). Edge epistemic = the BEST (most-certain) credit that musician
+    # has on that album: one observed credit means we observed them on the record.
     cur.execute("""
+        WITH pa AS (
+            SELECT
+                p.person_id,
+                p.album_id,
+                CASE min(CASE p.epistemic::text
+                            WHEN 'obs' THEN 1 WHEN 'inf' THEN 2 ELSE 3 END)
+                     WHEN 1 THEN 'obs' WHEN 2 THEN 'inf' ELSE 'unk' END AS epistemic
+            FROM _jazzcanon.performance p
+            JOIN _jazzcanon.album_collection ac ON ac.album_id = p.album_id
+            JOIN _jazzcanon.collection c
+                ON c.id = ac.collection_id AND c.slug = 'the-jazz-canon'
+            GROUP BY p.person_id, p.album_id
+        ),
+        instr AS (
+            SELECT
+                p.person_id,
+                array_agg(DISTINCT i.name ORDER BY i.name) AS instruments
+            FROM _jazzcanon.performance p
+            JOIN _jazzcanon.instrument i ON i.id = p.instrument_id
+            JOIN _jazzcanon.album_collection ac ON ac.album_id = p.album_id
+            JOIN _jazzcanon.collection c
+                ON c.id = ac.collection_id AND c.slug = 'the-jazz-canon'
+            GROUP BY p.person_id
+        )
         SELECT
-            pe.id::text         AS person_id,
+            pe.id::text     AS person_id,
             pe.canonical_name,
             pe.name_slug,
-            array_agg(DISTINCT i.name  ORDER BY i.name)        AS instruments,
-            array_agg(DISTINCT p.album_id ORDER BY p.album_id) AS album_ids
-        FROM _jazzcanon.performance p
-        JOIN _jazzcanon.person pe     ON pe.id = p.person_id
-        JOIN _jazzcanon.instrument i  ON i.id  = p.instrument_id
-        JOIN _jazzcanon.album_collection ac ON ac.album_id = p.album_id
-        JOIN _jazzcanon.collection c
-            ON c.id = ac.collection_id AND c.slug = 'the-jazz-canon'
-        GROUP BY pe.id, pe.canonical_name, pe.name_slug
-        ORDER BY array_length(array_agg(DISTINCT p.album_id), 1) DESC, pe.sort_name
+            instr.instruments,
+            array_agg(pa.album_id ORDER BY pa.album_id) AS album_ids,
+            jsonb_agg(jsonb_build_object('album_id', pa.album_id, 'epistemic', pa.epistemic)
+                      ORDER BY pa.album_id) AS album_refs
+        FROM pa
+        JOIN _jazzcanon.person pe ON pe.id = pa.person_id
+        JOIN instr ON instr.person_id = pa.person_id
+        GROUP BY pe.id, pe.canonical_name, pe.name_slug, instr.instruments
+        ORDER BY count(pa.album_id) DESC, pe.sort_name
     """)
     musicians = [dict(r) for r in cur.fetchall()]
 
@@ -246,13 +282,16 @@ def export_network(cur, out_dir):
         GROUP BY p1.person_id, p2.person_id
         ORDER BY shared_albums DESC
     """)
-    edges = [dict(r) for r in cur.fetchall()]
+    edges = [
+        dict(r) for r in cur.fetchall()
+        if r["shared_albums"] >= EDGE_MIN_SHARED
+    ]
 
     network = {"musicians": musicians, "albums": albums, "edges": edges}
     (out_dir / "network.json").write_text(
         json.dumps(network, indent=2, default=str)
     )
-    print(f"  network.json         — {len(musicians)} musicians, {len(edges)} edges")
+    print(f"  network.json         — {len(musicians)} musicians, {len(edges)} edges (shared>={EDGE_MIN_SHARED})")
 
 
 # ---------------------------------------------------------------------------

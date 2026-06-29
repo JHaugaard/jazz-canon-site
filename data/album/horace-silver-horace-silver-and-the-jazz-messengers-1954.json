@@ -1,0 +1,424 @@
+{
+  "id": "horace-silver-horace-silver-and-the-jazz-messengers-1954",
+  "title": "Horace Silver and the Jazz Messengers",
+  "artist_name": "Horace Silver",
+  "year": 1954,
+  "label": "Blue Note",
+  "catalog_number": "BLP 1518",
+  "recording_dates_text": "1954-11-13, 1955-02-06",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "http://coverartarchive.org/release/41f3eb80-e632-4e1e-8c21-8bb1c6ce5d28/2888607276-500.jpg",
+  "apple_album_id": "1444052680",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+      "canonical_name": "Art Blakey",
+      "name_slug": "art-blakey",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "79f63f7d-ef60-4205-9161-9436f40b482e",
+      "canonical_name": "Doug Watkins",
+      "name_slug": "doug-watkins",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+      "canonical_name": "Hank Mobley",
+      "name_slug": "hank-mobley",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+      "canonical_name": "Horace Silver",
+      "name_slug": "horace-silver",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+      "canonical_name": "Kenny Dorham",
+      "name_slug": "kenny-dorham",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "dbd55475-f694-470d-af7c-f3881d200300",
+      "title": "Room 608",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "5:22",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "79f63f7d-ef60-4205-9161-9436f40b482e",
+          "canonical_name": "Doug Watkins",
+          "name_slug": "doug-watkins",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+          "canonical_name": "Hank Mobley",
+          "name_slug": "hank-mobley",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+          "canonical_name": "Kenny Dorham",
+          "name_slug": "kenny-dorham",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "d7ba1434-1989-49ff-a60d-36c24458a761",
+      "title": "Creepin' In",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "7:26",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "79f63f7d-ef60-4205-9161-9436f40b482e",
+          "canonical_name": "Doug Watkins",
+          "name_slug": "doug-watkins",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+          "canonical_name": "Hank Mobley",
+          "name_slug": "hank-mobley",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+          "canonical_name": "Kenny Dorham",
+          "name_slug": "kenny-dorham",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "83a6d3cc-8d30-429b-8fec-427861165ac3",
+      "title": "Stop Time",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "4:07",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "79f63f7d-ef60-4205-9161-9436f40b482e",
+          "canonical_name": "Doug Watkins",
+          "name_slug": "doug-watkins",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+          "canonical_name": "Hank Mobley",
+          "name_slug": "hank-mobley",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+          "canonical_name": "Kenny Dorham",
+          "name_slug": "kenny-dorham",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "ad2cc1d3-e3ab-4c14-b924-7e7661a5838b",
+      "title": "To Whom It May Concern",
+      "track_number": 4,
+      "side": "A",
+      "duration_text": "5:11",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "79f63f7d-ef60-4205-9161-9436f40b482e",
+          "canonical_name": "Doug Watkins",
+          "name_slug": "doug-watkins",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+          "canonical_name": "Hank Mobley",
+          "name_slug": "hank-mobley",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+          "canonical_name": "Kenny Dorham",
+          "name_slug": "kenny-dorham",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "ede0f135-11ca-4cb0-8be8-d77c59c9a37e",
+      "title": "Hippy",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "5:23",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "79f63f7d-ef60-4205-9161-9436f40b482e",
+          "canonical_name": "Doug Watkins",
+          "name_slug": "doug-watkins",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+          "canonical_name": "Hank Mobley",
+          "name_slug": "hank-mobley",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+          "canonical_name": "Kenny Dorham",
+          "name_slug": "kenny-dorham",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "0d1bbfb4-718b-45ee-a825-2b6bf7be1245",
+      "title": "The Preacher",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "4:18",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "79f63f7d-ef60-4205-9161-9436f40b482e",
+          "canonical_name": "Doug Watkins",
+          "name_slug": "doug-watkins",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+          "canonical_name": "Hank Mobley",
+          "name_slug": "hank-mobley",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+          "canonical_name": "Kenny Dorham",
+          "name_slug": "kenny-dorham",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "6026c0b0-e824-4e81-b3fc-09654c695e2d",
+      "title": "Hankerin'",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": "5:18",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "79f63f7d-ef60-4205-9161-9436f40b482e",
+          "canonical_name": "Doug Watkins",
+          "name_slug": "doug-watkins",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+          "canonical_name": "Hank Mobley",
+          "name_slug": "hank-mobley",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+          "canonical_name": "Kenny Dorham",
+          "name_slug": "kenny-dorham",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "f3ef6d0d-cf7c-42c2-a0a5-08e0520d056d",
+      "title": "Doodlin'",
+      "track_number": 8,
+      "side": "B",
+      "duration_text": "6:45",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "79f63f7d-ef60-4205-9161-9436f40b482e",
+          "canonical_name": "Doug Watkins",
+          "name_slug": "doug-watkins",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+          "canonical_name": "Hank Mobley",
+          "name_slug": "hank-mobley",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+          "canonical_name": "Kenny Dorham",
+          "name_slug": "kenny-dorham",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

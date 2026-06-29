@@ -1,0 +1,396 @@
+{
+  "id": "horace-silver-blowin-the-blues-away-1959",
+  "title": "Blowin' the Blues Away",
+  "artist_name": "Horace Silver",
+  "year": 1959,
+  "label": "Blue Note",
+  "catalog_number": "BLP 4017",
+  "recording_dates_text": "1959-08-29, 1959-08-30, 1959-09-13",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "https://coverartarchive.org/release-group/f69dc17c-6931-4c28-b5d6-57f55ab372cb/front",
+  "apple_album_id": "1445889621",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "d6c6e20a-6511-44de-ab89-2d06def19e8c",
+      "canonical_name": "Blue Mitchell",
+      "name_slug": "blue-mitchell",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "df60e875-2c33-4fe4-a6ca-78cbf2eb9f58",
+      "canonical_name": "Gene Taylor",
+      "name_slug": "gene-taylor",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+      "canonical_name": "Horace Silver",
+      "name_slug": "horace-silver",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "fdb84b21-4097-4cc8-85dc-2260601b0fdd",
+      "canonical_name": "Junior Cook",
+      "name_slug": "junior-cook",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "ee1f45d4-b6e1-4635-aada-85c3194c6ed7",
+      "canonical_name": "Louis Hayes",
+      "name_slug": "louis-hayes",
+      "instrument": "drums",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "cb4d7cdc-00d0-48b9-8804-d4a403428817",
+      "title": "Blowin' the Blues Away",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "4:44",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d6c6e20a-6511-44de-ab89-2d06def19e8c",
+          "canonical_name": "Blue Mitchell",
+          "name_slug": "blue-mitchell",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "df60e875-2c33-4fe4-a6ca-78cbf2eb9f58",
+          "canonical_name": "Gene Taylor",
+          "name_slug": "gene-taylor",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fdb84b21-4097-4cc8-85dc-2260601b0fdd",
+          "canonical_name": "Junior Cook",
+          "name_slug": "junior-cook",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ee1f45d4-b6e1-4635-aada-85c3194c6ed7",
+          "canonical_name": "Louis Hayes",
+          "name_slug": "louis-hayes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "fa5cc409-2171-474d-a7d7-1bf0721cb9ab",
+      "title": "The St. Vitus Dance",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "4:09",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "df60e875-2c33-4fe4-a6ca-78cbf2eb9f58",
+          "canonical_name": "Gene Taylor",
+          "name_slug": "gene-taylor",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ee1f45d4-b6e1-4635-aada-85c3194c6ed7",
+          "canonical_name": "Louis Hayes",
+          "name_slug": "louis-hayes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "69967010-5dda-4188-8d20-4a9598d993f9",
+      "title": "Break City",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "4:57",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d6c6e20a-6511-44de-ab89-2d06def19e8c",
+          "canonical_name": "Blue Mitchell",
+          "name_slug": "blue-mitchell",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "df60e875-2c33-4fe4-a6ca-78cbf2eb9f58",
+          "canonical_name": "Gene Taylor",
+          "name_slug": "gene-taylor",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fdb84b21-4097-4cc8-85dc-2260601b0fdd",
+          "canonical_name": "Junior Cook",
+          "name_slug": "junior-cook",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ee1f45d4-b6e1-4635-aada-85c3194c6ed7",
+          "canonical_name": "Louis Hayes",
+          "name_slug": "louis-hayes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "7c303821-9591-44da-b1a6-e5f3705294aa",
+      "title": "Peace",
+      "track_number": 4,
+      "side": "A",
+      "duration_text": "6:02",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d6c6e20a-6511-44de-ab89-2d06def19e8c",
+          "canonical_name": "Blue Mitchell",
+          "name_slug": "blue-mitchell",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "df60e875-2c33-4fe4-a6ca-78cbf2eb9f58",
+          "canonical_name": "Gene Taylor",
+          "name_slug": "gene-taylor",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fdb84b21-4097-4cc8-85dc-2260601b0fdd",
+          "canonical_name": "Junior Cook",
+          "name_slug": "junior-cook",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ee1f45d4-b6e1-4635-aada-85c3194c6ed7",
+          "canonical_name": "Louis Hayes",
+          "name_slug": "louis-hayes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "ffbe9040-0556-484d-a3dc-2ad51d972db4",
+      "title": "Sister Sadie",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "6:19",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d6c6e20a-6511-44de-ab89-2d06def19e8c",
+          "canonical_name": "Blue Mitchell",
+          "name_slug": "blue-mitchell",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "df60e875-2c33-4fe4-a6ca-78cbf2eb9f58",
+          "canonical_name": "Gene Taylor",
+          "name_slug": "gene-taylor",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fdb84b21-4097-4cc8-85dc-2260601b0fdd",
+          "canonical_name": "Junior Cook",
+          "name_slug": "junior-cook",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ee1f45d4-b6e1-4635-aada-85c3194c6ed7",
+          "canonical_name": "Louis Hayes",
+          "name_slug": "louis-hayes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "65e7ae06-3291-475d-af7d-5ab344312f16",
+      "title": "The Baghdad Blues",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "4:52",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d6c6e20a-6511-44de-ab89-2d06def19e8c",
+          "canonical_name": "Blue Mitchell",
+          "name_slug": "blue-mitchell",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "df60e875-2c33-4fe4-a6ca-78cbf2eb9f58",
+          "canonical_name": "Gene Taylor",
+          "name_slug": "gene-taylor",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fdb84b21-4097-4cc8-85dc-2260601b0fdd",
+          "canonical_name": "Junior Cook",
+          "name_slug": "junior-cook",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ee1f45d4-b6e1-4635-aada-85c3194c6ed7",
+          "canonical_name": "Louis Hayes",
+          "name_slug": "louis-hayes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "dba3b776-1305-45e7-afe6-d1722ba80d64",
+      "title": "Melancholy Mood",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": "7:10",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "df60e875-2c33-4fe4-a6ca-78cbf2eb9f58",
+          "canonical_name": "Gene Taylor",
+          "name_slug": "gene-taylor",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ee1f45d4-b6e1-4635-aada-85c3194c6ed7",
+          "canonical_name": "Louis Hayes",
+          "name_slug": "louis-hayes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "9d257ba7-cfc8-4a88-a4a2-ef5d60a2446d",
+      "title": "How Did It Happen",
+      "track_number": 8,
+      "side": "B",
+      "duration_text": "4:41",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d6c6e20a-6511-44de-ab89-2d06def19e8c",
+          "canonical_name": "Blue Mitchell",
+          "name_slug": "blue-mitchell",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "df60e875-2c33-4fe4-a6ca-78cbf2eb9f58",
+          "canonical_name": "Gene Taylor",
+          "name_slug": "gene-taylor",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fdb84b21-4097-4cc8-85dc-2260601b0fdd",
+          "canonical_name": "Junior Cook",
+          "name_slug": "junior-cook",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ee1f45d4-b6e1-4635-aada-85c3194c6ed7",
+          "canonical_name": "Louis Hayes",
+          "name_slug": "louis-hayes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,444 @@
+{
+  "id": "oliver-nelson-the-blues-and-the-abstract-truth",
+  "title": "The Blues and the Abstract Truth",
+  "artist_name": "Oliver Nelson",
+  "year": 1961,
+  "label": "Impulse!",
+  "catalog_number": "A-5",
+  "recording_dates_text": "1961-02-23",
+  "description": null,
+  "style_primary": "modal-jazz",
+  "style_display": "Modal Jazz",
+  "cover_art_url": "http://coverartarchive.org/release/0bc26986-223f-447b-bef9-8655f949fa5f/15366848926-500.jpg",
+  "apple_album_id": "1571406209",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+      "canonical_name": "Bill Evans",
+      "name_slug": "bill-evans",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "4a10b6ea-d4dd-4c66-a2fa-76be914c0e57",
+      "canonical_name": "Eric Dolphy",
+      "name_slug": "eric-dolphy",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "4a10b6ea-d4dd-4c66-a2fa-76be914c0e57",
+      "canonical_name": "Eric Dolphy",
+      "name_slug": "eric-dolphy",
+      "instrument": "flute",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+      "canonical_name": "Freddie Hubbard",
+      "name_slug": "freddie-hubbard",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "49211162-e6c1-45aa-9c96-22d88df3b67b",
+      "canonical_name": "George Barrow",
+      "name_slug": "george-barrow",
+      "instrument": "baritone saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "35a603e4-251c-4c3b-b846-09a5be67336f",
+      "canonical_name": "Oliver Nelson",
+      "name_slug": "oliver-nelson",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "35a603e4-251c-4c3b-b846-09a5be67336f",
+      "canonical_name": "Oliver Nelson",
+      "name_slug": "oliver-nelson",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+      "canonical_name": "Paul Chambers",
+      "name_slug": "paul-chambers",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+      "canonical_name": "Roy Haynes",
+      "name_slug": "roy-haynes",
+      "instrument": "drums",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "09a6da06-7892-4d70-9485-13b087742336",
+      "title": "Stolen Moments",
+      "track_number": 1,
+      "side": null,
+      "duration_text": "8:45",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4a10b6ea-d4dd-4c66-a2fa-76be914c0e57",
+          "canonical_name": "Eric Dolphy",
+          "name_slug": "eric-dolphy",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4a10b6ea-d4dd-4c66-a2fa-76be914c0e57",
+          "canonical_name": "Eric Dolphy",
+          "name_slug": "eric-dolphy",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "35a603e4-251c-4c3b-b846-09a5be67336f",
+          "canonical_name": "Oliver Nelson",
+          "name_slug": "oliver-nelson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "35a603e4-251c-4c3b-b846-09a5be67336f",
+          "canonical_name": "Oliver Nelson",
+          "name_slug": "oliver-nelson",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "978b4304-8584-4991-ba7a-5ee73044ab59",
+      "title": "Hoe-Down",
+      "track_number": 2,
+      "side": null,
+      "duration_text": "4:42",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4a10b6ea-d4dd-4c66-a2fa-76be914c0e57",
+          "canonical_name": "Eric Dolphy",
+          "name_slug": "eric-dolphy",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4a10b6ea-d4dd-4c66-a2fa-76be914c0e57",
+          "canonical_name": "Eric Dolphy",
+          "name_slug": "eric-dolphy",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "35a603e4-251c-4c3b-b846-09a5be67336f",
+          "canonical_name": "Oliver Nelson",
+          "name_slug": "oliver-nelson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "35a603e4-251c-4c3b-b846-09a5be67336f",
+          "canonical_name": "Oliver Nelson",
+          "name_slug": "oliver-nelson",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "98877a41-4aa0-4968-b871-5ef0fb724b13",
+      "title": "Cascades",
+      "track_number": 3,
+      "side": null,
+      "duration_text": "5:31",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4a10b6ea-d4dd-4c66-a2fa-76be914c0e57",
+          "canonical_name": "Eric Dolphy",
+          "name_slug": "eric-dolphy",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4a10b6ea-d4dd-4c66-a2fa-76be914c0e57",
+          "canonical_name": "Eric Dolphy",
+          "name_slug": "eric-dolphy",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "35a603e4-251c-4c3b-b846-09a5be67336f",
+          "canonical_name": "Oliver Nelson",
+          "name_slug": "oliver-nelson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "35a603e4-251c-4c3b-b846-09a5be67336f",
+          "canonical_name": "Oliver Nelson",
+          "name_slug": "oliver-nelson",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "56bf9a4b-d6cc-4f2f-982f-8fd1425da453",
+      "title": "Yearnin'",
+      "track_number": 4,
+      "side": null,
+      "duration_text": "6:23",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4a10b6ea-d4dd-4c66-a2fa-76be914c0e57",
+          "canonical_name": "Eric Dolphy",
+          "name_slug": "eric-dolphy",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4a10b6ea-d4dd-4c66-a2fa-76be914c0e57",
+          "canonical_name": "Eric Dolphy",
+          "name_slug": "eric-dolphy",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "35a603e4-251c-4c3b-b846-09a5be67336f",
+          "canonical_name": "Oliver Nelson",
+          "name_slug": "oliver-nelson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "35a603e4-251c-4c3b-b846-09a5be67336f",
+          "canonical_name": "Oliver Nelson",
+          "name_slug": "oliver-nelson",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "a79d424a-06a6-4b00-b527-0ad41ebb7326",
+      "title": "Butch And Butch",
+      "track_number": 5,
+      "side": null,
+      "duration_text": "4:35",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4a10b6ea-d4dd-4c66-a2fa-76be914c0e57",
+          "canonical_name": "Eric Dolphy",
+          "name_slug": "eric-dolphy",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4a10b6ea-d4dd-4c66-a2fa-76be914c0e57",
+          "canonical_name": "Eric Dolphy",
+          "name_slug": "eric-dolphy",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "35a603e4-251c-4c3b-b846-09a5be67336f",
+          "canonical_name": "Oliver Nelson",
+          "name_slug": "oliver-nelson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "35a603e4-251c-4c3b-b846-09a5be67336f",
+          "canonical_name": "Oliver Nelson",
+          "name_slug": "oliver-nelson",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "7cd0b810-0bbd-4fa2-b484-3c4103fda069",
+      "title": "Teenie's Blues",
+      "track_number": 6,
+      "side": null,
+      "duration_text": "6:34",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4a10b6ea-d4dd-4c66-a2fa-76be914c0e57",
+          "canonical_name": "Eric Dolphy",
+          "name_slug": "eric-dolphy",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4a10b6ea-d4dd-4c66-a2fa-76be914c0e57",
+          "canonical_name": "Eric Dolphy",
+          "name_slug": "eric-dolphy",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "35a603e4-251c-4c3b-b846-09a5be67336f",
+          "canonical_name": "Oliver Nelson",
+          "name_slug": "oliver-nelson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "35a603e4-251c-4c3b-b846-09a5be67336f",
+          "canonical_name": "Oliver Nelson",
+          "name_slug": "oliver-nelson",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

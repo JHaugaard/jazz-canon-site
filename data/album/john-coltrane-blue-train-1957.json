@@ -1,0 +1,328 @@
+{
+  "id": "john-coltrane-blue-train-1957",
+  "title": "Blue Train",
+  "artist_name": "John Coltrane",
+  "year": 1957,
+  "label": "Blue Note",
+  "catalog_number": "BLP 1577",
+  "recording_dates_text": "1957-09-15",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "https://coverartarchive.org/release/11365fd1-adf9-4269-a97f-e6b2c0f1da35/41677512689-500.jpg",
+  "apple_album_id": "1468202477",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "2d07d9c9-693b-4e91-94fc-7296b99ae1ff",
+      "canonical_name": "Curtis Fuller",
+      "name_slug": "curtis-fuller",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+      "canonical_name": "John Coltrane",
+      "name_slug": "john-coltrane",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "4fb1b7e8-a915-4597-91f3-49afca670943",
+      "canonical_name": "Kenny Drew",
+      "name_slug": "kenny-drew",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+      "canonical_name": "Lee Morgan",
+      "name_slug": "lee-morgan",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+      "canonical_name": "Paul Chambers",
+      "name_slug": "paul-chambers",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+      "canonical_name": "Philly Joe Jones",
+      "name_slug": "philly-joe-jones",
+      "instrument": "drums",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "d4988226-d674-4870-8eee-60d46da1a678",
+      "title": "Blue Train",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "10:43",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "2d07d9c9-693b-4e91-94fc-7296b99ae1ff",
+          "canonical_name": "Curtis Fuller",
+          "name_slug": "curtis-fuller",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4fb1b7e8-a915-4597-91f3-49afca670943",
+          "canonical_name": "Kenny Drew",
+          "name_slug": "kenny-drew",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+          "canonical_name": "Philly Joe Jones",
+          "name_slug": "philly-joe-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "2eb1acdd-ad4d-4c49-bd5f-71753515db36",
+      "title": "Moment's Notice",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "9:10",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "2d07d9c9-693b-4e91-94fc-7296b99ae1ff",
+          "canonical_name": "Curtis Fuller",
+          "name_slug": "curtis-fuller",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4fb1b7e8-a915-4597-91f3-49afca670943",
+          "canonical_name": "Kenny Drew",
+          "name_slug": "kenny-drew",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+          "canonical_name": "Philly Joe Jones",
+          "name_slug": "philly-joe-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "126aaddd-846e-44e5-b7a2-8b517720059d",
+      "title": "Locomotion",
+      "track_number": 3,
+      "side": "B",
+      "duration_text": "7:14",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "2d07d9c9-693b-4e91-94fc-7296b99ae1ff",
+          "canonical_name": "Curtis Fuller",
+          "name_slug": "curtis-fuller",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4fb1b7e8-a915-4597-91f3-49afca670943",
+          "canonical_name": "Kenny Drew",
+          "name_slug": "kenny-drew",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+          "canonical_name": "Philly Joe Jones",
+          "name_slug": "philly-joe-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "0edb574c-7f1f-49ae-b423-51a0c6e211ff",
+      "title": "I'm Old Fashioned",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "7:58",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "2d07d9c9-693b-4e91-94fc-7296b99ae1ff",
+          "canonical_name": "Curtis Fuller",
+          "name_slug": "curtis-fuller",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4fb1b7e8-a915-4597-91f3-49afca670943",
+          "canonical_name": "Kenny Drew",
+          "name_slug": "kenny-drew",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+          "canonical_name": "Philly Joe Jones",
+          "name_slug": "philly-joe-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "b89d12d3-b65b-4d43-9e13-c57da18549ab",
+      "title": "Lazy Bird",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "7:00",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "2d07d9c9-693b-4e91-94fc-7296b99ae1ff",
+          "canonical_name": "Curtis Fuller",
+          "name_slug": "curtis-fuller",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4fb1b7e8-a915-4597-91f3-49afca670943",
+          "canonical_name": "Kenny Drew",
+          "name_slug": "kenny-drew",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+          "canonical_name": "Philly Joe Jones",
+          "name_slug": "philly-joe-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

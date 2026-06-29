@@ -1,0 +1,240 @@
+{
+  "id": "sonny-clark-cool-struttin-1958",
+  "title": "Cool Struttin'",
+  "artist_name": "Sonny Clark",
+  "year": 1958,
+  "label": "Blue Note",
+  "catalog_number": "BN-1588",
+  "recording_dates_text": "1958-01-05",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "https://coverartarchive.org/release-group/5b91f2d3-bc5b-365c-99f0-1cee467f0249/front",
+  "apple_album_id": "1443185284",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "d9ae6648-54de-4a8c-abec-7a1ce896ba31",
+      "canonical_name": "Art Farmer",
+      "name_slug": "art-farmer",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "c476ad9c-b8ea-47ad-b04e-6c8a009ea8be",
+      "canonical_name": "Jackie McLean",
+      "name_slug": "jackie-mclean",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+      "canonical_name": "Paul Chambers",
+      "name_slug": "paul-chambers",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+      "canonical_name": "Philly Joe Jones",
+      "name_slug": "philly-joe-jones",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "d5f63f01-4d4b-4561-bdf7-cebd7543fd0a",
+      "canonical_name": "Sonny Clark",
+      "name_slug": "sonny-clark",
+      "instrument": "piano",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "36d4decd-07b5-4d49-a698-de76b36c1311",
+      "title": "Cool Struttin'",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "9:23",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d9ae6648-54de-4a8c-abec-7a1ce896ba31",
+          "canonical_name": "Art Farmer",
+          "name_slug": "art-farmer",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c476ad9c-b8ea-47ad-b04e-6c8a009ea8be",
+          "canonical_name": "Jackie McLean",
+          "name_slug": "jackie-mclean",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+          "canonical_name": "Philly Joe Jones",
+          "name_slug": "philly-joe-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d5f63f01-4d4b-4561-bdf7-cebd7543fd0a",
+          "canonical_name": "Sonny Clark",
+          "name_slug": "sonny-clark",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "27fd8068-6bcd-4856-9daf-cc779842141c",
+      "title": "Blue Minor",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "10:19",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d9ae6648-54de-4a8c-abec-7a1ce896ba31",
+          "canonical_name": "Art Farmer",
+          "name_slug": "art-farmer",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c476ad9c-b8ea-47ad-b04e-6c8a009ea8be",
+          "canonical_name": "Jackie McLean",
+          "name_slug": "jackie-mclean",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+          "canonical_name": "Philly Joe Jones",
+          "name_slug": "philly-joe-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d5f63f01-4d4b-4561-bdf7-cebd7543fd0a",
+          "canonical_name": "Sonny Clark",
+          "name_slug": "sonny-clark",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "e83130b7-f595-4bd5-b5c2-002b72692735",
+      "title": "Sippin' at Bells",
+      "track_number": 3,
+      "side": "B",
+      "duration_text": "8:18",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d9ae6648-54de-4a8c-abec-7a1ce896ba31",
+          "canonical_name": "Art Farmer",
+          "name_slug": "art-farmer",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c476ad9c-b8ea-47ad-b04e-6c8a009ea8be",
+          "canonical_name": "Jackie McLean",
+          "name_slug": "jackie-mclean",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+          "canonical_name": "Philly Joe Jones",
+          "name_slug": "philly-joe-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d5f63f01-4d4b-4561-bdf7-cebd7543fd0a",
+          "canonical_name": "Sonny Clark",
+          "name_slug": "sonny-clark",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "fa94678d-d20b-438c-9413-016a4479b3b8",
+      "title": "Deep Night",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "10:19",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d9ae6648-54de-4a8c-abec-7a1ce896ba31",
+          "canonical_name": "Art Farmer",
+          "name_slug": "art-farmer",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c476ad9c-b8ea-47ad-b04e-6c8a009ea8be",
+          "canonical_name": "Jackie McLean",
+          "name_slug": "jackie-mclean",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+          "canonical_name": "Philly Joe Jones",
+          "name_slug": "philly-joe-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d5f63f01-4d4b-4561-bdf7-cebd7543fd0a",
+          "canonical_name": "Sonny Clark",
+          "name_slug": "sonny-clark",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

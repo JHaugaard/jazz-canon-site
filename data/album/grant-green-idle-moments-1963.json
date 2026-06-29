@@ -1,0 +1,275 @@
+{
+  "id": "grant-green-idle-moments-1963",
+  "title": "Idle Moments",
+  "artist_name": "Grant Green",
+  "year": 1963,
+  "label": "Blue Note",
+  "catalog_number": "BST 84154",
+  "recording_dates_text": "1963-11-04, 1963-11-15",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "https://coverartarchive.org/release-group/b65889f6-1a7a-3233-b42c-6382fac570b1/front",
+  "apple_album_id": "1443768982",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "c6ef4e0d-0b47-4fd9-b30e-6b1abaa67a93",
+      "canonical_name": "Al Harewood",
+      "name_slug": "al-harewood",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "9d672c67-0334-4969-8197-63abdcc13805",
+      "canonical_name": "Bob Cranshaw",
+      "name_slug": "bob-cranshaw",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+      "canonical_name": "Bobby Hutcherson",
+      "name_slug": "bobby-hutcherson",
+      "instrument": "vibraphone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "e4fc8fbf-bca4-4ad8-b682-f2b1b438c294",
+      "canonical_name": "Duke Pearson",
+      "name_slug": "duke-pearson",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "0611cf39-d7e0-4f31-95a6-8f78445fe0a1",
+      "canonical_name": "Grant Green",
+      "name_slug": "grant-green",
+      "instrument": "guitar",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+      "canonical_name": "Joe Henderson",
+      "name_slug": "joe-henderson",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "c3948ff3-65c6-41f9-b51b-85b010242dd8",
+      "title": "Idle Moments",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "14:56",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "c6ef4e0d-0b47-4fd9-b30e-6b1abaa67a93",
+          "canonical_name": "Al Harewood",
+          "name_slug": "al-harewood",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9d672c67-0334-4969-8197-63abdcc13805",
+          "canonical_name": "Bob Cranshaw",
+          "name_slug": "bob-cranshaw",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+          "canonical_name": "Bobby Hutcherson",
+          "name_slug": "bobby-hutcherson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e4fc8fbf-bca4-4ad8-b682-f2b1b438c294",
+          "canonical_name": "Duke Pearson",
+          "name_slug": "duke-pearson",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0611cf39-d7e0-4f31-95a6-8f78445fe0a1",
+          "canonical_name": "Grant Green",
+          "name_slug": "grant-green",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "7e212cf8-b8d9-4dfb-b64f-5dfa598a90d0",
+      "title": "Jean De Fleur",
+      "track_number": 2,
+      "side": "B",
+      "duration_text": "6:49",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "c6ef4e0d-0b47-4fd9-b30e-6b1abaa67a93",
+          "canonical_name": "Al Harewood",
+          "name_slug": "al-harewood",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9d672c67-0334-4969-8197-63abdcc13805",
+          "canonical_name": "Bob Cranshaw",
+          "name_slug": "bob-cranshaw",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+          "canonical_name": "Bobby Hutcherson",
+          "name_slug": "bobby-hutcherson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e4fc8fbf-bca4-4ad8-b682-f2b1b438c294",
+          "canonical_name": "Duke Pearson",
+          "name_slug": "duke-pearson",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0611cf39-d7e0-4f31-95a6-8f78445fe0a1",
+          "canonical_name": "Grant Green",
+          "name_slug": "grant-green",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "8a4c1d97-d847-4497-813b-0ccd2d60b2a2",
+      "title": "Django",
+      "track_number": 3,
+      "side": "B",
+      "duration_text": "8:44",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "c6ef4e0d-0b47-4fd9-b30e-6b1abaa67a93",
+          "canonical_name": "Al Harewood",
+          "name_slug": "al-harewood",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9d672c67-0334-4969-8197-63abdcc13805",
+          "canonical_name": "Bob Cranshaw",
+          "name_slug": "bob-cranshaw",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+          "canonical_name": "Bobby Hutcherson",
+          "name_slug": "bobby-hutcherson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e4fc8fbf-bca4-4ad8-b682-f2b1b438c294",
+          "canonical_name": "Duke Pearson",
+          "name_slug": "duke-pearson",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0611cf39-d7e0-4f31-95a6-8f78445fe0a1",
+          "canonical_name": "Grant Green",
+          "name_slug": "grant-green",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "d86e78a1-e08b-4757-b5c5-82a66174ac4a",
+      "title": "Nomad",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "12:16",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "c6ef4e0d-0b47-4fd9-b30e-6b1abaa67a93",
+          "canonical_name": "Al Harewood",
+          "name_slug": "al-harewood",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9d672c67-0334-4969-8197-63abdcc13805",
+          "canonical_name": "Bob Cranshaw",
+          "name_slug": "bob-cranshaw",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+          "canonical_name": "Bobby Hutcherson",
+          "name_slug": "bobby-hutcherson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e4fc8fbf-bca4-4ad8-b682-f2b1b438c294",
+          "canonical_name": "Duke Pearson",
+          "name_slug": "duke-pearson",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0611cf39-d7e0-4f31-95a6-8f78445fe0a1",
+          "canonical_name": "Grant Green",
+          "name_slug": "grant-green",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

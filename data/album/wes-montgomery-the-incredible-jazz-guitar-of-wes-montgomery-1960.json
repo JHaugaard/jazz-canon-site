@@ -1,0 +1,361 @@
+{
+  "id": "wes-montgomery-the-incredible-jazz-guitar-of-wes-montgomery-1960",
+  "title": "The Incredible Jazz Guitar of Wes Montgomery",
+  "artist_name": "Wes Montgomery",
+  "year": 1960,
+  "label": "Riverside",
+  "catalog_number": "RLP 12-320",
+  "recording_dates_text": "1960-01-26, 1960-01-28",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "https://coverartarchive.org/release-group/92829cab-8dee-3e6b-97ad-22fd49c95ed5/front",
+  "apple_album_id": "1794908400",
+  "studios": [
+    "Reeves Sound Studios, New York City"
+  ],
+  "personnel": [
+    {
+      "person_id": "56b1cc7a-b8e7-4918-aa47-0dff20b117a2",
+      "canonical_name": "Albert Heath",
+      "name_slug": "albert-heath",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+      "canonical_name": "Percy Heath",
+      "name_slug": "percy-heath",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "14298e89-ba6a-440a-9cb1-13986b5ad96e",
+      "canonical_name": "Tommy Flanagan",
+      "name_slug": "tommy-flanagan",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "057f3aca-76a0-4266-811f-0d40665346f9",
+      "canonical_name": "Wes Montgomery",
+      "name_slug": "wes-montgomery",
+      "instrument": "electric guitar",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "51eb4e1f-47a4-486a-a981-d9c5f6c9f100",
+      "title": "Airegin",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "4:26",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "56b1cc7a-b8e7-4918-aa47-0dff20b117a2",
+          "canonical_name": "Albert Heath",
+          "name_slug": "albert-heath",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "14298e89-ba6a-440a-9cb1-13986b5ad96e",
+          "canonical_name": "Tommy Flanagan",
+          "name_slug": "tommy-flanagan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057f3aca-76a0-4266-811f-0d40665346f9",
+          "canonical_name": "Wes Montgomery",
+          "name_slug": "wes-montgomery",
+          "instrument": "electric guitar",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "2fa73bb7-61a5-4b24-ad26-5d5b02db6e98",
+      "title": "D-Natural Blues",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "5:23",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "56b1cc7a-b8e7-4918-aa47-0dff20b117a2",
+          "canonical_name": "Albert Heath",
+          "name_slug": "albert-heath",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "14298e89-ba6a-440a-9cb1-13986b5ad96e",
+          "canonical_name": "Tommy Flanagan",
+          "name_slug": "tommy-flanagan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057f3aca-76a0-4266-811f-0d40665346f9",
+          "canonical_name": "Wes Montgomery",
+          "name_slug": "wes-montgomery",
+          "instrument": "electric guitar",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "a39eacc9-f4aa-45c0-90b1-feecaea41a43",
+      "title": "Polka Dots and Moonbeams",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "4:44",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "56b1cc7a-b8e7-4918-aa47-0dff20b117a2",
+          "canonical_name": "Albert Heath",
+          "name_slug": "albert-heath",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "14298e89-ba6a-440a-9cb1-13986b5ad96e",
+          "canonical_name": "Tommy Flanagan",
+          "name_slug": "tommy-flanagan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057f3aca-76a0-4266-811f-0d40665346f9",
+          "canonical_name": "Wes Montgomery",
+          "name_slug": "wes-montgomery",
+          "instrument": "electric guitar",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "ff9be5ed-7a5b-44b5-a18c-aef2abc307b6",
+      "title": "Four on Six",
+      "track_number": 4,
+      "side": "A",
+      "duration_text": "6:15",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "56b1cc7a-b8e7-4918-aa47-0dff20b117a2",
+          "canonical_name": "Albert Heath",
+          "name_slug": "albert-heath",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "14298e89-ba6a-440a-9cb1-13986b5ad96e",
+          "canonical_name": "Tommy Flanagan",
+          "name_slug": "tommy-flanagan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057f3aca-76a0-4266-811f-0d40665346f9",
+          "canonical_name": "Wes Montgomery",
+          "name_slug": "wes-montgomery",
+          "instrument": "electric guitar",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "ab001f9a-df3c-4494-9118-bdef9f4cffc8",
+      "title": "West Coast Blues",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "7:26",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "56b1cc7a-b8e7-4918-aa47-0dff20b117a2",
+          "canonical_name": "Albert Heath",
+          "name_slug": "albert-heath",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "14298e89-ba6a-440a-9cb1-13986b5ad96e",
+          "canonical_name": "Tommy Flanagan",
+          "name_slug": "tommy-flanagan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057f3aca-76a0-4266-811f-0d40665346f9",
+          "canonical_name": "Wes Montgomery",
+          "name_slug": "wes-montgomery",
+          "instrument": "electric guitar",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "f08a1559-4b3d-4546-84be-32572bfcb4d8",
+      "title": "In Your Own Sweet Way",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "4:53",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "56b1cc7a-b8e7-4918-aa47-0dff20b117a2",
+          "canonical_name": "Albert Heath",
+          "name_slug": "albert-heath",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "14298e89-ba6a-440a-9cb1-13986b5ad96e",
+          "canonical_name": "Tommy Flanagan",
+          "name_slug": "tommy-flanagan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057f3aca-76a0-4266-811f-0d40665346f9",
+          "canonical_name": "Wes Montgomery",
+          "name_slug": "wes-montgomery",
+          "instrument": "electric guitar",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "303e7ce3-0418-48cf-8359-fc7f6da61681",
+      "title": "Mister Walker",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": "4:33",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "56b1cc7a-b8e7-4918-aa47-0dff20b117a2",
+          "canonical_name": "Albert Heath",
+          "name_slug": "albert-heath",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "14298e89-ba6a-440a-9cb1-13986b5ad96e",
+          "canonical_name": "Tommy Flanagan",
+          "name_slug": "tommy-flanagan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057f3aca-76a0-4266-811f-0d40665346f9",
+          "canonical_name": "Wes Montgomery",
+          "name_slug": "wes-montgomery",
+          "instrument": "electric guitar",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "08bacaaf-03b7-45f2-a227-e12fe06d80b1",
+      "title": "Gone With the Wind",
+      "track_number": 8,
+      "side": "B",
+      "duration_text": "6:24",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "56b1cc7a-b8e7-4918-aa47-0dff20b117a2",
+          "canonical_name": "Albert Heath",
+          "name_slug": "albert-heath",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "14298e89-ba6a-440a-9cb1-13986b5ad96e",
+          "canonical_name": "Tommy Flanagan",
+          "name_slug": "tommy-flanagan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057f3aca-76a0-4266-811f-0d40665346f9",
+          "canonical_name": "Wes Montgomery",
+          "name_slug": "wes-montgomery",
+          "instrument": "electric guitar",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

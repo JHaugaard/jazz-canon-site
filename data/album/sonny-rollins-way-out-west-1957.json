@@ -1,0 +1,234 @@
+{
+  "id": "sonny-rollins-way-out-west-1957",
+  "title": "Way Out West",
+  "artist_name": "Sonny Rollins",
+  "year": 1957,
+  "label": "Contemporary",
+  "catalog_number": "C3530",
+  "recording_dates_text": "1957-03-07",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "http://coverartarchive.org/release/2d92e86b-2c10-4d3a-8984-9987a76b7a84/4875273481-500.jpg",
+  "apple_album_id": "1440789922",
+  "studios": [
+    "Contemporary Records studio, Los Angeles"
+  ],
+  "personnel": [
+    {
+      "person_id": "cbddfe90-22cd-4af4-af01-e3e57d8eff5e",
+      "canonical_name": "Ray Brown",
+      "name_slug": "ray-brown",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+      "canonical_name": "Shelly Manne",
+      "name_slug": "shelly-manne",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "fd3e5e11-ecda-4f89-aefd-167c56e2486d",
+      "canonical_name": "Sonny Rollins",
+      "name_slug": "sonny-rollins",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "f5d103e3-a742-40e7-a09e-92abe719a300",
+      "title": "I'm an Old Cowhand (From the Rio Grande)",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "5:42",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddfe90-22cd-4af4-af01-e3e57d8eff5e",
+          "canonical_name": "Ray Brown",
+          "name_slug": "ray-brown",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fd3e5e11-ecda-4f89-aefd-167c56e2486d",
+          "canonical_name": "Sonny Rollins",
+          "name_slug": "sonny-rollins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "189e47ba-3188-4d69-aad9-8e479982c830",
+      "title": "Solitude",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "7:52",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddfe90-22cd-4af4-af01-e3e57d8eff5e",
+          "canonical_name": "Ray Brown",
+          "name_slug": "ray-brown",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fd3e5e11-ecda-4f89-aefd-167c56e2486d",
+          "canonical_name": "Sonny Rollins",
+          "name_slug": "sonny-rollins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "74b160c2-84b2-4ef5-a982-f3297dcc5cee",
+      "title": "Come, Gone",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "7:53",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddfe90-22cd-4af4-af01-e3e57d8eff5e",
+          "canonical_name": "Ray Brown",
+          "name_slug": "ray-brown",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fd3e5e11-ecda-4f89-aefd-167c56e2486d",
+          "canonical_name": "Sonny Rollins",
+          "name_slug": "sonny-rollins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "a6035645-90ef-4bd7-a346-43c81389b3f5",
+      "title": "Wagon Wheels",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "10:11",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddfe90-22cd-4af4-af01-e3e57d8eff5e",
+          "canonical_name": "Ray Brown",
+          "name_slug": "ray-brown",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fd3e5e11-ecda-4f89-aefd-167c56e2486d",
+          "canonical_name": "Sonny Rollins",
+          "name_slug": "sonny-rollins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "fcd19281-d063-401f-a971-14560b318f93",
+      "title": "There Is No Greater Love",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "5:17",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddfe90-22cd-4af4-af01-e3e57d8eff5e",
+          "canonical_name": "Ray Brown",
+          "name_slug": "ray-brown",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fd3e5e11-ecda-4f89-aefd-167c56e2486d",
+          "canonical_name": "Sonny Rollins",
+          "name_slug": "sonny-rollins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "ab20acf3-4d24-463a-800c-9da43b5834b7",
+      "title": "Way Out West",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "6:30",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddfe90-22cd-4af4-af01-e3e57d8eff5e",
+          "canonical_name": "Ray Brown",
+          "name_slug": "ray-brown",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fd3e5e11-ecda-4f89-aefd-167c56e2486d",
+          "canonical_name": "Sonny Rollins",
+          "name_slug": "sonny-rollins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

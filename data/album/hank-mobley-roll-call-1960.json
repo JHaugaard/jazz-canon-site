@@ -1,0 +1,332 @@
+{
+  "id": "hank-mobley-roll-call-1960",
+  "title": "Roll Call",
+  "artist_name": "Hank Mobley",
+  "year": 1960,
+  "label": "Blue Note",
+  "catalog_number": "BLP 4058",
+  "recording_dates_text": "1960-11-13",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "http://coverartarchive.org/release/d317bb8d-d00f-4e3c-935c-8f24b3cfce4e/8038478749-500.jpg",
+  "apple_album_id": "724670579",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+      "canonical_name": "Art Blakey",
+      "name_slug": "art-blakey",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+      "canonical_name": "Freddie Hubbard",
+      "name_slug": "freddie-hubbard",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+      "canonical_name": "Hank Mobley",
+      "name_slug": "hank-mobley",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+      "canonical_name": "Paul Chambers",
+      "name_slug": "paul-chambers",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "5142f243-780f-41a6-a50a-a9f75160ff60",
+      "canonical_name": "Wynton Kelly",
+      "name_slug": "wynton-kelly",
+      "instrument": "piano",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "bbe1e330-4cb4-41c8-bc7e-3a0bfc46b0b9",
+      "title": "Roll Call",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "10:33",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+          "canonical_name": "Hank Mobley",
+          "name_slug": "hank-mobley",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5142f243-780f-41a6-a50a-a9f75160ff60",
+          "canonical_name": "Wynton Kelly",
+          "name_slug": "wynton-kelly",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "13a7681d-d635-4f72-bfbf-034610b07f5e",
+      "title": "My Groove Your Move",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "6:07",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+          "canonical_name": "Hank Mobley",
+          "name_slug": "hank-mobley",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5142f243-780f-41a6-a50a-a9f75160ff60",
+          "canonical_name": "Wynton Kelly",
+          "name_slug": "wynton-kelly",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "e564cc8d-5558-45f8-b387-88f8384cd7f7",
+      "title": "Take Your Pick",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "5:27",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+          "canonical_name": "Hank Mobley",
+          "name_slug": "hank-mobley",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5142f243-780f-41a6-a50a-a9f75160ff60",
+          "canonical_name": "Wynton Kelly",
+          "name_slug": "wynton-kelly",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "c5ce874c-0191-4c46-a0a9-06452fe7a175",
+      "title": "A Baptist Beat",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "8:54",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+          "canonical_name": "Hank Mobley",
+          "name_slug": "hank-mobley",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5142f243-780f-41a6-a50a-a9f75160ff60",
+          "canonical_name": "Wynton Kelly",
+          "name_slug": "wynton-kelly",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "1c48ca4c-fdfd-4e5d-a546-4e1f9f07cc2e",
+      "title": "The More I See You",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "6:47",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+          "canonical_name": "Hank Mobley",
+          "name_slug": "hank-mobley",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5142f243-780f-41a6-a50a-a9f75160ff60",
+          "canonical_name": "Wynton Kelly",
+          "name_slug": "wynton-kelly",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "12b6c4bd-47b4-4f5f-9e02-0338548ef389",
+      "title": "The Breakdown",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "4:57",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+          "canonical_name": "Hank Mobley",
+          "name_slug": "hank-mobley",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5142f243-780f-41a6-a50a-a9f75160ff60",
+          "canonical_name": "Wynton Kelly",
+          "name_slug": "wynton-kelly",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

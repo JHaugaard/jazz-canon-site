@@ -1,0 +1,328 @@
+{
+  "id": "andrew-hill-point-of-departure-1964",
+  "title": "Point of Departure",
+  "artist_name": "Andrew Hill",
+  "year": 1964,
+  "label": "Blue Note",
+  "catalog_number": "BST 84167",
+  "recording_dates_text": "1964-03-21",
+  "description": null,
+  "style_primary": "post-bop",
+  "style_display": "Post-Bop",
+  "cover_art_url": "http://coverartarchive.org/release/b03f8a1d-d4d9-4162-a7fd-e6cc031825af/23316841816-500.jpg",
+  "apple_album_id": "1444096239",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "b83ce81e-ee2e-4d9e-974b-443ca2518227",
+      "canonical_name": "Andrew Hill",
+      "name_slug": "andrew-hill",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "4a10b6ea-d4dd-4c66-a2fa-76be914c0e57",
+      "canonical_name": "Eric Dolphy",
+      "name_slug": "eric-dolphy",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+      "canonical_name": "Joe Henderson",
+      "name_slug": "joe-henderson",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+      "canonical_name": "Kenny Dorham",
+      "name_slug": "kenny-dorham",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "17dab1b9-7957-486f-8844-f6801aba6167",
+      "canonical_name": "Richard Davis",
+      "name_slug": "richard-davis",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+      "canonical_name": "Tony Williams",
+      "name_slug": "tony-williams",
+      "instrument": "drums",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "98c68e41-d557-45c2-8bdc-afcc0fc5a202",
+      "title": "Refuge",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b83ce81e-ee2e-4d9e-974b-443ca2518227",
+          "canonical_name": "Andrew Hill",
+          "name_slug": "andrew-hill",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4a10b6ea-d4dd-4c66-a2fa-76be914c0e57",
+          "canonical_name": "Eric Dolphy",
+          "name_slug": "eric-dolphy",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+          "canonical_name": "Kenny Dorham",
+          "name_slug": "kenny-dorham",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17dab1b9-7957-486f-8844-f6801aba6167",
+          "canonical_name": "Richard Davis",
+          "name_slug": "richard-davis",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "7544c0f0-c2ac-4b33-8d81-270dc2077faf",
+      "title": "New Monastery",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b83ce81e-ee2e-4d9e-974b-443ca2518227",
+          "canonical_name": "Andrew Hill",
+          "name_slug": "andrew-hill",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4a10b6ea-d4dd-4c66-a2fa-76be914c0e57",
+          "canonical_name": "Eric Dolphy",
+          "name_slug": "eric-dolphy",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+          "canonical_name": "Kenny Dorham",
+          "name_slug": "kenny-dorham",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17dab1b9-7957-486f-8844-f6801aba6167",
+          "canonical_name": "Richard Davis",
+          "name_slug": "richard-davis",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "70d6a9aa-b4db-46ab-9e57-7043529104f6",
+      "title": "Spectrum",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b83ce81e-ee2e-4d9e-974b-443ca2518227",
+          "canonical_name": "Andrew Hill",
+          "name_slug": "andrew-hill",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4a10b6ea-d4dd-4c66-a2fa-76be914c0e57",
+          "canonical_name": "Eric Dolphy",
+          "name_slug": "eric-dolphy",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+          "canonical_name": "Kenny Dorham",
+          "name_slug": "kenny-dorham",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17dab1b9-7957-486f-8844-f6801aba6167",
+          "canonical_name": "Richard Davis",
+          "name_slug": "richard-davis",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "739dd46a-7c33-4316-9937-aa51865b8bdc",
+      "title": "Flight 19",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b83ce81e-ee2e-4d9e-974b-443ca2518227",
+          "canonical_name": "Andrew Hill",
+          "name_slug": "andrew-hill",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4a10b6ea-d4dd-4c66-a2fa-76be914c0e57",
+          "canonical_name": "Eric Dolphy",
+          "name_slug": "eric-dolphy",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+          "canonical_name": "Kenny Dorham",
+          "name_slug": "kenny-dorham",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17dab1b9-7957-486f-8844-f6801aba6167",
+          "canonical_name": "Richard Davis",
+          "name_slug": "richard-davis",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "0c11268e-9089-489c-b9f3-e8b43168cda3",
+      "title": "Dedication",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b83ce81e-ee2e-4d9e-974b-443ca2518227",
+          "canonical_name": "Andrew Hill",
+          "name_slug": "andrew-hill",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4a10b6ea-d4dd-4c66-a2fa-76be914c0e57",
+          "canonical_name": "Eric Dolphy",
+          "name_slug": "eric-dolphy",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+          "canonical_name": "Kenny Dorham",
+          "name_slug": "kenny-dorham",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17dab1b9-7957-486f-8844-f6801aba6167",
+          "canonical_name": "Richard Davis",
+          "name_slug": "richard-davis",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

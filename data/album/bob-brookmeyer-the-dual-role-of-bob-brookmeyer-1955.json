@@ -1,0 +1,389 @@
+{
+  "id": "bob-brookmeyer-the-dual-role-of-bob-brookmeyer-1955",
+  "title": "The Dual Role of Bob Brookmeyer",
+  "artist_name": "Bob Brookmeyer",
+  "year": 1955,
+  "label": "Prestige",
+  "catalog_number": "PRLP 214",
+  "recording_dates_text": "1954-01-06, 1955-06-30",
+  "description": null,
+  "style_primary": "cool-jazz",
+  "style_display": "Cool Jazz",
+  "cover_art_url": "https://coverartarchive.org/release-group/1bd03140-1974-4706-85a9-8b1b2702d87a/front",
+  "apple_album_id": "1443533025",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "fd1ef518-a072-4a20-8148-d6178bc7df75",
+      "canonical_name": "Bob Brookmeyer",
+      "name_slug": "bob-brookmeyer",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "005cd78a-1caf-4900-aa6a-7878017453ba",
+      "canonical_name": "Ed Shaughnessy",
+      "name_slug": "ed-shaughnessy",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "b0c291fc-e982-46f0-b01b-5c38188496da",
+      "canonical_name": "Jimmy Raney",
+      "name_slug": "jimmy-raney",
+      "instrument": "guitar",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+      "canonical_name": "Mel Lewis",
+      "name_slug": "mel-lewis",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "1f6dde18-8570-4c9e-8d05-63d91c3f8ece",
+      "canonical_name": "Nancy Overton",
+      "name_slug": "nancy-overton",
+      "instrument": "voice",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "7d4b914b-97b7-40e2-8998-3e40c616bfeb",
+      "canonical_name": "Teddy Charles",
+      "name_slug": "teddy-charles",
+      "instrument": "vibraphone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "17a52f1a-6d62-4441-b3a4-2682e4194c44",
+      "canonical_name": "Teddy Kotick",
+      "name_slug": "teddy-kotick",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "97e33def-eefc-4c05-88d9-882cdd249ede",
+      "title": "Rocky Scotch",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "4:40",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fd1ef518-a072-4a20-8148-d6178bc7df75",
+          "canonical_name": "Bob Brookmeyer",
+          "name_slug": "bob-brookmeyer",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b0c291fc-e982-46f0-b01b-5c38188496da",
+          "canonical_name": "Jimmy Raney",
+          "name_slug": "jimmy-raney",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+          "canonical_name": "Mel Lewis",
+          "name_slug": "mel-lewis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17a52f1a-6d62-4441-b3a4-2682e4194c44",
+          "canonical_name": "Teddy Kotick",
+          "name_slug": "teddy-kotick",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "eb8f847d-ab20-48e1-8028-7979170ffefb",
+      "title": "Under the Lilacs",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "5:07",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fd1ef518-a072-4a20-8148-d6178bc7df75",
+          "canonical_name": "Bob Brookmeyer",
+          "name_slug": "bob-brookmeyer",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b0c291fc-e982-46f0-b01b-5c38188496da",
+          "canonical_name": "Jimmy Raney",
+          "name_slug": "jimmy-raney",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+          "canonical_name": "Mel Lewis",
+          "name_slug": "mel-lewis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17a52f1a-6d62-4441-b3a4-2682e4194c44",
+          "canonical_name": "Teddy Kotick",
+          "name_slug": "teddy-kotick",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "36125cba-6cd5-43a7-9bc5-5256ecd38097",
+      "title": "They Say It's Wonderful",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "5:49",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fd1ef518-a072-4a20-8148-d6178bc7df75",
+          "canonical_name": "Bob Brookmeyer",
+          "name_slug": "bob-brookmeyer",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b0c291fc-e982-46f0-b01b-5c38188496da",
+          "canonical_name": "Jimmy Raney",
+          "name_slug": "jimmy-raney",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+          "canonical_name": "Mel Lewis",
+          "name_slug": "mel-lewis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17a52f1a-6d62-4441-b3a4-2682e4194c44",
+          "canonical_name": "Teddy Kotick",
+          "name_slug": "teddy-kotick",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "6a19f9a9-e636-4f1a-a442-d3fd0b90a1c2",
+      "title": "Potrezebie",
+      "track_number": 4,
+      "side": "A",
+      "duration_text": "4:49",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fd1ef518-a072-4a20-8148-d6178bc7df75",
+          "canonical_name": "Bob Brookmeyer",
+          "name_slug": "bob-brookmeyer",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b0c291fc-e982-46f0-b01b-5c38188496da",
+          "canonical_name": "Jimmy Raney",
+          "name_slug": "jimmy-raney",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+          "canonical_name": "Mel Lewis",
+          "name_slug": "mel-lewis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17a52f1a-6d62-4441-b3a4-2682e4194c44",
+          "canonical_name": "Teddy Kotick",
+          "name_slug": "teddy-kotick",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "c7e6cfe7-5ce5-4b45-97c4-89851bb119f3",
+      "title": "Revelation",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "5:46",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fd1ef518-a072-4a20-8148-d6178bc7df75",
+          "canonical_name": "Bob Brookmeyer",
+          "name_slug": "bob-brookmeyer",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "005cd78a-1caf-4900-aa6a-7878017453ba",
+          "canonical_name": "Ed Shaughnessy",
+          "name_slug": "ed-shaughnessy",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7d4b914b-97b7-40e2-8998-3e40c616bfeb",
+          "canonical_name": "Teddy Charles",
+          "name_slug": "teddy-charles",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17a52f1a-6d62-4441-b3a4-2682e4194c44",
+          "canonical_name": "Teddy Kotick",
+          "name_slug": "teddy-kotick",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "bd7fbd9e-4c3c-4f3d-81fc-daedb87b5a69",
+      "title": "Star Eyes",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "4:29",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fd1ef518-a072-4a20-8148-d6178bc7df75",
+          "canonical_name": "Bob Brookmeyer",
+          "name_slug": "bob-brookmeyer",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "005cd78a-1caf-4900-aa6a-7878017453ba",
+          "canonical_name": "Ed Shaughnessy",
+          "name_slug": "ed-shaughnessy",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7d4b914b-97b7-40e2-8998-3e40c616bfeb",
+          "canonical_name": "Teddy Charles",
+          "name_slug": "teddy-charles",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17a52f1a-6d62-4441-b3a4-2682e4194c44",
+          "canonical_name": "Teddy Kotick",
+          "name_slug": "teddy-kotick",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "ce7d4dec-9877-4490-8a6a-92989eced2af",
+      "title": "Nobody's Heart",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": "4:25",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fd1ef518-a072-4a20-8148-d6178bc7df75",
+          "canonical_name": "Bob Brookmeyer",
+          "name_slug": "bob-brookmeyer",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "005cd78a-1caf-4900-aa6a-7878017453ba",
+          "canonical_name": "Ed Shaughnessy",
+          "name_slug": "ed-shaughnessy",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1f6dde18-8570-4c9e-8d05-63d91c3f8ece",
+          "canonical_name": "Nancy Overton",
+          "name_slug": "nancy-overton",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7d4b914b-97b7-40e2-8998-3e40c616bfeb",
+          "canonical_name": "Teddy Charles",
+          "name_slug": "teddy-charles",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17a52f1a-6d62-4441-b3a4-2682e4194c44",
+          "canonical_name": "Teddy Kotick",
+          "name_slug": "teddy-kotick",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "cc6f6c99-c458-4403-a313-28e32110c483",
+      "title": "Loup-Garou",
+      "track_number": 8,
+      "side": "B",
+      "duration_text": "4:38",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fd1ef518-a072-4a20-8148-d6178bc7df75",
+          "canonical_name": "Bob Brookmeyer",
+          "name_slug": "bob-brookmeyer",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "005cd78a-1caf-4900-aa6a-7878017453ba",
+          "canonical_name": "Ed Shaughnessy",
+          "name_slug": "ed-shaughnessy",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7d4b914b-97b7-40e2-8998-3e40c616bfeb",
+          "canonical_name": "Teddy Charles",
+          "name_slug": "teddy-charles",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17a52f1a-6d62-4441-b3a4-2682e4194c44",
+          "canonical_name": "Teddy Kotick",
+          "name_slug": "teddy-kotick",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "june-christy-something-cool-1955",
+  "title": "Something Cool",
+  "artist_name": "June Christy",
+  "year": 1955,
+  "label": "Capitol",
+  "catalog_number": "T 516",
+  "recording_dates_text": "1953-08/1955-07",
+  "description": null,
+  "style_primary": "cool-jazz",
+  "style_display": "Cool Jazz",
+  "cover_art_url": "https://coverartarchive.org/release-group/fb5bcd7c-a62d-4741-b024-35e702d861e3/front",
+  "apple_album_id": "1440881013",
+  "studios": [],
+  "personnel": [
+    {
+      "person_id": "751f51f9-4de0-465a-86e6-2444fbf87b15",
+      "canonical_name": "Barney Kessel",
+      "name_slug": "barney-kessel",
+      "instrument": "guitar",
+      "epistemic": "unk"
+    },
+    {
+      "person_id": "83c273dd-9057-485d-8ef9-583b4a7803a3",
+      "canonical_name": "Bud Shank",
+      "name_slug": "bud-shank",
+      "instrument": "alto saxophone",
+      "epistemic": "unk"
+    },
+    {
+      "person_id": "9e3e5327-62e8-49d4-9531-61d29e92a52d",
+      "canonical_name": "June Christy",
+      "name_slug": "june-christy",
+      "instrument": "voice",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+      "canonical_name": "Shelly Manne",
+      "name_slug": "shelly-manne",
+      "instrument": "drums",
+      "epistemic": "unk"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "0f5a247e-5b23-4668-a07a-932a82a6012e",
+      "title": "Something Cool",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "9e3e5327-62e8-49d4-9531-61d29e92a52d",
+          "canonical_name": "June Christy",
+          "name_slug": "june-christy",
+          "instrument": "voice",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "6a916559-1607-4130-8920-62aa6a887597",
+      "title": "Midnight Sun",
+      "track_number": null,
+      "side": null,
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "unk",
+      "personnel": [
+        {
+          "person_id": "9e3e5327-62e8-49d4-9531-61d29e92a52d",
+          "canonical_name": "June Christy",
+          "name_slug": "june-christy",
+          "instrument": "voice",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "85fe338d-acad-44e2-be83-c08a3d66f93b",
+      "title": "Lonely House",
+      "track_number": null,
+      "side": null,
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "unk",
+      "personnel": [
+        {
+          "person_id": "9e3e5327-62e8-49d4-9531-61d29e92a52d",
+          "canonical_name": "June Christy",
+          "name_slug": "june-christy",
+          "instrument": "voice",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "5ec6941c-dddb-4b52-88f3-39962ab47eef",
+      "title": "I'll Take Romance",
+      "track_number": null,
+      "side": null,
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "unk",
+      "personnel": [
+        {
+          "person_id": "9e3e5327-62e8-49d4-9531-61d29e92a52d",
+          "canonical_name": "June Christy",
+          "name_slug": "june-christy",
+          "instrument": "voice",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

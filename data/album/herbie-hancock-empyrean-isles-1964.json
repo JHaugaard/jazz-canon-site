@@ -1,0 +1,205 @@
+{
+  "id": "herbie-hancock-empyrean-isles-1964",
+  "title": "Empyrean Isles",
+  "artist_name": "Herbie Hancock",
+  "year": 1964,
+  "label": "Blue Note",
+  "catalog_number": "BLP 4175",
+  "recording_dates_text": "1964-06-17",
+  "description": null,
+  "style_primary": "post-bop",
+  "style_display": "Post-Bop",
+  "cover_art_url": "http://coverartarchive.org/release/8ba768fb-aaf5-45e3-8b20-cd0a42a49bfb/32382371165-500.jpg",
+  "apple_album_id": "1443829596",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+      "canonical_name": "Freddie Hubbard",
+      "name_slug": "freddie-hubbard",
+      "instrument": "cornet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+      "canonical_name": "Herbie Hancock",
+      "name_slug": "herbie-hancock",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+      "canonical_name": "Ron Carter",
+      "name_slug": "ron-carter",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+      "canonical_name": "Tony Williams",
+      "name_slug": "tony-williams",
+      "instrument": "drums",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "27e94473-4f11-4246-a042-62f12657005d",
+      "title": "One Finger Snap",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "cornet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "668b7a1f-6b1a-46c0-90ba-96de26ef35c0",
+      "title": "Oliloqui Valley",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "cornet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "055ccc9e-9fff-408d-a20f-f2c01751342c",
+      "title": "Cantaloupe Island",
+      "track_number": 3,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "cornet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "29067275-6806-4feb-b674-3451dd1e2942",
+      "title": "The Egg",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "cornet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

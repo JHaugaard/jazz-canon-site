@@ -1,0 +1,634 @@
+{
+  "id": "howard-rumsey-sunday-jazz-a-la-lighthouse-vol-1-1953",
+  "title": "Sunday Jazz a la Lighthouse, Vol. 1",
+  "artist_name": "Howard Rumsey's Lighthouse All-Stars",
+  "year": 1953,
+  "label": "Contemporary",
+  "catalog_number": "C3501",
+  "recording_dates_text": "1953-02-21",
+  "description": null,
+  "style_primary": "cool-jazz",
+  "style_display": "Cool Jazz",
+  "cover_art_url": "http://coverartarchive.org/release/babc706c-2179-4047-81be-e73b14e9c740/26680565102-500.jpg",
+  "apple_album_id": "1769227404",
+  "studios": [
+    "The Lighthouse, Hermosa Beach, California (live)"
+  ],
+  "personnel": [
+    {
+      "person_id": "a83d08a8-11da-42f4-8124-1bd32d677922",
+      "canonical_name": "Bob Cooper",
+      "name_slug": "bob-cooper",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "5f5e0c94-aef8-43f9-9bf7-6e0ca3501712",
+      "canonical_name": "Carlos Vidal",
+      "name_slug": "carlos-vidal",
+      "instrument": "congas",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "3ba1d96a-8720-44d5-b3ea-ba1a632f7c92",
+      "canonical_name": "Frank Patchen",
+      "name_slug": "frank-patchen",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "896775ab-0be0-485c-a3c4-3e45c847e7cd",
+      "canonical_name": "Hampton Hawes",
+      "name_slug": "hampton-hawes",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "e1c7fbeb-8165-4b81-8955-21265acf9387",
+      "canonical_name": "Howard Rumsey",
+      "name_slug": "howard-rumsey",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+      "canonical_name": "Jimmy Giuffre",
+      "name_slug": "jimmy-giuffre",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "d2f5d539-ade6-414e-a7ec-0073025f54fc",
+      "canonical_name": "Maynard Ferguson",
+      "name_slug": "maynard-ferguson",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "02f4306f-304a-44e6-9184-33b790bb83d3",
+      "canonical_name": "Milt Bernhart",
+      "name_slug": "milt-bernhart",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+      "canonical_name": "Shelly Manne",
+      "name_slug": "shelly-manne",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "3fc44ec6-0b25-4e62-8bc9-07fce4988e04",
+      "canonical_name": "Shorty Rogers",
+      "name_slug": "shorty-rogers",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "a4c1994c-a81d-4606-aabd-373244560977",
+      "title": "Four Others",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a83d08a8-11da-42f4-8124-1bd32d677922",
+          "canonical_name": "Bob Cooper",
+          "name_slug": "bob-cooper",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3ba1d96a-8720-44d5-b3ea-ba1a632f7c92",
+          "canonical_name": "Frank Patchen",
+          "name_slug": "frank-patchen",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e1c7fbeb-8165-4b81-8955-21265acf9387",
+          "canonical_name": "Howard Rumsey",
+          "name_slug": "howard-rumsey",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+          "canonical_name": "Jimmy Giuffre",
+          "name_slug": "jimmy-giuffre",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d2f5d539-ade6-414e-a7ec-0073025f54fc",
+          "canonical_name": "Maynard Ferguson",
+          "name_slug": "maynard-ferguson",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02f4306f-304a-44e6-9184-33b790bb83d3",
+          "canonical_name": "Milt Bernhart",
+          "name_slug": "milt-bernhart",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3fc44ec6-0b25-4e62-8bc9-07fce4988e04",
+          "canonical_name": "Shorty Rogers",
+          "name_slug": "shorty-rogers",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "9fa0002c-59e2-4d4b-a57b-163944bf6d06",
+      "title": "All The Things You Are",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a83d08a8-11da-42f4-8124-1bd32d677922",
+          "canonical_name": "Bob Cooper",
+          "name_slug": "bob-cooper",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "896775ab-0be0-485c-a3c4-3e45c847e7cd",
+          "canonical_name": "Hampton Hawes",
+          "name_slug": "hampton-hawes",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e1c7fbeb-8165-4b81-8955-21265acf9387",
+          "canonical_name": "Howard Rumsey",
+          "name_slug": "howard-rumsey",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+          "canonical_name": "Jimmy Giuffre",
+          "name_slug": "jimmy-giuffre",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d2f5d539-ade6-414e-a7ec-0073025f54fc",
+          "canonical_name": "Maynard Ferguson",
+          "name_slug": "maynard-ferguson",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02f4306f-304a-44e6-9184-33b790bb83d3",
+          "canonical_name": "Milt Bernhart",
+          "name_slug": "milt-bernhart",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3fc44ec6-0b25-4e62-8bc9-07fce4988e04",
+          "canonical_name": "Shorty Rogers",
+          "name_slug": "shorty-rogers",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "b67a89ae-4647-4428-86a9-2ce3414670b9",
+      "title": "Creme De Menthe",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a83d08a8-11da-42f4-8124-1bd32d677922",
+          "canonical_name": "Bob Cooper",
+          "name_slug": "bob-cooper",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3ba1d96a-8720-44d5-b3ea-ba1a632f7c92",
+          "canonical_name": "Frank Patchen",
+          "name_slug": "frank-patchen",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e1c7fbeb-8165-4b81-8955-21265acf9387",
+          "canonical_name": "Howard Rumsey",
+          "name_slug": "howard-rumsey",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+          "canonical_name": "Jimmy Giuffre",
+          "name_slug": "jimmy-giuffre",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d2f5d539-ade6-414e-a7ec-0073025f54fc",
+          "canonical_name": "Maynard Ferguson",
+          "name_slug": "maynard-ferguson",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02f4306f-304a-44e6-9184-33b790bb83d3",
+          "canonical_name": "Milt Bernhart",
+          "name_slug": "milt-bernhart",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3fc44ec6-0b25-4e62-8bc9-07fce4988e04",
+          "canonical_name": "Shorty Rogers",
+          "name_slug": "shorty-rogers",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "5e864db8-6687-4491-a2e0-7ddbf0b904c2",
+      "title": "Viva Zapata!",
+      "track_number": 4,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a83d08a8-11da-42f4-8124-1bd32d677922",
+          "canonical_name": "Bob Cooper",
+          "name_slug": "bob-cooper",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5f5e0c94-aef8-43f9-9bf7-6e0ca3501712",
+          "canonical_name": "Carlos Vidal",
+          "name_slug": "carlos-vidal",
+          "instrument": "congas",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3ba1d96a-8720-44d5-b3ea-ba1a632f7c92",
+          "canonical_name": "Frank Patchen",
+          "name_slug": "frank-patchen",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e1c7fbeb-8165-4b81-8955-21265acf9387",
+          "canonical_name": "Howard Rumsey",
+          "name_slug": "howard-rumsey",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+          "canonical_name": "Jimmy Giuffre",
+          "name_slug": "jimmy-giuffre",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d2f5d539-ade6-414e-a7ec-0073025f54fc",
+          "canonical_name": "Maynard Ferguson",
+          "name_slug": "maynard-ferguson",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02f4306f-304a-44e6-9184-33b790bb83d3",
+          "canonical_name": "Milt Bernhart",
+          "name_slug": "milt-bernhart",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3fc44ec6-0b25-4e62-8bc9-07fce4988e04",
+          "canonical_name": "Shorty Rogers",
+          "name_slug": "shorty-rogers",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "58fc2c4f-a443-4da3-9945-459b883e212b",
+      "title": "Bernie's Tune",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a83d08a8-11da-42f4-8124-1bd32d677922",
+          "canonical_name": "Bob Cooper",
+          "name_slug": "bob-cooper",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3ba1d96a-8720-44d5-b3ea-ba1a632f7c92",
+          "canonical_name": "Frank Patchen",
+          "name_slug": "frank-patchen",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e1c7fbeb-8165-4b81-8955-21265acf9387",
+          "canonical_name": "Howard Rumsey",
+          "name_slug": "howard-rumsey",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+          "canonical_name": "Jimmy Giuffre",
+          "name_slug": "jimmy-giuffre",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d2f5d539-ade6-414e-a7ec-0073025f54fc",
+          "canonical_name": "Maynard Ferguson",
+          "name_slug": "maynard-ferguson",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02f4306f-304a-44e6-9184-33b790bb83d3",
+          "canonical_name": "Milt Bernhart",
+          "name_slug": "milt-bernhart",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3fc44ec6-0b25-4e62-8bc9-07fce4988e04",
+          "canonical_name": "Shorty Rogers",
+          "name_slug": "shorty-rogers",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "3237f3ac-9fbd-4494-ad9a-57dbaf863da9",
+      "title": "Solitaire",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a83d08a8-11da-42f4-8124-1bd32d677922",
+          "canonical_name": "Bob Cooper",
+          "name_slug": "bob-cooper",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3ba1d96a-8720-44d5-b3ea-ba1a632f7c92",
+          "canonical_name": "Frank Patchen",
+          "name_slug": "frank-patchen",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e1c7fbeb-8165-4b81-8955-21265acf9387",
+          "canonical_name": "Howard Rumsey",
+          "name_slug": "howard-rumsey",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+          "canonical_name": "Jimmy Giuffre",
+          "name_slug": "jimmy-giuffre",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d2f5d539-ade6-414e-a7ec-0073025f54fc",
+          "canonical_name": "Maynard Ferguson",
+          "name_slug": "maynard-ferguson",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02f4306f-304a-44e6-9184-33b790bb83d3",
+          "canonical_name": "Milt Bernhart",
+          "name_slug": "milt-bernhart",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3fc44ec6-0b25-4e62-8bc9-07fce4988e04",
+          "canonical_name": "Shorty Rogers",
+          "name_slug": "shorty-rogers",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "894e0525-3d9b-45f2-84bd-55f5ca215ba1",
+      "title": "Morgan Davis",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a83d08a8-11da-42f4-8124-1bd32d677922",
+          "canonical_name": "Bob Cooper",
+          "name_slug": "bob-cooper",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "896775ab-0be0-485c-a3c4-3e45c847e7cd",
+          "canonical_name": "Hampton Hawes",
+          "name_slug": "hampton-hawes",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e1c7fbeb-8165-4b81-8955-21265acf9387",
+          "canonical_name": "Howard Rumsey",
+          "name_slug": "howard-rumsey",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+          "canonical_name": "Jimmy Giuffre",
+          "name_slug": "jimmy-giuffre",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d2f5d539-ade6-414e-a7ec-0073025f54fc",
+          "canonical_name": "Maynard Ferguson",
+          "name_slug": "maynard-ferguson",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02f4306f-304a-44e6-9184-33b790bb83d3",
+          "canonical_name": "Milt Bernhart",
+          "name_slug": "milt-bernhart",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3fc44ec6-0b25-4e62-8bc9-07fce4988e04",
+          "canonical_name": "Shorty Rogers",
+          "name_slug": "shorty-rogers",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "c254c522-e7c0-45b8-b276-db971375739b",
+      "title": "La Soncailli",
+      "track_number": 8,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a83d08a8-11da-42f4-8124-1bd32d677922",
+          "canonical_name": "Bob Cooper",
+          "name_slug": "bob-cooper",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "896775ab-0be0-485c-a3c4-3e45c847e7cd",
+          "canonical_name": "Hampton Hawes",
+          "name_slug": "hampton-hawes",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e1c7fbeb-8165-4b81-8955-21265acf9387",
+          "canonical_name": "Howard Rumsey",
+          "name_slug": "howard-rumsey",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+          "canonical_name": "Jimmy Giuffre",
+          "name_slug": "jimmy-giuffre",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d2f5d539-ade6-414e-a7ec-0073025f54fc",
+          "canonical_name": "Maynard Ferguson",
+          "name_slug": "maynard-ferguson",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02f4306f-304a-44e6-9184-33b790bb83d3",
+          "canonical_name": "Milt Bernhart",
+          "name_slug": "milt-bernhart",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3fc44ec6-0b25-4e62-8bc9-07fce4988e04",
+          "canonical_name": "Shorty Rogers",
+          "name_slug": "shorty-rogers",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

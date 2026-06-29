@@ -1,0 +1,234 @@
+{
+  "id": "bill-evans-sunday-at-the-village-vanguard-1961",
+  "title": "Sunday at the Village Vanguard",
+  "artist_name": "Bill Evans",
+  "year": 1961,
+  "label": "Riverside",
+  "catalog_number": "D 113226",
+  "recording_dates_text": "1961-06-25",
+  "description": null,
+  "style_primary": "modal-jazz",
+  "style_display": "Modal Jazz",
+  "cover_art_url": "https://coverartarchive.org/release/06bf4534-e253-4edb-9727-ec76cb94929a/43868911590-500.jpg",
+  "apple_album_id": "1713854971",
+  "studios": [
+    "Village Vanguard, New York City (live)"
+  ],
+  "personnel": [
+    {
+      "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+      "canonical_name": "Bill Evans",
+      "name_slug": "bill-evans",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "2fd4a434-0c6f-4946-8bb7-ee3285637919",
+      "canonical_name": "Paul Motian",
+      "name_slug": "paul-motian",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "3ac96e3b-18a9-40cd-bacb-e467f4c1e99d",
+      "canonical_name": "Scott LaFaro",
+      "name_slug": "scott-lafaro",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "07047d02-02f3-495b-b97a-22cf22c3875d",
+      "title": "Gloria's Step",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2fd4a434-0c6f-4946-8bb7-ee3285637919",
+          "canonical_name": "Paul Motian",
+          "name_slug": "paul-motian",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3ac96e3b-18a9-40cd-bacb-e467f4c1e99d",
+          "canonical_name": "Scott LaFaro",
+          "name_slug": "scott-lafaro",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "140eabd2-7157-4dc6-b746-452b871dcaf2",
+      "title": "My Man's Gone Now",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2fd4a434-0c6f-4946-8bb7-ee3285637919",
+          "canonical_name": "Paul Motian",
+          "name_slug": "paul-motian",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3ac96e3b-18a9-40cd-bacb-e467f4c1e99d",
+          "canonical_name": "Scott LaFaro",
+          "name_slug": "scott-lafaro",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "cc23512b-6d92-4372-bbfb-216c0b7a8bf0",
+      "title": "Solar",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2fd4a434-0c6f-4946-8bb7-ee3285637919",
+          "canonical_name": "Paul Motian",
+          "name_slug": "paul-motian",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3ac96e3b-18a9-40cd-bacb-e467f4c1e99d",
+          "canonical_name": "Scott LaFaro",
+          "name_slug": "scott-lafaro",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "79642107-b40f-4b39-8174-bcf5fc88b6b6",
+      "title": "Alice in Wonderland",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2fd4a434-0c6f-4946-8bb7-ee3285637919",
+          "canonical_name": "Paul Motian",
+          "name_slug": "paul-motian",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3ac96e3b-18a9-40cd-bacb-e467f4c1e99d",
+          "canonical_name": "Scott LaFaro",
+          "name_slug": "scott-lafaro",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "589dc012-5b2d-4caf-a1b1-552082a4f5ca",
+      "title": "All of You",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2fd4a434-0c6f-4946-8bb7-ee3285637919",
+          "canonical_name": "Paul Motian",
+          "name_slug": "paul-motian",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3ac96e3b-18a9-40cd-bacb-e467f4c1e99d",
+          "canonical_name": "Scott LaFaro",
+          "name_slug": "scott-lafaro",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "fbedfb30-bf2c-4188-8c69-57562a76a251",
+      "title": "Jade Visions",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2fd4a434-0c6f-4946-8bb7-ee3285637919",
+          "canonical_name": "Paul Motian",
+          "name_slug": "paul-motian",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3ac96e3b-18a9-40cd-bacb-e467f4c1e99d",
+          "canonical_name": "Scott LaFaro",
+          "name_slug": "scott-lafaro",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

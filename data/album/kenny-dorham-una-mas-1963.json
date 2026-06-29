@@ -1,0 +1,240 @@
+{
+  "id": "kenny-dorham-una-mas-1963",
+  "title": "Una Mas",
+  "artist_name": "Kenny Dorham",
+  "year": 1963,
+  "label": "Blue Note",
+  "catalog_number": "BST 84127",
+  "recording_dates_text": "1963-04-01",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "https://coverartarchive.org/release-group/463b030f-518d-4cca-a0c5-4e89a59cf85e/front",
+  "apple_album_id": "1445891079",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "58bd4cae-1657-4cc4-9932-d23f445c117b",
+      "canonical_name": "Butch Warren",
+      "name_slug": "butch-warren",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+      "canonical_name": "Herbie Hancock",
+      "name_slug": "herbie-hancock",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+      "canonical_name": "Joe Henderson",
+      "name_slug": "joe-henderson",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+      "canonical_name": "Kenny Dorham",
+      "name_slug": "kenny-dorham",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+      "canonical_name": "Tony Williams",
+      "name_slug": "tony-williams",
+      "instrument": "drums",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "41b5476c-67f0-44b9-b669-91f5a86afb6e",
+      "title": "Una Mas (One More Time)",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "15:19",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "58bd4cae-1657-4cc4-9932-d23f445c117b",
+          "canonical_name": "Butch Warren",
+          "name_slug": "butch-warren",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+          "canonical_name": "Kenny Dorham",
+          "name_slug": "kenny-dorham",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "853b4893-722b-4f47-9acb-75989fe421b6",
+      "title": "Straight Ahead",
+      "track_number": 2,
+      "side": "B",
+      "duration_text": "8:58",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "58bd4cae-1657-4cc4-9932-d23f445c117b",
+          "canonical_name": "Butch Warren",
+          "name_slug": "butch-warren",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+          "canonical_name": "Kenny Dorham",
+          "name_slug": "kenny-dorham",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "55cbbbb5-27e8-47a5-b918-ce1bbf987ff0",
+      "title": "Sao Paulo",
+      "track_number": 3,
+      "side": "B",
+      "duration_text": "7:20",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "58bd4cae-1657-4cc4-9932-d23f445c117b",
+          "canonical_name": "Butch Warren",
+          "name_slug": "butch-warren",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+          "canonical_name": "Kenny Dorham",
+          "name_slug": "kenny-dorham",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "c1b6ac6a-1e64-4876-a902-327a6f83303c",
+      "title": "If Ever I Would Leave You",
+      "track_number": 4,
+      "side": null,
+      "duration_text": "5:07",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "58bd4cae-1657-4cc4-9932-d23f445c117b",
+          "canonical_name": "Butch Warren",
+          "name_slug": "butch-warren",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+          "canonical_name": "Kenny Dorham",
+          "name_slug": "kenny-dorham",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

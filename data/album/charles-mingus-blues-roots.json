@@ -1,0 +1,493 @@
+{
+  "id": "charles-mingus-blues-roots",
+  "title": "Blues & Roots",
+  "artist_name": "Charles Mingus",
+  "year": 1960,
+  "label": "Atlantic",
+  "catalog_number": "1305 (mono); SD 1305 (stereo)",
+  "recording_dates_text": "1959-02-04",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/2c/7b/db/2c7bdb9b-3c2b-ca28-df6d-17a45c575e95/dj.jpfauufx.jpg/1000x1000bb.jpg",
+  "apple_album_id": "213005255",
+  "studios": [
+    "Atlantic Studios, New York"
+  ],
+  "personnel": [
+    {
+      "person_id": "55022fa2-8e39-4a49-bcb8-f5bcdaa6ab2b",
+      "canonical_name": "Booker Ervin",
+      "name_slug": "booker-ervin",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "aa42d2fb-2fb0-4442-a8df-dd77936e01c9",
+      "canonical_name": "Charles Mingus",
+      "name_slug": "charles-mingus",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "52677c62-82c5-4b78-9edd-cabdc9a4c9af",
+      "canonical_name": "Dannie Richmond",
+      "name_slug": "dannie-richmond",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f3e2b91e-71a5-4751-b560-1f2f309104d6",
+      "canonical_name": "Horace Parlan",
+      "name_slug": "horace-parlan",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "c476ad9c-b8ea-47ad-b04e-6c8a009ea8be",
+      "canonical_name": "Jackie McLean",
+      "name_slug": "jackie-mclean",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "a8ddaf31-015b-4276-a964-0161d4d57148",
+      "canonical_name": "Jimmy Knepper",
+      "name_slug": "jimmy-knepper",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+      "canonical_name": "John Handy",
+      "name_slug": "john-handy",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "c4033ea9-af61-43a8-9c68-e832f785c114",
+      "canonical_name": "Mal Waldron",
+      "name_slug": "mal-waldron",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "659469df-0f8c-4446-a3f7-e4cee81fa026",
+      "canonical_name": "Pepper Adams",
+      "name_slug": "pepper-adams",
+      "instrument": "baritone saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "c537d4e7-62a7-4dbe-b2a2-a464d7103846",
+      "canonical_name": "Willie Dennis",
+      "name_slug": "willie-dennis",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "b1bfe5c5-4e09-4905-b4c5-4627a056660d",
+      "title": "Wednesday Night Prayer Meeting",
+      "track_number": 1,
+      "side": null,
+      "duration_text": "5:39",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "55022fa2-8e39-4a49-bcb8-f5bcdaa6ab2b",
+          "canonical_name": "Booker Ervin",
+          "name_slug": "booker-ervin",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "aa42d2fb-2fb0-4442-a8df-dd77936e01c9",
+          "canonical_name": "Charles Mingus",
+          "name_slug": "charles-mingus",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52677c62-82c5-4b78-9edd-cabdc9a4c9af",
+          "canonical_name": "Dannie Richmond",
+          "name_slug": "dannie-richmond",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c476ad9c-b8ea-47ad-b04e-6c8a009ea8be",
+          "canonical_name": "Jackie McLean",
+          "name_slug": "jackie-mclean",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a8ddaf31-015b-4276-a964-0161d4d57148",
+          "canonical_name": "Jimmy Knepper",
+          "name_slug": "jimmy-knepper",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "659469df-0f8c-4446-a3f7-e4cee81fa026",
+          "canonical_name": "Pepper Adams",
+          "name_slug": "pepper-adams",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c537d4e7-62a7-4dbe-b2a2-a464d7103846",
+          "canonical_name": "Willie Dennis",
+          "name_slug": "willie-dennis",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "f5a722d9-f5c8-4784-9458-ba07d0100535",
+      "title": "Cryin' Blues",
+      "track_number": 2,
+      "side": null,
+      "duration_text": "4:58",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "55022fa2-8e39-4a49-bcb8-f5bcdaa6ab2b",
+          "canonical_name": "Booker Ervin",
+          "name_slug": "booker-ervin",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "aa42d2fb-2fb0-4442-a8df-dd77936e01c9",
+          "canonical_name": "Charles Mingus",
+          "name_slug": "charles-mingus",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52677c62-82c5-4b78-9edd-cabdc9a4c9af",
+          "canonical_name": "Dannie Richmond",
+          "name_slug": "dannie-richmond",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c476ad9c-b8ea-47ad-b04e-6c8a009ea8be",
+          "canonical_name": "Jackie McLean",
+          "name_slug": "jackie-mclean",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a8ddaf31-015b-4276-a964-0161d4d57148",
+          "canonical_name": "Jimmy Knepper",
+          "name_slug": "jimmy-knepper",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "659469df-0f8c-4446-a3f7-e4cee81fa026",
+          "canonical_name": "Pepper Adams",
+          "name_slug": "pepper-adams",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c537d4e7-62a7-4dbe-b2a2-a464d7103846",
+          "canonical_name": "Willie Dennis",
+          "name_slug": "willie-dennis",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "a7a57df4-3d14-406f-b7f1-057cea5f7a3e",
+      "title": "Moanin'",
+      "track_number": 3,
+      "side": null,
+      "duration_text": "8:01",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "55022fa2-8e39-4a49-bcb8-f5bcdaa6ab2b",
+          "canonical_name": "Booker Ervin",
+          "name_slug": "booker-ervin",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "aa42d2fb-2fb0-4442-a8df-dd77936e01c9",
+          "canonical_name": "Charles Mingus",
+          "name_slug": "charles-mingus",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52677c62-82c5-4b78-9edd-cabdc9a4c9af",
+          "canonical_name": "Dannie Richmond",
+          "name_slug": "dannie-richmond",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c476ad9c-b8ea-47ad-b04e-6c8a009ea8be",
+          "canonical_name": "Jackie McLean",
+          "name_slug": "jackie-mclean",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a8ddaf31-015b-4276-a964-0161d4d57148",
+          "canonical_name": "Jimmy Knepper",
+          "name_slug": "jimmy-knepper",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "659469df-0f8c-4446-a3f7-e4cee81fa026",
+          "canonical_name": "Pepper Adams",
+          "name_slug": "pepper-adams",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c537d4e7-62a7-4dbe-b2a2-a464d7103846",
+          "canonical_name": "Willie Dennis",
+          "name_slug": "willie-dennis",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "be13dc39-6af0-4fe5-8cc4-2bbd9cbc3608",
+      "title": "Tensions",
+      "track_number": 4,
+      "side": null,
+      "duration_text": "6:27",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "55022fa2-8e39-4a49-bcb8-f5bcdaa6ab2b",
+          "canonical_name": "Booker Ervin",
+          "name_slug": "booker-ervin",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "aa42d2fb-2fb0-4442-a8df-dd77936e01c9",
+          "canonical_name": "Charles Mingus",
+          "name_slug": "charles-mingus",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52677c62-82c5-4b78-9edd-cabdc9a4c9af",
+          "canonical_name": "Dannie Richmond",
+          "name_slug": "dannie-richmond",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c476ad9c-b8ea-47ad-b04e-6c8a009ea8be",
+          "canonical_name": "Jackie McLean",
+          "name_slug": "jackie-mclean",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a8ddaf31-015b-4276-a964-0161d4d57148",
+          "canonical_name": "Jimmy Knepper",
+          "name_slug": "jimmy-knepper",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "659469df-0f8c-4446-a3f7-e4cee81fa026",
+          "canonical_name": "Pepper Adams",
+          "name_slug": "pepper-adams",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c537d4e7-62a7-4dbe-b2a2-a464d7103846",
+          "canonical_name": "Willie Dennis",
+          "name_slug": "willie-dennis",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "ad909f1c-0b57-4fa0-8959-69fc1ce12e71",
+      "title": "My Jelly Roll Soul",
+      "track_number": 5,
+      "side": null,
+      "duration_text": "6:47",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "55022fa2-8e39-4a49-bcb8-f5bcdaa6ab2b",
+          "canonical_name": "Booker Ervin",
+          "name_slug": "booker-ervin",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "aa42d2fb-2fb0-4442-a8df-dd77936e01c9",
+          "canonical_name": "Charles Mingus",
+          "name_slug": "charles-mingus",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52677c62-82c5-4b78-9edd-cabdc9a4c9af",
+          "canonical_name": "Dannie Richmond",
+          "name_slug": "dannie-richmond",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c476ad9c-b8ea-47ad-b04e-6c8a009ea8be",
+          "canonical_name": "Jackie McLean",
+          "name_slug": "jackie-mclean",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a8ddaf31-015b-4276-a964-0161d4d57148",
+          "canonical_name": "Jimmy Knepper",
+          "name_slug": "jimmy-knepper",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "659469df-0f8c-4446-a3f7-e4cee81fa026",
+          "canonical_name": "Pepper Adams",
+          "name_slug": "pepper-adams",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c537d4e7-62a7-4dbe-b2a2-a464d7103846",
+          "canonical_name": "Willie Dennis",
+          "name_slug": "willie-dennis",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "8d1eae68-ced7-4981-a786-f4a96edaae23",
+      "title": "E's Flat Ah's Flat Too",
+      "track_number": 6,
+      "side": null,
+      "duration_text": "6:37",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "55022fa2-8e39-4a49-bcb8-f5bcdaa6ab2b",
+          "canonical_name": "Booker Ervin",
+          "name_slug": "booker-ervin",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "aa42d2fb-2fb0-4442-a8df-dd77936e01c9",
+          "canonical_name": "Charles Mingus",
+          "name_slug": "charles-mingus",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52677c62-82c5-4b78-9edd-cabdc9a4c9af",
+          "canonical_name": "Dannie Richmond",
+          "name_slug": "dannie-richmond",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c476ad9c-b8ea-47ad-b04e-6c8a009ea8be",
+          "canonical_name": "Jackie McLean",
+          "name_slug": "jackie-mclean",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a8ddaf31-015b-4276-a964-0161d4d57148",
+          "canonical_name": "Jimmy Knepper",
+          "name_slug": "jimmy-knepper",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "659469df-0f8c-4446-a3f7-e4cee81fa026",
+          "canonical_name": "Pepper Adams",
+          "name_slug": "pepper-adams",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c537d4e7-62a7-4dbe-b2a2-a464d7103846",
+          "canonical_name": "Willie Dennis",
+          "name_slug": "willie-dennis",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

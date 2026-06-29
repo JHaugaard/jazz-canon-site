@@ -1,0 +1,916 @@
+{
+  "id": "gil-evans-out-of-the-cool",
+  "title": "Out of the Cool",
+  "artist_name": "Gil Evans",
+  "year": 1961,
+  "label": "Impulse!",
+  "catalog_number": "A-4",
+  "recording_dates_text": "November 18 & 30, December 10 & 15, 1960",
+  "description": null,
+  "style_primary": "modal-jazz",
+  "style_display": "Modal Jazz",
+  "cover_art_url": "http://coverartarchive.org/release/9a572793-f3f1-40c1-9875-1bc182c06d2b/20396629139-500.jpg",
+  "apple_album_id": "1442781667",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+      "canonical_name": "Bill Barber",
+      "name_slug": "bill-barber",
+      "instrument": "tuba",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "28c68f2d-5cc1-4937-a98b-43a1708f08fb",
+      "canonical_name": "Bob Tricarico",
+      "name_slug": "bob-tricarico",
+      "instrument": "flute",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "28c68f2d-5cc1-4937-a98b-43a1708f08fb",
+      "canonical_name": "Bob Tricarico",
+      "name_slug": "bob-tricarico",
+      "instrument": "piccolo",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "28c68f2d-5cc1-4937-a98b-43a1708f08fb",
+      "canonical_name": "Bob Tricarico",
+      "name_slug": "bob-tricarico",
+      "instrument": "bassoon",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "c6894931-32d9-4bc5-9962-f5d6ff08fd5a",
+      "canonical_name": "Budd Johnson",
+      "name_slug": "budd-johnson",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "c6894931-32d9-4bc5-9962-f5d6ff08fd5a",
+      "canonical_name": "Budd Johnson",
+      "name_slug": "budd-johnson",
+      "instrument": "soprano saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "caaf1e04-3100-4f83-a3bb-1ed0c800d28e",
+      "canonical_name": "Charlie Persip",
+      "name_slug": "charlie-persip",
+      "instrument": "percussion",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "caaf1e04-3100-4f83-a3bb-1ed0c800d28e",
+      "canonical_name": "Charlie Persip",
+      "name_slug": "charlie-persip",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "6a9ba74a-52d1-4c05-ae58-ef683795dc5b",
+      "canonical_name": "Eddie Caine",
+      "name_slug": "eddie-caine",
+      "instrument": "flute",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "6a9ba74a-52d1-4c05-ae58-ef683795dc5b",
+      "canonical_name": "Eddie Caine",
+      "name_slug": "eddie-caine",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "6a9ba74a-52d1-4c05-ae58-ef683795dc5b",
+      "canonical_name": "Eddie Caine",
+      "name_slug": "eddie-caine",
+      "instrument": "piccolo",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+      "canonical_name": "Elvin Jones",
+      "name_slug": "elvin-jones",
+      "instrument": "percussion",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+      "canonical_name": "Elvin Jones",
+      "name_slug": "elvin-jones",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+      "canonical_name": "Gil Evans",
+      "name_slug": "gil-evans",
+      "instrument": "arranger",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+      "canonical_name": "Gil Evans",
+      "name_slug": "gil-evans",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "a8ddaf31-015b-4276-a964-0161d4d57148",
+      "canonical_name": "Jimmy Knepper",
+      "name_slug": "jimmy-knepper",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f668e1fb-3a38-4651-bb71-1ffa5ccccf64",
+      "canonical_name": "Johnny Coles",
+      "name_slug": "johnny-coles",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "d9b7dd10-b18a-4804-a2b2-56c41e2cf37f",
+      "canonical_name": "Keg Johnson",
+      "name_slug": "keg-johnson",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "e9059a3f-d54b-4d6d-ba8c-df580db54f56",
+      "canonical_name": "Phil Sunkel",
+      "name_slug": "phil-sunkel",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "6291b57b-430c-46c8-975f-660e09d1674d",
+      "canonical_name": "Ray Beckenstein",
+      "name_slug": "ray-beckenstein",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "6291b57b-430c-46c8-975f-660e09d1674d",
+      "canonical_name": "Ray Beckenstein",
+      "name_slug": "ray-beckenstein",
+      "instrument": "flute",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "6291b57b-430c-46c8-975f-660e09d1674d",
+      "canonical_name": "Ray Beckenstein",
+      "name_slug": "ray-beckenstein",
+      "instrument": "piccolo",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "88e3dd7b-0125-4b9a-9b65-0f632e8338a5",
+      "canonical_name": "Ray Crawford",
+      "name_slug": "ray-crawford",
+      "instrument": "guitar",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+      "canonical_name": "Ron Carter",
+      "name_slug": "ron-carter",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "63784037-a9a8-4d9a-8c0e-1b71df570436",
+      "canonical_name": "Tony Studd",
+      "name_slug": "tony-studd",
+      "instrument": "bass trombone",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "0a321eae-7ff6-49b4-a481-1c9716031306",
+      "title": "La Nevada",
+      "track_number": 1,
+      "side": null,
+      "duration_text": "15:34",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "28c68f2d-5cc1-4937-a98b-43a1708f08fb",
+          "canonical_name": "Bob Tricarico",
+          "name_slug": "bob-tricarico",
+          "instrument": "piccolo",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "28c68f2d-5cc1-4937-a98b-43a1708f08fb",
+          "canonical_name": "Bob Tricarico",
+          "name_slug": "bob-tricarico",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "28c68f2d-5cc1-4937-a98b-43a1708f08fb",
+          "canonical_name": "Bob Tricarico",
+          "name_slug": "bob-tricarico",
+          "instrument": "bassoon",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c6894931-32d9-4bc5-9962-f5d6ff08fd5a",
+          "canonical_name": "Budd Johnson",
+          "name_slug": "budd-johnson",
+          "instrument": "soprano saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c6894931-32d9-4bc5-9962-f5d6ff08fd5a",
+          "canonical_name": "Budd Johnson",
+          "name_slug": "budd-johnson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "caaf1e04-3100-4f83-a3bb-1ed0c800d28e",
+          "canonical_name": "Charlie Persip",
+          "name_slug": "charlie-persip",
+          "instrument": "percussion",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "caaf1e04-3100-4f83-a3bb-1ed0c800d28e",
+          "canonical_name": "Charlie Persip",
+          "name_slug": "charlie-persip",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "percussion",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+          "canonical_name": "Gil Evans",
+          "name_slug": "gil-evans",
+          "instrument": "arranger",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+          "canonical_name": "Gil Evans",
+          "name_slug": "gil-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a8ddaf31-015b-4276-a964-0161d4d57148",
+          "canonical_name": "Jimmy Knepper",
+          "name_slug": "jimmy-knepper",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f668e1fb-3a38-4651-bb71-1ffa5ccccf64",
+          "canonical_name": "Johnny Coles",
+          "name_slug": "johnny-coles",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d9b7dd10-b18a-4804-a2b2-56c41e2cf37f",
+          "canonical_name": "Keg Johnson",
+          "name_slug": "keg-johnson",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e9059a3f-d54b-4d6d-ba8c-df580db54f56",
+          "canonical_name": "Phil Sunkel",
+          "name_slug": "phil-sunkel",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "88e3dd7b-0125-4b9a-9b65-0f632e8338a5",
+          "canonical_name": "Ray Crawford",
+          "name_slug": "ray-crawford",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "63784037-a9a8-4d9a-8c0e-1b71df570436",
+          "canonical_name": "Tony Studd",
+          "name_slug": "tony-studd",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "c34dc883-509b-4caa-8fea-17ee15378926",
+      "title": "Where Flamingos Fly",
+      "track_number": 2,
+      "side": null,
+      "duration_text": "5:13",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "28c68f2d-5cc1-4937-a98b-43a1708f08fb",
+          "canonical_name": "Bob Tricarico",
+          "name_slug": "bob-tricarico",
+          "instrument": "piccolo",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "28c68f2d-5cc1-4937-a98b-43a1708f08fb",
+          "canonical_name": "Bob Tricarico",
+          "name_slug": "bob-tricarico",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "28c68f2d-5cc1-4937-a98b-43a1708f08fb",
+          "canonical_name": "Bob Tricarico",
+          "name_slug": "bob-tricarico",
+          "instrument": "bassoon",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c6894931-32d9-4bc5-9962-f5d6ff08fd5a",
+          "canonical_name": "Budd Johnson",
+          "name_slug": "budd-johnson",
+          "instrument": "soprano saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c6894931-32d9-4bc5-9962-f5d6ff08fd5a",
+          "canonical_name": "Budd Johnson",
+          "name_slug": "budd-johnson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "caaf1e04-3100-4f83-a3bb-1ed0c800d28e",
+          "canonical_name": "Charlie Persip",
+          "name_slug": "charlie-persip",
+          "instrument": "percussion",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "caaf1e04-3100-4f83-a3bb-1ed0c800d28e",
+          "canonical_name": "Charlie Persip",
+          "name_slug": "charlie-persip",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "percussion",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+          "canonical_name": "Gil Evans",
+          "name_slug": "gil-evans",
+          "instrument": "arranger",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+          "canonical_name": "Gil Evans",
+          "name_slug": "gil-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a8ddaf31-015b-4276-a964-0161d4d57148",
+          "canonical_name": "Jimmy Knepper",
+          "name_slug": "jimmy-knepper",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f668e1fb-3a38-4651-bb71-1ffa5ccccf64",
+          "canonical_name": "Johnny Coles",
+          "name_slug": "johnny-coles",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d9b7dd10-b18a-4804-a2b2-56c41e2cf37f",
+          "canonical_name": "Keg Johnson",
+          "name_slug": "keg-johnson",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e9059a3f-d54b-4d6d-ba8c-df580db54f56",
+          "canonical_name": "Phil Sunkel",
+          "name_slug": "phil-sunkel",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "88e3dd7b-0125-4b9a-9b65-0f632e8338a5",
+          "canonical_name": "Ray Crawford",
+          "name_slug": "ray-crawford",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "63784037-a9a8-4d9a-8c0e-1b71df570436",
+          "canonical_name": "Tony Studd",
+          "name_slug": "tony-studd",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "4cb6eac8-813c-4cfb-a769-cbc874dcec99",
+      "title": "Bilbao Song",
+      "track_number": 3,
+      "side": null,
+      "duration_text": "4:14",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "28c68f2d-5cc1-4937-a98b-43a1708f08fb",
+          "canonical_name": "Bob Tricarico",
+          "name_slug": "bob-tricarico",
+          "instrument": "piccolo",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "28c68f2d-5cc1-4937-a98b-43a1708f08fb",
+          "canonical_name": "Bob Tricarico",
+          "name_slug": "bob-tricarico",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "28c68f2d-5cc1-4937-a98b-43a1708f08fb",
+          "canonical_name": "Bob Tricarico",
+          "name_slug": "bob-tricarico",
+          "instrument": "bassoon",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c6894931-32d9-4bc5-9962-f5d6ff08fd5a",
+          "canonical_name": "Budd Johnson",
+          "name_slug": "budd-johnson",
+          "instrument": "soprano saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c6894931-32d9-4bc5-9962-f5d6ff08fd5a",
+          "canonical_name": "Budd Johnson",
+          "name_slug": "budd-johnson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "caaf1e04-3100-4f83-a3bb-1ed0c800d28e",
+          "canonical_name": "Charlie Persip",
+          "name_slug": "charlie-persip",
+          "instrument": "percussion",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "caaf1e04-3100-4f83-a3bb-1ed0c800d28e",
+          "canonical_name": "Charlie Persip",
+          "name_slug": "charlie-persip",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "percussion",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+          "canonical_name": "Gil Evans",
+          "name_slug": "gil-evans",
+          "instrument": "arranger",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+          "canonical_name": "Gil Evans",
+          "name_slug": "gil-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a8ddaf31-015b-4276-a964-0161d4d57148",
+          "canonical_name": "Jimmy Knepper",
+          "name_slug": "jimmy-knepper",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f668e1fb-3a38-4651-bb71-1ffa5ccccf64",
+          "canonical_name": "Johnny Coles",
+          "name_slug": "johnny-coles",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d9b7dd10-b18a-4804-a2b2-56c41e2cf37f",
+          "canonical_name": "Keg Johnson",
+          "name_slug": "keg-johnson",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e9059a3f-d54b-4d6d-ba8c-df580db54f56",
+          "canonical_name": "Phil Sunkel",
+          "name_slug": "phil-sunkel",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "88e3dd7b-0125-4b9a-9b65-0f632e8338a5",
+          "canonical_name": "Ray Crawford",
+          "name_slug": "ray-crawford",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "63784037-a9a8-4d9a-8c0e-1b71df570436",
+          "canonical_name": "Tony Studd",
+          "name_slug": "tony-studd",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "ea8923ea-3be0-483a-862f-c80746ed69cb",
+      "title": "Stratusphunk",
+      "track_number": 4,
+      "side": null,
+      "duration_text": "8:05",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "28c68f2d-5cc1-4937-a98b-43a1708f08fb",
+          "canonical_name": "Bob Tricarico",
+          "name_slug": "bob-tricarico",
+          "instrument": "piccolo",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "28c68f2d-5cc1-4937-a98b-43a1708f08fb",
+          "canonical_name": "Bob Tricarico",
+          "name_slug": "bob-tricarico",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "28c68f2d-5cc1-4937-a98b-43a1708f08fb",
+          "canonical_name": "Bob Tricarico",
+          "name_slug": "bob-tricarico",
+          "instrument": "bassoon",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c6894931-32d9-4bc5-9962-f5d6ff08fd5a",
+          "canonical_name": "Budd Johnson",
+          "name_slug": "budd-johnson",
+          "instrument": "soprano saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c6894931-32d9-4bc5-9962-f5d6ff08fd5a",
+          "canonical_name": "Budd Johnson",
+          "name_slug": "budd-johnson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "caaf1e04-3100-4f83-a3bb-1ed0c800d28e",
+          "canonical_name": "Charlie Persip",
+          "name_slug": "charlie-persip",
+          "instrument": "percussion",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "caaf1e04-3100-4f83-a3bb-1ed0c800d28e",
+          "canonical_name": "Charlie Persip",
+          "name_slug": "charlie-persip",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "percussion",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+          "canonical_name": "Gil Evans",
+          "name_slug": "gil-evans",
+          "instrument": "arranger",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+          "canonical_name": "Gil Evans",
+          "name_slug": "gil-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a8ddaf31-015b-4276-a964-0161d4d57148",
+          "canonical_name": "Jimmy Knepper",
+          "name_slug": "jimmy-knepper",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f668e1fb-3a38-4651-bb71-1ffa5ccccf64",
+          "canonical_name": "Johnny Coles",
+          "name_slug": "johnny-coles",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d9b7dd10-b18a-4804-a2b2-56c41e2cf37f",
+          "canonical_name": "Keg Johnson",
+          "name_slug": "keg-johnson",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e9059a3f-d54b-4d6d-ba8c-df580db54f56",
+          "canonical_name": "Phil Sunkel",
+          "name_slug": "phil-sunkel",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "88e3dd7b-0125-4b9a-9b65-0f632e8338a5",
+          "canonical_name": "Ray Crawford",
+          "name_slug": "ray-crawford",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "63784037-a9a8-4d9a-8c0e-1b71df570436",
+          "canonical_name": "Tony Studd",
+          "name_slug": "tony-studd",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "68d7d057-2779-4d74-8424-ac6c3ff7c266",
+      "title": "Sunken Treasure",
+      "track_number": 5,
+      "side": null,
+      "duration_text": "4:19",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "28c68f2d-5cc1-4937-a98b-43a1708f08fb",
+          "canonical_name": "Bob Tricarico",
+          "name_slug": "bob-tricarico",
+          "instrument": "piccolo",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "28c68f2d-5cc1-4937-a98b-43a1708f08fb",
+          "canonical_name": "Bob Tricarico",
+          "name_slug": "bob-tricarico",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "28c68f2d-5cc1-4937-a98b-43a1708f08fb",
+          "canonical_name": "Bob Tricarico",
+          "name_slug": "bob-tricarico",
+          "instrument": "bassoon",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c6894931-32d9-4bc5-9962-f5d6ff08fd5a",
+          "canonical_name": "Budd Johnson",
+          "name_slug": "budd-johnson",
+          "instrument": "soprano saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c6894931-32d9-4bc5-9962-f5d6ff08fd5a",
+          "canonical_name": "Budd Johnson",
+          "name_slug": "budd-johnson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "caaf1e04-3100-4f83-a3bb-1ed0c800d28e",
+          "canonical_name": "Charlie Persip",
+          "name_slug": "charlie-persip",
+          "instrument": "percussion",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "caaf1e04-3100-4f83-a3bb-1ed0c800d28e",
+          "canonical_name": "Charlie Persip",
+          "name_slug": "charlie-persip",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "percussion",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+          "canonical_name": "Gil Evans",
+          "name_slug": "gil-evans",
+          "instrument": "arranger",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+          "canonical_name": "Gil Evans",
+          "name_slug": "gil-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a8ddaf31-015b-4276-a964-0161d4d57148",
+          "canonical_name": "Jimmy Knepper",
+          "name_slug": "jimmy-knepper",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f668e1fb-3a38-4651-bb71-1ffa5ccccf64",
+          "canonical_name": "Johnny Coles",
+          "name_slug": "johnny-coles",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d9b7dd10-b18a-4804-a2b2-56c41e2cf37f",
+          "canonical_name": "Keg Johnson",
+          "name_slug": "keg-johnson",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e9059a3f-d54b-4d6d-ba8c-df580db54f56",
+          "canonical_name": "Phil Sunkel",
+          "name_slug": "phil-sunkel",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "88e3dd7b-0125-4b9a-9b65-0f632e8338a5",
+          "canonical_name": "Ray Crawford",
+          "name_slug": "ray-crawford",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "63784037-a9a8-4d9a-8c0e-1b71df570436",
+          "canonical_name": "Tony Studd",
+          "name_slug": "tony-studd",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

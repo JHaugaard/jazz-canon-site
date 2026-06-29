@@ -1,0 +1,325 @@
+{
+  "id": "lou-donaldson-alligator-bogaloo-1967",
+  "title": "Alligator Bogaloo",
+  "artist_name": "Lou Donaldson",
+  "year": 1967,
+  "label": "Blue Note",
+  "catalog_number": "BST 84263",
+  "recording_dates_text": "1967-04-07",
+  "description": null,
+  "style_primary": "soul-jazz",
+  "style_display": "Soul Jazz",
+  "cover_art_url": "https://coverartarchive.org/release-group/095a43ca-0faf-31fc-8e77-04d114c8532e/front",
+  "apple_album_id": "1443141452",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "e94d93cc-fc8f-4763-957e-7b8284b82e0f",
+      "canonical_name": "George Benson",
+      "name_slug": "george-benson",
+      "instrument": "guitar",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "ff96ce61-232f-4ce9-a4d7-46524e3e1808",
+      "canonical_name": "Leo Morris",
+      "name_slug": "leo-morris",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "d56fa394-077b-45a9-8f6c-dd4ada062f0f",
+      "canonical_name": "Lonnie Smith",
+      "name_slug": "lonnie-smith",
+      "instrument": "organ (hammond)",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "3297f55c-de50-47ad-ab15-da7350301947",
+      "canonical_name": "Lou Donaldson",
+      "name_slug": "lou-donaldson",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "608616a2-18a9-4eb1-ac8f-ae4c84844dac",
+      "canonical_name": "Melvin Lastie",
+      "name_slug": "melvin-lastie",
+      "instrument": "cornet",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "9ae7f650-6713-49df-bf32-60c261fde75a",
+      "title": "Alligator Bogaloo",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "6:57",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "e94d93cc-fc8f-4763-957e-7b8284b82e0f",
+          "canonical_name": "George Benson",
+          "name_slug": "george-benson",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ff96ce61-232f-4ce9-a4d7-46524e3e1808",
+          "canonical_name": "Leo Morris",
+          "name_slug": "leo-morris",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d56fa394-077b-45a9-8f6c-dd4ada062f0f",
+          "canonical_name": "Lonnie Smith",
+          "name_slug": "lonnie-smith",
+          "instrument": "organ (hammond)",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3297f55c-de50-47ad-ab15-da7350301947",
+          "canonical_name": "Lou Donaldson",
+          "name_slug": "lou-donaldson",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "608616a2-18a9-4eb1-ac8f-ae4c84844dac",
+          "canonical_name": "Melvin Lastie",
+          "name_slug": "melvin-lastie",
+          "instrument": "cornet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "afcc6707-76e2-4050-b592-a2c5a767c12e",
+      "title": "One Cylinder",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "6:48",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "e94d93cc-fc8f-4763-957e-7b8284b82e0f",
+          "canonical_name": "George Benson",
+          "name_slug": "george-benson",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ff96ce61-232f-4ce9-a4d7-46524e3e1808",
+          "canonical_name": "Leo Morris",
+          "name_slug": "leo-morris",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d56fa394-077b-45a9-8f6c-dd4ada062f0f",
+          "canonical_name": "Lonnie Smith",
+          "name_slug": "lonnie-smith",
+          "instrument": "organ (hammond)",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3297f55c-de50-47ad-ab15-da7350301947",
+          "canonical_name": "Lou Donaldson",
+          "name_slug": "lou-donaldson",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "608616a2-18a9-4eb1-ac8f-ae4c84844dac",
+          "canonical_name": "Melvin Lastie",
+          "name_slug": "melvin-lastie",
+          "instrument": "cornet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "a53af897-8b22-40ce-b705-ce955143bf99",
+      "title": "The Thang",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "3:34",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "e94d93cc-fc8f-4763-957e-7b8284b82e0f",
+          "canonical_name": "George Benson",
+          "name_slug": "george-benson",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ff96ce61-232f-4ce9-a4d7-46524e3e1808",
+          "canonical_name": "Leo Morris",
+          "name_slug": "leo-morris",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d56fa394-077b-45a9-8f6c-dd4ada062f0f",
+          "canonical_name": "Lonnie Smith",
+          "name_slug": "lonnie-smith",
+          "instrument": "organ (hammond)",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3297f55c-de50-47ad-ab15-da7350301947",
+          "canonical_name": "Lou Donaldson",
+          "name_slug": "lou-donaldson",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "608616a2-18a9-4eb1-ac8f-ae4c84844dac",
+          "canonical_name": "Melvin Lastie",
+          "name_slug": "melvin-lastie",
+          "instrument": "cornet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "03e469bc-5c87-4bd8-8c14-1253dbc5ccad",
+      "title": "Aw Shucks!",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "7:23",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "e94d93cc-fc8f-4763-957e-7b8284b82e0f",
+          "canonical_name": "George Benson",
+          "name_slug": "george-benson",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ff96ce61-232f-4ce9-a4d7-46524e3e1808",
+          "canonical_name": "Leo Morris",
+          "name_slug": "leo-morris",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d56fa394-077b-45a9-8f6c-dd4ada062f0f",
+          "canonical_name": "Lonnie Smith",
+          "name_slug": "lonnie-smith",
+          "instrument": "organ (hammond)",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3297f55c-de50-47ad-ab15-da7350301947",
+          "canonical_name": "Lou Donaldson",
+          "name_slug": "lou-donaldson",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "608616a2-18a9-4eb1-ac8f-ae4c84844dac",
+          "canonical_name": "Melvin Lastie",
+          "name_slug": "melvin-lastie",
+          "instrument": "cornet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "0246228d-68eb-4a5c-99c1-43b8927d3248",
+      "title": "Rev. Moses",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "6:27",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "e94d93cc-fc8f-4763-957e-7b8284b82e0f",
+          "canonical_name": "George Benson",
+          "name_slug": "george-benson",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ff96ce61-232f-4ce9-a4d7-46524e3e1808",
+          "canonical_name": "Leo Morris",
+          "name_slug": "leo-morris",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d56fa394-077b-45a9-8f6c-dd4ada062f0f",
+          "canonical_name": "Lonnie Smith",
+          "name_slug": "lonnie-smith",
+          "instrument": "organ (hammond)",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3297f55c-de50-47ad-ab15-da7350301947",
+          "canonical_name": "Lou Donaldson",
+          "name_slug": "lou-donaldson",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "608616a2-18a9-4eb1-ac8f-ae4c84844dac",
+          "canonical_name": "Melvin Lastie",
+          "name_slug": "melvin-lastie",
+          "instrument": "cornet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "f2760f33-6163-4d2b-9c6d-eac5f2cb8ef6",
+      "title": "I Want a Little Girl",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "4:29",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "e94d93cc-fc8f-4763-957e-7b8284b82e0f",
+          "canonical_name": "George Benson",
+          "name_slug": "george-benson",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ff96ce61-232f-4ce9-a4d7-46524e3e1808",
+          "canonical_name": "Leo Morris",
+          "name_slug": "leo-morris",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d56fa394-077b-45a9-8f6c-dd4ada062f0f",
+          "canonical_name": "Lonnie Smith",
+          "name_slug": "lonnie-smith",
+          "instrument": "organ (hammond)",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3297f55c-de50-47ad-ab15-da7350301947",
+          "canonical_name": "Lou Donaldson",
+          "name_slug": "lou-donaldson",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

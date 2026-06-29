@@ -1,0 +1,332 @@
+{
+  "id": "john-lewis-grand-encounter-1956",
+  "title": "Grand Encounter: 2\u00b0 East / 3\u00b0 West",
+  "artist_name": "John Lewis",
+  "year": 1956,
+  "label": "Pacific Jazz",
+  "catalog_number": "1313",
+  "recording_dates_text": "1956-02-10",
+  "description": null,
+  "style_primary": "cool-jazz",
+  "style_display": "Cool Jazz",
+  "cover_art_url": "https://coverartarchive.org/release-group/d714510c-bf94-43bd-89e4-efdf0fb2e73d/front",
+  "apple_album_id": "1397523960",
+  "studios": [
+    "Los Angeles, CA"
+  ],
+  "personnel": [
+    {
+      "person_id": "82ebc36b-1d8f-4387-bf7e-06022e040595",
+      "canonical_name": "Bill Perkins",
+      "name_slug": "bill-perkins",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+      "canonical_name": "Chico Hamilton",
+      "name_slug": "chico-hamilton",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+      "canonical_name": "Jim Hall",
+      "name_slug": "jim-hall",
+      "instrument": "guitar",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "5d86b7d8-7af1-42f2-8049-b7452149c300",
+      "canonical_name": "John Lewis",
+      "name_slug": "john-lewis",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+      "canonical_name": "Percy Heath",
+      "name_slug": "percy-heath",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "ba4b3bbd-25d8-4e1f-9f01-02a6621e0885",
+      "title": "Love Me or Leave Me",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "8:18",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "82ebc36b-1d8f-4387-bf7e-06022e040595",
+          "canonical_name": "Bill Perkins",
+          "name_slug": "bill-perkins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+          "canonical_name": "Chico Hamilton",
+          "name_slug": "chico-hamilton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5d86b7d8-7af1-42f2-8049-b7452149c300",
+          "canonical_name": "John Lewis",
+          "name_slug": "john-lewis",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "d798cf53-b67b-4cc4-bb77-66326daff4b7",
+      "title": "I Can't Get Started",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "3:31",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "82ebc36b-1d8f-4387-bf7e-06022e040595",
+          "canonical_name": "Bill Perkins",
+          "name_slug": "bill-perkins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+          "canonical_name": "Chico Hamilton",
+          "name_slug": "chico-hamilton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5d86b7d8-7af1-42f2-8049-b7452149c300",
+          "canonical_name": "John Lewis",
+          "name_slug": "john-lewis",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "c53e6873-6206-4867-9383-a43ca83381c5",
+      "title": "Easy Living",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "4:13",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "82ebc36b-1d8f-4387-bf7e-06022e040595",
+          "canonical_name": "Bill Perkins",
+          "name_slug": "bill-perkins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+          "canonical_name": "Chico Hamilton",
+          "name_slug": "chico-hamilton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5d86b7d8-7af1-42f2-8049-b7452149c300",
+          "canonical_name": "John Lewis",
+          "name_slug": "john-lewis",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "131a96e1-2732-4cde-b5f7-9d927df6b707",
+      "title": "Two Degrees East - Three Degrees West",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "6:07",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "82ebc36b-1d8f-4387-bf7e-06022e040595",
+          "canonical_name": "Bill Perkins",
+          "name_slug": "bill-perkins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+          "canonical_name": "Chico Hamilton",
+          "name_slug": "chico-hamilton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5d86b7d8-7af1-42f2-8049-b7452149c300",
+          "canonical_name": "John Lewis",
+          "name_slug": "john-lewis",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "36dba3ab-1843-438c-b5f0-87d3a87a8e48",
+      "title": "Skylark",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "3:06",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "82ebc36b-1d8f-4387-bf7e-06022e040595",
+          "canonical_name": "Bill Perkins",
+          "name_slug": "bill-perkins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+          "canonical_name": "Chico Hamilton",
+          "name_slug": "chico-hamilton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5d86b7d8-7af1-42f2-8049-b7452149c300",
+          "canonical_name": "John Lewis",
+          "name_slug": "john-lewis",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "edd25a9e-9566-448a-a0c7-831a860e62b8",
+      "title": "Almost Like Being in Love",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "9:26",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "82ebc36b-1d8f-4387-bf7e-06022e040595",
+          "canonical_name": "Bill Perkins",
+          "name_slug": "bill-perkins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+          "canonical_name": "Chico Hamilton",
+          "name_slug": "chico-hamilton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5d86b7d8-7af1-42f2-8049-b7452149c300",
+          "canonical_name": "John Lewis",
+          "name_slug": "john-lewis",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

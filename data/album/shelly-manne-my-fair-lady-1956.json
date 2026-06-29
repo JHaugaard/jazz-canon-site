@@ -1,0 +1,298 @@
+{
+  "id": "shelly-manne-my-fair-lady-1956",
+  "title": "My Fair Lady",
+  "artist_name": "Shelly Manne",
+  "year": 1956,
+  "label": "Contemporary",
+  "catalog_number": "VICJ-2076",
+  "recording_dates_text": "1956-08-17",
+  "description": null,
+  "style_primary": "cool-jazz",
+  "style_display": "Cool Jazz",
+  "cover_art_url": "http://coverartarchive.org/release/928c6630-795e-4f6b-9b25-c36b8f4212d7/26689007265-500.jpg",
+  "apple_album_id": "1532292530",
+  "studios": [
+    "Contemporary Records, Los Angeles"
+  ],
+  "personnel": [
+    {
+      "person_id": "c486192c-0a58-427a-9651-f9a40f4dc41d",
+      "canonical_name": "Andr\u00e9 Previn",
+      "name_slug": "andr-previn",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "30a9cc03-3843-4efd-b41f-4f9347e3a449",
+      "canonical_name": "Leroy Vinnegar",
+      "name_slug": "leroy-vinnegar",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+      "canonical_name": "Shelly Manne",
+      "name_slug": "shelly-manne",
+      "instrument": "drums",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "2b74de4e-0319-4c90-9ca3-f1df024e98ad",
+      "title": "Get Me to the Church on Time",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "4:11",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "c486192c-0a58-427a-9651-f9a40f4dc41d",
+          "canonical_name": "Andr\u00e9 Previn",
+          "name_slug": "andr-previn",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "30a9cc03-3843-4efd-b41f-4f9347e3a449",
+          "canonical_name": "Leroy Vinnegar",
+          "name_slug": "leroy-vinnegar",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "18b8998c-5057-4938-ad14-757ca29e1408",
+      "title": "On the Street Where You Live",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "5:37",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "c486192c-0a58-427a-9651-f9a40f4dc41d",
+          "canonical_name": "Andr\u00e9 Previn",
+          "name_slug": "andr-previn",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "30a9cc03-3843-4efd-b41f-4f9347e3a449",
+          "canonical_name": "Leroy Vinnegar",
+          "name_slug": "leroy-vinnegar",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "cdbea600-d6e2-47c3-90a4-93bb0f9a72a3",
+      "title": "I've Grown Accustomed to Her Face",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "3:21",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "c486192c-0a58-427a-9651-f9a40f4dc41d",
+          "canonical_name": "Andr\u00e9 Previn",
+          "name_slug": "andr-previn",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "30a9cc03-3843-4efd-b41f-4f9347e3a449",
+          "canonical_name": "Leroy Vinnegar",
+          "name_slug": "leroy-vinnegar",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "874962a5-a454-4a44-9654-3e80c7c0c095",
+      "title": "Wouldn't It Be Loverly",
+      "track_number": 4,
+      "side": "A",
+      "duration_text": "5:31",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "c486192c-0a58-427a-9651-f9a40f4dc41d",
+          "canonical_name": "Andr\u00e9 Previn",
+          "name_slug": "andr-previn",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "30a9cc03-3843-4efd-b41f-4f9347e3a449",
+          "canonical_name": "Leroy Vinnegar",
+          "name_slug": "leroy-vinnegar",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "53b65a00-ca0b-4c71-880f-894a56e7f2f8",
+      "title": "Ascot Gavotte",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "4:17",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "c486192c-0a58-427a-9651-f9a40f4dc41d",
+          "canonical_name": "Andr\u00e9 Previn",
+          "name_slug": "andr-previn",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "30a9cc03-3843-4efd-b41f-4f9347e3a449",
+          "canonical_name": "Leroy Vinnegar",
+          "name_slug": "leroy-vinnegar",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "d79a39ff-6ecf-4b6a-aba8-3e48046003e6",
+      "title": "Show Me",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "3:40",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "c486192c-0a58-427a-9651-f9a40f4dc41d",
+          "canonical_name": "Andr\u00e9 Previn",
+          "name_slug": "andr-previn",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "30a9cc03-3843-4efd-b41f-4f9347e3a449",
+          "canonical_name": "Leroy Vinnegar",
+          "name_slug": "leroy-vinnegar",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "6b36e9f3-4f49-401f-9360-40504fecb5aa",
+      "title": "With a Little Bit of Luck",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": "6:01",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "c486192c-0a58-427a-9651-f9a40f4dc41d",
+          "canonical_name": "Andr\u00e9 Previn",
+          "name_slug": "andr-previn",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "30a9cc03-3843-4efd-b41f-4f9347e3a449",
+          "canonical_name": "Leroy Vinnegar",
+          "name_slug": "leroy-vinnegar",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "f6bba200-ffef-48f5-b626-928ca072328d",
+      "title": "I Could Have Danced All Night",
+      "track_number": 8,
+      "side": "B",
+      "duration_text": "3:00",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "c486192c-0a58-427a-9651-f9a40f4dc41d",
+          "canonical_name": "Andr\u00e9 Previn",
+          "name_slug": "andr-previn",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "30a9cc03-3843-4efd-b41f-4f9347e3a449",
+          "canonical_name": "Leroy Vinnegar",
+          "name_slug": "leroy-vinnegar",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "id": "herbie-hancock-speak-like-a-child-1968",
+  "title": "Speak Like a Child",
+  "artist_name": "Herbie Hancock",
+  "year": 1968,
+  "label": "Blue Note",
+  "catalog_number": "BST 84279",
+  "recording_dates_text": "1968-03-06, 1968-03-09",
+  "description": null,
+  "style_primary": "post-bop",
+  "style_display": "Post-Bop",
+  "cover_art_url": "http://coverartarchive.org/release/09fbe547-2f17-4843-bc42-09db1a80b6c3/6311865793-500.jpg",
+  "apple_album_id": "1444110917",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+      "canonical_name": "Herbie Hancock",
+      "name_slug": "herbie-hancock",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "29c4203b-bfec-4b6d-ab37-8955d57c3e08",
+      "canonical_name": "Jerry Dodgion",
+      "name_slug": "jerry-dodgion",
+      "instrument": "flute",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "64712f51-a51a-4d4a-86ff-762780d7f390",
+      "canonical_name": "Mickey Roker",
+      "name_slug": "mickey-roker",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "5e57fe94-bd6e-42ba-b766-6ebf1fa3c2f0",
+      "canonical_name": "Peter Phillips",
+      "name_slug": "peter-phillips",
+      "instrument": "bass trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+      "canonical_name": "Ron Carter",
+      "name_slug": "ron-carter",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "abab27a8-84e0-4557-bbf9-804165355112",
+      "canonical_name": "Thad Jones",
+      "name_slug": "thad-jones",
+      "instrument": "flugelhorn",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "7a2cf3df-f748-4c91-897f-56a670f5b36a",
+      "title": "Riot",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "4:40",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29c4203b-bfec-4b6d-ab37-8955d57c3e08",
+          "canonical_name": "Jerry Dodgion",
+          "name_slug": "jerry-dodgion",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "64712f51-a51a-4d4a-86ff-762780d7f390",
+          "canonical_name": "Mickey Roker",
+          "name_slug": "mickey-roker",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5e57fe94-bd6e-42ba-b766-6ebf1fa3c2f0",
+          "canonical_name": "Peter Phillips",
+          "name_slug": "peter-phillips",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "abab27a8-84e0-4557-bbf9-804165355112",
+          "canonical_name": "Thad Jones",
+          "name_slug": "thad-jones",
+          "instrument": "flugelhorn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "6d1fa75b-b997-4281-8222-f970d16e1059",
+      "title": "Speak Like a Child",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "7:50",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29c4203b-bfec-4b6d-ab37-8955d57c3e08",
+          "canonical_name": "Jerry Dodgion",
+          "name_slug": "jerry-dodgion",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "64712f51-a51a-4d4a-86ff-762780d7f390",
+          "canonical_name": "Mickey Roker",
+          "name_slug": "mickey-roker",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5e57fe94-bd6e-42ba-b766-6ebf1fa3c2f0",
+          "canonical_name": "Peter Phillips",
+          "name_slug": "peter-phillips",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "abab27a8-84e0-4557-bbf9-804165355112",
+          "canonical_name": "Thad Jones",
+          "name_slug": "thad-jones",
+          "instrument": "flugelhorn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "6d96b3be-4d66-46c9-b847-02991eb7d78c",
+      "title": "First Trip",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "6:01",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29c4203b-bfec-4b6d-ab37-8955d57c3e08",
+          "canonical_name": "Jerry Dodgion",
+          "name_slug": "jerry-dodgion",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "64712f51-a51a-4d4a-86ff-762780d7f390",
+          "canonical_name": "Mickey Roker",
+          "name_slug": "mickey-roker",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5e57fe94-bd6e-42ba-b766-6ebf1fa3c2f0",
+          "canonical_name": "Peter Phillips",
+          "name_slug": "peter-phillips",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "abab27a8-84e0-4557-bbf9-804165355112",
+          "canonical_name": "Thad Jones",
+          "name_slug": "thad-jones",
+          "instrument": "flugelhorn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "2bfad61d-6b25-4cb7-bd1f-b39584f7eac2",
+      "title": "Toys",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "5:52",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29c4203b-bfec-4b6d-ab37-8955d57c3e08",
+          "canonical_name": "Jerry Dodgion",
+          "name_slug": "jerry-dodgion",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "64712f51-a51a-4d4a-86ff-762780d7f390",
+          "canonical_name": "Mickey Roker",
+          "name_slug": "mickey-roker",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5e57fe94-bd6e-42ba-b766-6ebf1fa3c2f0",
+          "canonical_name": "Peter Phillips",
+          "name_slug": "peter-phillips",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "abab27a8-84e0-4557-bbf9-804165355112",
+          "canonical_name": "Thad Jones",
+          "name_slug": "thad-jones",
+          "instrument": "flugelhorn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "375c095d-746e-4a2c-a704-e6a837ffa1ec",
+      "title": "Goodbye to Childhood",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "7:06",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29c4203b-bfec-4b6d-ab37-8955d57c3e08",
+          "canonical_name": "Jerry Dodgion",
+          "name_slug": "jerry-dodgion",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "64712f51-a51a-4d4a-86ff-762780d7f390",
+          "canonical_name": "Mickey Roker",
+          "name_slug": "mickey-roker",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5e57fe94-bd6e-42ba-b766-6ebf1fa3c2f0",
+          "canonical_name": "Peter Phillips",
+          "name_slug": "peter-phillips",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "abab27a8-84e0-4557-bbf9-804165355112",
+          "canonical_name": "Thad Jones",
+          "name_slug": "thad-jones",
+          "instrument": "flugelhorn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "99281af9-388e-4118-8ecb-79fd19c8f48a",
+      "title": "The Sorcerer",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "5:36",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "64712f51-a51a-4d4a-86ff-762780d7f390",
+          "canonical_name": "Mickey Roker",
+          "name_slug": "mickey-roker",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

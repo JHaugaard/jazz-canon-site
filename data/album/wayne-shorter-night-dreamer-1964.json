@@ -1,0 +1,332 @@
+{
+  "id": "wayne-shorter-night-dreamer-1964",
+  "title": "Night Dreamer",
+  "artist_name": "Wayne Shorter",
+  "year": 1964,
+  "label": "Blue Note",
+  "catalog_number": "BST 84173",
+  "recording_dates_text": "1964-04-29",
+  "description": null,
+  "style_primary": "post-bop",
+  "style_display": "Post-Bop",
+  "cover_art_url": "http://coverartarchive.org/release/9f24ffe6-6c21-48eb-9c0b-0bd1cb00878a/15724200995-500.jpg",
+  "apple_album_id": "1442997628",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+      "canonical_name": "Elvin Jones",
+      "name_slug": "elvin-jones",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+      "canonical_name": "Lee Morgan",
+      "name_slug": "lee-morgan",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+      "canonical_name": "McCoy Tyner",
+      "name_slug": "mccoy-tyner",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+      "canonical_name": "Reggie Workman",
+      "name_slug": "reggie-workman",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+      "canonical_name": "Wayne Shorter",
+      "name_slug": "wayne-shorter",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "ff5f8053-f5ac-4b3b-9943-cb6dbf27bc74",
+      "title": "Night Dreamer",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "7:15",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+          "canonical_name": "Reggie Workman",
+          "name_slug": "reggie-workman",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "5dd68ac5-8822-4ce3-b72f-445bcfc800af",
+      "title": "Oriental Folk Song",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "6:50",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+          "canonical_name": "Reggie Workman",
+          "name_slug": "reggie-workman",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "2b1bde1f-8146-4f3d-9d2a-fce1b0bb76ed",
+      "title": "Virgo",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "7:05",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+          "canonical_name": "Reggie Workman",
+          "name_slug": "reggie-workman",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "e7265984-2ad8-4417-a0c4-a4f3fb71cfdc",
+      "title": "Black Nile",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "6:25",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+          "canonical_name": "Reggie Workman",
+          "name_slug": "reggie-workman",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "1c353890-6573-439a-82d5-c27838c8589f",
+      "title": "Charcoal Blues",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "6:50",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+          "canonical_name": "Reggie Workman",
+          "name_slug": "reggie-workman",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "83dd495d-c860-45bb-9505-29699f28bf71",
+      "title": "Armageddon",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "6:20",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+          "canonical_name": "Reggie Workman",
+          "name_slug": "reggie-workman",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

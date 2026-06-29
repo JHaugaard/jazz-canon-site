@@ -1,0 +1,328 @@
+{
+  "id": "miles-davis-kind-of-blue-1959",
+  "title": "Kind of Blue",
+  "artist_name": "Miles Davis",
+  "year": 1959,
+  "label": "Columbia",
+  "catalog_number": "CBS 62066",
+  "recording_dates_text": "1959-03-02, 1959-04-22",
+  "description": null,
+  "style_primary": "modal-jazz",
+  "style_display": "Modal Jazz",
+  "cover_art_url": "https://coverartarchive.org/release-group/8e8a594f-2175-38c7-a871-abb68ec363e7/front",
+  "apple_album_id": "268443092",
+  "studios": [
+    "Columbia 30th Street Studio, New York City"
+  ],
+  "personnel": [
+    {
+      "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+      "canonical_name": "Bill Evans",
+      "name_slug": "bill-evans",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+      "canonical_name": "Cannonball Adderley",
+      "name_slug": "cannonball-adderley",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "e732fd30-f66c-48c7-b892-ebdae6ab3f9e",
+      "canonical_name": "Jimmy Cobb",
+      "name_slug": "jimmy-cobb",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+      "canonical_name": "John Coltrane",
+      "name_slug": "john-coltrane",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+      "canonical_name": "Miles Davis",
+      "name_slug": "miles-davis",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+      "canonical_name": "Paul Chambers",
+      "name_slug": "paul-chambers",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "5142f243-780f-41a6-a50a-a9f75160ff60",
+      "canonical_name": "Wynton Kelly",
+      "name_slug": "wynton-kelly",
+      "instrument": "piano",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "f408eca6-13ec-493d-9c9f-b0452ccf6d8f",
+      "title": "So What",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "9:22",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e732fd30-f66c-48c7-b892-ebdae6ab3f9e",
+          "canonical_name": "Jimmy Cobb",
+          "name_slug": "jimmy-cobb",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "3a95388a-b21f-4a4a-a1b1-2e770ebbdc37",
+      "title": "Freddie Freeloader",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "9:46",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e732fd30-f66c-48c7-b892-ebdae6ab3f9e",
+          "canonical_name": "Jimmy Cobb",
+          "name_slug": "jimmy-cobb",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5142f243-780f-41a6-a50a-a9f75160ff60",
+          "canonical_name": "Wynton Kelly",
+          "name_slug": "wynton-kelly",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "dc9cc2d6-7f80-45f0-825e-a1369b7d6996",
+      "title": "Blue in Green",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "5:27",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e732fd30-f66c-48c7-b892-ebdae6ab3f9e",
+          "canonical_name": "Jimmy Cobb",
+          "name_slug": "jimmy-cobb",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "c3786324-2f18-4483-a1b3-16dfc9d370c9",
+      "title": "All Blues",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "11:33",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e732fd30-f66c-48c7-b892-ebdae6ab3f9e",
+          "canonical_name": "Jimmy Cobb",
+          "name_slug": "jimmy-cobb",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "5f56002c-6b43-4206-b7ff-8b9e8871de4f",
+      "title": "Flamenco Sketches",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "9:26",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e732fd30-f66c-48c7-b892-ebdae6ab3f9e",
+          "canonical_name": "Jimmy Cobb",
+          "name_slug": "jimmy-cobb",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

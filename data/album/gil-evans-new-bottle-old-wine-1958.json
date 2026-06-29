@@ -1,0 +1,977 @@
+{
+  "id": "gil-evans-new-bottle-old-wine-1958",
+  "title": "New Bottle Old Wine",
+  "artist_name": "Gil Evans",
+  "year": 1958,
+  "label": "World Pacific",
+  "catalog_number": "Stereo-1011",
+  "recording_dates_text": "1958-04-09, 1958-05-02, 1958-05-21, 1958-05-26",
+  "description": null,
+  "style_primary": "cool-jazz",
+  "style_display": "Cool Jazz",
+  "cover_art_url": "http://coverartarchive.org/release/5c703c56-2671-4fc3-88ac-a5890919ff72/37360142310-500.jpg",
+  "apple_album_id": "1461938778",
+  "studios": [
+    "New York City"
+  ],
+  "personnel": [
+    {
+      "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+      "canonical_name": "Art Blakey",
+      "name_slug": "art-blakey",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+      "canonical_name": "Bill Barber",
+      "name_slug": "bill-barber",
+      "instrument": "tuba",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+      "canonical_name": "Cannonball Adderley",
+      "name_slug": "cannonball-adderley",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "4906ad2e-0958-44d1-8433-3d4d4230c255",
+      "canonical_name": "Chuck Wayne",
+      "name_slug": "chuck-wayne",
+      "instrument": "guitar",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "a9fb353d-603b-4d07-a644-aa45aa541eb2",
+      "canonical_name": "Clyde Reasinger",
+      "name_slug": "clyde-reasinger",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "da2c8212-a645-4fd9-a5e3-9ea4a3318d7b",
+      "canonical_name": "Ernie Royal",
+      "name_slug": "ernie-royal",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "e188f790-4a42-4f61-9970-e69b017957f8",
+      "canonical_name": "Frank Rehak",
+      "name_slug": "frank-rehak",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+      "canonical_name": "Gil Evans",
+      "name_slug": "gil-evans",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "1f01d3cb-7868-4a69-abdd-1958ebba384e",
+      "canonical_name": "Harvey Phillips",
+      "name_slug": "harvey-phillips",
+      "instrument": "tuba",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "b08ac9bc-7581-4d67-bf52-b5164080457f",
+      "canonical_name": "Jerry Sanfino",
+      "name_slug": "jerry-sanfino",
+      "instrument": "flute",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "2e387bfd-16d4-44ba-809e-11bc71f3dfdb",
+      "canonical_name": "Joe Bennett",
+      "name_slug": "joe-bennett",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f668e1fb-3a38-4651-bb71-1ffa5ccccf64",
+      "canonical_name": "Johnny Coles",
+      "name_slug": "johnny-coles",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "3f074565-8b31-4d3b-b8d6-eca0acab190c",
+      "canonical_name": "Julius Watkins",
+      "name_slug": "julius-watkins",
+      "instrument": "French horn",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "becdfbba-2a62-45b1-b54f-f478fd5c8888",
+      "canonical_name": "Louis Mucci",
+      "name_slug": "louis-mucci",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+      "canonical_name": "Paul Chambers",
+      "name_slug": "paul-chambers",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "2e6437b5-e44d-432f-ae12-c12193ab2c5d",
+      "canonical_name": "Phil Bodner",
+      "name_slug": "phil-bodner",
+      "instrument": "flute",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+      "canonical_name": "Philly Joe Jones",
+      "name_slug": "philly-joe-jones",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "bc1ce84e-9e18-426d-bf4c-ec51252cdab8",
+      "canonical_name": "Tom Mitchell",
+      "name_slug": "tom-mitchell",
+      "instrument": "bass trombone",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "172a7a80-274a-482b-8f5d-e3a6ca3bc0ec",
+      "title": "St. Louis Blues",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "5:26",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4906ad2e-0958-44d1-8433-3d4d4230c255",
+          "canonical_name": "Chuck Wayne",
+          "name_slug": "chuck-wayne",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "da2c8212-a645-4fd9-a5e3-9ea4a3318d7b",
+          "canonical_name": "Ernie Royal",
+          "name_slug": "ernie-royal",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e188f790-4a42-4f61-9970-e69b017957f8",
+          "canonical_name": "Frank Rehak",
+          "name_slug": "frank-rehak",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+          "canonical_name": "Gil Evans",
+          "name_slug": "gil-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1f01d3cb-7868-4a69-abdd-1958ebba384e",
+          "canonical_name": "Harvey Phillips",
+          "name_slug": "harvey-phillips",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b08ac9bc-7581-4d67-bf52-b5164080457f",
+          "canonical_name": "Jerry Sanfino",
+          "name_slug": "jerry-sanfino",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2e387bfd-16d4-44ba-809e-11bc71f3dfdb",
+          "canonical_name": "Joe Bennett",
+          "name_slug": "joe-bennett",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f668e1fb-3a38-4651-bb71-1ffa5ccccf64",
+          "canonical_name": "Johnny Coles",
+          "name_slug": "johnny-coles",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3f074565-8b31-4d3b-b8d6-eca0acab190c",
+          "canonical_name": "Julius Watkins",
+          "name_slug": "julius-watkins",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "becdfbba-2a62-45b1-b54f-f478fd5c8888",
+          "canonical_name": "Louis Mucci",
+          "name_slug": "louis-mucci",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "bc1ce84e-9e18-426d-bf4c-ec51252cdab8",
+          "canonical_name": "Tom Mitchell",
+          "name_slug": "tom-mitchell",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "92c900e1-6c75-4d33-a892-758da589994b",
+      "title": "King Porter Stomp",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "3:19",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4906ad2e-0958-44d1-8433-3d4d4230c255",
+          "canonical_name": "Chuck Wayne",
+          "name_slug": "chuck-wayne",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "da2c8212-a645-4fd9-a5e3-9ea4a3318d7b",
+          "canonical_name": "Ernie Royal",
+          "name_slug": "ernie-royal",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e188f790-4a42-4f61-9970-e69b017957f8",
+          "canonical_name": "Frank Rehak",
+          "name_slug": "frank-rehak",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+          "canonical_name": "Gil Evans",
+          "name_slug": "gil-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1f01d3cb-7868-4a69-abdd-1958ebba384e",
+          "canonical_name": "Harvey Phillips",
+          "name_slug": "harvey-phillips",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b08ac9bc-7581-4d67-bf52-b5164080457f",
+          "canonical_name": "Jerry Sanfino",
+          "name_slug": "jerry-sanfino",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2e387bfd-16d4-44ba-809e-11bc71f3dfdb",
+          "canonical_name": "Joe Bennett",
+          "name_slug": "joe-bennett",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f668e1fb-3a38-4651-bb71-1ffa5ccccf64",
+          "canonical_name": "Johnny Coles",
+          "name_slug": "johnny-coles",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3f074565-8b31-4d3b-b8d6-eca0acab190c",
+          "canonical_name": "Julius Watkins",
+          "name_slug": "julius-watkins",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "becdfbba-2a62-45b1-b54f-f478fd5c8888",
+          "canonical_name": "Louis Mucci",
+          "name_slug": "louis-mucci",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "bc1ce84e-9e18-426d-bf4c-ec51252cdab8",
+          "canonical_name": "Tom Mitchell",
+          "name_slug": "tom-mitchell",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "f0582367-c2ae-4881-a8f7-51d35b5daefa",
+      "title": "Willow Tree",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "4:40",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4906ad2e-0958-44d1-8433-3d4d4230c255",
+          "canonical_name": "Chuck Wayne",
+          "name_slug": "chuck-wayne",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "da2c8212-a645-4fd9-a5e3-9ea4a3318d7b",
+          "canonical_name": "Ernie Royal",
+          "name_slug": "ernie-royal",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e188f790-4a42-4f61-9970-e69b017957f8",
+          "canonical_name": "Frank Rehak",
+          "name_slug": "frank-rehak",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+          "canonical_name": "Gil Evans",
+          "name_slug": "gil-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2e387bfd-16d4-44ba-809e-11bc71f3dfdb",
+          "canonical_name": "Joe Bennett",
+          "name_slug": "joe-bennett",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f668e1fb-3a38-4651-bb71-1ffa5ccccf64",
+          "canonical_name": "Johnny Coles",
+          "name_slug": "johnny-coles",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3f074565-8b31-4d3b-b8d6-eca0acab190c",
+          "canonical_name": "Julius Watkins",
+          "name_slug": "julius-watkins",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "becdfbba-2a62-45b1-b54f-f478fd5c8888",
+          "canonical_name": "Louis Mucci",
+          "name_slug": "louis-mucci",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2e6437b5-e44d-432f-ae12-c12193ab2c5d",
+          "canonical_name": "Phil Bodner",
+          "name_slug": "phil-bodner",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+          "canonical_name": "Philly Joe Jones",
+          "name_slug": "philly-joe-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "bc1ce84e-9e18-426d-bf4c-ec51252cdab8",
+          "canonical_name": "Tom Mitchell",
+          "name_slug": "tom-mitchell",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "f6125981-4d1e-4308-9158-e71e847b1752",
+      "title": "Struttin' With Some Barbeque",
+      "track_number": 4,
+      "side": "A",
+      "duration_text": "4:34",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4906ad2e-0958-44d1-8433-3d4d4230c255",
+          "canonical_name": "Chuck Wayne",
+          "name_slug": "chuck-wayne",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a9fb353d-603b-4d07-a644-aa45aa541eb2",
+          "canonical_name": "Clyde Reasinger",
+          "name_slug": "clyde-reasinger",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e188f790-4a42-4f61-9970-e69b017957f8",
+          "canonical_name": "Frank Rehak",
+          "name_slug": "frank-rehak",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+          "canonical_name": "Gil Evans",
+          "name_slug": "gil-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2e387bfd-16d4-44ba-809e-11bc71f3dfdb",
+          "canonical_name": "Joe Bennett",
+          "name_slug": "joe-bennett",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3f074565-8b31-4d3b-b8d6-eca0acab190c",
+          "canonical_name": "Julius Watkins",
+          "name_slug": "julius-watkins",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2e6437b5-e44d-432f-ae12-c12193ab2c5d",
+          "canonical_name": "Phil Bodner",
+          "name_slug": "phil-bodner",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "bc1ce84e-9e18-426d-bf4c-ec51252cdab8",
+          "canonical_name": "Tom Mitchell",
+          "name_slug": "tom-mitchell",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "26e427c6-6d3a-4bd9-bdc5-b6a486f9267f",
+      "title": "Lester Leaps In",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "4:17",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4906ad2e-0958-44d1-8433-3d4d4230c255",
+          "canonical_name": "Chuck Wayne",
+          "name_slug": "chuck-wayne",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "da2c8212-a645-4fd9-a5e3-9ea4a3318d7b",
+          "canonical_name": "Ernie Royal",
+          "name_slug": "ernie-royal",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e188f790-4a42-4f61-9970-e69b017957f8",
+          "canonical_name": "Frank Rehak",
+          "name_slug": "frank-rehak",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+          "canonical_name": "Gil Evans",
+          "name_slug": "gil-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1f01d3cb-7868-4a69-abdd-1958ebba384e",
+          "canonical_name": "Harvey Phillips",
+          "name_slug": "harvey-phillips",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b08ac9bc-7581-4d67-bf52-b5164080457f",
+          "canonical_name": "Jerry Sanfino",
+          "name_slug": "jerry-sanfino",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2e387bfd-16d4-44ba-809e-11bc71f3dfdb",
+          "canonical_name": "Joe Bennett",
+          "name_slug": "joe-bennett",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f668e1fb-3a38-4651-bb71-1ffa5ccccf64",
+          "canonical_name": "Johnny Coles",
+          "name_slug": "johnny-coles",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3f074565-8b31-4d3b-b8d6-eca0acab190c",
+          "canonical_name": "Julius Watkins",
+          "name_slug": "julius-watkins",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "becdfbba-2a62-45b1-b54f-f478fd5c8888",
+          "canonical_name": "Louis Mucci",
+          "name_slug": "louis-mucci",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "bc1ce84e-9e18-426d-bf4c-ec51252cdab8",
+          "canonical_name": "Tom Mitchell",
+          "name_slug": "tom-mitchell",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "9deb8a01-6580-4ee3-b736-af4deee88034",
+      "title": "'Round Midnight",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "4:08",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4906ad2e-0958-44d1-8433-3d4d4230c255",
+          "canonical_name": "Chuck Wayne",
+          "name_slug": "chuck-wayne",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "da2c8212-a645-4fd9-a5e3-9ea4a3318d7b",
+          "canonical_name": "Ernie Royal",
+          "name_slug": "ernie-royal",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e188f790-4a42-4f61-9970-e69b017957f8",
+          "canonical_name": "Frank Rehak",
+          "name_slug": "frank-rehak",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+          "canonical_name": "Gil Evans",
+          "name_slug": "gil-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1f01d3cb-7868-4a69-abdd-1958ebba384e",
+          "canonical_name": "Harvey Phillips",
+          "name_slug": "harvey-phillips",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b08ac9bc-7581-4d67-bf52-b5164080457f",
+          "canonical_name": "Jerry Sanfino",
+          "name_slug": "jerry-sanfino",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2e387bfd-16d4-44ba-809e-11bc71f3dfdb",
+          "canonical_name": "Joe Bennett",
+          "name_slug": "joe-bennett",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f668e1fb-3a38-4651-bb71-1ffa5ccccf64",
+          "canonical_name": "Johnny Coles",
+          "name_slug": "johnny-coles",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3f074565-8b31-4d3b-b8d6-eca0acab190c",
+          "canonical_name": "Julius Watkins",
+          "name_slug": "julius-watkins",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "becdfbba-2a62-45b1-b54f-f478fd5c8888",
+          "canonical_name": "Louis Mucci",
+          "name_slug": "louis-mucci",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "bc1ce84e-9e18-426d-bf4c-ec51252cdab8",
+          "canonical_name": "Tom Mitchell",
+          "name_slug": "tom-mitchell",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "cefae3c3-eba2-4b02-be7b-dd40b810b90a",
+      "title": "Manteca!",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": "5:18",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4906ad2e-0958-44d1-8433-3d4d4230c255",
+          "canonical_name": "Chuck Wayne",
+          "name_slug": "chuck-wayne",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a9fb353d-603b-4d07-a644-aa45aa541eb2",
+          "canonical_name": "Clyde Reasinger",
+          "name_slug": "clyde-reasinger",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e188f790-4a42-4f61-9970-e69b017957f8",
+          "canonical_name": "Frank Rehak",
+          "name_slug": "frank-rehak",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+          "canonical_name": "Gil Evans",
+          "name_slug": "gil-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2e387bfd-16d4-44ba-809e-11bc71f3dfdb",
+          "canonical_name": "Joe Bennett",
+          "name_slug": "joe-bennett",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3f074565-8b31-4d3b-b8d6-eca0acab190c",
+          "canonical_name": "Julius Watkins",
+          "name_slug": "julius-watkins",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2e6437b5-e44d-432f-ae12-c12193ab2c5d",
+          "canonical_name": "Phil Bodner",
+          "name_slug": "phil-bodner",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "bc1ce84e-9e18-426d-bf4c-ec51252cdab8",
+          "canonical_name": "Tom Mitchell",
+          "name_slug": "tom-mitchell",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "f7cc4f51-e350-4a73-893e-2382c7a3111d",
+      "title": "Bird Feathers",
+      "track_number": 8,
+      "side": "B",
+      "duration_text": "6:57",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+          "canonical_name": "Bill Barber",
+          "name_slug": "bill-barber",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4906ad2e-0958-44d1-8433-3d4d4230c255",
+          "canonical_name": "Chuck Wayne",
+          "name_slug": "chuck-wayne",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a9fb353d-603b-4d07-a644-aa45aa541eb2",
+          "canonical_name": "Clyde Reasinger",
+          "name_slug": "clyde-reasinger",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e188f790-4a42-4f61-9970-e69b017957f8",
+          "canonical_name": "Frank Rehak",
+          "name_slug": "frank-rehak",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+          "canonical_name": "Gil Evans",
+          "name_slug": "gil-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2e387bfd-16d4-44ba-809e-11bc71f3dfdb",
+          "canonical_name": "Joe Bennett",
+          "name_slug": "joe-bennett",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3f074565-8b31-4d3b-b8d6-eca0acab190c",
+          "canonical_name": "Julius Watkins",
+          "name_slug": "julius-watkins",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2e6437b5-e44d-432f-ae12-c12193ab2c5d",
+          "canonical_name": "Phil Bodner",
+          "name_slug": "phil-bodner",
+          "instrument": "flute",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "bc1ce84e-9e18-426d-bf4c-ec51252cdab8",
+          "canonical_name": "Tom Mitchell",
+          "name_slug": "tom-mitchell",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

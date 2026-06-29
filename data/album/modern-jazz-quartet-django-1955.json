@@ -1,0 +1,361 @@
+{
+  "id": "modern-jazz-quartet-django-1955",
+  "title": "Django",
+  "artist_name": "The Modern Jazz Quartet",
+  "year": 1955,
+  "label": "Prestige",
+  "catalog_number": "PRLP 7057",
+  "recording_dates_text": "1953-06-25, 1954-12-23, 1955-01-09",
+  "description": null,
+  "style_primary": "cool-jazz",
+  "style_display": "Cool Jazz",
+  "cover_art_url": "http://coverartarchive.org/release/4e7cc473-d705-3b58-9d92-119b5861ab41/2074510393-500.jpg",
+  "apple_album_id": "1191353582",
+  "studios": [
+    "New York City (1953-06-25); Van Gelder Studio, Hackensack, New Jersey (1954-12-23 and 1955-01-09)"
+  ],
+  "personnel": [
+    {
+      "person_id": "5d86b7d8-7af1-42f2-8049-b7452149c300",
+      "canonical_name": "John Lewis",
+      "name_slug": "john-lewis",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "5eae0e9e-034e-4b00-81dd-8ea16885bbbc",
+      "canonical_name": "Kenny Clarke",
+      "name_slug": "kenny-clarke",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "08bd9fcb-e1cb-4776-9116-dafc2f797e1e",
+      "canonical_name": "Milt Jackson",
+      "name_slug": "milt-jackson",
+      "instrument": "vibraphone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+      "canonical_name": "Percy Heath",
+      "name_slug": "percy-heath",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "eee1a2bb-8603-4430-b712-c4cda24712ce",
+      "title": "Django",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "7:03",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "5d86b7d8-7af1-42f2-8049-b7452149c300",
+          "canonical_name": "John Lewis",
+          "name_slug": "john-lewis",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5eae0e9e-034e-4b00-81dd-8ea16885bbbc",
+          "canonical_name": "Kenny Clarke",
+          "name_slug": "kenny-clarke",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "08bd9fcb-e1cb-4776-9116-dafc2f797e1e",
+          "canonical_name": "Milt Jackson",
+          "name_slug": "milt-jackson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "cb367ac5-181f-488e-9c54-71d8e4edcb23",
+      "title": "One Bass Hit",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "2:59",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "5d86b7d8-7af1-42f2-8049-b7452149c300",
+          "canonical_name": "John Lewis",
+          "name_slug": "john-lewis",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5eae0e9e-034e-4b00-81dd-8ea16885bbbc",
+          "canonical_name": "Kenny Clarke",
+          "name_slug": "kenny-clarke",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "08bd9fcb-e1cb-4776-9116-dafc2f797e1e",
+          "canonical_name": "Milt Jackson",
+          "name_slug": "milt-jackson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "fc786fae-3953-4925-a1bb-1478d1616fa1",
+      "title": "La Ronde Suite",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "9:38",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "5d86b7d8-7af1-42f2-8049-b7452149c300",
+          "canonical_name": "John Lewis",
+          "name_slug": "john-lewis",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5eae0e9e-034e-4b00-81dd-8ea16885bbbc",
+          "canonical_name": "Kenny Clarke",
+          "name_slug": "kenny-clarke",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "08bd9fcb-e1cb-4776-9116-dafc2f797e1e",
+          "canonical_name": "Milt Jackson",
+          "name_slug": "milt-jackson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "b1ca313a-9950-4968-89e6-bab62fd3cfc5",
+      "title": "The Queen's Fancy",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "3:12",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "5d86b7d8-7af1-42f2-8049-b7452149c300",
+          "canonical_name": "John Lewis",
+          "name_slug": "john-lewis",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5eae0e9e-034e-4b00-81dd-8ea16885bbbc",
+          "canonical_name": "Kenny Clarke",
+          "name_slug": "kenny-clarke",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "08bd9fcb-e1cb-4776-9116-dafc2f797e1e",
+          "canonical_name": "Milt Jackson",
+          "name_slug": "milt-jackson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "e6f4648f-949a-45cf-a13b-737c36e5eb6d",
+      "title": "Delaunay's Dilemma",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "4:01",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "5d86b7d8-7af1-42f2-8049-b7452149c300",
+          "canonical_name": "John Lewis",
+          "name_slug": "john-lewis",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5eae0e9e-034e-4b00-81dd-8ea16885bbbc",
+          "canonical_name": "Kenny Clarke",
+          "name_slug": "kenny-clarke",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "08bd9fcb-e1cb-4776-9116-dafc2f797e1e",
+          "canonical_name": "Milt Jackson",
+          "name_slug": "milt-jackson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "8884a21a-76a4-4c53-883e-a39a73a2b3cd",
+      "title": "Autumn in New York",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "3:40",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "5d86b7d8-7af1-42f2-8049-b7452149c300",
+          "canonical_name": "John Lewis",
+          "name_slug": "john-lewis",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5eae0e9e-034e-4b00-81dd-8ea16885bbbc",
+          "canonical_name": "Kenny Clarke",
+          "name_slug": "kenny-clarke",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "08bd9fcb-e1cb-4776-9116-dafc2f797e1e",
+          "canonical_name": "Milt Jackson",
+          "name_slug": "milt-jackson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "2ef4dc37-db34-4cb1-bd5c-4858f1077f25",
+      "title": "But Not for Me",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": "3:44",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "5d86b7d8-7af1-42f2-8049-b7452149c300",
+          "canonical_name": "John Lewis",
+          "name_slug": "john-lewis",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5eae0e9e-034e-4b00-81dd-8ea16885bbbc",
+          "canonical_name": "Kenny Clarke",
+          "name_slug": "kenny-clarke",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "08bd9fcb-e1cb-4776-9116-dafc2f797e1e",
+          "canonical_name": "Milt Jackson",
+          "name_slug": "milt-jackson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "9b87487d-bc0d-4813-9c28-fb5f7bf56269",
+      "title": "Milano",
+      "track_number": 8,
+      "side": "B",
+      "duration_text": "4:23",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "5d86b7d8-7af1-42f2-8049-b7452149c300",
+          "canonical_name": "John Lewis",
+          "name_slug": "john-lewis",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5eae0e9e-034e-4b00-81dd-8ea16885bbbc",
+          "canonical_name": "Kenny Clarke",
+          "name_slug": "kenny-clarke",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "08bd9fcb-e1cb-4776-9116-dafc2f797e1e",
+          "canonical_name": "Milt Jackson",
+          "name_slug": "milt-jackson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

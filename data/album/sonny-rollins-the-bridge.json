@@ -1,0 +1,248 @@
+{
+  "id": "sonny-rollins-the-bridge",
+  "title": "The Bridge",
+  "artist_name": "Sonny Rollins",
+  "year": 1962,
+  "label": "RCA Victor",
+  "catalog_number": "LPM-2527",
+  "recording_dates_text": "1962-01-30, 1962-02-13, 1962-02-14",
+  "description": null,
+  "style_primary": "post-bop",
+  "style_display": "Post-Bop",
+  "cover_art_url": "http://coverartarchive.org/release/54145342-9724-381d-9542-0b094b6c9527/36858154850-500.jpg",
+  "apple_album_id": "164154166",
+  "studios": [
+    "RCA Victor Studios, New York City"
+  ],
+  "personnel": [
+    {
+      "person_id": "5432b2ba-c8bb-488b-9085-b1b2704321ab",
+      "canonical_name": "Ben Riley",
+      "name_slug": "ben-riley",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "9d672c67-0334-4969-8197-63abdcc13805",
+      "canonical_name": "Bob Cranshaw",
+      "name_slug": "bob-cranshaw",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "5d7d234b-4238-4289-b3a0-cac957321125",
+      "canonical_name": "H. T. Saunders",
+      "name_slug": "h-t-saunders",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+      "canonical_name": "Jim Hall",
+      "name_slug": "jim-hall",
+      "instrument": "guitar",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "fd3e5e11-ecda-4f89-aefd-167c56e2486d",
+      "canonical_name": "Sonny Rollins",
+      "name_slug": "sonny-rollins",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "aee2f54c-4a46-4360-aa2a-8e14392942a6",
+      "title": "Without a Song",
+      "track_number": 1,
+      "side": null,
+      "duration_text": "7:23",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "9d672c67-0334-4969-8197-63abdcc13805",
+          "canonical_name": "Bob Cranshaw",
+          "name_slug": "bob-cranshaw",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fd3e5e11-ecda-4f89-aefd-167c56e2486d",
+          "canonical_name": "Sonny Rollins",
+          "name_slug": "sonny-rollins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "17889f2e-5318-4943-8675-e437c45c00af",
+      "title": "Where Are You?",
+      "track_number": 2,
+      "side": null,
+      "duration_text": "5:05",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "9d672c67-0334-4969-8197-63abdcc13805",
+          "canonical_name": "Bob Cranshaw",
+          "name_slug": "bob-cranshaw",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fd3e5e11-ecda-4f89-aefd-167c56e2486d",
+          "canonical_name": "Sonny Rollins",
+          "name_slug": "sonny-rollins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "8474ea13-2c81-4030-a0af-97d5b33c6acb",
+      "title": "John S.",
+      "track_number": 3,
+      "side": null,
+      "duration_text": "7:36",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "9d672c67-0334-4969-8197-63abdcc13805",
+          "canonical_name": "Bob Cranshaw",
+          "name_slug": "bob-cranshaw",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fd3e5e11-ecda-4f89-aefd-167c56e2486d",
+          "canonical_name": "Sonny Rollins",
+          "name_slug": "sonny-rollins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "27b25529-9ba2-42cf-ba90-d9d232f18f86",
+      "title": "The Bridge",
+      "track_number": 4,
+      "side": null,
+      "duration_text": "5:55",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "9d672c67-0334-4969-8197-63abdcc13805",
+          "canonical_name": "Bob Cranshaw",
+          "name_slug": "bob-cranshaw",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fd3e5e11-ecda-4f89-aefd-167c56e2486d",
+          "canonical_name": "Sonny Rollins",
+          "name_slug": "sonny-rollins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "2c4ee1b9-3427-44cd-806b-9bd2e56a7324",
+      "title": "God Bless the Child",
+      "track_number": 5,
+      "side": null,
+      "duration_text": "7:24",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "9d672c67-0334-4969-8197-63abdcc13805",
+          "canonical_name": "Bob Cranshaw",
+          "name_slug": "bob-cranshaw",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fd3e5e11-ecda-4f89-aefd-167c56e2486d",
+          "canonical_name": "Sonny Rollins",
+          "name_slug": "sonny-rollins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "e2a6a51b-40b6-4f1f-82c6-17a5a663150d",
+      "title": "You Do Something to Me",
+      "track_number": 6,
+      "side": null,
+      "duration_text": "6:45",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "9d672c67-0334-4969-8197-63abdcc13805",
+          "canonical_name": "Bob Cranshaw",
+          "name_slug": "bob-cranshaw",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fd3e5e11-ecda-4f89-aefd-167c56e2486d",
+          "canonical_name": "Sonny Rollins",
+          "name_slug": "sonny-rollins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

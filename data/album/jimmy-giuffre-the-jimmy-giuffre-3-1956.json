@@ -1,0 +1,330 @@
+{
+  "id": "jimmy-giuffre-the-jimmy-giuffre-3-1956",
+  "title": "The Jimmy Giuffre 3",
+  "artist_name": "Jimmy Giuffre",
+  "year": 1956,
+  "label": "Atlantic",
+  "catalog_number": "8122-79714-1",
+  "recording_dates_text": "1956-12-03, 1956-12-04",
+  "description": null,
+  "style_primary": "cool-jazz",
+  "style_display": "Cool Jazz",
+  "cover_art_url": "https://coverartarchive.org/release/dabf4f4a-1a2d-426f-96bc-b0e1a2cdfbfb/26073411247-500.jpg",
+  "apple_album_id": "50268852",
+  "studios": [
+    "Los Angeles, CA"
+  ],
+  "personnel": [
+    {
+      "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+      "canonical_name": "Jim Hall",
+      "name_slug": "jim-hall",
+      "instrument": "guitar",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+      "canonical_name": "Jimmy Giuffre",
+      "name_slug": "jimmy-giuffre",
+      "instrument": "clarinet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "37688681-da7a-411d-b137-c5a74300334b",
+      "canonical_name": "Ralph Pe\u00f1a",
+      "name_slug": "ralph-pe-a",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "a5f50823-7051-4000-9a15-eaa8b9e40973",
+      "title": "Gotta Dance",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "2:29",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+          "canonical_name": "Jimmy Giuffre",
+          "name_slug": "jimmy-giuffre",
+          "instrument": "clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "37688681-da7a-411d-b137-c5a74300334b",
+          "canonical_name": "Ralph Pe\u00f1a",
+          "name_slug": "ralph-pe-a",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "f68dfb86-396a-4522-88f5-b47baa4c1c87",
+      "title": "Two Kinds of Blues",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "5:10",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+          "canonical_name": "Jimmy Giuffre",
+          "name_slug": "jimmy-giuffre",
+          "instrument": "clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "37688681-da7a-411d-b137-c5a74300334b",
+          "canonical_name": "Ralph Pe\u00f1a",
+          "name_slug": "ralph-pe-a",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "b58b2f29-ce78-4201-a481-7a451539a4a5",
+      "title": "The Song Is You",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "3:52",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+          "canonical_name": "Jimmy Giuffre",
+          "name_slug": "jimmy-giuffre",
+          "instrument": "clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "37688681-da7a-411d-b137-c5a74300334b",
+          "canonical_name": "Ralph Pe\u00f1a",
+          "name_slug": "ralph-pe-a",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "5c44ffc0-2032-495e-9c8a-3d38ad174b4d",
+      "title": "Crazy She Calls Me",
+      "track_number": 4,
+      "side": "A",
+      "duration_text": "5:14",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+          "canonical_name": "Jimmy Giuffre",
+          "name_slug": "jimmy-giuffre",
+          "instrument": "clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "37688681-da7a-411d-b137-c5a74300334b",
+          "canonical_name": "Ralph Pe\u00f1a",
+          "name_slug": "ralph-pe-a",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "ed335d95-923e-45f8-b2d7-de51b45b5839",
+      "title": "Voodoo",
+      "track_number": 5,
+      "side": "A",
+      "duration_text": "2:48",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+          "canonical_name": "Jimmy Giuffre",
+          "name_slug": "jimmy-giuffre",
+          "instrument": "clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "37688681-da7a-411d-b137-c5a74300334b",
+          "canonical_name": "Ralph Pe\u00f1a",
+          "name_slug": "ralph-pe-a",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "62be9d1a-82cb-42d4-b879-6ca631ff611e",
+      "title": "My All",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "4:09",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+          "canonical_name": "Jimmy Giuffre",
+          "name_slug": "jimmy-giuffre",
+          "instrument": "clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "37688681-da7a-411d-b137-c5a74300334b",
+          "canonical_name": "Ralph Pe\u00f1a",
+          "name_slug": "ralph-pe-a",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "7985266c-41e6-420f-81e4-d2f1fd45602a",
+      "title": "That's the Way It Is",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": "3:45",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+          "canonical_name": "Jimmy Giuffre",
+          "name_slug": "jimmy-giuffre",
+          "instrument": "clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "37688681-da7a-411d-b137-c5a74300334b",
+          "canonical_name": "Ralph Pe\u00f1a",
+          "name_slug": "ralph-pe-a",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "56f23ab5-523a-4fd9-8958-e68a8135d193",
+      "title": "Crawdad Suite",
+      "track_number": 8,
+      "side": "B",
+      "duration_text": "7:10",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+          "canonical_name": "Jimmy Giuffre",
+          "name_slug": "jimmy-giuffre",
+          "instrument": "clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "37688681-da7a-411d-b137-c5a74300334b",
+          "canonical_name": "Ralph Pe\u00f1a",
+          "name_slug": "ralph-pe-a",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "0e28f69a-3843-48c5-97b1-13a561eb0ed4",
+      "title": "The Train and the River",
+      "track_number": 9,
+      "side": "B",
+      "duration_text": "3:31",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+          "canonical_name": "Jimmy Giuffre",
+          "name_slug": "jimmy-giuffre",
+          "instrument": "clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "37688681-da7a-411d-b137-c5a74300334b",
+          "canonical_name": "Ralph Pe\u00f1a",
+          "name_slug": "ralph-pe-a",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

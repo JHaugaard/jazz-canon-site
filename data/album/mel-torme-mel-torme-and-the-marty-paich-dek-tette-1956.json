@@ -1,0 +1,1168 @@
+{
+  "id": "mel-torme-mel-torme-and-the-marty-paich-dek-tette-1956",
+  "title": "Mel Torm\u00e9 and the Marty Paich Dek-Tette",
+  "artist_name": "Mel Torm\u00e9",
+  "year": 1956,
+  "label": "Bethlehem",
+  "catalog_number": "MG VS-6015",
+  "recording_dates_text": "1956-01-16, 1956-01-17, 1956-01-18",
+  "description": null,
+  "style_primary": "cool-jazz",
+  "style_display": "Cool Jazz",
+  "cover_art_url": "https://coverartarchive.org/release-group/830ec95a-0870-477d-b380-2b502363bd9c/front",
+  "apple_album_id": "785100286",
+  "studios": [
+    "Radio Recorders, Hollywood, CA"
+  ],
+  "personnel": [
+    {
+      "person_id": "a1197edc-05bd-4e40-8147-0b66711213d6",
+      "canonical_name": "Albert Pollan",
+      "name_slug": "albert-pollan",
+      "instrument": "tuba",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "a83d08a8-11da-42f4-8124-1bd32d677922",
+      "canonical_name": "Bob Cooper",
+      "name_slug": "bob-cooper",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "7a2de926-69b7-4c71-b801-1d854ef1dd2f",
+      "canonical_name": "Bob Enevoldsen",
+      "name_slug": "bob-enevoldsen",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "83c273dd-9057-485d-8ef9-583b4a7803a3",
+      "canonical_name": "Bud Shank",
+      "name_slug": "bud-shank",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "85bcd9e6-46f6-4117-a40e-723f0320e028",
+      "canonical_name": "Don Fagerquist",
+      "name_slug": "don-fagerquist",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "dda7022e-c73d-464e-ba66-a6dd401d5156",
+      "canonical_name": "Jack Dulong",
+      "name_slug": "jack-dulong",
+      "instrument": "baritone saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "ef9b52c8-8132-4bad-94fe-89d83e09c676",
+      "canonical_name": "Jack Montrose",
+      "name_slug": "jack-montrose",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "1ad24be0-ce84-4aaf-a8eb-62facced892b",
+      "canonical_name": "John Cave",
+      "name_slug": "john-cave",
+      "instrument": "French horn",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+      "canonical_name": "Mel Lewis",
+      "name_slug": "mel-lewis",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "a9672d7c-f42c-4fba-b5ee-40f3e7150a83",
+      "canonical_name": "Mel Torm\u00e9",
+      "name_slug": "mel-torm",
+      "instrument": "voice",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "21187572-9407-49fa-b835-4bf6bfcaad8c",
+      "canonical_name": "Pete Candoli",
+      "name_slug": "pete-candoli",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "9b86845f-38d5-4f4e-8474-8a1502c9e150",
+      "canonical_name": "Red Mitchell",
+      "name_slug": "red-mitchell",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "191635fa-e1a4-4fed-af88-2f25f4791f19",
+      "canonical_name": "Vince de Rosa",
+      "name_slug": "vince-de-rosa",
+      "instrument": "French horn",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "63481722-5adc-4d4f-a5a1-d1366c58ebab",
+      "title": "Lulu's Back in Town",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "3:06",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a1197edc-05bd-4e40-8147-0b66711213d6",
+          "canonical_name": "Albert Pollan",
+          "name_slug": "albert-pollan",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a83d08a8-11da-42f4-8124-1bd32d677922",
+          "canonical_name": "Bob Cooper",
+          "name_slug": "bob-cooper",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7a2de926-69b7-4c71-b801-1d854ef1dd2f",
+          "canonical_name": "Bob Enevoldsen",
+          "name_slug": "bob-enevoldsen",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "83c273dd-9057-485d-8ef9-583b4a7803a3",
+          "canonical_name": "Bud Shank",
+          "name_slug": "bud-shank",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "85bcd9e6-46f6-4117-a40e-723f0320e028",
+          "canonical_name": "Don Fagerquist",
+          "name_slug": "don-fagerquist",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "dda7022e-c73d-464e-ba66-a6dd401d5156",
+          "canonical_name": "Jack Dulong",
+          "name_slug": "jack-dulong",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+          "canonical_name": "Mel Lewis",
+          "name_slug": "mel-lewis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a9672d7c-f42c-4fba-b5ee-40f3e7150a83",
+          "canonical_name": "Mel Torm\u00e9",
+          "name_slug": "mel-torm",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "21187572-9407-49fa-b835-4bf6bfcaad8c",
+          "canonical_name": "Pete Candoli",
+          "name_slug": "pete-candoli",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9b86845f-38d5-4f4e-8474-8a1502c9e150",
+          "canonical_name": "Red Mitchell",
+          "name_slug": "red-mitchell",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "191635fa-e1a4-4fed-af88-2f25f4791f19",
+          "canonical_name": "Vince de Rosa",
+          "name_slug": "vince-de-rosa",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "ceb7bd41-dab9-413f-a027-5d44e8bd4213",
+      "title": "When the Sun Comes Out",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "3:20",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a1197edc-05bd-4e40-8147-0b66711213d6",
+          "canonical_name": "Albert Pollan",
+          "name_slug": "albert-pollan",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a83d08a8-11da-42f4-8124-1bd32d677922",
+          "canonical_name": "Bob Cooper",
+          "name_slug": "bob-cooper",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7a2de926-69b7-4c71-b801-1d854ef1dd2f",
+          "canonical_name": "Bob Enevoldsen",
+          "name_slug": "bob-enevoldsen",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "83c273dd-9057-485d-8ef9-583b4a7803a3",
+          "canonical_name": "Bud Shank",
+          "name_slug": "bud-shank",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "85bcd9e6-46f6-4117-a40e-723f0320e028",
+          "canonical_name": "Don Fagerquist",
+          "name_slug": "don-fagerquist",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "dda7022e-c73d-464e-ba66-a6dd401d5156",
+          "canonical_name": "Jack Dulong",
+          "name_slug": "jack-dulong",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+          "canonical_name": "Mel Lewis",
+          "name_slug": "mel-lewis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a9672d7c-f42c-4fba-b5ee-40f3e7150a83",
+          "canonical_name": "Mel Torm\u00e9",
+          "name_slug": "mel-torm",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "21187572-9407-49fa-b835-4bf6bfcaad8c",
+          "canonical_name": "Pete Candoli",
+          "name_slug": "pete-candoli",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9b86845f-38d5-4f4e-8474-8a1502c9e150",
+          "canonical_name": "Red Mitchell",
+          "name_slug": "red-mitchell",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "191635fa-e1a4-4fed-af88-2f25f4791f19",
+          "canonical_name": "Vince de Rosa",
+          "name_slug": "vince-de-rosa",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "0ff1f8cd-0026-47ec-a1bf-00d085f83a03",
+      "title": "I Love to Watch the Moonlight",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "2:53",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a1197edc-05bd-4e40-8147-0b66711213d6",
+          "canonical_name": "Albert Pollan",
+          "name_slug": "albert-pollan",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a83d08a8-11da-42f4-8124-1bd32d677922",
+          "canonical_name": "Bob Cooper",
+          "name_slug": "bob-cooper",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7a2de926-69b7-4c71-b801-1d854ef1dd2f",
+          "canonical_name": "Bob Enevoldsen",
+          "name_slug": "bob-enevoldsen",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "83c273dd-9057-485d-8ef9-583b4a7803a3",
+          "canonical_name": "Bud Shank",
+          "name_slug": "bud-shank",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "85bcd9e6-46f6-4117-a40e-723f0320e028",
+          "canonical_name": "Don Fagerquist",
+          "name_slug": "don-fagerquist",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "dda7022e-c73d-464e-ba66-a6dd401d5156",
+          "canonical_name": "Jack Dulong",
+          "name_slug": "jack-dulong",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+          "canonical_name": "Mel Lewis",
+          "name_slug": "mel-lewis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a9672d7c-f42c-4fba-b5ee-40f3e7150a83",
+          "canonical_name": "Mel Torm\u00e9",
+          "name_slug": "mel-torm",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "21187572-9407-49fa-b835-4bf6bfcaad8c",
+          "canonical_name": "Pete Candoli",
+          "name_slug": "pete-candoli",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9b86845f-38d5-4f4e-8474-8a1502c9e150",
+          "canonical_name": "Red Mitchell",
+          "name_slug": "red-mitchell",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "191635fa-e1a4-4fed-af88-2f25f4791f19",
+          "canonical_name": "Vince de Rosa",
+          "name_slug": "vince-de-rosa",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "56d25221-1619-4602-a338-49151679c407",
+      "title": "Fascinating Rhythm",
+      "track_number": 4,
+      "side": "A",
+      "duration_text": "2:30",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a1197edc-05bd-4e40-8147-0b66711213d6",
+          "canonical_name": "Albert Pollan",
+          "name_slug": "albert-pollan",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a83d08a8-11da-42f4-8124-1bd32d677922",
+          "canonical_name": "Bob Cooper",
+          "name_slug": "bob-cooper",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7a2de926-69b7-4c71-b801-1d854ef1dd2f",
+          "canonical_name": "Bob Enevoldsen",
+          "name_slug": "bob-enevoldsen",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "83c273dd-9057-485d-8ef9-583b4a7803a3",
+          "canonical_name": "Bud Shank",
+          "name_slug": "bud-shank",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "85bcd9e6-46f6-4117-a40e-723f0320e028",
+          "canonical_name": "Don Fagerquist",
+          "name_slug": "don-fagerquist",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "dda7022e-c73d-464e-ba66-a6dd401d5156",
+          "canonical_name": "Jack Dulong",
+          "name_slug": "jack-dulong",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+          "canonical_name": "Mel Lewis",
+          "name_slug": "mel-lewis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a9672d7c-f42c-4fba-b5ee-40f3e7150a83",
+          "canonical_name": "Mel Torm\u00e9",
+          "name_slug": "mel-torm",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "21187572-9407-49fa-b835-4bf6bfcaad8c",
+          "canonical_name": "Pete Candoli",
+          "name_slug": "pete-candoli",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9b86845f-38d5-4f4e-8474-8a1502c9e150",
+          "canonical_name": "Red Mitchell",
+          "name_slug": "red-mitchell",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "191635fa-e1a4-4fed-af88-2f25f4791f19",
+          "canonical_name": "Vince de Rosa",
+          "name_slug": "vince-de-rosa",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "871d475f-7d35-4755-9c7b-23dd4e163cff",
+      "title": "The Blues",
+      "track_number": 5,
+      "side": "A",
+      "duration_text": "3:34",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a1197edc-05bd-4e40-8147-0b66711213d6",
+          "canonical_name": "Albert Pollan",
+          "name_slug": "albert-pollan",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a83d08a8-11da-42f4-8124-1bd32d677922",
+          "canonical_name": "Bob Cooper",
+          "name_slug": "bob-cooper",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7a2de926-69b7-4c71-b801-1d854ef1dd2f",
+          "canonical_name": "Bob Enevoldsen",
+          "name_slug": "bob-enevoldsen",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "83c273dd-9057-485d-8ef9-583b4a7803a3",
+          "canonical_name": "Bud Shank",
+          "name_slug": "bud-shank",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "85bcd9e6-46f6-4117-a40e-723f0320e028",
+          "canonical_name": "Don Fagerquist",
+          "name_slug": "don-fagerquist",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "dda7022e-c73d-464e-ba66-a6dd401d5156",
+          "canonical_name": "Jack Dulong",
+          "name_slug": "jack-dulong",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+          "canonical_name": "Mel Lewis",
+          "name_slug": "mel-lewis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a9672d7c-f42c-4fba-b5ee-40f3e7150a83",
+          "canonical_name": "Mel Torm\u00e9",
+          "name_slug": "mel-torm",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "21187572-9407-49fa-b835-4bf6bfcaad8c",
+          "canonical_name": "Pete Candoli",
+          "name_slug": "pete-candoli",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9b86845f-38d5-4f4e-8474-8a1502c9e150",
+          "canonical_name": "Red Mitchell",
+          "name_slug": "red-mitchell",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "191635fa-e1a4-4fed-af88-2f25f4791f19",
+          "canonical_name": "Vince de Rosa",
+          "name_slug": "vince-de-rosa",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "431bd3c9-69e6-46ac-9a6d-9d3ba512bf74",
+      "title": "Carioca",
+      "track_number": 6,
+      "side": "A",
+      "duration_text": "3:18",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a1197edc-05bd-4e40-8147-0b66711213d6",
+          "canonical_name": "Albert Pollan",
+          "name_slug": "albert-pollan",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a83d08a8-11da-42f4-8124-1bd32d677922",
+          "canonical_name": "Bob Cooper",
+          "name_slug": "bob-cooper",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7a2de926-69b7-4c71-b801-1d854ef1dd2f",
+          "canonical_name": "Bob Enevoldsen",
+          "name_slug": "bob-enevoldsen",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "83c273dd-9057-485d-8ef9-583b4a7803a3",
+          "canonical_name": "Bud Shank",
+          "name_slug": "bud-shank",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "85bcd9e6-46f6-4117-a40e-723f0320e028",
+          "canonical_name": "Don Fagerquist",
+          "name_slug": "don-fagerquist",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "dda7022e-c73d-464e-ba66-a6dd401d5156",
+          "canonical_name": "Jack Dulong",
+          "name_slug": "jack-dulong",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+          "canonical_name": "Mel Lewis",
+          "name_slug": "mel-lewis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a9672d7c-f42c-4fba-b5ee-40f3e7150a83",
+          "canonical_name": "Mel Torm\u00e9",
+          "name_slug": "mel-torm",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "21187572-9407-49fa-b835-4bf6bfcaad8c",
+          "canonical_name": "Pete Candoli",
+          "name_slug": "pete-candoli",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9b86845f-38d5-4f4e-8474-8a1502c9e150",
+          "canonical_name": "Red Mitchell",
+          "name_slug": "red-mitchell",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "191635fa-e1a4-4fed-af88-2f25f4791f19",
+          "canonical_name": "Vince de Rosa",
+          "name_slug": "vince-de-rosa",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "3ee13fc9-3643-4fa1-94cd-6996cf93053a",
+      "title": "The Lady Is a Tramp",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": "2:54",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a1197edc-05bd-4e40-8147-0b66711213d6",
+          "canonical_name": "Albert Pollan",
+          "name_slug": "albert-pollan",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a83d08a8-11da-42f4-8124-1bd32d677922",
+          "canonical_name": "Bob Cooper",
+          "name_slug": "bob-cooper",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7a2de926-69b7-4c71-b801-1d854ef1dd2f",
+          "canonical_name": "Bob Enevoldsen",
+          "name_slug": "bob-enevoldsen",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "83c273dd-9057-485d-8ef9-583b4a7803a3",
+          "canonical_name": "Bud Shank",
+          "name_slug": "bud-shank",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "85bcd9e6-46f6-4117-a40e-723f0320e028",
+          "canonical_name": "Don Fagerquist",
+          "name_slug": "don-fagerquist",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "dda7022e-c73d-464e-ba66-a6dd401d5156",
+          "canonical_name": "Jack Dulong",
+          "name_slug": "jack-dulong",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+          "canonical_name": "Mel Lewis",
+          "name_slug": "mel-lewis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a9672d7c-f42c-4fba-b5ee-40f3e7150a83",
+          "canonical_name": "Mel Torm\u00e9",
+          "name_slug": "mel-torm",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "21187572-9407-49fa-b835-4bf6bfcaad8c",
+          "canonical_name": "Pete Candoli",
+          "name_slug": "pete-candoli",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9b86845f-38d5-4f4e-8474-8a1502c9e150",
+          "canonical_name": "Red Mitchell",
+          "name_slug": "red-mitchell",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "191635fa-e1a4-4fed-af88-2f25f4791f19",
+          "canonical_name": "Vince de Rosa",
+          "name_slug": "vince-de-rosa",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "192e7cc6-d9d0-4e71-8007-1af90826db00",
+      "title": "I Like to Recognize the Tune",
+      "track_number": 8,
+      "side": "B",
+      "duration_text": "3:16",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a1197edc-05bd-4e40-8147-0b66711213d6",
+          "canonical_name": "Albert Pollan",
+          "name_slug": "albert-pollan",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a83d08a8-11da-42f4-8124-1bd32d677922",
+          "canonical_name": "Bob Cooper",
+          "name_slug": "bob-cooper",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7a2de926-69b7-4c71-b801-1d854ef1dd2f",
+          "canonical_name": "Bob Enevoldsen",
+          "name_slug": "bob-enevoldsen",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "83c273dd-9057-485d-8ef9-583b4a7803a3",
+          "canonical_name": "Bud Shank",
+          "name_slug": "bud-shank",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "85bcd9e6-46f6-4117-a40e-723f0320e028",
+          "canonical_name": "Don Fagerquist",
+          "name_slug": "don-fagerquist",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "dda7022e-c73d-464e-ba66-a6dd401d5156",
+          "canonical_name": "Jack Dulong",
+          "name_slug": "jack-dulong",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+          "canonical_name": "Mel Lewis",
+          "name_slug": "mel-lewis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a9672d7c-f42c-4fba-b5ee-40f3e7150a83",
+          "canonical_name": "Mel Torm\u00e9",
+          "name_slug": "mel-torm",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "21187572-9407-49fa-b835-4bf6bfcaad8c",
+          "canonical_name": "Pete Candoli",
+          "name_slug": "pete-candoli",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9b86845f-38d5-4f4e-8474-8a1502c9e150",
+          "canonical_name": "Red Mitchell",
+          "name_slug": "red-mitchell",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "191635fa-e1a4-4fed-af88-2f25f4791f19",
+          "canonical_name": "Vince de Rosa",
+          "name_slug": "vince-de-rosa",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "8ac97c44-156a-40ec-b1d4-d441ec119102",
+      "title": "Keeping Myself for You",
+      "track_number": 9,
+      "side": "B",
+      "duration_text": "3:44",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a1197edc-05bd-4e40-8147-0b66711213d6",
+          "canonical_name": "Albert Pollan",
+          "name_slug": "albert-pollan",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7a2de926-69b7-4c71-b801-1d854ef1dd2f",
+          "canonical_name": "Bob Enevoldsen",
+          "name_slug": "bob-enevoldsen",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "83c273dd-9057-485d-8ef9-583b4a7803a3",
+          "canonical_name": "Bud Shank",
+          "name_slug": "bud-shank",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "85bcd9e6-46f6-4117-a40e-723f0320e028",
+          "canonical_name": "Don Fagerquist",
+          "name_slug": "don-fagerquist",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "dda7022e-c73d-464e-ba66-a6dd401d5156",
+          "canonical_name": "Jack Dulong",
+          "name_slug": "jack-dulong",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef9b52c8-8132-4bad-94fe-89d83e09c676",
+          "canonical_name": "Jack Montrose",
+          "name_slug": "jack-montrose",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1ad24be0-ce84-4aaf-a8eb-62facced892b",
+          "canonical_name": "John Cave",
+          "name_slug": "john-cave",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+          "canonical_name": "Mel Lewis",
+          "name_slug": "mel-lewis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a9672d7c-f42c-4fba-b5ee-40f3e7150a83",
+          "canonical_name": "Mel Torm\u00e9",
+          "name_slug": "mel-torm",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "21187572-9407-49fa-b835-4bf6bfcaad8c",
+          "canonical_name": "Pete Candoli",
+          "name_slug": "pete-candoli",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9b86845f-38d5-4f4e-8474-8a1502c9e150",
+          "canonical_name": "Red Mitchell",
+          "name_slug": "red-mitchell",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "4bdc851e-355a-4573-b1d8-ec918e2376c0",
+      "title": "Lullaby of Birdland",
+      "track_number": 10,
+      "side": "B",
+      "duration_text": "4:54",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a1197edc-05bd-4e40-8147-0b66711213d6",
+          "canonical_name": "Albert Pollan",
+          "name_slug": "albert-pollan",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7a2de926-69b7-4c71-b801-1d854ef1dd2f",
+          "canonical_name": "Bob Enevoldsen",
+          "name_slug": "bob-enevoldsen",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "83c273dd-9057-485d-8ef9-583b4a7803a3",
+          "canonical_name": "Bud Shank",
+          "name_slug": "bud-shank",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "85bcd9e6-46f6-4117-a40e-723f0320e028",
+          "canonical_name": "Don Fagerquist",
+          "name_slug": "don-fagerquist",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "dda7022e-c73d-464e-ba66-a6dd401d5156",
+          "canonical_name": "Jack Dulong",
+          "name_slug": "jack-dulong",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef9b52c8-8132-4bad-94fe-89d83e09c676",
+          "canonical_name": "Jack Montrose",
+          "name_slug": "jack-montrose",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1ad24be0-ce84-4aaf-a8eb-62facced892b",
+          "canonical_name": "John Cave",
+          "name_slug": "john-cave",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+          "canonical_name": "Mel Lewis",
+          "name_slug": "mel-lewis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a9672d7c-f42c-4fba-b5ee-40f3e7150a83",
+          "canonical_name": "Mel Torm\u00e9",
+          "name_slug": "mel-torm",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "21187572-9407-49fa-b835-4bf6bfcaad8c",
+          "canonical_name": "Pete Candoli",
+          "name_slug": "pete-candoli",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9b86845f-38d5-4f4e-8474-8a1502c9e150",
+          "canonical_name": "Red Mitchell",
+          "name_slug": "red-mitchell",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "10c105fc-c6c1-49c7-b052-036c4d1a6f9b",
+      "title": "When April Comes Again",
+      "track_number": 11,
+      "side": "B",
+      "duration_text": "2:59",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a1197edc-05bd-4e40-8147-0b66711213d6",
+          "canonical_name": "Albert Pollan",
+          "name_slug": "albert-pollan",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7a2de926-69b7-4c71-b801-1d854ef1dd2f",
+          "canonical_name": "Bob Enevoldsen",
+          "name_slug": "bob-enevoldsen",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "83c273dd-9057-485d-8ef9-583b4a7803a3",
+          "canonical_name": "Bud Shank",
+          "name_slug": "bud-shank",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "85bcd9e6-46f6-4117-a40e-723f0320e028",
+          "canonical_name": "Don Fagerquist",
+          "name_slug": "don-fagerquist",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "dda7022e-c73d-464e-ba66-a6dd401d5156",
+          "canonical_name": "Jack Dulong",
+          "name_slug": "jack-dulong",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef9b52c8-8132-4bad-94fe-89d83e09c676",
+          "canonical_name": "Jack Montrose",
+          "name_slug": "jack-montrose",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1ad24be0-ce84-4aaf-a8eb-62facced892b",
+          "canonical_name": "John Cave",
+          "name_slug": "john-cave",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+          "canonical_name": "Mel Lewis",
+          "name_slug": "mel-lewis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a9672d7c-f42c-4fba-b5ee-40f3e7150a83",
+          "canonical_name": "Mel Torm\u00e9",
+          "name_slug": "mel-torm",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "21187572-9407-49fa-b835-4bf6bfcaad8c",
+          "canonical_name": "Pete Candoli",
+          "name_slug": "pete-candoli",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9b86845f-38d5-4f4e-8474-8a1502c9e150",
+          "canonical_name": "Red Mitchell",
+          "name_slug": "red-mitchell",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "aa028ebe-2191-4412-a703-4379cf657fa2",
+      "title": "Sing for Your Supper",
+      "track_number": 12,
+      "side": "B",
+      "duration_text": "2:23",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a1197edc-05bd-4e40-8147-0b66711213d6",
+          "canonical_name": "Albert Pollan",
+          "name_slug": "albert-pollan",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7a2de926-69b7-4c71-b801-1d854ef1dd2f",
+          "canonical_name": "Bob Enevoldsen",
+          "name_slug": "bob-enevoldsen",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "83c273dd-9057-485d-8ef9-583b4a7803a3",
+          "canonical_name": "Bud Shank",
+          "name_slug": "bud-shank",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "85bcd9e6-46f6-4117-a40e-723f0320e028",
+          "canonical_name": "Don Fagerquist",
+          "name_slug": "don-fagerquist",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "dda7022e-c73d-464e-ba66-a6dd401d5156",
+          "canonical_name": "Jack Dulong",
+          "name_slug": "jack-dulong",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef9b52c8-8132-4bad-94fe-89d83e09c676",
+          "canonical_name": "Jack Montrose",
+          "name_slug": "jack-montrose",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1ad24be0-ce84-4aaf-a8eb-62facced892b",
+          "canonical_name": "John Cave",
+          "name_slug": "john-cave",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+          "canonical_name": "Mel Lewis",
+          "name_slug": "mel-lewis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a9672d7c-f42c-4fba-b5ee-40f3e7150a83",
+          "canonical_name": "Mel Torm\u00e9",
+          "name_slug": "mel-torm",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "21187572-9407-49fa-b835-4bf6bfcaad8c",
+          "canonical_name": "Pete Candoli",
+          "name_slug": "pete-candoli",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9b86845f-38d5-4f4e-8474-8a1502c9e150",
+          "canonical_name": "Red Mitchell",
+          "name_slug": "red-mitchell",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

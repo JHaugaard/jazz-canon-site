@@ -1,0 +1,238 @@
+{
+  "id": "john-coltrane-giant-steps",
+  "title": "Giant Steps",
+  "artist_name": "John Coltrane",
+  "year": 1960,
+  "label": "Atlantic",
+  "catalog_number": "SD 1311",
+  "recording_dates_text": "1959-05-04, 1959-05-05, 1959-12-02",
+  "description": null,
+  "style_primary": "modal-jazz",
+  "style_display": "Modal Jazz",
+  "cover_art_url": "http://coverartarchive.org/release/aeeb97ce-e509-4afd-87b9-9538bb252e10/1304628409-500.jpg",
+  "apple_album_id": "1531037502",
+  "studios": [
+    "Atlantic Studios, New York"
+  ],
+  "personnel": [
+    {
+      "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+      "canonical_name": "Art Taylor",
+      "name_slug": "art-taylor",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "e732fd30-f66c-48c7-b892-ebdae6ab3f9e",
+      "canonical_name": "Jimmy Cobb",
+      "name_slug": "jimmy-cobb",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+      "canonical_name": "John Coltrane",
+      "name_slug": "john-coltrane",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+      "canonical_name": "Paul Chambers",
+      "name_slug": "paul-chambers",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "14298e89-ba6a-440a-9cb1-13986b5ad96e",
+      "canonical_name": "Tommy Flanagan",
+      "name_slug": "tommy-flanagan",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "5142f243-780f-41a6-a50a-a9f75160ff60",
+      "canonical_name": "Wynton Kelly",
+      "name_slug": "wynton-kelly",
+      "instrument": "piano",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "c24ec48c-b462-412f-aef5-dee01ad23f2d",
+      "title": "Giant Steps",
+      "track_number": 1,
+      "side": null,
+      "duration_text": "4:43",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "7111124c-52ca-4365-a3d6-a19dd6e5f0e3",
+      "title": "Cousin Mary",
+      "track_number": 2,
+      "side": null,
+      "duration_text": "5:45",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "6486f1b7-bff8-487d-b64c-815e1f1b0ae0",
+      "title": "Countdown",
+      "track_number": 3,
+      "side": null,
+      "duration_text": "2:21",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "a5f04602-c760-4443-a5c6-3aa4d798b64f",
+      "title": "Spiral",
+      "track_number": 4,
+      "side": null,
+      "duration_text": "5:56",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "e99f7a91-ff4c-4d69-ae26-5c5186ef145b",
+      "title": "Syeeda's Song Flute",
+      "track_number": 5,
+      "side": null,
+      "duration_text": "7:00",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "636075e9-9203-455c-aa1c-413a944aaa40",
+      "title": "Naima",
+      "track_number": 6,
+      "side": null,
+      "duration_text": "4:21",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "071da7c8-2a12-41ed-a7c8-4f256ded8153",
+      "title": "Mr. P.C.",
+      "track_number": 7,
+      "side": null,
+      "duration_text": "6:57",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

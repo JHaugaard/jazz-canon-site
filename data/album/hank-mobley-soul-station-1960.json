@@ -1,0 +1,283 @@
+{
+  "id": "hank-mobley-soul-station-1960",
+  "title": "Soul Station",
+  "artist_name": "Hank Mobley",
+  "year": 1960,
+  "label": "Blue Note",
+  "catalog_number": "BLP 4031",
+  "recording_dates_text": "1960-02-07",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "https://coverartarchive.org/release-group/9b39d156-2eb2-3cb9-b1f9-c3d7c9fb726e/front",
+  "apple_album_id": "1459439349",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+      "canonical_name": "Art Blakey",
+      "name_slug": "art-blakey",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+      "canonical_name": "Hank Mobley",
+      "name_slug": "hank-mobley",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+      "canonical_name": "Paul Chambers",
+      "name_slug": "paul-chambers",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "5142f243-780f-41a6-a50a-a9f75160ff60",
+      "canonical_name": "Wynton Kelly",
+      "name_slug": "wynton-kelly",
+      "instrument": "piano",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "095145ae-1feb-4e34-bc2c-d0036b01cc72",
+      "title": "Remember",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "5:41",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+          "canonical_name": "Hank Mobley",
+          "name_slug": "hank-mobley",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5142f243-780f-41a6-a50a-a9f75160ff60",
+          "canonical_name": "Wynton Kelly",
+          "name_slug": "wynton-kelly",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "cf39b833-775a-470b-9bee-4e86c2d30fc8",
+      "title": "This I Dig of You",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "6:25",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+          "canonical_name": "Hank Mobley",
+          "name_slug": "hank-mobley",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5142f243-780f-41a6-a50a-a9f75160ff60",
+          "canonical_name": "Wynton Kelly",
+          "name_slug": "wynton-kelly",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "b039e312-78bb-49d2-b2aa-4e189dc844b1",
+      "title": "Dig Dis",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "6:08",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+          "canonical_name": "Hank Mobley",
+          "name_slug": "hank-mobley",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5142f243-780f-41a6-a50a-a9f75160ff60",
+          "canonical_name": "Wynton Kelly",
+          "name_slug": "wynton-kelly",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "c4f1bea6-6e2b-4893-b6fb-0019147ee709",
+      "title": "Split Feelin's",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "4:55",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+          "canonical_name": "Hank Mobley",
+          "name_slug": "hank-mobley",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5142f243-780f-41a6-a50a-a9f75160ff60",
+          "canonical_name": "Wynton Kelly",
+          "name_slug": "wynton-kelly",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "1971a4f8-297d-4259-aeb8-7db1f60e4a54",
+      "title": "Soul Station",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "9:06",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+          "canonical_name": "Hank Mobley",
+          "name_slug": "hank-mobley",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5142f243-780f-41a6-a50a-a9f75160ff60",
+          "canonical_name": "Wynton Kelly",
+          "name_slug": "wynton-kelly",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "0de74fba-b434-4bc4-b8df-8d1edafdf990",
+      "title": "If I Should Lose You",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "5:08",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+          "canonical_name": "Hank Mobley",
+          "name_slug": "hank-mobley",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5142f243-780f-41a6-a50a-a9f75160ff60",
+          "canonical_name": "Wynton Kelly",
+          "name_slug": "wynton-kelly",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

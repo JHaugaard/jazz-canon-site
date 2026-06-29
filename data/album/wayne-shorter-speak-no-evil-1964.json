@@ -1,0 +1,325 @@
+{
+  "id": "wayne-shorter-speak-no-evil-1964",
+  "title": "Speak No Evil",
+  "artist_name": "Wayne Shorter",
+  "year": 1964,
+  "label": "Blue Note",
+  "catalog_number": "BLP 4194",
+  "recording_dates_text": "1964-12-24",
+  "description": null,
+  "style_primary": "post-bop",
+  "style_display": "Post-Bop",
+  "cover_art_url": "https://coverartarchive.org/release-group/eae0c18f-f2fd-3b97-8631-3f682a2f3957/front",
+  "apple_album_id": "723473694",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+      "canonical_name": "Elvin Jones",
+      "name_slug": "elvin-jones",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+      "canonical_name": "Freddie Hubbard",
+      "name_slug": "freddie-hubbard",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+      "canonical_name": "Herbie Hancock",
+      "name_slug": "herbie-hancock",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+      "canonical_name": "Ron Carter",
+      "name_slug": "ron-carter",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+      "canonical_name": "Wayne Shorter",
+      "name_slug": "wayne-shorter",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "49c58216-ec3d-4cea-806f-6caf6764f087",
+      "title": "Witch Hunt",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "8:11",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "6cf6b889-287a-4a44-b3e4-24ed887dbc11",
+      "title": "Fee-Fi-Fo-Fum",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "5:54",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "31de1254-b79f-4d96-8a90-1bc792112c7d",
+      "title": "Dance Cadaverous",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "6:45",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "367fb7bf-ac31-4288-8bae-6d8e74aef2c5",
+      "title": "Speak No Evil",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "8:23",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "e228c36c-95a5-4fa0-92d0-f32fba500f62",
+      "title": "Infant Eyes",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "6:54",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "9151576d-9221-4ecf-ba7b-0ce3265a1ed8",
+      "title": "Wild Flower",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "6:06",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

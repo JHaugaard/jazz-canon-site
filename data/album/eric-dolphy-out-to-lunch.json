@@ -1,0 +1,265 @@
+{
+  "id": "eric-dolphy-out-to-lunch",
+  "title": "Out to Lunch!",
+  "artist_name": "Eric Dolphy",
+  "year": 1964,
+  "label": "Blue Note Records",
+  "catalog_number": "BLP 4163 (mono); BST 84163 (stereo)",
+  "recording_dates_text": "1964-02-25",
+  "description": null,
+  "style_primary": "post-bop",
+  "style_display": "Post-Bop",
+  "cover_art_url": "http://coverartarchive.org/release/a1d0a17b-0d3d-4d34-bd02-ea48cada4fe4/2307943932-500.jpg",
+  "apple_album_id": "1455686798",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+      "canonical_name": "Bobby Hutcherson",
+      "name_slug": "bobby-hutcherson",
+      "instrument": "vibraphone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "4a10b6ea-d4dd-4c66-a2fa-76be914c0e57",
+      "canonical_name": "Eric Dolphy",
+      "name_slug": "eric-dolphy",
+      "instrument": "flute",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "4a10b6ea-d4dd-4c66-a2fa-76be914c0e57",
+      "canonical_name": "Eric Dolphy",
+      "name_slug": "eric-dolphy",
+      "instrument": "bass clarinet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "4a10b6ea-d4dd-4c66-a2fa-76be914c0e57",
+      "canonical_name": "Eric Dolphy",
+      "name_slug": "eric-dolphy",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+      "canonical_name": "Freddie Hubbard",
+      "name_slug": "freddie-hubbard",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "17dab1b9-7957-486f-8844-f6801aba6167",
+      "canonical_name": "Richard Davis",
+      "name_slug": "richard-davis",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+      "canonical_name": "Tony Williams",
+      "name_slug": "tony-williams",
+      "instrument": "drums",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "628411f0-0adc-4098-a956-f8e76c3a2bc8",
+      "title": "Hat and Beard",
+      "track_number": 1,
+      "side": null,
+      "duration_text": "8:24",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+          "canonical_name": "Bobby Hutcherson",
+          "name_slug": "bobby-hutcherson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17dab1b9-7957-486f-8844-f6801aba6167",
+          "canonical_name": "Richard Davis",
+          "name_slug": "richard-davis",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "fa5680d2-76fb-484a-8a36-58d7e3691f89",
+      "title": "Something Sweet, Something Tender",
+      "track_number": 2,
+      "side": null,
+      "duration_text": "6:02",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+          "canonical_name": "Bobby Hutcherson",
+          "name_slug": "bobby-hutcherson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17dab1b9-7957-486f-8844-f6801aba6167",
+          "canonical_name": "Richard Davis",
+          "name_slug": "richard-davis",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "78277507-eaa4-407e-8ba2-5786b4ac4285",
+      "title": "Gazzelloni",
+      "track_number": 3,
+      "side": null,
+      "duration_text": "7:22",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+          "canonical_name": "Bobby Hutcherson",
+          "name_slug": "bobby-hutcherson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17dab1b9-7957-486f-8844-f6801aba6167",
+          "canonical_name": "Richard Davis",
+          "name_slug": "richard-davis",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "0989a091-ad96-462a-b77d-cb2c6aa00de8",
+      "title": "Out to Lunch",
+      "track_number": 4,
+      "side": null,
+      "duration_text": "12:06",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+          "canonical_name": "Bobby Hutcherson",
+          "name_slug": "bobby-hutcherson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17dab1b9-7957-486f-8844-f6801aba6167",
+          "canonical_name": "Richard Davis",
+          "name_slug": "richard-davis",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "4e403166-3107-4f1e-89b1-3625868d332b",
+      "title": "Straight Up and Down",
+      "track_number": 5,
+      "side": null,
+      "duration_text": "8:19",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+          "canonical_name": "Bobby Hutcherson",
+          "name_slug": "bobby-hutcherson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17dab1b9-7957-486f-8844-f6801aba6167",
+          "canonical_name": "Richard Davis",
+          "name_slug": "richard-davis",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

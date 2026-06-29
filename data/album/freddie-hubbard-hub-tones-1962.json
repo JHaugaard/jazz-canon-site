@@ -1,0 +1,286 @@
+{
+  "id": "freddie-hubbard-hub-tones-1962",
+  "title": "Hub-Tones",
+  "artist_name": "Freddie Hubbard",
+  "year": 1962,
+  "label": "Blue Note",
+  "catalog_number": "BLP 4115",
+  "recording_dates_text": "1962-10-10",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "http://coverartarchive.org/release/b63d6e08-98b5-46f7-924d-969a8e730fa6/37954525719-500.jpg",
+  "apple_album_id": "1444188559",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "bae8ad6f-694f-4a38-a7c3-24f972039eb3",
+      "canonical_name": "Clifford Jarvis",
+      "name_slug": "clifford-jarvis",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+      "canonical_name": "Freddie Hubbard",
+      "name_slug": "freddie-hubbard",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+      "canonical_name": "Herbie Hancock",
+      "name_slug": "herbie-hancock",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "7f6e25f0-805e-436c-b8e4-8722ae8da919",
+      "canonical_name": "James Spaulding",
+      "name_slug": "james-spaulding",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+      "canonical_name": "Reggie Workman",
+      "name_slug": "reggie-workman",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "313fedfc-3820-41d4-ba33-26babc1e688d",
+      "title": "You're My Everything",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "6:33",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "bae8ad6f-694f-4a38-a7c3-24f972039eb3",
+          "canonical_name": "Clifford Jarvis",
+          "name_slug": "clifford-jarvis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7f6e25f0-805e-436c-b8e4-8722ae8da919",
+          "canonical_name": "James Spaulding",
+          "name_slug": "james-spaulding",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+          "canonical_name": "Reggie Workman",
+          "name_slug": "reggie-workman",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "524df107-6797-4c04-8c6b-1fe2bf18a653",
+      "title": "Prophet Jennings",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "5:31",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "bae8ad6f-694f-4a38-a7c3-24f972039eb3",
+          "canonical_name": "Clifford Jarvis",
+          "name_slug": "clifford-jarvis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7f6e25f0-805e-436c-b8e4-8722ae8da919",
+          "canonical_name": "James Spaulding",
+          "name_slug": "james-spaulding",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+          "canonical_name": "Reggie Workman",
+          "name_slug": "reggie-workman",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "639d1534-7ce8-4e19-be1e-b0250c72ab86",
+      "title": "Hub-Tones",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "8:24",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "bae8ad6f-694f-4a38-a7c3-24f972039eb3",
+          "canonical_name": "Clifford Jarvis",
+          "name_slug": "clifford-jarvis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7f6e25f0-805e-436c-b8e4-8722ae8da919",
+          "canonical_name": "James Spaulding",
+          "name_slug": "james-spaulding",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+          "canonical_name": "Reggie Workman",
+          "name_slug": "reggie-workman",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "5db54c93-a602-49d0-afbf-e0cb0744bb8e",
+      "title": "Lament for Booker",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "9:39",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "bae8ad6f-694f-4a38-a7c3-24f972039eb3",
+          "canonical_name": "Clifford Jarvis",
+          "name_slug": "clifford-jarvis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7f6e25f0-805e-436c-b8e4-8722ae8da919",
+          "canonical_name": "James Spaulding",
+          "name_slug": "james-spaulding",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+          "canonical_name": "Reggie Workman",
+          "name_slug": "reggie-workman",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "9ead90f2-1bde-43c9-a5c3-de57ede77c97",
+      "title": "For Spee's Sake",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "8:35",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "bae8ad6f-694f-4a38-a7c3-24f972039eb3",
+          "canonical_name": "Clifford Jarvis",
+          "name_slug": "clifford-jarvis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7f6e25f0-805e-436c-b8e4-8722ae8da919",
+          "canonical_name": "James Spaulding",
+          "name_slug": "james-spaulding",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+          "canonical_name": "Reggie Workman",
+          "name_slug": "reggie-workman",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

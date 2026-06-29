@@ -1,0 +1,332 @@
+{
+  "id": "art-blakey-a-night-at-birdland-vol-1-1954",
+  "title": "A Night at Birdland, Vol. 1",
+  "artist_name": "Art Blakey Quintet",
+  "year": 1954,
+  "label": "Blue Note",
+  "catalog_number": "5321472",
+  "recording_dates_text": "1954-02-21",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/50/16/45/50164595-a29f-27c5-a085-c1690230e295/00602547064561.rgb.jpg/1000x1000bb.jpg",
+  "apple_album_id": "1443211091",
+  "studios": [
+    "Birdland (live), New York City"
+  ],
+  "personnel": [
+    {
+      "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+      "canonical_name": "Art Blakey",
+      "name_slug": "art-blakey",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "1317d6d0-c6d6-4a2c-ad62-ca092d5427df",
+      "canonical_name": "Clifford Brown",
+      "name_slug": "clifford-brown",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "22824d73-37d8-484e-99bb-e44309da4e8c",
+      "canonical_name": "Curley Russell",
+      "name_slug": "curley-russell",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+      "canonical_name": "Horace Silver",
+      "name_slug": "horace-silver",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "3297f55c-de50-47ad-ab15-da7350301947",
+      "canonical_name": "Lou Donaldson",
+      "name_slug": "lou-donaldson",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "5f3eeacc-e2de-42a1-a178-cf0f40b5a4b2",
+      "title": "Announcement by Pee Wee Marquette",
+      "track_number": 1,
+      "side": null,
+      "duration_text": "0:58",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1317d6d0-c6d6-4a2c-ad62-ca092d5427df",
+          "canonical_name": "Clifford Brown",
+          "name_slug": "clifford-brown",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "22824d73-37d8-484e-99bb-e44309da4e8c",
+          "canonical_name": "Curley Russell",
+          "name_slug": "curley-russell",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3297f55c-de50-47ad-ab15-da7350301947",
+          "canonical_name": "Lou Donaldson",
+          "name_slug": "lou-donaldson",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "e5ce1c79-7038-49b1-b9e0-f6d3fdbc0d13",
+      "title": "Split Kick",
+      "track_number": 2,
+      "side": null,
+      "duration_text": "8:44",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1317d6d0-c6d6-4a2c-ad62-ca092d5427df",
+          "canonical_name": "Clifford Brown",
+          "name_slug": "clifford-brown",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "22824d73-37d8-484e-99bb-e44309da4e8c",
+          "canonical_name": "Curley Russell",
+          "name_slug": "curley-russell",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3297f55c-de50-47ad-ab15-da7350301947",
+          "canonical_name": "Lou Donaldson",
+          "name_slug": "lou-donaldson",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "62a0fb6c-9c4f-47a1-b8e2-8f26ff17e2d4",
+      "title": "Once in a While",
+      "track_number": 3,
+      "side": null,
+      "duration_text": "5:18",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1317d6d0-c6d6-4a2c-ad62-ca092d5427df",
+          "canonical_name": "Clifford Brown",
+          "name_slug": "clifford-brown",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "22824d73-37d8-484e-99bb-e44309da4e8c",
+          "canonical_name": "Curley Russell",
+          "name_slug": "curley-russell",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3297f55c-de50-47ad-ab15-da7350301947",
+          "canonical_name": "Lou Donaldson",
+          "name_slug": "lou-donaldson",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "1ef9deeb-e024-4b87-9242-ddf7e4707492",
+      "title": "Quicksilver",
+      "track_number": 4,
+      "side": null,
+      "duration_text": "6:58",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1317d6d0-c6d6-4a2c-ad62-ca092d5427df",
+          "canonical_name": "Clifford Brown",
+          "name_slug": "clifford-brown",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "22824d73-37d8-484e-99bb-e44309da4e8c",
+          "canonical_name": "Curley Russell",
+          "name_slug": "curley-russell",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3297f55c-de50-47ad-ab15-da7350301947",
+          "canonical_name": "Lou Donaldson",
+          "name_slug": "lou-donaldson",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "fed8a84d-667c-4683-bec9-ba6e3f49decb",
+      "title": "A Night in Tunisia",
+      "track_number": 5,
+      "side": null,
+      "duration_text": "9:20",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1317d6d0-c6d6-4a2c-ad62-ca092d5427df",
+          "canonical_name": "Clifford Brown",
+          "name_slug": "clifford-brown",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "22824d73-37d8-484e-99bb-e44309da4e8c",
+          "canonical_name": "Curley Russell",
+          "name_slug": "curley-russell",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3297f55c-de50-47ad-ab15-da7350301947",
+          "canonical_name": "Lou Donaldson",
+          "name_slug": "lou-donaldson",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "0f12cdeb-5129-4613-b5e7-ca53845c2225",
+      "title": "Mayreh",
+      "track_number": 6,
+      "side": null,
+      "duration_text": "6:19",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1317d6d0-c6d6-4a2c-ad62-ca092d5427df",
+          "canonical_name": "Clifford Brown",
+          "name_slug": "clifford-brown",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "22824d73-37d8-484e-99bb-e44309da4e8c",
+          "canonical_name": "Curley Russell",
+          "name_slug": "curley-russell",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+          "canonical_name": "Horace Silver",
+          "name_slug": "horace-silver",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3297f55c-de50-47ad-ab15-da7350301947",
+          "canonical_name": "Lou Donaldson",
+          "name_slug": "lou-donaldson",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

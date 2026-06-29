@@ -1,0 +1,286 @@
+{
+  "id": "herbie-hancock-maiden-voyage-1965",
+  "title": "Maiden Voyage",
+  "artist_name": "Herbie Hancock",
+  "year": 1965,
+  "label": "Blue Note",
+  "catalog_number": "BLP 4195",
+  "recording_dates_text": "1965-03-17",
+  "description": null,
+  "style_primary": "modal-jazz",
+  "style_display": "Modal Jazz",
+  "cover_art_url": "https://coverartarchive.org/release-group/c5e5e8ad-dc89-319e-8b2d-b3ff5e59fcea/front",
+  "apple_album_id": "1476739989",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+      "canonical_name": "Freddie Hubbard",
+      "name_slug": "freddie-hubbard",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "506e5391-e5fc-49c3-a3e9-aa2c6d6400da",
+      "canonical_name": "George Coleman",
+      "name_slug": "george-coleman",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+      "canonical_name": "Herbie Hancock",
+      "name_slug": "herbie-hancock",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+      "canonical_name": "Ron Carter",
+      "name_slug": "ron-carter",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+      "canonical_name": "Tony Williams",
+      "name_slug": "tony-williams",
+      "instrument": "drums",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "202fd1a9-6591-4156-9ba1-83614ebbd542",
+      "title": "Maiden Voyage",
+      "track_number": 1,
+      "side": null,
+      "duration_text": "7:57",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "506e5391-e5fc-49c3-a3e9-aa2c6d6400da",
+          "canonical_name": "George Coleman",
+          "name_slug": "george-coleman",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "972873c6-e380-4ef9-a7e0-cf81dfa62e0e",
+      "title": "The Eye of the Hurricane",
+      "track_number": 2,
+      "side": null,
+      "duration_text": "6:01",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "506e5391-e5fc-49c3-a3e9-aa2c6d6400da",
+          "canonical_name": "George Coleman",
+          "name_slug": "george-coleman",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "c2bf1e69-81f6-445a-818d-992aa18f371f",
+      "title": "Little One",
+      "track_number": 3,
+      "side": null,
+      "duration_text": "8:47",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "506e5391-e5fc-49c3-a3e9-aa2c6d6400da",
+          "canonical_name": "George Coleman",
+          "name_slug": "george-coleman",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "c1b0b966-c5b7-40be-a6c4-6628f4631f75",
+      "title": "Survival of the Fittest",
+      "track_number": 4,
+      "side": null,
+      "duration_text": "10:03",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "506e5391-e5fc-49c3-a3e9-aa2c6d6400da",
+          "canonical_name": "George Coleman",
+          "name_slug": "george-coleman",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "73431841-89d5-492f-9027-b8b1e216b3b6",
+      "title": "Dolphin Dance",
+      "track_number": 5,
+      "side": null,
+      "duration_text": "9:16",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "506e5391-e5fc-49c3-a3e9-aa2c6d6400da",
+          "canonical_name": "George Coleman",
+          "name_slug": "george-coleman",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

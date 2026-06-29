@@ -1,0 +1,370 @@
+{
+  "id": "mccoy-tyner-expansions-1968",
+  "title": "Expansions",
+  "artist_name": "McCoy Tyner",
+  "year": 1968,
+  "label": "Blue Note",
+  "catalog_number": "BST 84338",
+  "recording_dates_text": "1968-08-23",
+  "description": null,
+  "style_primary": "modal-jazz",
+  "style_display": "Modal Jazz",
+  "cover_art_url": "http://coverartarchive.org/release/ee02cfc1-7cf0-4bca-a420-286f2237680a/2453233530-500.jpg",
+  "apple_album_id": "1444097844",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "0c9f4bf7-dc9f-4e68-87bd-1ac436bab5dd",
+      "canonical_name": "Freddie Waits",
+      "name_slug": "freddie-waits",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "2b142cd4-3f9a-46dd-b1d8-9912cefb6b30",
+      "canonical_name": "Gary Bartz",
+      "name_slug": "gary-bartz",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "4df8cfd5-84a1-4ba8-a0dc-b94a248c54a0",
+      "canonical_name": "Herbie Lewis",
+      "name_slug": "herbie-lewis",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+      "canonical_name": "McCoy Tyner",
+      "name_slug": "mccoy-tyner",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+      "canonical_name": "Ron Carter",
+      "name_slug": "ron-carter",
+      "instrument": "cello",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+      "canonical_name": "Wayne Shorter",
+      "name_slug": "wayne-shorter",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "38d0cdde-c6ae-4112-8488-f794da824c83",
+      "canonical_name": "Woody Shaw",
+      "name_slug": "woody-shaw",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "715dd3b6-86c2-4368-bfbc-640a9809ea26",
+      "title": "Vision",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "12:18",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "0c9f4bf7-dc9f-4e68-87bd-1ac436bab5dd",
+          "canonical_name": "Freddie Waits",
+          "name_slug": "freddie-waits",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b142cd4-3f9a-46dd-b1d8-9912cefb6b30",
+          "canonical_name": "Gary Bartz",
+          "name_slug": "gary-bartz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4df8cfd5-84a1-4ba8-a0dc-b94a248c54a0",
+          "canonical_name": "Herbie Lewis",
+          "name_slug": "herbie-lewis",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "cello",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "38d0cdde-c6ae-4112-8488-f794da824c83",
+          "canonical_name": "Woody Shaw",
+          "name_slug": "woody-shaw",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "a502587f-8a3b-402b-8a02-aa5b13409b98",
+      "title": "Song of Happiness",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "12:00",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "0c9f4bf7-dc9f-4e68-87bd-1ac436bab5dd",
+          "canonical_name": "Freddie Waits",
+          "name_slug": "freddie-waits",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b142cd4-3f9a-46dd-b1d8-9912cefb6b30",
+          "canonical_name": "Gary Bartz",
+          "name_slug": "gary-bartz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4df8cfd5-84a1-4ba8-a0dc-b94a248c54a0",
+          "canonical_name": "Herbie Lewis",
+          "name_slug": "herbie-lewis",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "cello",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "38d0cdde-c6ae-4112-8488-f794da824c83",
+          "canonical_name": "Woody Shaw",
+          "name_slug": "woody-shaw",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "21728016-680b-4e73-8848-cb4d35295975",
+      "title": "Smitty's Place",
+      "track_number": 3,
+      "side": "B",
+      "duration_text": "5:21",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "0c9f4bf7-dc9f-4e68-87bd-1ac436bab5dd",
+          "canonical_name": "Freddie Waits",
+          "name_slug": "freddie-waits",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b142cd4-3f9a-46dd-b1d8-9912cefb6b30",
+          "canonical_name": "Gary Bartz",
+          "name_slug": "gary-bartz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4df8cfd5-84a1-4ba8-a0dc-b94a248c54a0",
+          "canonical_name": "Herbie Lewis",
+          "name_slug": "herbie-lewis",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "cello",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "38d0cdde-c6ae-4112-8488-f794da824c83",
+          "canonical_name": "Woody Shaw",
+          "name_slug": "woody-shaw",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "d9473c89-b492-4338-8c5c-ef8b25bb1ff8",
+      "title": "Peresina",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "10:21",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "0c9f4bf7-dc9f-4e68-87bd-1ac436bab5dd",
+          "canonical_name": "Freddie Waits",
+          "name_slug": "freddie-waits",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b142cd4-3f9a-46dd-b1d8-9912cefb6b30",
+          "canonical_name": "Gary Bartz",
+          "name_slug": "gary-bartz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4df8cfd5-84a1-4ba8-a0dc-b94a248c54a0",
+          "canonical_name": "Herbie Lewis",
+          "name_slug": "herbie-lewis",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "cello",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "38d0cdde-c6ae-4112-8488-f794da824c83",
+          "canonical_name": "Woody Shaw",
+          "name_slug": "woody-shaw",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "886178f2-783d-47ed-b2b6-176afab1447c",
+      "title": "I Thought I'd Let You Know",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "6:25",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "0c9f4bf7-dc9f-4e68-87bd-1ac436bab5dd",
+          "canonical_name": "Freddie Waits",
+          "name_slug": "freddie-waits",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b142cd4-3f9a-46dd-b1d8-9912cefb6b30",
+          "canonical_name": "Gary Bartz",
+          "name_slug": "gary-bartz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4df8cfd5-84a1-4ba8-a0dc-b94a248c54a0",
+          "canonical_name": "Herbie Lewis",
+          "name_slug": "herbie-lewis",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "cello",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "38d0cdde-c6ae-4112-8488-f794da824c83",
+          "canonical_name": "Woody Shaw",
+          "name_slug": "woody-shaw",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

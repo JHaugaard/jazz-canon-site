@@ -1,0 +1,439 @@
+{
+  "id": "art-pepper-art-pepper-meets-the-rhythm-section-1957",
+  "title": "Art Pepper Meets the Rhythm Section",
+  "artist_name": "Art Pepper",
+  "year": 1957,
+  "label": "Contemporary",
+  "catalog_number": "CR00382",
+  "recording_dates_text": "1957-01-19",
+  "description": null,
+  "style_primary": "cool-jazz",
+  "style_display": "Cool Jazz",
+  "cover_art_url": "https://coverartarchive.org/release/e6ed16ce-da69-403e-94b5-61d9353df770/44321862073-500.jpg",
+  "apple_album_id": "1440780070",
+  "studios": [
+    "Contemporary Records studio, Los Angeles"
+  ],
+  "personnel": [
+    {
+      "person_id": "262b3a28-394d-42d6-ae03-3e60bb3ecfcb",
+      "canonical_name": "Art Pepper",
+      "name_slug": "art-pepper",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+      "canonical_name": "Paul Chambers",
+      "name_slug": "paul-chambers",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+      "canonical_name": "Philly Joe Jones",
+      "name_slug": "philly-joe-jones",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "057e03fa-66d2-41e8-bcb4-b98e8ca8e914",
+      "canonical_name": "Red Garland",
+      "name_slug": "red-garland",
+      "instrument": "piano",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "7b507876-4ee2-4c86-a978-67c51ff7ade3",
+      "title": "You'd Be So Nice to Come Home To",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "5:25",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "262b3a28-394d-42d6-ae03-3e60bb3ecfcb",
+          "canonical_name": "Art Pepper",
+          "name_slug": "art-pepper",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+          "canonical_name": "Philly Joe Jones",
+          "name_slug": "philly-joe-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057e03fa-66d2-41e8-bcb4-b98e8ca8e914",
+          "canonical_name": "Red Garland",
+          "name_slug": "red-garland",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "243f126e-99a6-45da-bde6-29486ecc4722",
+      "title": "Red Pepper Blues",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "3:37",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "262b3a28-394d-42d6-ae03-3e60bb3ecfcb",
+          "canonical_name": "Art Pepper",
+          "name_slug": "art-pepper",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+          "canonical_name": "Philly Joe Jones",
+          "name_slug": "philly-joe-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057e03fa-66d2-41e8-bcb4-b98e8ca8e914",
+          "canonical_name": "Red Garland",
+          "name_slug": "red-garland",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "2458f408-f445-4465-bbdf-9c7647418c94",
+      "title": "Imagination",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "5:52",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "262b3a28-394d-42d6-ae03-3e60bb3ecfcb",
+          "canonical_name": "Art Pepper",
+          "name_slug": "art-pepper",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+          "canonical_name": "Philly Joe Jones",
+          "name_slug": "philly-joe-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057e03fa-66d2-41e8-bcb4-b98e8ca8e914",
+          "canonical_name": "Red Garland",
+          "name_slug": "red-garland",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "a111a87e-0e09-4310-82cc-0d86404e9b02",
+      "title": "Waltz Me Blues",
+      "track_number": 4,
+      "side": "A",
+      "duration_text": "2:56",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "262b3a28-394d-42d6-ae03-3e60bb3ecfcb",
+          "canonical_name": "Art Pepper",
+          "name_slug": "art-pepper",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+          "canonical_name": "Philly Joe Jones",
+          "name_slug": "philly-joe-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057e03fa-66d2-41e8-bcb4-b98e8ca8e914",
+          "canonical_name": "Red Garland",
+          "name_slug": "red-garland",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "71173bff-1daa-4154-ad98-05751dfffb92",
+      "title": "Straight Life",
+      "track_number": 5,
+      "side": "A",
+      "duration_text": "3:59",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "262b3a28-394d-42d6-ae03-3e60bb3ecfcb",
+          "canonical_name": "Art Pepper",
+          "name_slug": "art-pepper",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+          "canonical_name": "Philly Joe Jones",
+          "name_slug": "philly-joe-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057e03fa-66d2-41e8-bcb4-b98e8ca8e914",
+          "canonical_name": "Red Garland",
+          "name_slug": "red-garland",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "535c6588-5243-420f-a08a-e2f76e6267f3",
+      "title": "Jazz Me Blues",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "4:47",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "262b3a28-394d-42d6-ae03-3e60bb3ecfcb",
+          "canonical_name": "Art Pepper",
+          "name_slug": "art-pepper",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+          "canonical_name": "Philly Joe Jones",
+          "name_slug": "philly-joe-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057e03fa-66d2-41e8-bcb4-b98e8ca8e914",
+          "canonical_name": "Red Garland",
+          "name_slug": "red-garland",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "244fe03e-8d81-4566-bbbf-f6b0a71e0ea1",
+      "title": "Tin Tin Deo",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": "7:42",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "262b3a28-394d-42d6-ae03-3e60bb3ecfcb",
+          "canonical_name": "Art Pepper",
+          "name_slug": "art-pepper",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+          "canonical_name": "Philly Joe Jones",
+          "name_slug": "philly-joe-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057e03fa-66d2-41e8-bcb4-b98e8ca8e914",
+          "canonical_name": "Red Garland",
+          "name_slug": "red-garland",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "ad89c9d0-abbc-4686-91f9-14f20648bce0",
+      "title": "Star Eyes",
+      "track_number": 8,
+      "side": "B",
+      "duration_text": "5:12",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "262b3a28-394d-42d6-ae03-3e60bb3ecfcb",
+          "canonical_name": "Art Pepper",
+          "name_slug": "art-pepper",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+          "canonical_name": "Philly Joe Jones",
+          "name_slug": "philly-joe-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057e03fa-66d2-41e8-bcb4-b98e8ca8e914",
+          "canonical_name": "Red Garland",
+          "name_slug": "red-garland",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "7aea4ee1-2cd0-46a0-9fd0-94f39b88eea3",
+      "title": "Birks' Works",
+      "track_number": 9,
+      "side": "B",
+      "duration_text": "4:17",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "262b3a28-394d-42d6-ae03-3e60bb3ecfcb",
+          "canonical_name": "Art Pepper",
+          "name_slug": "art-pepper",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+          "canonical_name": "Philly Joe Jones",
+          "name_slug": "philly-joe-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057e03fa-66d2-41e8-bcb4-b98e8ca8e914",
+          "canonical_name": "Red Garland",
+          "name_slug": "red-garland",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "7ddf6110-68ff-4c19-81e2-fc44d4528a57",
+      "title": "The Man I Love",
+      "track_number": 10,
+      "side": null,
+      "duration_text": "6:36",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "262b3a28-394d-42d6-ae03-3e60bb3ecfcb",
+          "canonical_name": "Art Pepper",
+          "name_slug": "art-pepper",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+          "canonical_name": "Philly Joe Jones",
+          "name_slug": "philly-joe-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057e03fa-66d2-41e8-bcb4-b98e8ca8e914",
+          "canonical_name": "Red Garland",
+          "name_slug": "red-garland",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

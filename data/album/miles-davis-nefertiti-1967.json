@@ -1,0 +1,332 @@
+{
+  "id": "miles-davis-nefertiti-1967",
+  "title": "Nefertiti",
+  "artist_name": "Miles Davis",
+  "year": 1967,
+  "label": "Columbia",
+  "catalog_number": "CS 9594",
+  "recording_dates_text": "1967-06-07, 1967-06-22, 1967-06-23, 1967-07-19",
+  "description": null,
+  "style_primary": "post-bop",
+  "style_display": "Post-Bop",
+  "cover_art_url": "http://coverartarchive.org/release/5656178b-07af-4eb9-a134-ec890f1779bf/6584499334-500.jpg",
+  "apple_album_id": "1664589722",
+  "studios": [
+    "Columbia 30th Street Studio, New York City"
+  ],
+  "personnel": [
+    {
+      "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+      "canonical_name": "Herbie Hancock",
+      "name_slug": "herbie-hancock",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+      "canonical_name": "Miles Davis",
+      "name_slug": "miles-davis",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+      "canonical_name": "Ron Carter",
+      "name_slug": "ron-carter",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+      "canonical_name": "Tony Williams",
+      "name_slug": "tony-williams",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+      "canonical_name": "Wayne Shorter",
+      "name_slug": "wayne-shorter",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "611b7c5a-e2fe-4e74-b040-543cd97e4b46",
+      "title": "Nefertiti",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "a3ad64cc-36be-44d1-8b7d-5f3f2b21ca04",
+      "title": "Fall",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "81c2d2f9-b69d-426a-ac18-40e964650134",
+      "title": "Hand Jive",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "93581dfb-db4c-4fa7-b123-5d0578b42fae",
+      "title": "Madness",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "6ff3b243-a664-4a07-997e-fc89a5c33980",
+      "title": "Riot",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "22e5ad1d-e06e-4139-b819-4c8f045cf7f4",
+      "title": "Pinocchio",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+          "canonical_name": "Tony Williams",
+          "name_slug": "tony-williams",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

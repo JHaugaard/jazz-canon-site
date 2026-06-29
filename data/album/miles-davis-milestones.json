@@ -1,0 +1,381 @@
+{
+  "id": "miles-davis-milestones",
+  "title": "Milestones",
+  "artist_name": "Miles Davis",
+  "year": 1958,
+  "label": "Columbia Records",
+  "catalog_number": "CL 1193",
+  "recording_dates_text": "1958-02-04, 1958-03-04",
+  "description": null,
+  "style_primary": "modal-jazz",
+  "style_display": "Modal Jazz",
+  "cover_art_url": "http://coverartarchive.org/release/216062a1-113e-4e15-8acf-895e33dfce1f/23368199718-500.jpg",
+  "apple_album_id": "250998382",
+  "studios": [
+    "Columbia 30th Street Studio, New York City"
+  ],
+  "personnel": [
+    {
+      "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+      "canonical_name": "Cannonball Adderley",
+      "name_slug": "cannonball-adderley",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+      "canonical_name": "John Coltrane",
+      "name_slug": "john-coltrane",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+      "canonical_name": "Miles Davis",
+      "name_slug": "miles-davis",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+      "canonical_name": "Paul Chambers",
+      "name_slug": "paul-chambers",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+      "canonical_name": "Philly Joe Jones",
+      "name_slug": "philly-joe-jones",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "057e03fa-66d2-41e8-bcb4-b98e8ca8e914",
+      "canonical_name": "Red Garland",
+      "name_slug": "red-garland",
+      "instrument": "piano",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "46dab8e3-addb-43c1-b34f-8fd223ab9faa",
+      "title": "Dr. Jekyll",
+      "track_number": 1,
+      "side": null,
+      "duration_text": "5:55",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+          "canonical_name": "Philly Joe Jones",
+          "name_slug": "philly-joe-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057e03fa-66d2-41e8-bcb4-b98e8ca8e914",
+          "canonical_name": "Red Garland",
+          "name_slug": "red-garland",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "eca84f68-5e3c-492d-8668-a04158622fb5",
+      "title": "Sid's Ahead",
+      "track_number": 2,
+      "side": null,
+      "duration_text": "13:13",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+          "canonical_name": "Philly Joe Jones",
+          "name_slug": "philly-joe-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057e03fa-66d2-41e8-bcb4-b98e8ca8e914",
+          "canonical_name": "Red Garland",
+          "name_slug": "red-garland",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "5fe4e830-054f-4d37-9cb9-f55860d1139d",
+      "title": "Two Bass Hit",
+      "track_number": 3,
+      "side": null,
+      "duration_text": "5:19",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+          "canonical_name": "Philly Joe Jones",
+          "name_slug": "philly-joe-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057e03fa-66d2-41e8-bcb4-b98e8ca8e914",
+          "canonical_name": "Red Garland",
+          "name_slug": "red-garland",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "0c023021-3f82-477c-9bd5-6e4f34d72c81",
+      "title": "Milestones",
+      "track_number": 4,
+      "side": null,
+      "duration_text": "5:49",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+          "canonical_name": "Philly Joe Jones",
+          "name_slug": "philly-joe-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057e03fa-66d2-41e8-bcb4-b98e8ca8e914",
+          "canonical_name": "Red Garland",
+          "name_slug": "red-garland",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "fe8a8b70-45a0-40a0-9f2e-90cf86c3b584",
+      "title": "Billy Boy",
+      "track_number": 5,
+      "side": null,
+      "duration_text": "7:19",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+          "canonical_name": "Philly Joe Jones",
+          "name_slug": "philly-joe-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057e03fa-66d2-41e8-bcb4-b98e8ca8e914",
+          "canonical_name": "Red Garland",
+          "name_slug": "red-garland",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "541caa57-e27a-41e6-9d97-cb8db76d18de",
+      "title": "Straight, No Chaser",
+      "track_number": 6,
+      "side": null,
+      "duration_text": "10:41",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+          "canonical_name": "John Coltrane",
+          "name_slug": "john-coltrane",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+          "canonical_name": "Miles Davis",
+          "name_slug": "miles-davis",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+          "canonical_name": "Philly Joe Jones",
+          "name_slug": "philly-joe-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057e03fa-66d2-41e8-bcb4-b98e8ca8e914",
+          "canonical_name": "Red Garland",
+          "name_slug": "red-garland",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

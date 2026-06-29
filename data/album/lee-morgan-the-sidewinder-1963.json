@@ -1,0 +1,286 @@
+{
+  "id": "lee-morgan-the-sidewinder-1963",
+  "title": "The Sidewinder",
+  "artist_name": "Lee Morgan",
+  "year": 1963,
+  "label": "Blue Note",
+  "catalog_number": "BLP 4157",
+  "recording_dates_text": "1963-12-21",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "https://coverartarchive.org/release-group/24d2fedc-7976-3b88-bb91-b49a05f26e55/front",
+  "apple_album_id": "1458548311",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "a81969bc-ad74-4cc0-b9dd-b89f7dfdbbb8",
+      "canonical_name": "Barry Harris",
+      "name_slug": "barry-harris",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "b377b606-451e-4391-981f-01666c7c4ffa",
+      "canonical_name": "Billy Higgins",
+      "name_slug": "billy-higgins",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "9d672c67-0334-4969-8197-63abdcc13805",
+      "canonical_name": "Bob Cranshaw",
+      "name_slug": "bob-cranshaw",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+      "canonical_name": "Joe Henderson",
+      "name_slug": "joe-henderson",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+      "canonical_name": "Lee Morgan",
+      "name_slug": "lee-morgan",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "a161bf82-0b3d-471e-a688-ca3bda06a21b",
+      "title": "The Sidewinder",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "10:25",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a81969bc-ad74-4cc0-b9dd-b89f7dfdbbb8",
+          "canonical_name": "Barry Harris",
+          "name_slug": "barry-harris",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b377b606-451e-4391-981f-01666c7c4ffa",
+          "canonical_name": "Billy Higgins",
+          "name_slug": "billy-higgins",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9d672c67-0334-4969-8197-63abdcc13805",
+          "canonical_name": "Bob Cranshaw",
+          "name_slug": "bob-cranshaw",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "eddb1a69-554e-43a5-81ac-b11a79ea89f0",
+      "title": "Totem Pole",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "10:11",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a81969bc-ad74-4cc0-b9dd-b89f7dfdbbb8",
+          "canonical_name": "Barry Harris",
+          "name_slug": "barry-harris",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b377b606-451e-4391-981f-01666c7c4ffa",
+          "canonical_name": "Billy Higgins",
+          "name_slug": "billy-higgins",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9d672c67-0334-4969-8197-63abdcc13805",
+          "canonical_name": "Bob Cranshaw",
+          "name_slug": "bob-cranshaw",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "3812be43-6c24-4a59-8193-1d47efd58246",
+      "title": "Gary's Notebook",
+      "track_number": 3,
+      "side": "B",
+      "duration_text": "6:03",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a81969bc-ad74-4cc0-b9dd-b89f7dfdbbb8",
+          "canonical_name": "Barry Harris",
+          "name_slug": "barry-harris",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b377b606-451e-4391-981f-01666c7c4ffa",
+          "canonical_name": "Billy Higgins",
+          "name_slug": "billy-higgins",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9d672c67-0334-4969-8197-63abdcc13805",
+          "canonical_name": "Bob Cranshaw",
+          "name_slug": "bob-cranshaw",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "9ddf962a-984c-4bc9-afc6-bdad8c608d64",
+      "title": "Boy, What a Night",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "7:30",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a81969bc-ad74-4cc0-b9dd-b89f7dfdbbb8",
+          "canonical_name": "Barry Harris",
+          "name_slug": "barry-harris",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b377b606-451e-4391-981f-01666c7c4ffa",
+          "canonical_name": "Billy Higgins",
+          "name_slug": "billy-higgins",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9d672c67-0334-4969-8197-63abdcc13805",
+          "canonical_name": "Bob Cranshaw",
+          "name_slug": "bob-cranshaw",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "b13a47e5-d3de-41d7-985e-d295d683e2f6",
+      "title": "Hocus-Pocus",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "6:21",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a81969bc-ad74-4cc0-b9dd-b89f7dfdbbb8",
+          "canonical_name": "Barry Harris",
+          "name_slug": "barry-harris",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b377b606-451e-4391-981f-01666c7c4ffa",
+          "canonical_name": "Billy Higgins",
+          "name_slug": "billy-higgins",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9d672c67-0334-4969-8197-63abdcc13805",
+          "canonical_name": "Bob Cranshaw",
+          "name_slug": "bob-cranshaw",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "id": "dexter-gordon-go-1962",
+  "title": "Go",
+  "artist_name": "Dexter Gordon",
+  "year": 1962,
+  "label": "Blue Note",
+  "catalog_number": "BLP 4112",
+  "recording_dates_text": "1962-08-27",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "https://coverartarchive.org/release-group/2b77fa1f-384d-3056-9491-91cb64a96eae/front",
+  "apple_album_id": "1459439436",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "b377b606-451e-4391-981f-01666c7c4ffa",
+      "canonical_name": "Billy Higgins",
+      "name_slug": "billy-higgins",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "58bd4cae-1657-4cc4-9932-d23f445c117b",
+      "canonical_name": "Butch Warren",
+      "name_slug": "butch-warren",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "e581e764-8852-408d-bb00-ce789fd1e4d6",
+      "canonical_name": "Dexter Gordon",
+      "name_slug": "dexter-gordon",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "d5f63f01-4d4b-4561-bdf7-cebd7543fd0a",
+      "canonical_name": "Sonny Clark",
+      "name_slug": "sonny-clark",
+      "instrument": "piano",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "2630aa18-a079-46e6-8592-30a5c8c10969",
+      "title": "Cheese Cake",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "6:33",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b377b606-451e-4391-981f-01666c7c4ffa",
+          "canonical_name": "Billy Higgins",
+          "name_slug": "billy-higgins",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "58bd4cae-1657-4cc4-9932-d23f445c117b",
+          "canonical_name": "Butch Warren",
+          "name_slug": "butch-warren",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e581e764-8852-408d-bb00-ce789fd1e4d6",
+          "canonical_name": "Dexter Gordon",
+          "name_slug": "dexter-gordon",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d5f63f01-4d4b-4561-bdf7-cebd7543fd0a",
+          "canonical_name": "Sonny Clark",
+          "name_slug": "sonny-clark",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "28647a44-931b-4cb1-8387-a1062baf94a2",
+      "title": "I Guess I'll Hang My Tears Out to Dry",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "5:23",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b377b606-451e-4391-981f-01666c7c4ffa",
+          "canonical_name": "Billy Higgins",
+          "name_slug": "billy-higgins",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "58bd4cae-1657-4cc4-9932-d23f445c117b",
+          "canonical_name": "Butch Warren",
+          "name_slug": "butch-warren",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e581e764-8852-408d-bb00-ce789fd1e4d6",
+          "canonical_name": "Dexter Gordon",
+          "name_slug": "dexter-gordon",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d5f63f01-4d4b-4561-bdf7-cebd7543fd0a",
+          "canonical_name": "Sonny Clark",
+          "name_slug": "sonny-clark",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "de48a778-ea64-4e14-9ef5-f5ba556973ce",
+      "title": "Second Balcony Jump",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "7:05",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b377b606-451e-4391-981f-01666c7c4ffa",
+          "canonical_name": "Billy Higgins",
+          "name_slug": "billy-higgins",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "58bd4cae-1657-4cc4-9932-d23f445c117b",
+          "canonical_name": "Butch Warren",
+          "name_slug": "butch-warren",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e581e764-8852-408d-bb00-ce789fd1e4d6",
+          "canonical_name": "Dexter Gordon",
+          "name_slug": "dexter-gordon",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d5f63f01-4d4b-4561-bdf7-cebd7543fd0a",
+          "canonical_name": "Sonny Clark",
+          "name_slug": "sonny-clark",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "c924afd6-2c91-4903-bd15-458a9f9ed877",
+      "title": "Love for Sale",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "7:40",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b377b606-451e-4391-981f-01666c7c4ffa",
+          "canonical_name": "Billy Higgins",
+          "name_slug": "billy-higgins",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "58bd4cae-1657-4cc4-9932-d23f445c117b",
+          "canonical_name": "Butch Warren",
+          "name_slug": "butch-warren",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e581e764-8852-408d-bb00-ce789fd1e4d6",
+          "canonical_name": "Dexter Gordon",
+          "name_slug": "dexter-gordon",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d5f63f01-4d4b-4561-bdf7-cebd7543fd0a",
+          "canonical_name": "Sonny Clark",
+          "name_slug": "sonny-clark",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "0ea2a018-e33e-4d2e-b478-f85455c9b43e",
+      "title": "Where Are You?",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "5:21",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b377b606-451e-4391-981f-01666c7c4ffa",
+          "canonical_name": "Billy Higgins",
+          "name_slug": "billy-higgins",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "58bd4cae-1657-4cc4-9932-d23f445c117b",
+          "canonical_name": "Butch Warren",
+          "name_slug": "butch-warren",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e581e764-8852-408d-bb00-ce789fd1e4d6",
+          "canonical_name": "Dexter Gordon",
+          "name_slug": "dexter-gordon",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d5f63f01-4d4b-4561-bdf7-cebd7543fd0a",
+          "canonical_name": "Sonny Clark",
+          "name_slug": "sonny-clark",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "079151e9-fcbe-46f8-9150-f3dffa724044",
+      "title": "Three O'Clock in the Morning",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "5:42",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b377b606-451e-4391-981f-01666c7c4ffa",
+          "canonical_name": "Billy Higgins",
+          "name_slug": "billy-higgins",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "58bd4cae-1657-4cc4-9932-d23f445c117b",
+          "canonical_name": "Butch Warren",
+          "name_slug": "butch-warren",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e581e764-8852-408d-bb00-ce789fd1e4d6",
+          "canonical_name": "Dexter Gordon",
+          "name_slug": "dexter-gordon",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d5f63f01-4d4b-4561-bdf7-cebd7543fd0a",
+          "canonical_name": "Sonny Clark",
+          "name_slug": "sonny-clark",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

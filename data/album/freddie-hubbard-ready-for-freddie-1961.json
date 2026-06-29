@@ -1,0 +1,328 @@
+{
+  "id": "freddie-hubbard-ready-for-freddie-1961",
+  "title": "Ready for Freddie",
+  "artist_name": "Freddie Hubbard",
+  "year": 1961,
+  "label": "Blue Note",
+  "catalog_number": "BST 84085",
+  "recording_dates_text": "1961-08-21",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "https://coverartarchive.org/release-group/0131b475-3788-328d-95cf-41759481fcb9/front",
+  "apple_album_id": "1444069334",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "fd3f8414-c397-42ea-96bb-8fb0d8159fa8",
+      "canonical_name": "Art Davis",
+      "name_slug": "art-davis",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "fc88fd4a-35b2-47b2-8121-329193a3a589",
+      "canonical_name": "Bernard McKinney",
+      "name_slug": "bernard-mckinney",
+      "instrument": "euphonium",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+      "canonical_name": "Elvin Jones",
+      "name_slug": "elvin-jones",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+      "canonical_name": "Freddie Hubbard",
+      "name_slug": "freddie-hubbard",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+      "canonical_name": "McCoy Tyner",
+      "name_slug": "mccoy-tyner",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+      "canonical_name": "Wayne Shorter",
+      "name_slug": "wayne-shorter",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "a88f85a0-eb33-41a6-958e-f1f0d33b4244",
+      "title": "Arietis",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "6:41",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fd3f8414-c397-42ea-96bb-8fb0d8159fa8",
+          "canonical_name": "Art Davis",
+          "name_slug": "art-davis",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fc88fd4a-35b2-47b2-8121-329193a3a589",
+          "canonical_name": "Bernard McKinney",
+          "name_slug": "bernard-mckinney",
+          "instrument": "euphonium",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "13394b53-42b1-4891-8d36-cedcdb1e74a3",
+      "title": "Weaver of Dreams",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "6:35",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fd3f8414-c397-42ea-96bb-8fb0d8159fa8",
+          "canonical_name": "Art Davis",
+          "name_slug": "art-davis",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fc88fd4a-35b2-47b2-8121-329193a3a589",
+          "canonical_name": "Bernard McKinney",
+          "name_slug": "bernard-mckinney",
+          "instrument": "euphonium",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "76e3ae95-f350-4b20-9bd8-5abe98d95eac",
+      "title": "Marie Antoinette",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "6:38",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fd3f8414-c397-42ea-96bb-8fb0d8159fa8",
+          "canonical_name": "Art Davis",
+          "name_slug": "art-davis",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fc88fd4a-35b2-47b2-8121-329193a3a589",
+          "canonical_name": "Bernard McKinney",
+          "name_slug": "bernard-mckinney",
+          "instrument": "euphonium",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "f5056e6c-a7b2-41d5-a2a1-4e00c9dfd5f9",
+      "title": "Birdlike",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "10:15",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fd3f8414-c397-42ea-96bb-8fb0d8159fa8",
+          "canonical_name": "Art Davis",
+          "name_slug": "art-davis",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fc88fd4a-35b2-47b2-8121-329193a3a589",
+          "canonical_name": "Bernard McKinney",
+          "name_slug": "bernard-mckinney",
+          "instrument": "euphonium",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "2a2beea7-92e6-43ed-8f8d-9ea020c463f9",
+      "title": "Crisis",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "11:33",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fd3f8414-c397-42ea-96bb-8fb0d8159fa8",
+          "canonical_name": "Art Davis",
+          "name_slug": "art-davis",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fc88fd4a-35b2-47b2-8121-329193a3a589",
+          "canonical_name": "Bernard McKinney",
+          "name_slug": "bernard-mckinney",
+          "instrument": "euphonium",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+          "canonical_name": "Elvin Jones",
+          "name_slug": "elvin-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

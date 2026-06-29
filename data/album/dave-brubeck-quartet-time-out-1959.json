@@ -1,0 +1,322 @@
+{
+  "id": "dave-brubeck-quartet-time-out-1959",
+  "title": "Time Out",
+  "artist_name": "The Dave Brubeck Quartet",
+  "year": 1959,
+  "label": "Columbia",
+  "catalog_number": "CS 8192",
+  "recording_dates_text": "1959-06-25, 1959-07-01, 1959-08-18",
+  "description": null,
+  "style_primary": "cool-jazz",
+  "style_display": "Cool Jazz",
+  "cover_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7a/e3/06/7ae30672-0c73-a4d4-0a74-624eefc2843b/dj.ytdbjvto.jpg/1000x1000bb.jpg",
+  "apple_album_id": "193085545",
+  "studios": [
+    "Columbia 30th Street Studio, New York City"
+  ],
+  "personnel": [
+    {
+      "person_id": "a77fcd94-6d58-4570-89a1-96f039075bbd",
+      "canonical_name": "Dave Brubeck",
+      "name_slug": "dave-brubeck",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "e47a52e5-7deb-4a22-8c0e-58f10628d8cb",
+      "canonical_name": "Eugene Wright",
+      "name_slug": "eugene-wright",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "fd277ca2-d249-467b-b157-cb67d80d7a5a",
+      "canonical_name": "Joe Morello",
+      "name_slug": "joe-morello",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f8638bc5-4b5c-4aa7-974f-1055689a19ef",
+      "canonical_name": "Paul Desmond",
+      "name_slug": "paul-desmond",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "e4e5eeff-314f-4ad3-bac7-b1bfd4699b71",
+      "title": "Blue Rondo \u00e0 la Turk",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "6:44",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a77fcd94-6d58-4570-89a1-96f039075bbd",
+          "canonical_name": "Dave Brubeck",
+          "name_slug": "dave-brubeck",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e47a52e5-7deb-4a22-8c0e-58f10628d8cb",
+          "canonical_name": "Eugene Wright",
+          "name_slug": "eugene-wright",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fd277ca2-d249-467b-b157-cb67d80d7a5a",
+          "canonical_name": "Joe Morello",
+          "name_slug": "joe-morello",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8638bc5-4b5c-4aa7-974f-1055689a19ef",
+          "canonical_name": "Paul Desmond",
+          "name_slug": "paul-desmond",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "eca5540d-f2b0-4039-8a0d-0f0b0b993d80",
+      "title": "Strange Meadow Lark",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "7:22",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a77fcd94-6d58-4570-89a1-96f039075bbd",
+          "canonical_name": "Dave Brubeck",
+          "name_slug": "dave-brubeck",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e47a52e5-7deb-4a22-8c0e-58f10628d8cb",
+          "canonical_name": "Eugene Wright",
+          "name_slug": "eugene-wright",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fd277ca2-d249-467b-b157-cb67d80d7a5a",
+          "canonical_name": "Joe Morello",
+          "name_slug": "joe-morello",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8638bc5-4b5c-4aa7-974f-1055689a19ef",
+          "canonical_name": "Paul Desmond",
+          "name_slug": "paul-desmond",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "9aa72be2-b03c-4df8-a9f0-c0ce3b74c178",
+      "title": "Take Five",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "5:24",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a77fcd94-6d58-4570-89a1-96f039075bbd",
+          "canonical_name": "Dave Brubeck",
+          "name_slug": "dave-brubeck",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e47a52e5-7deb-4a22-8c0e-58f10628d8cb",
+          "canonical_name": "Eugene Wright",
+          "name_slug": "eugene-wright",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fd277ca2-d249-467b-b157-cb67d80d7a5a",
+          "canonical_name": "Joe Morello",
+          "name_slug": "joe-morello",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8638bc5-4b5c-4aa7-974f-1055689a19ef",
+          "canonical_name": "Paul Desmond",
+          "name_slug": "paul-desmond",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "262eab01-5730-4af9-b183-1ecd34e2826c",
+      "title": "Three to Get Ready",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "5:24",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a77fcd94-6d58-4570-89a1-96f039075bbd",
+          "canonical_name": "Dave Brubeck",
+          "name_slug": "dave-brubeck",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e47a52e5-7deb-4a22-8c0e-58f10628d8cb",
+          "canonical_name": "Eugene Wright",
+          "name_slug": "eugene-wright",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fd277ca2-d249-467b-b157-cb67d80d7a5a",
+          "canonical_name": "Joe Morello",
+          "name_slug": "joe-morello",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8638bc5-4b5c-4aa7-974f-1055689a19ef",
+          "canonical_name": "Paul Desmond",
+          "name_slug": "paul-desmond",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "375c9157-2170-4549-baac-95e86c4b115f",
+      "title": "Kathy's Waltz",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "4:48",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a77fcd94-6d58-4570-89a1-96f039075bbd",
+          "canonical_name": "Dave Brubeck",
+          "name_slug": "dave-brubeck",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e47a52e5-7deb-4a22-8c0e-58f10628d8cb",
+          "canonical_name": "Eugene Wright",
+          "name_slug": "eugene-wright",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fd277ca2-d249-467b-b157-cb67d80d7a5a",
+          "canonical_name": "Joe Morello",
+          "name_slug": "joe-morello",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8638bc5-4b5c-4aa7-974f-1055689a19ef",
+          "canonical_name": "Paul Desmond",
+          "name_slug": "paul-desmond",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "d1f1065d-2457-48d5-8166-6c02860bf116",
+      "title": "Everybody's Jumpin'",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "4:23",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a77fcd94-6d58-4570-89a1-96f039075bbd",
+          "canonical_name": "Dave Brubeck",
+          "name_slug": "dave-brubeck",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e47a52e5-7deb-4a22-8c0e-58f10628d8cb",
+          "canonical_name": "Eugene Wright",
+          "name_slug": "eugene-wright",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fd277ca2-d249-467b-b157-cb67d80d7a5a",
+          "canonical_name": "Joe Morello",
+          "name_slug": "joe-morello",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8638bc5-4b5c-4aa7-974f-1055689a19ef",
+          "canonical_name": "Paul Desmond",
+          "name_slug": "paul-desmond",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "6f63264a-6e12-4235-991d-83e8204a5a8c",
+      "title": "Pick Up Sticks",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": "4:16",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a77fcd94-6d58-4570-89a1-96f039075bbd",
+          "canonical_name": "Dave Brubeck",
+          "name_slug": "dave-brubeck",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e47a52e5-7deb-4a22-8c0e-58f10628d8cb",
+          "canonical_name": "Eugene Wright",
+          "name_slug": "eugene-wright",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fd277ca2-d249-467b-b157-cb67d80d7a5a",
+          "canonical_name": "Joe Morello",
+          "name_slug": "joe-morello",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8638bc5-4b5c-4aa7-974f-1055689a19ef",
+          "canonical_name": "Paul Desmond",
+          "name_slug": "paul-desmond",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "id": "jimmy-smith-the-sermon-1958",
+  "title": "The Sermon!",
+  "artist_name": "Jimmy Smith",
+  "year": 1958,
+  "label": "Blue Note",
+  "catalog_number": "BLP 4011",
+  "recording_dates_text": "1957-08-25, 1958-02-25",
+  "description": null,
+  "style_primary": "soul-jazz",
+  "style_display": "Soul Jazz",
+  "cover_art_url": "https://coverartarchive.org/release-group/6d9fa1f7-59c7-3ced-b2b6-a581f75696ed/front",
+  "apple_album_id": "1442853222",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+      "canonical_name": "Art Blakey",
+      "name_slug": "art-blakey",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "c2b8709b-c38f-4ef1-bed3-826e8fa1b49c",
+      "canonical_name": "Donald Bailey",
+      "name_slug": "donald-bailey",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f08a209b-cf09-460a-9d4b-e58f6a7f51ca",
+      "canonical_name": "Eddie McFadden",
+      "name_slug": "eddie-mcfadden",
+      "instrument": "guitar",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "506e5391-e5fc-49c3-a3e9-aa2c6d6400da",
+      "canonical_name": "George Coleman",
+      "name_slug": "george-coleman",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "43b43407-ced4-4e92-80b8-06cf4830aa61",
+      "canonical_name": "Jimmy Smith",
+      "name_slug": "jimmy-smith",
+      "instrument": "organ (hammond)",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "71b7d966-99b4-4902-95fd-df0a59781ed0",
+      "canonical_name": "Kenny Burrell",
+      "name_slug": "kenny-burrell",
+      "instrument": "guitar",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+      "canonical_name": "Lee Morgan",
+      "name_slug": "lee-morgan",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "3297f55c-de50-47ad-ab15-da7350301947",
+      "canonical_name": "Lou Donaldson",
+      "name_slug": "lou-donaldson",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "cbb0a08a-10e8-49e8-9fcc-9fcc08ecab72",
+      "canonical_name": "Tina Brooks",
+      "name_slug": "tina-brooks",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "61349698-5976-4937-a6bb-3f6c9f3218d9",
+      "title": "The Sermon",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "20:12",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "43b43407-ced4-4e92-80b8-06cf4830aa61",
+          "canonical_name": "Jimmy Smith",
+          "name_slug": "jimmy-smith",
+          "instrument": "organ (hammond)",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "71b7d966-99b4-4902-95fd-df0a59781ed0",
+          "canonical_name": "Kenny Burrell",
+          "name_slug": "kenny-burrell",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3297f55c-de50-47ad-ab15-da7350301947",
+          "canonical_name": "Lou Donaldson",
+          "name_slug": "lou-donaldson",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cbb0a08a-10e8-49e8-9fcc-9fcc08ecab72",
+          "canonical_name": "Tina Brooks",
+          "name_slug": "tina-brooks",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "4a2586fc-1179-49cd-8500-2419ba43d9a5",
+      "title": "J.O.S.",
+      "track_number": 2,
+      "side": "B",
+      "duration_text": "11:56",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "c2b8709b-c38f-4ef1-bed3-826e8fa1b49c",
+          "canonical_name": "Donald Bailey",
+          "name_slug": "donald-bailey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f08a209b-cf09-460a-9d4b-e58f6a7f51ca",
+          "canonical_name": "Eddie McFadden",
+          "name_slug": "eddie-mcfadden",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "506e5391-e5fc-49c3-a3e9-aa2c6d6400da",
+          "canonical_name": "George Coleman",
+          "name_slug": "george-coleman",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "43b43407-ced4-4e92-80b8-06cf4830aa61",
+          "canonical_name": "Jimmy Smith",
+          "name_slug": "jimmy-smith",
+          "instrument": "organ (hammond)",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "e63ee963-694d-4ed6-9df0-e1af150b325a",
+      "title": "Flamingo",
+      "track_number": 3,
+      "side": "B",
+      "duration_text": "8:02",
+      "apple_track_id": null,
+      "epistemic_track": "unk",
+      "personnel": [
+        {
+          "person_id": "43b43407-ced4-4e92-80b8-06cf4830aa61",
+          "canonical_name": "Jimmy Smith",
+          "name_slug": "jimmy-smith",
+          "instrument": "organ (hammond)",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

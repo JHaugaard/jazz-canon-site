@@ -1,0 +1,244 @@
+{
+  "id": "charles-lloyd-forest-flower-1966",
+  "title": "Forest Flower",
+  "artist_name": "Charles Lloyd",
+  "year": 1966,
+  "label": "Atlantic",
+  "catalog_number": "1473",
+  "recording_dates_text": "1966-09-18",
+  "description": null,
+  "style_primary": "modal-jazz",
+  "style_display": "Modal Jazz",
+  "cover_art_url": "http://coverartarchive.org/release/55250094-1a15-4bd8-b709-e83b1bcaa8e0/26265131131-500.jpg",
+  "apple_album_id": "68186727",
+  "studios": [
+    "Monterey Jazz Festival, Monterey, California (live)"
+  ],
+  "personnel": [
+    {
+      "person_id": "4107bd48-5758-47dd-85cf-68d1e724368d",
+      "canonical_name": "Cecil McBee",
+      "name_slug": "cecil-mcbee",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "33dd890a-d6a0-46f3-8425-f1e608978c9c",
+      "canonical_name": "Charles Lloyd",
+      "name_slug": "charles-lloyd",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "aaa50472-87c3-46fb-b667-8cc7c2f25ea0",
+      "canonical_name": "Jack DeJohnette",
+      "name_slug": "jack-dejohnette",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "00ed0e52-d49e-4f70-9c17-849863a10cd1",
+      "canonical_name": "Keith Jarrett",
+      "name_slug": "keith-jarrett",
+      "instrument": "piano",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "ba50ea38-25b4-4761-b6f6-40a6764844cb",
+      "title": "Forest Flower: Sunrise",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "7:18",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "4107bd48-5758-47dd-85cf-68d1e724368d",
+          "canonical_name": "Cecil McBee",
+          "name_slug": "cecil-mcbee",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "33dd890a-d6a0-46f3-8425-f1e608978c9c",
+          "canonical_name": "Charles Lloyd",
+          "name_slug": "charles-lloyd",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "aaa50472-87c3-46fb-b667-8cc7c2f25ea0",
+          "canonical_name": "Jack DeJohnette",
+          "name_slug": "jack-dejohnette",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "00ed0e52-d49e-4f70-9c17-849863a10cd1",
+          "canonical_name": "Keith Jarrett",
+          "name_slug": "keith-jarrett",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "30bb8202-ac29-470a-99ec-5d11de749072",
+      "title": "Forest Flower: Sunset",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "10:37",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "4107bd48-5758-47dd-85cf-68d1e724368d",
+          "canonical_name": "Cecil McBee",
+          "name_slug": "cecil-mcbee",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "33dd890a-d6a0-46f3-8425-f1e608978c9c",
+          "canonical_name": "Charles Lloyd",
+          "name_slug": "charles-lloyd",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "aaa50472-87c3-46fb-b667-8cc7c2f25ea0",
+          "canonical_name": "Jack DeJohnette",
+          "name_slug": "jack-dejohnette",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "00ed0e52-d49e-4f70-9c17-849863a10cd1",
+          "canonical_name": "Keith Jarrett",
+          "name_slug": "keith-jarrett",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "9281fe11-b9a0-457e-a7e0-e32416f77594",
+      "title": "Sorcery",
+      "track_number": 3,
+      "side": "B",
+      "duration_text": "5:18",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "4107bd48-5758-47dd-85cf-68d1e724368d",
+          "canonical_name": "Cecil McBee",
+          "name_slug": "cecil-mcbee",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "33dd890a-d6a0-46f3-8425-f1e608978c9c",
+          "canonical_name": "Charles Lloyd",
+          "name_slug": "charles-lloyd",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "aaa50472-87c3-46fb-b667-8cc7c2f25ea0",
+          "canonical_name": "Jack DeJohnette",
+          "name_slug": "jack-dejohnette",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "00ed0e52-d49e-4f70-9c17-849863a10cd1",
+          "canonical_name": "Keith Jarrett",
+          "name_slug": "keith-jarrett",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "3cf40f68-8670-46ab-8366-dfafa7415e5f",
+      "title": "Song of Her",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "5:24",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "4107bd48-5758-47dd-85cf-68d1e724368d",
+          "canonical_name": "Cecil McBee",
+          "name_slug": "cecil-mcbee",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "33dd890a-d6a0-46f3-8425-f1e608978c9c",
+          "canonical_name": "Charles Lloyd",
+          "name_slug": "charles-lloyd",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "aaa50472-87c3-46fb-b667-8cc7c2f25ea0",
+          "canonical_name": "Jack DeJohnette",
+          "name_slug": "jack-dejohnette",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "00ed0e52-d49e-4f70-9c17-849863a10cd1",
+          "canonical_name": "Keith Jarrett",
+          "name_slug": "keith-jarrett",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "49d21821-5cbe-4e73-a1b3-80f896b1663a",
+      "title": "East of the Sun",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "10:40",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "4107bd48-5758-47dd-85cf-68d1e724368d",
+          "canonical_name": "Cecil McBee",
+          "name_slug": "cecil-mcbee",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "33dd890a-d6a0-46f3-8425-f1e608978c9c",
+          "canonical_name": "Charles Lloyd",
+          "name_slug": "charles-lloyd",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "aaa50472-87c3-46fb-b667-8cc7c2f25ea0",
+          "canonical_name": "Jack DeJohnette",
+          "name_slug": "jack-dejohnette",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "00ed0e52-d49e-4f70-9c17-849863a10cd1",
+          "canonical_name": "Keith Jarrett",
+          "name_slug": "keith-jarrett",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

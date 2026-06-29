@@ -1,0 +1,202 @@
+{
+  "id": "chick-corea-now-he-sings-now-he-sobs-1968",
+  "title": "Now He Sings, Now He Sobs",
+  "artist_name": "Chick Corea",
+  "year": 1968,
+  "label": "Solid State",
+  "catalog_number": "SS 18039",
+  "recording_dates_text": "1968-03-14, 1968-03-19, 1968-03-27",
+  "description": null,
+  "style_primary": "post-bop",
+  "style_display": "Post-Bop",
+  "cover_art_url": "http://coverartarchive.org/release/d873cf18-5225-4e28-bd6d-d2e2dd213557/34254651315-500.jpg",
+  "apple_album_id": "1458144305",
+  "studios": [
+    "A&R Studios, New York"
+  ],
+  "personnel": [
+    {
+      "person_id": "d13d35d8-49df-473d-9c76-85c52b3b9330",
+      "canonical_name": "Chick Corea",
+      "name_slug": "chick-corea",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "c96c54d4-ac81-43d7-8faa-04cccee4d032",
+      "canonical_name": "Miroslav Vitou\u0161",
+      "name_slug": "miroslav-vitou",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+      "canonical_name": "Roy Haynes",
+      "name_slug": "roy-haynes",
+      "instrument": "drums",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "fb5e8a0a-1017-442a-9cd4-43dcca718042",
+      "title": "Steps - What Was",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d13d35d8-49df-473d-9c76-85c52b3b9330",
+          "canonical_name": "Chick Corea",
+          "name_slug": "chick-corea",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c96c54d4-ac81-43d7-8faa-04cccee4d032",
+          "canonical_name": "Miroslav Vitou\u0161",
+          "name_slug": "miroslav-vitou",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "af5f9584-2a96-490d-8087-0dfdee4961b1",
+      "title": "Matrix",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d13d35d8-49df-473d-9c76-85c52b3b9330",
+          "canonical_name": "Chick Corea",
+          "name_slug": "chick-corea",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c96c54d4-ac81-43d7-8faa-04cccee4d032",
+          "canonical_name": "Miroslav Vitou\u0161",
+          "name_slug": "miroslav-vitou",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "64d5eed0-c34d-4436-816a-191eeeadb881",
+      "title": "Now He Sings, Now He Sobs",
+      "track_number": 3,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d13d35d8-49df-473d-9c76-85c52b3b9330",
+          "canonical_name": "Chick Corea",
+          "name_slug": "chick-corea",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c96c54d4-ac81-43d7-8faa-04cccee4d032",
+          "canonical_name": "Miroslav Vitou\u0161",
+          "name_slug": "miroslav-vitou",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "0bc750d9-ea1a-4385-bffc-2e6705fdf47e",
+      "title": "Now He Beats the Drum, Now He Stops",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d13d35d8-49df-473d-9c76-85c52b3b9330",
+          "canonical_name": "Chick Corea",
+          "name_slug": "chick-corea",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c96c54d4-ac81-43d7-8faa-04cccee4d032",
+          "canonical_name": "Miroslav Vitou\u0161",
+          "name_slug": "miroslav-vitou",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "9137d914-cf5c-488b-a949-289f905c4b58",
+      "title": "The Law of Falling and Catching Up",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d13d35d8-49df-473d-9c76-85c52b3b9330",
+          "canonical_name": "Chick Corea",
+          "name_slug": "chick-corea",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c96c54d4-ac81-43d7-8faa-04cccee4d032",
+          "canonical_name": "Miroslav Vitou\u0161",
+          "name_slug": "miroslav-vitou",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "id": "donald-byrd-a-new-perspective-1963",
+  "title": "A New Perspective",
+  "artist_name": "Donald Byrd",
+  "year": 1963,
+  "label": "Blue Note",
+  "catalog_number": "BLP 4124",
+  "recording_dates_text": "1963-01-12",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "http://coverartarchive.org/release/56b5af15-1bc1-4240-a0a2-7b099a1ac4cc/15724193224-500.jpg",
+  "apple_album_id": "1442996026",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "58bd4cae-1657-4cc4-9932-d23f445c117b",
+      "canonical_name": "Butch Warren",
+      "name_slug": "butch-warren",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "ddcb8e97-a4f2-4bd7-bbf5-f1da5dcb61c7",
+      "canonical_name": "Donald Best",
+      "name_slug": "donald-best",
+      "instrument": "vibraphone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "52154a51-8c1f-48d8-8134-d684f5b5441d",
+      "canonical_name": "Donald Byrd",
+      "name_slug": "donald-byrd",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+      "canonical_name": "Hank Mobley",
+      "name_slug": "hank-mobley",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+      "canonical_name": "Herbie Hancock",
+      "name_slug": "herbie-hancock",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "71b7d966-99b4-4902-95fd-df0a59781ed0",
+      "canonical_name": "Kenny Burrell",
+      "name_slug": "kenny-burrell",
+      "instrument": "guitar",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "73af7bd3-3e26-4e60-a930-f7a4b3c1c62d",
+      "canonical_name": "Lex Humphries",
+      "name_slug": "lex-humphries",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "c608338f-31bb-4448-a4c8-49458eb9f8ab",
+      "canonical_name": "Vocal choir (8 voices)",
+      "name_slug": "vocal-choir-8-voices",
+      "instrument": "voice",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "9cd2b2ec-52df-40a8-b8d3-b7d83e91f768",
+      "title": "Elijah",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "9:21",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "58bd4cae-1657-4cc4-9932-d23f445c117b",
+          "canonical_name": "Butch Warren",
+          "name_slug": "butch-warren",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ddcb8e97-a4f2-4bd7-bbf5-f1da5dcb61c7",
+          "canonical_name": "Donald Best",
+          "name_slug": "donald-best",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52154a51-8c1f-48d8-8134-d684f5b5441d",
+          "canonical_name": "Donald Byrd",
+          "name_slug": "donald-byrd",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+          "canonical_name": "Hank Mobley",
+          "name_slug": "hank-mobley",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "71b7d966-99b4-4902-95fd-df0a59781ed0",
+          "canonical_name": "Kenny Burrell",
+          "name_slug": "kenny-burrell",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "73af7bd3-3e26-4e60-a930-f7a4b3c1c62d",
+          "canonical_name": "Lex Humphries",
+          "name_slug": "lex-humphries",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c608338f-31bb-4448-a4c8-49458eb9f8ab",
+          "canonical_name": "Vocal choir (8 voices)",
+          "name_slug": "vocal-choir-8-voices",
+          "instrument": "voice",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "9fc3840c-2313-40fe-8653-ef3247ed01fd",
+      "title": "Beast of Burden",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "10:07",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "58bd4cae-1657-4cc4-9932-d23f445c117b",
+          "canonical_name": "Butch Warren",
+          "name_slug": "butch-warren",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ddcb8e97-a4f2-4bd7-bbf5-f1da5dcb61c7",
+          "canonical_name": "Donald Best",
+          "name_slug": "donald-best",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52154a51-8c1f-48d8-8134-d684f5b5441d",
+          "canonical_name": "Donald Byrd",
+          "name_slug": "donald-byrd",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+          "canonical_name": "Hank Mobley",
+          "name_slug": "hank-mobley",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "71b7d966-99b4-4902-95fd-df0a59781ed0",
+          "canonical_name": "Kenny Burrell",
+          "name_slug": "kenny-burrell",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "73af7bd3-3e26-4e60-a930-f7a4b3c1c62d",
+          "canonical_name": "Lex Humphries",
+          "name_slug": "lex-humphries",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c608338f-31bb-4448-a4c8-49458eb9f8ab",
+          "canonical_name": "Vocal choir (8 voices)",
+          "name_slug": "vocal-choir-8-voices",
+          "instrument": "voice",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "2e61ee80-f880-456b-ab45-61e8d7e021b9",
+      "title": "Cristo Redentor",
+      "track_number": 3,
+      "side": "B",
+      "duration_text": "5:43",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "58bd4cae-1657-4cc4-9932-d23f445c117b",
+          "canonical_name": "Butch Warren",
+          "name_slug": "butch-warren",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ddcb8e97-a4f2-4bd7-bbf5-f1da5dcb61c7",
+          "canonical_name": "Donald Best",
+          "name_slug": "donald-best",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52154a51-8c1f-48d8-8134-d684f5b5441d",
+          "canonical_name": "Donald Byrd",
+          "name_slug": "donald-byrd",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+          "canonical_name": "Hank Mobley",
+          "name_slug": "hank-mobley",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "71b7d966-99b4-4902-95fd-df0a59781ed0",
+          "canonical_name": "Kenny Burrell",
+          "name_slug": "kenny-burrell",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "73af7bd3-3e26-4e60-a930-f7a4b3c1c62d",
+          "canonical_name": "Lex Humphries",
+          "name_slug": "lex-humphries",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c608338f-31bb-4448-a4c8-49458eb9f8ab",
+          "canonical_name": "Vocal choir (8 voices)",
+          "name_slug": "vocal-choir-8-voices",
+          "instrument": "voice",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "355c0681-97cd-497c-8313-e730a95f80c7",
+      "title": "The Black Disciple",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "8:12",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "58bd4cae-1657-4cc4-9932-d23f445c117b",
+          "canonical_name": "Butch Warren",
+          "name_slug": "butch-warren",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ddcb8e97-a4f2-4bd7-bbf5-f1da5dcb61c7",
+          "canonical_name": "Donald Best",
+          "name_slug": "donald-best",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52154a51-8c1f-48d8-8134-d684f5b5441d",
+          "canonical_name": "Donald Byrd",
+          "name_slug": "donald-byrd",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+          "canonical_name": "Hank Mobley",
+          "name_slug": "hank-mobley",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "71b7d966-99b4-4902-95fd-df0a59781ed0",
+          "canonical_name": "Kenny Burrell",
+          "name_slug": "kenny-burrell",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "73af7bd3-3e26-4e60-a930-f7a4b3c1c62d",
+          "canonical_name": "Lex Humphries",
+          "name_slug": "lex-humphries",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c608338f-31bb-4448-a4c8-49458eb9f8ab",
+          "canonical_name": "Vocal choir (8 voices)",
+          "name_slug": "vocal-choir-8-voices",
+          "instrument": "voice",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "5dda2877-2cec-4627-8628-b73dfb2b3936",
+      "title": "Chant",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "7:31",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "58bd4cae-1657-4cc4-9932-d23f445c117b",
+          "canonical_name": "Butch Warren",
+          "name_slug": "butch-warren",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ddcb8e97-a4f2-4bd7-bbf5-f1da5dcb61c7",
+          "canonical_name": "Donald Best",
+          "name_slug": "donald-best",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52154a51-8c1f-48d8-8134-d684f5b5441d",
+          "canonical_name": "Donald Byrd",
+          "name_slug": "donald-byrd",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+          "canonical_name": "Hank Mobley",
+          "name_slug": "hank-mobley",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "71b7d966-99b4-4902-95fd-df0a59781ed0",
+          "canonical_name": "Kenny Burrell",
+          "name_slug": "kenny-burrell",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "73af7bd3-3e26-4e60-a930-f7a4b3c1c62d",
+          "canonical_name": "Lex Humphries",
+          "name_slug": "lex-humphries",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c608338f-31bb-4448-a4c8-49458eb9f8ab",
+          "canonical_name": "Vocal choir (8 voices)",
+          "name_slug": "vocal-choir-8-voices",
+          "instrument": "voice",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

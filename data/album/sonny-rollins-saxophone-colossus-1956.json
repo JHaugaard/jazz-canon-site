@@ -1,0 +1,244 @@
+{
+  "id": "sonny-rollins-saxophone-colossus-1956",
+  "title": "Saxophone Colossus",
+  "artist_name": "Sonny Rollins",
+  "year": 1956,
+  "label": "Prestige",
+  "catalog_number": "LP 7079",
+  "recording_dates_text": "1956-06-22",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "https://coverartarchive.org/release-group/cf29d6a2-a18a-3bb6-a861-495148baee1f/front",
+  "apple_album_id": "1440737584",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "79f63f7d-ef60-4205-9161-9436f40b482e",
+      "canonical_name": "Doug Watkins",
+      "name_slug": "doug-watkins",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "0c62dbce-fdbb-4b90-871d-910ab769d30e",
+      "canonical_name": "Max Roach",
+      "name_slug": "max-roach",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "fd3e5e11-ecda-4f89-aefd-167c56e2486d",
+      "canonical_name": "Sonny Rollins",
+      "name_slug": "sonny-rollins",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "14298e89-ba6a-440a-9cb1-13986b5ad96e",
+      "canonical_name": "Tommy Flanagan",
+      "name_slug": "tommy-flanagan",
+      "instrument": "piano",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "1ccb7b29-e436-4a8f-9552-71cdf3060bcc",
+      "title": "St. Thomas",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "6:49",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "79f63f7d-ef60-4205-9161-9436f40b482e",
+          "canonical_name": "Doug Watkins",
+          "name_slug": "doug-watkins",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0c62dbce-fdbb-4b90-871d-910ab769d30e",
+          "canonical_name": "Max Roach",
+          "name_slug": "max-roach",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fd3e5e11-ecda-4f89-aefd-167c56e2486d",
+          "canonical_name": "Sonny Rollins",
+          "name_slug": "sonny-rollins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "14298e89-ba6a-440a-9cb1-13986b5ad96e",
+          "canonical_name": "Tommy Flanagan",
+          "name_slug": "tommy-flanagan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "d6bc3cab-ed3c-48ca-b477-46b9af8fb1e6",
+      "title": "You Don't Know What Love Is",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "6:30",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "79f63f7d-ef60-4205-9161-9436f40b482e",
+          "canonical_name": "Doug Watkins",
+          "name_slug": "doug-watkins",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0c62dbce-fdbb-4b90-871d-910ab769d30e",
+          "canonical_name": "Max Roach",
+          "name_slug": "max-roach",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fd3e5e11-ecda-4f89-aefd-167c56e2486d",
+          "canonical_name": "Sonny Rollins",
+          "name_slug": "sonny-rollins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "14298e89-ba6a-440a-9cb1-13986b5ad96e",
+          "canonical_name": "Tommy Flanagan",
+          "name_slug": "tommy-flanagan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "9c698aa2-73a0-4cff-8e54-7587fc61c9b6",
+      "title": "Strode Rode",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "5:17",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "79f63f7d-ef60-4205-9161-9436f40b482e",
+          "canonical_name": "Doug Watkins",
+          "name_slug": "doug-watkins",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0c62dbce-fdbb-4b90-871d-910ab769d30e",
+          "canonical_name": "Max Roach",
+          "name_slug": "max-roach",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fd3e5e11-ecda-4f89-aefd-167c56e2486d",
+          "canonical_name": "Sonny Rollins",
+          "name_slug": "sonny-rollins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "14298e89-ba6a-440a-9cb1-13986b5ad96e",
+          "canonical_name": "Tommy Flanagan",
+          "name_slug": "tommy-flanagan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "025d2c2e-728f-4e0c-8758-0a15722a0bcc",
+      "title": "Moritat",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "10:05",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "79f63f7d-ef60-4205-9161-9436f40b482e",
+          "canonical_name": "Doug Watkins",
+          "name_slug": "doug-watkins",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0c62dbce-fdbb-4b90-871d-910ab769d30e",
+          "canonical_name": "Max Roach",
+          "name_slug": "max-roach",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fd3e5e11-ecda-4f89-aefd-167c56e2486d",
+          "canonical_name": "Sonny Rollins",
+          "name_slug": "sonny-rollins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "14298e89-ba6a-440a-9cb1-13986b5ad96e",
+          "canonical_name": "Tommy Flanagan",
+          "name_slug": "tommy-flanagan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "ebe0dc21-df7d-42a8-8178-8a545223a3de",
+      "title": "Blue 7",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "11:17",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "79f63f7d-ef60-4205-9161-9436f40b482e",
+          "canonical_name": "Doug Watkins",
+          "name_slug": "doug-watkins",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0c62dbce-fdbb-4b90-871d-910ab769d30e",
+          "canonical_name": "Max Roach",
+          "name_slug": "max-roach",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "fd3e5e11-ecda-4f89-aefd-167c56e2486d",
+          "canonical_name": "Sonny Rollins",
+          "name_slug": "sonny-rollins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "14298e89-ba6a-440a-9cb1-13986b5ad96e",
+          "canonical_name": "Tommy Flanagan",
+          "name_slug": "tommy-flanagan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

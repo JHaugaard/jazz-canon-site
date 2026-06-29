@@ -1,0 +1,764 @@
+{
+  "id": "charles-mingus-mingus-ah-um",
+  "title": "Mingus Ah Um",
+  "artist_name": "Charles Mingus",
+  "year": 1959,
+  "label": "Columbia",
+  "catalog_number": "CL 1370",
+  "recording_dates_text": "1959-05-05, 1959-05-12",
+  "description": null,
+  "style_primary": "modal-jazz",
+  "style_display": "Modal Jazz",
+  "cover_art_url": "http://coverartarchive.org/release/96c5cc73-798b-49d8-9708-51fcaf81931a/10086625953-500.jpg",
+  "apple_album_id": "636353127",
+  "studios": [
+    "Columbia 30th Street Studio, New York City"
+  ],
+  "personnel": [
+    {
+      "person_id": "55022fa2-8e39-4a49-bcb8-f5bcdaa6ab2b",
+      "canonical_name": "Booker Ervin",
+      "name_slug": "booker-ervin",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "aa42d2fb-2fb0-4442-a8df-dd77936e01c9",
+      "canonical_name": "Charles Mingus",
+      "name_slug": "charles-mingus",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "52677c62-82c5-4b78-9edd-cabdc9a4c9af",
+      "canonical_name": "Dannie Richmond",
+      "name_slug": "dannie-richmond",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f3e2b91e-71a5-4751-b560-1f2f309104d6",
+      "canonical_name": "Horace Parlan",
+      "name_slug": "horace-parlan",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "a8ddaf31-015b-4276-a964-0161d4d57148",
+      "canonical_name": "Jimmy Knepper",
+      "name_slug": "jimmy-knepper",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+      "canonical_name": "John Handy",
+      "name_slug": "john-handy",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+      "canonical_name": "John Handy",
+      "name_slug": "john-handy",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+      "canonical_name": "John Handy",
+      "name_slug": "john-handy",
+      "instrument": "clarinet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "4aeb40c2-dfdf-4a99-979c-61299ec58487",
+      "canonical_name": "Shafi Hadi",
+      "name_slug": "shafi-hadi",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "4aeb40c2-dfdf-4a99-979c-61299ec58487",
+      "canonical_name": "Shafi Hadi",
+      "name_slug": "shafi-hadi",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "c537d4e7-62a7-4dbe-b2a2-a464d7103846",
+      "canonical_name": "Willie Dennis",
+      "name_slug": "willie-dennis",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "d0950a5f-1d85-48c1-a395-7a5092ece225",
+      "title": "Better Git It in Your Soul",
+      "track_number": 1,
+      "side": null,
+      "duration_text": "7:22",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "55022fa2-8e39-4a49-bcb8-f5bcdaa6ab2b",
+          "canonical_name": "Booker Ervin",
+          "name_slug": "booker-ervin",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "aa42d2fb-2fb0-4442-a8df-dd77936e01c9",
+          "canonical_name": "Charles Mingus",
+          "name_slug": "charles-mingus",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52677c62-82c5-4b78-9edd-cabdc9a4c9af",
+          "canonical_name": "Dannie Richmond",
+          "name_slug": "dannie-richmond",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3e2b91e-71a5-4751-b560-1f2f309104d6",
+          "canonical_name": "Horace Parlan",
+          "name_slug": "horace-parlan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4aeb40c2-dfdf-4a99-979c-61299ec58487",
+          "canonical_name": "Shafi Hadi",
+          "name_slug": "shafi-hadi",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4aeb40c2-dfdf-4a99-979c-61299ec58487",
+          "canonical_name": "Shafi Hadi",
+          "name_slug": "shafi-hadi",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "7ac2f803-42c8-4618-9072-b69306a77f88",
+      "title": "Goodbye Pork Pie Hat",
+      "track_number": 2,
+      "side": null,
+      "duration_text": "4:48",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "55022fa2-8e39-4a49-bcb8-f5bcdaa6ab2b",
+          "canonical_name": "Booker Ervin",
+          "name_slug": "booker-ervin",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "aa42d2fb-2fb0-4442-a8df-dd77936e01c9",
+          "canonical_name": "Charles Mingus",
+          "name_slug": "charles-mingus",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52677c62-82c5-4b78-9edd-cabdc9a4c9af",
+          "canonical_name": "Dannie Richmond",
+          "name_slug": "dannie-richmond",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3e2b91e-71a5-4751-b560-1f2f309104d6",
+          "canonical_name": "Horace Parlan",
+          "name_slug": "horace-parlan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4aeb40c2-dfdf-4a99-979c-61299ec58487",
+          "canonical_name": "Shafi Hadi",
+          "name_slug": "shafi-hadi",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4aeb40c2-dfdf-4a99-979c-61299ec58487",
+          "canonical_name": "Shafi Hadi",
+          "name_slug": "shafi-hadi",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "0414a57a-3b67-4a58-aade-8952d181ce3d",
+      "title": "Boogie Stop Shuffle",
+      "track_number": 3,
+      "side": null,
+      "duration_text": "3:43",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "55022fa2-8e39-4a49-bcb8-f5bcdaa6ab2b",
+          "canonical_name": "Booker Ervin",
+          "name_slug": "booker-ervin",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "aa42d2fb-2fb0-4442-a8df-dd77936e01c9",
+          "canonical_name": "Charles Mingus",
+          "name_slug": "charles-mingus",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52677c62-82c5-4b78-9edd-cabdc9a4c9af",
+          "canonical_name": "Dannie Richmond",
+          "name_slug": "dannie-richmond",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3e2b91e-71a5-4751-b560-1f2f309104d6",
+          "canonical_name": "Horace Parlan",
+          "name_slug": "horace-parlan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4aeb40c2-dfdf-4a99-979c-61299ec58487",
+          "canonical_name": "Shafi Hadi",
+          "name_slug": "shafi-hadi",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4aeb40c2-dfdf-4a99-979c-61299ec58487",
+          "canonical_name": "Shafi Hadi",
+          "name_slug": "shafi-hadi",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "65609ca1-0c15-4654-9845-5cde0c679ac1",
+      "title": "Self-Portrait in Three Colors",
+      "track_number": 4,
+      "side": null,
+      "duration_text": "3:06",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "55022fa2-8e39-4a49-bcb8-f5bcdaa6ab2b",
+          "canonical_name": "Booker Ervin",
+          "name_slug": "booker-ervin",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "aa42d2fb-2fb0-4442-a8df-dd77936e01c9",
+          "canonical_name": "Charles Mingus",
+          "name_slug": "charles-mingus",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52677c62-82c5-4b78-9edd-cabdc9a4c9af",
+          "canonical_name": "Dannie Richmond",
+          "name_slug": "dannie-richmond",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3e2b91e-71a5-4751-b560-1f2f309104d6",
+          "canonical_name": "Horace Parlan",
+          "name_slug": "horace-parlan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4aeb40c2-dfdf-4a99-979c-61299ec58487",
+          "canonical_name": "Shafi Hadi",
+          "name_slug": "shafi-hadi",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4aeb40c2-dfdf-4a99-979c-61299ec58487",
+          "canonical_name": "Shafi Hadi",
+          "name_slug": "shafi-hadi",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "2a4da974-a09b-4abe-85a2-2fb5004bc9d5",
+      "title": "Open Letter to Duke",
+      "track_number": 5,
+      "side": null,
+      "duration_text": "4:56",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "55022fa2-8e39-4a49-bcb8-f5bcdaa6ab2b",
+          "canonical_name": "Booker Ervin",
+          "name_slug": "booker-ervin",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "aa42d2fb-2fb0-4442-a8df-dd77936e01c9",
+          "canonical_name": "Charles Mingus",
+          "name_slug": "charles-mingus",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52677c62-82c5-4b78-9edd-cabdc9a4c9af",
+          "canonical_name": "Dannie Richmond",
+          "name_slug": "dannie-richmond",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3e2b91e-71a5-4751-b560-1f2f309104d6",
+          "canonical_name": "Horace Parlan",
+          "name_slug": "horace-parlan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4aeb40c2-dfdf-4a99-979c-61299ec58487",
+          "canonical_name": "Shafi Hadi",
+          "name_slug": "shafi-hadi",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4aeb40c2-dfdf-4a99-979c-61299ec58487",
+          "canonical_name": "Shafi Hadi",
+          "name_slug": "shafi-hadi",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "e3ed1fbc-5585-4ad4-abae-e6adb3d13419",
+      "title": "Bird Calls",
+      "track_number": 6,
+      "side": null,
+      "duration_text": "3:12",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "55022fa2-8e39-4a49-bcb8-f5bcdaa6ab2b",
+          "canonical_name": "Booker Ervin",
+          "name_slug": "booker-ervin",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "aa42d2fb-2fb0-4442-a8df-dd77936e01c9",
+          "canonical_name": "Charles Mingus",
+          "name_slug": "charles-mingus",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52677c62-82c5-4b78-9edd-cabdc9a4c9af",
+          "canonical_name": "Dannie Richmond",
+          "name_slug": "dannie-richmond",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3e2b91e-71a5-4751-b560-1f2f309104d6",
+          "canonical_name": "Horace Parlan",
+          "name_slug": "horace-parlan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4aeb40c2-dfdf-4a99-979c-61299ec58487",
+          "canonical_name": "Shafi Hadi",
+          "name_slug": "shafi-hadi",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4aeb40c2-dfdf-4a99-979c-61299ec58487",
+          "canonical_name": "Shafi Hadi",
+          "name_slug": "shafi-hadi",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "5f104f0a-6396-4268-96ea-906e08a4823b",
+      "title": "Fables of Faubus",
+      "track_number": 7,
+      "side": null,
+      "duration_text": "8:14",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "55022fa2-8e39-4a49-bcb8-f5bcdaa6ab2b",
+          "canonical_name": "Booker Ervin",
+          "name_slug": "booker-ervin",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "aa42d2fb-2fb0-4442-a8df-dd77936e01c9",
+          "canonical_name": "Charles Mingus",
+          "name_slug": "charles-mingus",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52677c62-82c5-4b78-9edd-cabdc9a4c9af",
+          "canonical_name": "Dannie Richmond",
+          "name_slug": "dannie-richmond",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3e2b91e-71a5-4751-b560-1f2f309104d6",
+          "canonical_name": "Horace Parlan",
+          "name_slug": "horace-parlan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4aeb40c2-dfdf-4a99-979c-61299ec58487",
+          "canonical_name": "Shafi Hadi",
+          "name_slug": "shafi-hadi",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4aeb40c2-dfdf-4a99-979c-61299ec58487",
+          "canonical_name": "Shafi Hadi",
+          "name_slug": "shafi-hadi",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "5401fdc5-805c-4e8c-991f-a6f8f68a0b97",
+      "title": "Pussy Cat Dues",
+      "track_number": 8,
+      "side": null,
+      "duration_text": "6:30",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "55022fa2-8e39-4a49-bcb8-f5bcdaa6ab2b",
+          "canonical_name": "Booker Ervin",
+          "name_slug": "booker-ervin",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "aa42d2fb-2fb0-4442-a8df-dd77936e01c9",
+          "canonical_name": "Charles Mingus",
+          "name_slug": "charles-mingus",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52677c62-82c5-4b78-9edd-cabdc9a4c9af",
+          "canonical_name": "Dannie Richmond",
+          "name_slug": "dannie-richmond",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3e2b91e-71a5-4751-b560-1f2f309104d6",
+          "canonical_name": "Horace Parlan",
+          "name_slug": "horace-parlan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4aeb40c2-dfdf-4a99-979c-61299ec58487",
+          "canonical_name": "Shafi Hadi",
+          "name_slug": "shafi-hadi",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4aeb40c2-dfdf-4a99-979c-61299ec58487",
+          "canonical_name": "Shafi Hadi",
+          "name_slug": "shafi-hadi",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "d1df8235-4912-41b3-806b-dc974dcf2d5c",
+      "title": "Jelly Roll",
+      "track_number": 9,
+      "side": null,
+      "duration_text": "4:02",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "55022fa2-8e39-4a49-bcb8-f5bcdaa6ab2b",
+          "canonical_name": "Booker Ervin",
+          "name_slug": "booker-ervin",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "aa42d2fb-2fb0-4442-a8df-dd77936e01c9",
+          "canonical_name": "Charles Mingus",
+          "name_slug": "charles-mingus",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52677c62-82c5-4b78-9edd-cabdc9a4c9af",
+          "canonical_name": "Dannie Richmond",
+          "name_slug": "dannie-richmond",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3e2b91e-71a5-4751-b560-1f2f309104d6",
+          "canonical_name": "Horace Parlan",
+          "name_slug": "horace-parlan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+          "canonical_name": "John Handy",
+          "name_slug": "john-handy",
+          "instrument": "clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4aeb40c2-dfdf-4a99-979c-61299ec58487",
+          "canonical_name": "Shafi Hadi",
+          "name_slug": "shafi-hadi",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4aeb40c2-dfdf-4a99-979c-61299ec58487",
+          "canonical_name": "Shafi Hadi",
+          "name_slug": "shafi-hadi",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "id": "gene-ammons-boss-tenor-1960",
+  "title": "Boss Tenor",
+  "artist_name": "Gene Ammons",
+  "year": 1960,
+  "label": "Prestige",
+  "catalog_number": "PRST 7180",
+  "recording_dates_text": "1960-06-16",
+  "description": null,
+  "style_primary": "soul-jazz",
+  "style_display": "Soul Jazz",
+  "cover_art_url": "https://coverartarchive.org/release-group/83154955-d843-3265-a23e-96244ff7f409/front",
+  "apple_album_id": "1440943402",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+      "canonical_name": "Art Taylor",
+      "name_slug": "art-taylor",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "79f63f7d-ef60-4205-9161-9436f40b482e",
+      "canonical_name": "Doug Watkins",
+      "name_slug": "doug-watkins",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "c93f5608-8db4-4b18-b738-4b77531a5282",
+      "canonical_name": "Gene Ammons",
+      "name_slug": "gene-ammons",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "a2a473f2-2646-481e-bfd0-7c8e8c5185b1",
+      "canonical_name": "Ray Barretto",
+      "name_slug": "ray-barretto",
+      "instrument": "congas",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "14298e89-ba6a-440a-9cb1-13986b5ad96e",
+      "canonical_name": "Tommy Flanagan",
+      "name_slug": "tommy-flanagan",
+      "instrument": "piano",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "b13e7d60-68f6-49e7-99cd-ddc29ab7c20b",
+      "title": "Hittin' the Jug",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "8:29",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "79f63f7d-ef60-4205-9161-9436f40b482e",
+          "canonical_name": "Doug Watkins",
+          "name_slug": "doug-watkins",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c93f5608-8db4-4b18-b738-4b77531a5282",
+          "canonical_name": "Gene Ammons",
+          "name_slug": "gene-ammons",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a2a473f2-2646-481e-bfd0-7c8e8c5185b1",
+          "canonical_name": "Ray Barretto",
+          "name_slug": "ray-barretto",
+          "instrument": "congas",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "14298e89-ba6a-440a-9cb1-13986b5ad96e",
+          "canonical_name": "Tommy Flanagan",
+          "name_slug": "tommy-flanagan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "b0691bf5-8bf8-429d-816b-abed037cc1c2",
+      "title": "Close Your Eyes",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "3:46",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "79f63f7d-ef60-4205-9161-9436f40b482e",
+          "canonical_name": "Doug Watkins",
+          "name_slug": "doug-watkins",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c93f5608-8db4-4b18-b738-4b77531a5282",
+          "canonical_name": "Gene Ammons",
+          "name_slug": "gene-ammons",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a2a473f2-2646-481e-bfd0-7c8e8c5185b1",
+          "canonical_name": "Ray Barretto",
+          "name_slug": "ray-barretto",
+          "instrument": "congas",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "14298e89-ba6a-440a-9cb1-13986b5ad96e",
+          "canonical_name": "Tommy Flanagan",
+          "name_slug": "tommy-flanagan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "f6febf3a-ca79-4d89-9088-2fb701a8cc31",
+      "title": "My Romance",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "4:16",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "79f63f7d-ef60-4205-9161-9436f40b482e",
+          "canonical_name": "Doug Watkins",
+          "name_slug": "doug-watkins",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c93f5608-8db4-4b18-b738-4b77531a5282",
+          "canonical_name": "Gene Ammons",
+          "name_slug": "gene-ammons",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a2a473f2-2646-481e-bfd0-7c8e8c5185b1",
+          "canonical_name": "Ray Barretto",
+          "name_slug": "ray-barretto",
+          "instrument": "congas",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "14298e89-ba6a-440a-9cb1-13986b5ad96e",
+          "canonical_name": "Tommy Flanagan",
+          "name_slug": "tommy-flanagan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "31cb7896-5374-4d9b-ae7f-cff9f6bbc783",
+      "title": "Canadian Sunset",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "5:24",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "79f63f7d-ef60-4205-9161-9436f40b482e",
+          "canonical_name": "Doug Watkins",
+          "name_slug": "doug-watkins",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c93f5608-8db4-4b18-b738-4b77531a5282",
+          "canonical_name": "Gene Ammons",
+          "name_slug": "gene-ammons",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a2a473f2-2646-481e-bfd0-7c8e8c5185b1",
+          "canonical_name": "Ray Barretto",
+          "name_slug": "ray-barretto",
+          "instrument": "congas",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "14298e89-ba6a-440a-9cb1-13986b5ad96e",
+          "canonical_name": "Tommy Flanagan",
+          "name_slug": "tommy-flanagan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "f4ab085a-62be-4c76-beab-d071cd1d67a1",
+      "title": "Blue Ammons",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "4:57",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "79f63f7d-ef60-4205-9161-9436f40b482e",
+          "canonical_name": "Doug Watkins",
+          "name_slug": "doug-watkins",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c93f5608-8db4-4b18-b738-4b77531a5282",
+          "canonical_name": "Gene Ammons",
+          "name_slug": "gene-ammons",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a2a473f2-2646-481e-bfd0-7c8e8c5185b1",
+          "canonical_name": "Ray Barretto",
+          "name_slug": "ray-barretto",
+          "instrument": "congas",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "14298e89-ba6a-440a-9cb1-13986b5ad96e",
+          "canonical_name": "Tommy Flanagan",
+          "name_slug": "tommy-flanagan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "a192caa2-046a-4581-ba22-cb781a09336d",
+      "title": "Confirmation",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "5:24",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "79f63f7d-ef60-4205-9161-9436f40b482e",
+          "canonical_name": "Doug Watkins",
+          "name_slug": "doug-watkins",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c93f5608-8db4-4b18-b738-4b77531a5282",
+          "canonical_name": "Gene Ammons",
+          "name_slug": "gene-ammons",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a2a473f2-2646-481e-bfd0-7c8e8c5185b1",
+          "canonical_name": "Ray Barretto",
+          "name_slug": "ray-barretto",
+          "instrument": "congas",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "14298e89-ba6a-440a-9cb1-13986b5ad96e",
+          "canonical_name": "Tommy Flanagan",
+          "name_slug": "tommy-flanagan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "c462ef48-4226-42a9-99d8-8b356ecacb7f",
+      "title": "Stompin' at the Savoy",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": "3:31",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "79f63f7d-ef60-4205-9161-9436f40b482e",
+          "canonical_name": "Doug Watkins",
+          "name_slug": "doug-watkins",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c93f5608-8db4-4b18-b738-4b77531a5282",
+          "canonical_name": "Gene Ammons",
+          "name_slug": "gene-ammons",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a2a473f2-2646-481e-bfd0-7c8e8c5185b1",
+          "canonical_name": "Ray Barretto",
+          "name_slug": "ray-barretto",
+          "instrument": "congas",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "14298e89-ba6a-440a-9cb1-13986b5ad96e",
+          "canonical_name": "Tommy Flanagan",
+          "name_slug": "tommy-flanagan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "id": "ahmad-jamal-at-the-pershing-but-not-for-me",
+  "title": "At the Pershing: But Not for Me",
+  "artist_name": "Ahmad Jamal",
+  "year": 1958,
+  "label": "Argo Records",
+  "catalog_number": "LP-628 (mono); LPS-628 (stereo)",
+  "recording_dates_text": "1958-01-16",
+  "description": null,
+  "style_primary": "modal-jazz",
+  "style_display": "Modal Jazz",
+  "cover_art_url": "https://coverartarchive.org/release/0008f765-032b-46cd-ab69-2220edab1837/21102547590-500.jpg",
+  "apple_album_id": null,
+  "studios": [
+    "Pershing Lounge, Pershing Hotel (live), Chicago, Illinois"
+  ],
+  "personnel": [
+    {
+      "person_id": "9b3f333d-9985-43bd-83a4-76aba20e1c90",
+      "canonical_name": "Ahmad Jamal",
+      "name_slug": "ahmad-jamal",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "22518ca2-72b3-49a2-a0bd-458fa6407611",
+      "canonical_name": "Israel Crosby",
+      "name_slug": "israel-crosby",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "483f0edd-3ac2-4bd9-9747-f2d30dca7c8c",
+      "canonical_name": "Vernel Fournier",
+      "name_slug": "vernel-fournier",
+      "instrument": "drums",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "b174a45b-bec8-4b06-b7a8-345c4fc58502",
+      "title": "But Not for Me",
+      "track_number": 1,
+      "side": null,
+      "duration_text": "3:32",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "9b3f333d-9985-43bd-83a4-76aba20e1c90",
+          "canonical_name": "Ahmad Jamal",
+          "name_slug": "ahmad-jamal",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "22518ca2-72b3-49a2-a0bd-458fa6407611",
+          "canonical_name": "Israel Crosby",
+          "name_slug": "israel-crosby",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "483f0edd-3ac2-4bd9-9747-f2d30dca7c8c",
+          "canonical_name": "Vernel Fournier",
+          "name_slug": "vernel-fournier",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "5318c35b-70c2-4471-be72-f7fc864f7860",
+      "title": "The Surrey With the Fringe on Top",
+      "track_number": 2,
+      "side": null,
+      "duration_text": "2:35",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "9b3f333d-9985-43bd-83a4-76aba20e1c90",
+          "canonical_name": "Ahmad Jamal",
+          "name_slug": "ahmad-jamal",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "22518ca2-72b3-49a2-a0bd-458fa6407611",
+          "canonical_name": "Israel Crosby",
+          "name_slug": "israel-crosby",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "483f0edd-3ac2-4bd9-9747-f2d30dca7c8c",
+          "canonical_name": "Vernel Fournier",
+          "name_slug": "vernel-fournier",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "55b29cae-8318-4184-a959-d7c80f6bf2b4",
+      "title": "Moonlight in Vermont",
+      "track_number": 3,
+      "side": null,
+      "duration_text": "3:10",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "9b3f333d-9985-43bd-83a4-76aba20e1c90",
+          "canonical_name": "Ahmad Jamal",
+          "name_slug": "ahmad-jamal",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "22518ca2-72b3-49a2-a0bd-458fa6407611",
+          "canonical_name": "Israel Crosby",
+          "name_slug": "israel-crosby",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "483f0edd-3ac2-4bd9-9747-f2d30dca7c8c",
+          "canonical_name": "Vernel Fournier",
+          "name_slug": "vernel-fournier",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "2d23f815-9403-4d99-94ec-20270a057eb7",
+      "title": "(Put Another Nickel In) Music, Music, Music",
+      "track_number": 4,
+      "side": null,
+      "duration_text": "2:57",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "9b3f333d-9985-43bd-83a4-76aba20e1c90",
+          "canonical_name": "Ahmad Jamal",
+          "name_slug": "ahmad-jamal",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "22518ca2-72b3-49a2-a0bd-458fa6407611",
+          "canonical_name": "Israel Crosby",
+          "name_slug": "israel-crosby",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "483f0edd-3ac2-4bd9-9747-f2d30dca7c8c",
+          "canonical_name": "Vernel Fournier",
+          "name_slug": "vernel-fournier",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "5d59de64-84e6-44e5-a237-8c018190947f",
+      "title": "There Is No Greater Love",
+      "track_number": 5,
+      "side": null,
+      "duration_text": "3:26",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "9b3f333d-9985-43bd-83a4-76aba20e1c90",
+          "canonical_name": "Ahmad Jamal",
+          "name_slug": "ahmad-jamal",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "22518ca2-72b3-49a2-a0bd-458fa6407611",
+          "canonical_name": "Israel Crosby",
+          "name_slug": "israel-crosby",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "483f0edd-3ac2-4bd9-9747-f2d30dca7c8c",
+          "canonical_name": "Vernel Fournier",
+          "name_slug": "vernel-fournier",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "b2b55571-cf9c-4291-94e7-5085db2ce6cb",
+      "title": "Poinciana",
+      "track_number": 6,
+      "side": null,
+      "duration_text": "8:08",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "9b3f333d-9985-43bd-83a4-76aba20e1c90",
+          "canonical_name": "Ahmad Jamal",
+          "name_slug": "ahmad-jamal",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "22518ca2-72b3-49a2-a0bd-458fa6407611",
+          "canonical_name": "Israel Crosby",
+          "name_slug": "israel-crosby",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "483f0edd-3ac2-4bd9-9747-f2d30dca7c8c",
+          "canonical_name": "Vernel Fournier",
+          "name_slug": "vernel-fournier",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "18b1d28e-4943-4bd2-bffc-482cd32b436a",
+      "title": "Woody 'n' You",
+      "track_number": 7,
+      "side": null,
+      "duration_text": "3:40",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "9b3f333d-9985-43bd-83a4-76aba20e1c90",
+          "canonical_name": "Ahmad Jamal",
+          "name_slug": "ahmad-jamal",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "22518ca2-72b3-49a2-a0bd-458fa6407611",
+          "canonical_name": "Israel Crosby",
+          "name_slug": "israel-crosby",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "483f0edd-3ac2-4bd9-9747-f2d30dca7c8c",
+          "canonical_name": "Vernel Fournier",
+          "name_slug": "vernel-fournier",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "edeba939-8759-4132-8544-f3d575ac36c6",
+      "title": "What's New?",
+      "track_number": 8,
+      "side": null,
+      "duration_text": "4:11",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "9b3f333d-9985-43bd-83a4-76aba20e1c90",
+          "canonical_name": "Ahmad Jamal",
+          "name_slug": "ahmad-jamal",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "22518ca2-72b3-49a2-a0bd-458fa6407611",
+          "canonical_name": "Israel Crosby",
+          "name_slug": "israel-crosby",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "483f0edd-3ac2-4bd9-9747-f2d30dca7c8c",
+          "canonical_name": "Vernel Fournier",
+          "name_slug": "vernel-fournier",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

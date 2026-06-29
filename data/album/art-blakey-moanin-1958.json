@@ -1,0 +1,332 @@
+{
+  "id": "art-blakey-moanin-1958",
+  "title": "Moanin'",
+  "artist_name": "Art Blakey & the Jazz Messengers",
+  "year": 1958,
+  "label": "Blue Note",
+  "catalog_number": "CP35-3090",
+  "recording_dates_text": "1958-10-30",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "https://coverartarchive.org/release-group/e809b0f3-5683-3248-b39a-e7ee8e86d2d9/front",
+  "apple_album_id": "1459438950",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+      "canonical_name": "Art Blakey",
+      "name_slug": "art-blakey",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "127ec703-f0f9-4209-8622-35af2fd944e8",
+      "canonical_name": "Benny Golson",
+      "name_slug": "benny-golson",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "182f579c-fc44-4bdf-a40d-4b52a91a596c",
+      "canonical_name": "Bobby Timmons",
+      "name_slug": "bobby-timmons",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "17cef92f-5a8b-46c8-98a6-41275a96e89d",
+      "canonical_name": "Jymie Merritt",
+      "name_slug": "jymie-merritt",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+      "canonical_name": "Lee Morgan",
+      "name_slug": "lee-morgan",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "0266e803-d7ae-4c79-9798-cde5bf377d4b",
+      "title": "Moanin'",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "9:35",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "127ec703-f0f9-4209-8622-35af2fd944e8",
+          "canonical_name": "Benny Golson",
+          "name_slug": "benny-golson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "182f579c-fc44-4bdf-a40d-4b52a91a596c",
+          "canonical_name": "Bobby Timmons",
+          "name_slug": "bobby-timmons",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17cef92f-5a8b-46c8-98a6-41275a96e89d",
+          "canonical_name": "Jymie Merritt",
+          "name_slug": "jymie-merritt",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "157afb77-2508-439f-88e6-5c4382a671a3",
+      "title": "Are You Real",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "4:50",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "127ec703-f0f9-4209-8622-35af2fd944e8",
+          "canonical_name": "Benny Golson",
+          "name_slug": "benny-golson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "182f579c-fc44-4bdf-a40d-4b52a91a596c",
+          "canonical_name": "Bobby Timmons",
+          "name_slug": "bobby-timmons",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17cef92f-5a8b-46c8-98a6-41275a96e89d",
+          "canonical_name": "Jymie Merritt",
+          "name_slug": "jymie-merritt",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "8ab3800f-17bc-48c5-901e-3b337f51ccc7",
+      "title": "Along Came Betty",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "6:12",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "127ec703-f0f9-4209-8622-35af2fd944e8",
+          "canonical_name": "Benny Golson",
+          "name_slug": "benny-golson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "182f579c-fc44-4bdf-a40d-4b52a91a596c",
+          "canonical_name": "Bobby Timmons",
+          "name_slug": "bobby-timmons",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17cef92f-5a8b-46c8-98a6-41275a96e89d",
+          "canonical_name": "Jymie Merritt",
+          "name_slug": "jymie-merritt",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "aa2f4fab-117c-48ed-8f3d-2e4ce8491749",
+      "title": "The Drum Thunder Suite",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "7:33",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "127ec703-f0f9-4209-8622-35af2fd944e8",
+          "canonical_name": "Benny Golson",
+          "name_slug": "benny-golson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "182f579c-fc44-4bdf-a40d-4b52a91a596c",
+          "canonical_name": "Bobby Timmons",
+          "name_slug": "bobby-timmons",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17cef92f-5a8b-46c8-98a6-41275a96e89d",
+          "canonical_name": "Jymie Merritt",
+          "name_slug": "jymie-merritt",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "b5bee1bd-3d52-42e4-936a-30795d7ba6e5",
+      "title": "Blues March",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "6:17",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "127ec703-f0f9-4209-8622-35af2fd944e8",
+          "canonical_name": "Benny Golson",
+          "name_slug": "benny-golson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "182f579c-fc44-4bdf-a40d-4b52a91a596c",
+          "canonical_name": "Bobby Timmons",
+          "name_slug": "bobby-timmons",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17cef92f-5a8b-46c8-98a6-41275a96e89d",
+          "canonical_name": "Jymie Merritt",
+          "name_slug": "jymie-merritt",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "f486145f-a839-40db-b702-41045ef18871",
+      "title": "Come Rain or Come Shine",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "5:49",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+          "canonical_name": "Art Blakey",
+          "name_slug": "art-blakey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "127ec703-f0f9-4209-8622-35af2fd944e8",
+          "canonical_name": "Benny Golson",
+          "name_slug": "benny-golson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "182f579c-fc44-4bdf-a40d-4b52a91a596c",
+          "canonical_name": "Bobby Timmons",
+          "name_slug": "bobby-timmons",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "17cef92f-5a8b-46c8-98a6-41275a96e89d",
+          "canonical_name": "Jymie Merritt",
+          "name_slug": "jymie-merritt",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

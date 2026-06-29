@@ -1,0 +1,332 @@
+{
+  "id": "wes-montgomery-full-house-1962",
+  "title": "Full House",
+  "artist_name": "Wes Montgomery",
+  "year": 1962,
+  "label": "Riverside",
+  "catalog_number": "RLP 434",
+  "recording_dates_text": "1962-06-25",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "http://coverartarchive.org/release/49d4471e-fa5c-4caa-ba81-63d8356200a5/1556804029-500.jpg",
+  "apple_album_id": "1872248473",
+  "studios": [
+    "Tsubo (live), Berkeley, California"
+  ],
+  "personnel": [
+    {
+      "person_id": "e732fd30-f66c-48c7-b892-ebdae6ab3f9e",
+      "canonical_name": "Jimmy Cobb",
+      "name_slug": "jimmy-cobb",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f3b02830-eef8-4947-a306-adc57386d4ba",
+      "canonical_name": "Johnny Griffin",
+      "name_slug": "johnny-griffin",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+      "canonical_name": "Paul Chambers",
+      "name_slug": "paul-chambers",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "057f3aca-76a0-4266-811f-0d40665346f9",
+      "canonical_name": "Wes Montgomery",
+      "name_slug": "wes-montgomery",
+      "instrument": "guitar",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "5142f243-780f-41a6-a50a-a9f75160ff60",
+      "canonical_name": "Wynton Kelly",
+      "name_slug": "wynton-kelly",
+      "instrument": "piano",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "225ad806-52d6-4523-b820-c1e9ef7b5a95",
+      "title": "Full House",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "9:16",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "e732fd30-f66c-48c7-b892-ebdae6ab3f9e",
+          "canonical_name": "Jimmy Cobb",
+          "name_slug": "jimmy-cobb",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3b02830-eef8-4947-a306-adc57386d4ba",
+          "canonical_name": "Johnny Griffin",
+          "name_slug": "johnny-griffin",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057f3aca-76a0-4266-811f-0d40665346f9",
+          "canonical_name": "Wes Montgomery",
+          "name_slug": "wes-montgomery",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5142f243-780f-41a6-a50a-a9f75160ff60",
+          "canonical_name": "Wynton Kelly",
+          "name_slug": "wynton-kelly",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "31bbc359-42c1-49d5-b96c-a947da979aaf",
+      "title": "I've Grown Accustomed to Her Face",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "3:29",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "e732fd30-f66c-48c7-b892-ebdae6ab3f9e",
+          "canonical_name": "Jimmy Cobb",
+          "name_slug": "jimmy-cobb",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3b02830-eef8-4947-a306-adc57386d4ba",
+          "canonical_name": "Johnny Griffin",
+          "name_slug": "johnny-griffin",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057f3aca-76a0-4266-811f-0d40665346f9",
+          "canonical_name": "Wes Montgomery",
+          "name_slug": "wes-montgomery",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5142f243-780f-41a6-a50a-a9f75160ff60",
+          "canonical_name": "Wynton Kelly",
+          "name_slug": "wynton-kelly",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "b112e9b8-8437-4bc8-bb49-021ec0133986",
+      "title": "Blue 'N' Boogie",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "9:38",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "e732fd30-f66c-48c7-b892-ebdae6ab3f9e",
+          "canonical_name": "Jimmy Cobb",
+          "name_slug": "jimmy-cobb",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3b02830-eef8-4947-a306-adc57386d4ba",
+          "canonical_name": "Johnny Griffin",
+          "name_slug": "johnny-griffin",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057f3aca-76a0-4266-811f-0d40665346f9",
+          "canonical_name": "Wes Montgomery",
+          "name_slug": "wes-montgomery",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5142f243-780f-41a6-a50a-a9f75160ff60",
+          "canonical_name": "Wynton Kelly",
+          "name_slug": "wynton-kelly",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "fa78c2dd-1c08-4c0f-aa48-91ddc514fac0",
+      "title": "Cariba",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "8:28",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "e732fd30-f66c-48c7-b892-ebdae6ab3f9e",
+          "canonical_name": "Jimmy Cobb",
+          "name_slug": "jimmy-cobb",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3b02830-eef8-4947-a306-adc57386d4ba",
+          "canonical_name": "Johnny Griffin",
+          "name_slug": "johnny-griffin",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057f3aca-76a0-4266-811f-0d40665346f9",
+          "canonical_name": "Wes Montgomery",
+          "name_slug": "wes-montgomery",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5142f243-780f-41a6-a50a-a9f75160ff60",
+          "canonical_name": "Wynton Kelly",
+          "name_slug": "wynton-kelly",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "52485c1f-1847-4121-ab1e-19d8ac3c487c",
+      "title": "Come Rain or Come Shine",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "7:21",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "e732fd30-f66c-48c7-b892-ebdae6ab3f9e",
+          "canonical_name": "Jimmy Cobb",
+          "name_slug": "jimmy-cobb",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3b02830-eef8-4947-a306-adc57386d4ba",
+          "canonical_name": "Johnny Griffin",
+          "name_slug": "johnny-griffin",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057f3aca-76a0-4266-811f-0d40665346f9",
+          "canonical_name": "Wes Montgomery",
+          "name_slug": "wes-montgomery",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5142f243-780f-41a6-a50a-a9f75160ff60",
+          "canonical_name": "Wynton Kelly",
+          "name_slug": "wynton-kelly",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "4670c337-f881-46ec-9364-cd30e0519de0",
+      "title": "S.O.S.",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "4:49",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "e732fd30-f66c-48c7-b892-ebdae6ab3f9e",
+          "canonical_name": "Jimmy Cobb",
+          "name_slug": "jimmy-cobb",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3b02830-eef8-4947-a306-adc57386d4ba",
+          "canonical_name": "Johnny Griffin",
+          "name_slug": "johnny-griffin",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "057f3aca-76a0-4266-811f-0d40665346f9",
+          "canonical_name": "Wes Montgomery",
+          "name_slug": "wes-montgomery",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5142f243-780f-41a6-a50a-a9f75160ff60",
+          "canonical_name": "Wynton Kelly",
+          "name_slug": "wynton-kelly",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

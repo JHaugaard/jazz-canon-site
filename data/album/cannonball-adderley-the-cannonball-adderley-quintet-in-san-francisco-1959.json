@@ -1,0 +1,286 @@
+{
+  "id": "cannonball-adderley-the-cannonball-adderley-quintet-in-san-francisco-1959",
+  "title": "The Cannonball Adderley Quintet in San Francisco",
+  "artist_name": "Cannonball Adderley",
+  "year": 1959,
+  "label": "Riverside",
+  "catalog_number": "RLP 12-311",
+  "recording_dates_text": "1959-10-18, 1959-10-20",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "https://coverartarchive.org/release/cb4fef8e-c194-4b5d-aa1e-1ba444e68a77/38627079874-500.jpg",
+  "apple_album_id": "1443103130",
+  "studios": [
+    "The Jazz Workshop (live), San Francisco"
+  ],
+  "personnel": [
+    {
+      "person_id": "182f579c-fc44-4bdf-a40d-4b52a91a596c",
+      "canonical_name": "Bobby Timmons",
+      "name_slug": "bobby-timmons",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+      "canonical_name": "Cannonball Adderley",
+      "name_slug": "cannonball-adderley",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "ee1f45d4-b6e1-4635-aada-85c3194c6ed7",
+      "canonical_name": "Louis Hayes",
+      "name_slug": "louis-hayes",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "5b244f82-31ee-4326-a3be-bf2cb4cf6994",
+      "canonical_name": "Nat Adderley",
+      "name_slug": "nat-adderley",
+      "instrument": "cornet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "6595cff2-5123-4c20-84e6-0de2e898a60e",
+      "canonical_name": "Sam Jones",
+      "name_slug": "sam-jones",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "22612eda-493e-4655-b3eb-bc462ebce841",
+      "title": "This Here",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "12:29",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "182f579c-fc44-4bdf-a40d-4b52a91a596c",
+          "canonical_name": "Bobby Timmons",
+          "name_slug": "bobby-timmons",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ee1f45d4-b6e1-4635-aada-85c3194c6ed7",
+          "canonical_name": "Louis Hayes",
+          "name_slug": "louis-hayes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5b244f82-31ee-4326-a3be-bf2cb4cf6994",
+          "canonical_name": "Nat Adderley",
+          "name_slug": "nat-adderley",
+          "instrument": "cornet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6595cff2-5123-4c20-84e6-0de2e898a60e",
+          "canonical_name": "Sam Jones",
+          "name_slug": "sam-jones",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "62e22604-40f9-4e60-b82a-0a54f331fcad",
+      "title": "Spontaneous Combustion",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "11:55",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "182f579c-fc44-4bdf-a40d-4b52a91a596c",
+          "canonical_name": "Bobby Timmons",
+          "name_slug": "bobby-timmons",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ee1f45d4-b6e1-4635-aada-85c3194c6ed7",
+          "canonical_name": "Louis Hayes",
+          "name_slug": "louis-hayes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5b244f82-31ee-4326-a3be-bf2cb4cf6994",
+          "canonical_name": "Nat Adderley",
+          "name_slug": "nat-adderley",
+          "instrument": "cornet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6595cff2-5123-4c20-84e6-0de2e898a60e",
+          "canonical_name": "Sam Jones",
+          "name_slug": "sam-jones",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "d2caa988-1d1c-444a-b0e9-bb2e1b5f9440",
+      "title": "Hi-Fly",
+      "track_number": 3,
+      "side": "B",
+      "duration_text": "11:09",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "182f579c-fc44-4bdf-a40d-4b52a91a596c",
+          "canonical_name": "Bobby Timmons",
+          "name_slug": "bobby-timmons",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ee1f45d4-b6e1-4635-aada-85c3194c6ed7",
+          "canonical_name": "Louis Hayes",
+          "name_slug": "louis-hayes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5b244f82-31ee-4326-a3be-bf2cb4cf6994",
+          "canonical_name": "Nat Adderley",
+          "name_slug": "nat-adderley",
+          "instrument": "cornet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6595cff2-5123-4c20-84e6-0de2e898a60e",
+          "canonical_name": "Sam Jones",
+          "name_slug": "sam-jones",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "c1da9772-d85e-4d9b-b56a-c9a5f95c4032",
+      "title": "You Got It!",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "5:10",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "182f579c-fc44-4bdf-a40d-4b52a91a596c",
+          "canonical_name": "Bobby Timmons",
+          "name_slug": "bobby-timmons",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ee1f45d4-b6e1-4635-aada-85c3194c6ed7",
+          "canonical_name": "Louis Hayes",
+          "name_slug": "louis-hayes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5b244f82-31ee-4326-a3be-bf2cb4cf6994",
+          "canonical_name": "Nat Adderley",
+          "name_slug": "nat-adderley",
+          "instrument": "cornet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6595cff2-5123-4c20-84e6-0de2e898a60e",
+          "canonical_name": "Sam Jones",
+          "name_slug": "sam-jones",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "47ff2119-26a3-4ddd-af3e-78982f032cd7",
+      "title": "Bohemia After Dark",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "8:06",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "182f579c-fc44-4bdf-a40d-4b52a91a596c",
+          "canonical_name": "Bobby Timmons",
+          "name_slug": "bobby-timmons",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+          "canonical_name": "Cannonball Adderley",
+          "name_slug": "cannonball-adderley",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ee1f45d4-b6e1-4635-aada-85c3194c6ed7",
+          "canonical_name": "Louis Hayes",
+          "name_slug": "louis-hayes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5b244f82-31ee-4326-a3be-bf2cb4cf6994",
+          "canonical_name": "Nat Adderley",
+          "name_slug": "nat-adderley",
+          "instrument": "cornet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6595cff2-5123-4c20-84e6-0de2e898a60e",
+          "canonical_name": "Sam Jones",
+          "name_slug": "sam-jones",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

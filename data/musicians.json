@@ -1,0 +1,2772 @@
+[
+  {
+    "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+    "canonical_name": "Paul Chambers",
+    "name_slug": "paul-chambers",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 13
+  },
+  {
+    "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+    "canonical_name": "Herbie Hancock",
+    "name_slug": "herbie-hancock",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 12
+  },
+  {
+    "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+    "canonical_name": "Joe Henderson",
+    "name_slug": "joe-henderson",
+    "instruments": [
+      "tenor saxophone"
+    ],
+    "album_count": 11
+  },
+  {
+    "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+    "canonical_name": "Ron Carter",
+    "name_slug": "ron-carter",
+    "instruments": [
+      "cello",
+      "double bass"
+    ],
+    "album_count": 11
+  },
+  {
+    "person_id": "eb3bd2da-fcef-470f-8f93-04c5225bf0f3",
+    "canonical_name": "Elvin Jones",
+    "name_slug": "elvin-jones",
+    "instruments": [
+      "drums",
+      "percussion"
+    ],
+    "album_count": 10
+  },
+  {
+    "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+    "canonical_name": "Freddie Hubbard",
+    "name_slug": "freddie-hubbard",
+    "instruments": [
+      "cornet",
+      "trumpet"
+    ],
+    "album_count": 10
+  },
+  {
+    "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+    "canonical_name": "McCoy Tyner",
+    "name_slug": "mccoy-tyner",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 10
+  },
+  {
+    "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+    "canonical_name": "Wayne Shorter",
+    "name_slug": "wayne-shorter",
+    "instruments": [
+      "tenor saxophone"
+    ],
+    "album_count": 10
+  },
+  {
+    "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
+    "canonical_name": "Art Blakey",
+    "name_slug": "art-blakey",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 8
+  },
+  {
+    "person_id": "f8b19a33-2ce1-4877-9135-5a92f631635b",
+    "canonical_name": "Miles Davis",
+    "name_slug": "miles-davis",
+    "instruments": [
+      "flugelhorn",
+      "trumpet"
+    ],
+    "album_count": 8
+  },
+  {
+    "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+    "canonical_name": "Shelly Manne",
+    "name_slug": "shelly-manne",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 8
+  },
+  {
+    "person_id": "2b02caa9-7caa-4c22-9c6a-65e7f700be76",
+    "canonical_name": "Tony Williams",
+    "name_slug": "tony-williams",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 8
+  },
+  {
+    "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+    "canonical_name": "Lee Morgan",
+    "name_slug": "lee-morgan",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 7
+  },
+  {
+    "person_id": "c8dbd0d0-652c-4f4d-b800-35139eef367a",
+    "canonical_name": "John Coltrane",
+    "name_slug": "john-coltrane",
+    "instruments": [
+      "soprano saxophone",
+      "tenor saxophone"
+    ],
+    "album_count": 6
+  },
+  {
+    "person_id": "5142f243-780f-41a6-a50a-a9f75160ff60",
+    "canonical_name": "Wynton Kelly",
+    "name_slug": "wynton-kelly",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 6
+  },
+  {
+    "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+    "canonical_name": "Art Taylor",
+    "name_slug": "art-taylor",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 5
+  },
+  {
+    "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+    "canonical_name": "Bill Evans",
+    "name_slug": "bill-evans",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 5
+  },
+  {
+    "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+    "canonical_name": "Bobby Hutcherson",
+    "name_slug": "bobby-hutcherson",
+    "instruments": [
+      "vibraphone"
+    ],
+    "album_count": 5
+  },
+  {
+    "person_id": "213b7ac6-98d5-405c-a48b-6736fba41d27",
+    "canonical_name": "Cannonball Adderley",
+    "name_slug": "cannonball-adderley",
+    "instruments": [
+      "alto saxophone"
+    ],
+    "album_count": 5
+  },
+  {
+    "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+    "canonical_name": "Jim Hall",
+    "name_slug": "jim-hall",
+    "instruments": [
+      "guitar"
+    ],
+    "album_count": 5
+  },
+  {
+    "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+    "canonical_name": "Lee Konitz",
+    "name_slug": "lee-konitz",
+    "instruments": [
+      "alto saxophone"
+    ],
+    "album_count": 5
+  },
+  {
+    "person_id": "05a6329f-557f-44d4-8119-1c549c09cb7e",
+    "canonical_name": "Philly Joe Jones",
+    "name_slug": "philly-joe-jones",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 5
+  },
+  {
+    "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+    "canonical_name": "Reggie Workman",
+    "name_slug": "reggie-workman",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 5
+  },
+  {
+    "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+    "canonical_name": "Roy Haynes",
+    "name_slug": "roy-haynes",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 5
+  },
+  {
+    "person_id": "0cede21d-55b4-4598-a746-950003db976c",
+    "canonical_name": "Bill Barber",
+    "name_slug": "bill-barber",
+    "instruments": [
+      "tuba"
+    ],
+    "album_count": 4
+  },
+  {
+    "person_id": "b377b606-451e-4391-981f-01666c7c4ffa",
+    "canonical_name": "Billy Higgins",
+    "name_slug": "billy-higgins",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 4
+  },
+  {
+    "person_id": "9d672c67-0334-4969-8197-63abdcc13805",
+    "canonical_name": "Bob Cranshaw",
+    "name_slug": "bob-cranshaw",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 4
+  },
+  {
+    "person_id": "58bd4cae-1657-4cc4-9932-d23f445c117b",
+    "canonical_name": "Butch Warren",
+    "name_slug": "butch-warren",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 4
+  },
+  {
+    "person_id": "3681753b-e0ec-4f33-b314-06be0d58f347",
+    "canonical_name": "Hank Mobley",
+    "name_slug": "hank-mobley",
+    "instruments": [
+      "tenor saxophone"
+    ],
+    "album_count": 4
+  },
+  {
+    "person_id": "fce8ee5c-4379-466b-878d-65c0f2628b2d",
+    "canonical_name": "Horace Silver",
+    "name_slug": "horace-silver",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 4
+  },
+  {
+    "person_id": "c476ad9c-b8ea-47ad-b04e-6c8a009ea8be",
+    "canonical_name": "Jackie McLean",
+    "name_slug": "jackie-mclean",
+    "instruments": [
+      "alto saxophone"
+    ],
+    "album_count": 4
+  },
+  {
+    "person_id": "5d86b7d8-7af1-42f2-8049-b7452149c300",
+    "canonical_name": "John Lewis",
+    "name_slug": "john-lewis",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 4
+  },
+  {
+    "person_id": "71b7d966-99b4-4902-95fd-df0a59781ed0",
+    "canonical_name": "Kenny Burrell",
+    "name_slug": "kenny-burrell",
+    "instruments": [
+      "guitar"
+    ],
+    "album_count": 4
+  },
+  {
+    "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+    "canonical_name": "Kenny Dorham",
+    "name_slug": "kenny-dorham",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 4
+  },
+  {
+    "person_id": "0c62dbce-fdbb-4b90-871d-910ab769d30e",
+    "canonical_name": "Max Roach",
+    "name_slug": "max-roach",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 4
+  },
+  {
+    "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+    "canonical_name": "Percy Heath",
+    "name_slug": "percy-heath",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 4
+  },
+  {
+    "person_id": "17dab1b9-7957-486f-8844-f6801aba6167",
+    "canonical_name": "Richard Davis",
+    "name_slug": "richard-davis",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 4
+  },
+  {
+    "person_id": "14298e89-ba6a-440a-9cb1-13986b5ad96e",
+    "canonical_name": "Tommy Flanagan",
+    "name_slug": "tommy-flanagan",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 4
+  },
+  {
+    "person_id": "b83ce81e-ee2e-4d9e-974b-443ca2518227",
+    "canonical_name": "Andrew Hill",
+    "name_slug": "andrew-hill",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 3
+  },
+  {
+    "person_id": "a83d08a8-11da-42f4-8124-1bd32d677922",
+    "canonical_name": "Bob Cooper",
+    "name_slug": "bob-cooper",
+    "instruments": [
+      "baritone saxophone",
+      "tenor saxophone"
+    ],
+    "album_count": 3
+  },
+  {
+    "person_id": "182f579c-fc44-4bdf-a40d-4b52a91a596c",
+    "canonical_name": "Bobby Timmons",
+    "name_slug": "bobby-timmons",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 3
+  },
+  {
+    "person_id": "83c273dd-9057-485d-8ef9-583b4a7803a3",
+    "canonical_name": "Bud Shank",
+    "name_slug": "bud-shank",
+    "instruments": [
+      "alto saxophone"
+    ],
+    "album_count": 3
+  },
+  {
+    "person_id": "a629ef2d-7cb1-44c5-8214-1b032123983e",
+    "canonical_name": "Carson Smith",
+    "name_slug": "carson-smith",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 3
+  },
+  {
+    "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
+    "canonical_name": "Chet Baker",
+    "name_slug": "chet-baker",
+    "instruments": [
+      "trumpet",
+      "voice"
+    ],
+    "album_count": 3
+  },
+  {
+    "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+    "canonical_name": "Chico Hamilton",
+    "name_slug": "chico-hamilton",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 3
+  },
+  {
+    "person_id": "1317d6d0-c6d6-4a2c-ad62-ca092d5427df",
+    "canonical_name": "Clifford Brown",
+    "name_slug": "clifford-brown",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 3
+  },
+  {
+    "person_id": "79f63f7d-ef60-4205-9161-9436f40b482e",
+    "canonical_name": "Doug Watkins",
+    "name_slug": "doug-watkins",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 3
+  },
+  {
+    "person_id": "4a10b6ea-d4dd-4c66-a2fa-76be914c0e57",
+    "canonical_name": "Eric Dolphy",
+    "name_slug": "eric-dolphy",
+    "instruments": [
+      "alto saxophone",
+      "bass clarinet",
+      "flute"
+    ],
+    "album_count": 3
+  },
+  {
+    "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+    "canonical_name": "Gerry Mulligan",
+    "name_slug": "gerry-mulligan",
+    "instruments": [
+      "baritone saxophone"
+    ],
+    "album_count": 3
+  },
+  {
+    "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+    "canonical_name": "Gil Evans",
+    "name_slug": "gil-evans",
+    "instruments": [
+      "arranger",
+      "piano"
+    ],
+    "album_count": 3
+  },
+  {
+    "person_id": "0611cf39-d7e0-4f31-95a6-8f78445fe0a1",
+    "canonical_name": "Grant Green",
+    "name_slug": "grant-green",
+    "instruments": [
+      "guitar"
+    ],
+    "album_count": 3
+  },
+  {
+    "person_id": "e732fd30-f66c-48c7-b892-ebdae6ab3f9e",
+    "canonical_name": "Jimmy Cobb",
+    "name_slug": "jimmy-cobb",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 3
+  },
+  {
+    "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+    "canonical_name": "Jimmy Giuffre",
+    "name_slug": "jimmy-giuffre",
+    "instruments": [
+      "clarinet",
+      "tenor saxophone"
+    ],
+    "album_count": 3
+  },
+  {
+    "person_id": "a8ddaf31-015b-4276-a964-0161d4d57148",
+    "canonical_name": "Jimmy Knepper",
+    "name_slug": "jimmy-knepper",
+    "instruments": [
+      "trombone"
+    ],
+    "album_count": 3
+  },
+  {
+    "person_id": "3f42e6c3-2181-4353-a4c7-2798af96fa68",
+    "canonical_name": "Joe Chambers",
+    "name_slug": "joe-chambers",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 3
+  },
+  {
+    "person_id": "5eae0e9e-034e-4b00-81dd-8ea16885bbbc",
+    "canonical_name": "Kenny Clarke",
+    "name_slug": "kenny-clarke",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 3
+  },
+  {
+    "person_id": "3297f55c-de50-47ad-ab15-da7350301947",
+    "canonical_name": "Lou Donaldson",
+    "name_slug": "lou-donaldson",
+    "instruments": [
+      "alto saxophone"
+    ],
+    "album_count": 3
+  },
+  {
+    "person_id": "becdfbba-2a62-45b1-b54f-f478fd5c8888",
+    "canonical_name": "Louis Mucci",
+    "name_slug": "louis-mucci",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 3
+  },
+  {
+    "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+    "canonical_name": "Mel Lewis",
+    "name_slug": "mel-lewis",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 3
+  },
+  {
+    "person_id": "2fd4a434-0c6f-4946-8bb7-ee3285637919",
+    "canonical_name": "Paul Motian",
+    "name_slug": "paul-motian",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 3
+  },
+  {
+    "person_id": "6595cff2-5123-4c20-84e6-0de2e898a60e",
+    "canonical_name": "Sam Jones",
+    "name_slug": "sam-jones",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 3
+  },
+  {
+    "person_id": "3ac96e3b-18a9-40cd-bacb-e467f4c1e99d",
+    "canonical_name": "Scott LaFaro",
+    "name_slug": "scott-lafaro",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 3
+  },
+  {
+    "person_id": "fd3e5e11-ecda-4f89-aefd-167c56e2486d",
+    "canonical_name": "Sonny Rollins",
+    "name_slug": "sonny-rollins",
+    "instruments": [
+      "tenor saxophone"
+    ],
+    "album_count": 3
+  },
+  {
+    "person_id": "fd3f8414-c397-42ea-96bb-8fb0d8159fa8",
+    "canonical_name": "Art Davis",
+    "name_slug": "art-davis",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "d9ae6648-54de-4a8c-abec-7a1ce896ba31",
+    "canonical_name": "Art Farmer",
+    "name_slug": "art-farmer",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "262b3a28-394d-42d6-ae03-3e60bb3ecfcb",
+    "canonical_name": "Art Pepper",
+    "name_slug": "art-pepper",
+    "instruments": [
+      "alto saxophone"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "751f51f9-4de0-465a-86e6-2444fbf87b15",
+    "canonical_name": "Barney Kessel",
+    "name_slug": "barney-kessel",
+    "instruments": [
+      "guitar"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "82ebc36b-1d8f-4387-bf7e-06022e040595",
+    "canonical_name": "Bill Perkins",
+    "name_slug": "bill-perkins",
+    "instruments": [
+      "tenor saxophone"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "d6c6e20a-6511-44de-ab89-2d06def19e8c",
+    "canonical_name": "Blue Mitchell",
+    "name_slug": "blue-mitchell",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "55022fa2-8e39-4a49-bcb8-f5bcdaa6ab2b",
+    "canonical_name": "Booker Ervin",
+    "name_slug": "booker-ervin",
+    "instruments": [
+      "tenor saxophone"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "aa42d2fb-2fb0-4442-a8df-dd77936e01c9",
+    "canonical_name": "Charles Mingus",
+    "name_slug": "charles-mingus",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "fcbc1790-261f-4973-bd25-5dd827c1a6e7",
+    "canonical_name": "Connie Kay",
+    "name_slug": "connie-kay",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "2d07d9c9-693b-4e91-94fc-7296b99ae1ff",
+    "canonical_name": "Curtis Fuller",
+    "name_slug": "curtis-fuller",
+    "instruments": [
+      "trombone"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "52677c62-82c5-4b78-9edd-cabdc9a4c9af",
+    "canonical_name": "Dannie Richmond",
+    "name_slug": "dannie-richmond",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "7c4bdcb1-8a5c-489d-8f01-149644fbfadc",
+    "canonical_name": "Dave Bailey",
+    "name_slug": "dave-bailey",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "e581e764-8852-408d-bb00-ce789fd1e4d6",
+    "canonical_name": "Dexter Gordon",
+    "name_slug": "dexter-gordon",
+    "instruments": [
+      "tenor saxophone"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "c2b8709b-c38f-4ef1-bed3-826e8fa1b49c",
+    "canonical_name": "Donald Bailey",
+    "name_slug": "donald-bailey",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "6a9ba74a-52d1-4c05-ae58-ef683795dc5b",
+    "canonical_name": "Eddie Caine",
+    "name_slug": "eddie-caine",
+    "instruments": [
+      "alto saxophone",
+      "flute",
+      "piccolo"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "da2c8212-a645-4fd9-a5e3-9ea4a3318d7b",
+    "canonical_name": "Ernie Royal",
+    "name_slug": "ernie-royal",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "e47a52e5-7deb-4a22-8c0e-58f10628d8cb",
+    "canonical_name": "Eugene Wright",
+    "name_slug": "eugene-wright",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "e188f790-4a42-4f61-9970-e69b017957f8",
+    "canonical_name": "Frank Rehak",
+    "name_slug": "frank-rehak",
+    "instruments": [
+      "trombone"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "df60e875-2c33-4fe4-a6ca-78cbf2eb9f58",
+    "canonical_name": "Gene Taylor",
+    "name_slug": "gene-taylor",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "506e5391-e5fc-49c3-a3e9-aa2c6d6400da",
+    "canonical_name": "George Coleman",
+    "name_slug": "george-coleman",
+    "instruments": [
+      "alto saxophone",
+      "tenor saxophone"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "8399213b-b509-4f29-992f-95654fe497ef",
+    "canonical_name": "George Morrow",
+    "name_slug": "george-morrow",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "18d51cc6-88dd-4d0c-af7f-c5c56459c10b",
+    "canonical_name": "Harold Land",
+    "name_slug": "harold-land",
+    "instruments": [
+      "tenor saxophone"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "4df8cfd5-84a1-4ba8-a0dc-b94a248c54a0",
+    "canonical_name": "Herbie Lewis",
+    "name_slug": "herbie-lewis",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "f3e2b91e-71a5-4751-b560-1f2f309104d6",
+    "canonical_name": "Horace Parlan",
+    "name_slug": "horace-parlan",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "b7e8da38-9427-4427-b06c-6380eeb38b1f",
+    "canonical_name": "Jeff Morton",
+    "name_slug": "jeff-morton",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "14a56c14-e789-4235-b6ad-42bca7f839c1",
+    "canonical_name": "Jimmy Bond",
+    "name_slug": "jimmy-bond",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "984bc449-da1b-49b6-9aa5-a8e5b8b31f53",
+    "canonical_name": "Jimmy Cleveland",
+    "name_slug": "jimmy-cleveland",
+    "instruments": [
+      "trombone"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "43b43407-ced4-4e92-80b8-06cf4830aa61",
+    "canonical_name": "Jimmy Smith",
+    "name_slug": "jimmy-smith",
+    "instruments": [
+      "organ (hammond)"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "2e387bfd-16d4-44ba-809e-11bc71f3dfdb",
+    "canonical_name": "Joe Bennett",
+    "name_slug": "joe-bennett",
+    "instruments": [
+      "trombone"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "29f1bb4a-7869-42b1-868a-0ec3335c2f9e",
+    "canonical_name": "John Carisi",
+    "name_slug": "john-carisi",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "90c940ff-b2fe-419a-8c3e-9c506ac12968",
+    "canonical_name": "John Handy",
+    "name_slug": "john-handy",
+    "instruments": [
+      "alto saxophone",
+      "clarinet",
+      "tenor saxophone"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "f668e1fb-3a38-4651-bb71-1ffa5ccccf64",
+    "canonical_name": "Johnny Coles",
+    "name_slug": "johnny-coles",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "fdb84b21-4097-4cc8-85dc-2260601b0fdd",
+    "canonical_name": "Junior Cook",
+    "name_slug": "junior-cook",
+    "instruments": [
+      "tenor saxophone"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "c63f68a0-652b-4e42-913f-8d1db4519c35",
+    "canonical_name": "Lennie Tristano",
+    "name_slug": "lennie-tristano",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "30a9cc03-3843-4efd-b41f-4f9347e3a449",
+    "canonical_name": "Leroy Vinnegar",
+    "name_slug": "leroy-vinnegar",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "ee1f45d4-b6e1-4635-aada-85c3194c6ed7",
+    "canonical_name": "Louis Hayes",
+    "name_slug": "louis-hayes",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "d2f5d539-ade6-414e-a7ec-0073025f54fc",
+    "canonical_name": "Maynard Ferguson",
+    "name_slug": "maynard-ferguson",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "02f4306f-304a-44e6-9184-33b790bb83d3",
+    "canonical_name": "Milt Bernhart",
+    "name_slug": "milt-bernhart",
+    "instruments": [
+      "trombone"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "08bd9fcb-e1cb-4776-9116-dafc2f797e1e",
+    "canonical_name": "Milt Jackson",
+    "name_slug": "milt-jackson",
+    "instruments": [
+      "vibraphone"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "f8638bc5-4b5c-4aa7-974f-1055689a19ef",
+    "canonical_name": "Paul Desmond",
+    "name_slug": "paul-desmond",
+    "instruments": [
+      "alto saxophone"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "a2a473f2-2646-481e-bfd0-7c8e8c5185b1",
+    "canonical_name": "Ray Barretto",
+    "name_slug": "ray-barretto",
+    "instruments": [
+      "congas"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "cbddfe90-22cd-4af4-af01-e3e57d8eff5e",
+    "canonical_name": "Ray Brown",
+    "name_slug": "ray-brown",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "057e03fa-66d2-41e8-bcb4-b98e8ca8e914",
+    "canonical_name": "Red Garland",
+    "name_slug": "red-garland",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "98b65649-3fd7-4a0d-a606-6cde5cdef655",
+    "canonical_name": "Richie Powell",
+    "name_slug": "richie-powell",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "3fc44ec6-0b25-4e62-8bc9-07fce4988e04",
+    "canonical_name": "Shorty Rogers",
+    "name_slug": "shorty-rogers",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "d5f63f01-4d4b-4561-bdf7-cebd7543fd0a",
+    "canonical_name": "Sonny Clark",
+    "name_slug": "sonny-clark",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "f3c4827f-c6b8-443f-ad59-9764c30c3ebc",
+    "canonical_name": "Stan Getz",
+    "name_slug": "stan-getz",
+    "instruments": [
+      "tenor saxophone"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "51379ed2-5adc-4da6-b7a6-e70777372e51",
+    "canonical_name": "Stanley Turrentine",
+    "name_slug": "stanley-turrentine",
+    "instruments": [
+      "tenor saxophone"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "cbb0a08a-10e8-49e8-9fcc-9fcc08ecab72",
+    "canonical_name": "Tina Brooks",
+    "name_slug": "tina-brooks",
+    "instruments": [
+      "tenor saxophone"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "bc1ce84e-9e18-426d-bf4c-ec51252cdab8",
+    "canonical_name": "Tom Mitchell",
+    "name_slug": "tom-mitchell",
+    "instruments": [
+      "bass trombone"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "057f3aca-76a0-4266-811f-0d40665346f9",
+    "canonical_name": "Wes Montgomery",
+    "name_slug": "wes-montgomery",
+    "instruments": [
+      "electric guitar",
+      "guitar"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "c537d4e7-62a7-4dbe-b2a2-a464d7103846",
+    "canonical_name": "Willie Dennis",
+    "name_slug": "willie-dennis",
+    "instruments": [
+      "trombone"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "124cd9a6-18b2-4773-9b62-6124047b747e",
+    "canonical_name": "Willie Ruff",
+    "name_slug": "willie-ruff",
+    "instruments": [
+      "French horn"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "38d0cdde-c6ae-4112-8488-f794da824c83",
+    "canonical_name": "Woody Shaw",
+    "name_slug": "woody-shaw",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "9b3f333d-9985-43bd-83a4-76aba20e1c90",
+    "canonical_name": "Ahmad Jamal",
+    "name_slug": "ahmad-jamal",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "a587111b-57a1-4759-99bc-211a3a36a226",
+    "canonical_name": "Al Haig",
+    "name_slug": "al-haig",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "c6ef4e0d-0b47-4fd9-b30e-6b1abaa67a93",
+    "canonical_name": "Al Harewood",
+    "name_slug": "al-harewood",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "ed6b5ebb-7e1c-49c3-80cc-4596d2b3b2fa",
+    "canonical_name": "Al McKibbon",
+    "name_slug": "al-mckibbon",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "9ccf42e5-6933-4dda-920e-83352d8da59f",
+    "canonical_name": "Al Porcino",
+    "name_slug": "al-porcino",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "83287ab2-3aed-465f-baa6-f31620f431e9",
+    "canonical_name": "Alan Martin",
+    "name_slug": "alan-martin",
+    "instruments": [
+      "violin"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "56b1cc7a-b8e7-4918-aa47-0dff20b117a2",
+    "canonical_name": "Albert Heath",
+    "name_slug": "albert-heath",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "a1197edc-05bd-4e40-8147-0b66711213d6",
+    "canonical_name": "Albert Pollan",
+    "name_slug": "albert-pollan",
+    "instruments": [
+      "tuba"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "3a606daa-f969-42b2-8e36-aee40be5d860",
+    "canonical_name": "Alphonse Mouzon",
+    "name_slug": "alphonse-mouzon",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "c486192c-0a58-427a-9651-f9a40f4dc41d",
+    "canonical_name": "Andr\u00e9 Previn",
+    "name_slug": "andr-previn",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "8f9b0fa7-f1a0-4ed0-8b0b-cd4fc5b9c481",
+    "canonical_name": "Archie Shepp",
+    "name_slug": "archie-shepp",
+    "instruments": [
+      "tenor saxophone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "d0c311e8-1c9d-4ca7-b5c7-c2b912ac1666",
+    "canonical_name": "Arnold Fishkin",
+    "name_slug": "arnold-fishkin",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "a81969bc-ad74-4cc0-b9dd-b89f7dfdbbb8",
+    "canonical_name": "Barry Harris",
+    "name_slug": "barry-harris",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "b77ada85-3d0f-4352-8fb1-01518345a67f",
+    "canonical_name": "Bart Varsalona",
+    "name_slug": "bart-varsalona",
+    "instruments": [
+      "bass trombone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "5432b2ba-c8bb-488b-9085-b1b2704321ab",
+    "canonical_name": "Ben Riley",
+    "name_slug": "ben-riley",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "f13c6e04-7f47-429e-a581-3d76fa319bfc",
+    "canonical_name": "Ben Tucker",
+    "name_slug": "ben-tucker",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "127ec703-f0f9-4209-8622-35af2fd944e8",
+    "canonical_name": "Benny Golson",
+    "name_slug": "benny-golson",
+    "instruments": [
+      "tenor saxophone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "fc88fd4a-35b2-47b2-8121-329193a3a589",
+    "canonical_name": "Bernard McKinney",
+    "name_slug": "bernard-mckinney",
+    "instruments": [
+      "euphonium"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "c81b9529-8610-4864-b5c8-e113a09233ba",
+    "canonical_name": "Bernie Glow",
+    "name_slug": "bernie-glow",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "52acbd56-bb29-4b24-bef6-de8b428979c1",
+    "canonical_name": "Bill Crow",
+    "name_slug": "bill-crow",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "db978834-4b73-4186-9eda-838f28ecfe8a",
+    "canonical_name": "Bill English",
+    "name_slug": "bill-english",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "35d5f181-029e-4b32-956e-85fdd11bc6b4",
+    "canonical_name": "Bill Loughborough",
+    "name_slug": "bill-loughborough",
+    "instruments": [
+      "percussion"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "1287a68b-8359-45d3-b4c1-b5963aea5918",
+    "canonical_name": "Billy Bauer",
+    "name_slug": "billy-bauer",
+    "instruments": [
+      "guitar"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "fd1ef518-a072-4a20-8148-d6178bc7df75",
+    "canonical_name": "Bob Brookmeyer",
+    "name_slug": "bob-brookmeyer",
+    "instruments": [
+      "trombone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "7a2de926-69b7-4c71-b801-1d854ef1dd2f",
+    "canonical_name": "Bob Enevoldsen",
+    "name_slug": "bob-enevoldsen",
+    "instruments": [
+      "trombone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "ecd01ff1-5239-4687-87f8-c562d041c3e1",
+    "canonical_name": "Bob Fitzpatrick",
+    "name_slug": "bob-fitzpatrick",
+    "instruments": [
+      "trombone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "31072cfe-9fcb-450f-a8ec-1c5b58aefb4d",
+    "canonical_name": "Bob Neel",
+    "name_slug": "bob-neel",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "28c68f2d-5cc1-4937-a98b-43a1708f08fb",
+    "canonical_name": "Bob Tricarico",
+    "name_slug": "bob-tricarico",
+    "instruments": [
+      "bassoon",
+      "flute",
+      "piccolo"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "fff93cae-d059-45ca-ac5d-341d44d4c028",
+    "canonical_name": "Bob Whitlock",
+    "name_slug": "bob-whitlock",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "44fadd51-8149-4a47-9b1c-6b81811bda06",
+    "canonical_name": "Bobby Clark",
+    "name_slug": "bobby-clark",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "c9bfebb8-833c-409d-8b48-e3d75bc00471",
+    "canonical_name": "Bruce Rogers",
+    "name_slug": "bruce-rogers",
+    "instruments": [
+      "cello"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "6749c650-9966-4089-b1c9-846d861cf1a5",
+    "canonical_name": "Bud Powell",
+    "name_slug": "bud-powell",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "c6894931-32d9-4bc5-9962-f5d6ff08fd5a",
+    "canonical_name": "Budd Johnson",
+    "name_slug": "budd-johnson",
+    "instruments": [
+      "soprano saxophone",
+      "tenor saxophone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "6b2b1809-f31f-4ef9-831e-2b935658d0ba",
+    "canonical_name": "Buddy Collette",
+    "name_slug": "buddy-collette",
+    "instruments": [
+      "flute"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "32fd5b24-9883-4dca-9cd8-66a72445822d",
+    "canonical_name": "Calvin Hill",
+    "name_slug": "calvin-hill",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "9097c9ba-6e65-4105-97b0-ecf240f127b5",
+    "canonical_name": "Carl Fontana",
+    "name_slug": "carl-fontana",
+    "instruments": [
+      "trombone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "5f5e0c94-aef8-43f9-9bf7-6e0ca3501712",
+    "canonical_name": "Carlos Vidal",
+    "name_slug": "carlos-vidal",
+    "instruments": [
+      "congas"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "ebbd46ab-d6f3-4adc-8d81-e4b3ba6a506d",
+    "canonical_name": "Carmell Jones",
+    "name_slug": "carmell-jones",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "4107bd48-5758-47dd-85cf-68d1e724368d",
+    "canonical_name": "Cecil McBee",
+    "name_slug": "cecil-mcbee",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "ac5a0d92-8173-42d0-8c74-a91ceab32f25",
+    "canonical_name": "Cedar Walton",
+    "name_slug": "cedar-walton",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "33dd890a-d6a0-46f3-8425-f1e608978c9c",
+    "canonical_name": "Charles Lloyd",
+    "name_slug": "charles-lloyd",
+    "instruments": [
+      "tenor saxophone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "371ff410-8b54-4ab3-a562-622ed59b6dc9",
+    "canonical_name": "Charlie Mariano",
+    "name_slug": "charlie-mariano",
+    "instruments": [
+      "alto saxophone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "caaf1e04-3100-4f83-a3bb-1ed0c800d28e",
+    "canonical_name": "Charlie Persip",
+    "name_slug": "charlie-persip",
+    "instruments": [
+      "drums",
+      "percussion"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "d13d35d8-49df-473d-9c76-85c52b3b9330",
+    "canonical_name": "Chick Corea",
+    "name_slug": "chick-corea",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "4906ad2e-0958-44d1-8433-3d4d4230c255",
+    "canonical_name": "Chuck Wayne",
+    "name_slug": "chuck-wayne",
+    "instruments": [
+      "guitar"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "bae8ad6f-694f-4a38-a7c3-24f972039eb3",
+    "canonical_name": "Clifford Jarvis",
+    "name_slug": "clifford-jarvis",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "a9fb353d-603b-4d07-a644-aa45aa541eb2",
+    "canonical_name": "Clyde Reasinger",
+    "name_slug": "clyde-reasinger",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "e5774b33-e7f8-4f1b-b3f6-30f447a99796",
+    "canonical_name": "Conrad Gozzo",
+    "name_slug": "conrad-gozzo",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "5cc202ab-3cd0-4753-97ad-d87aff14bd0d",
+    "canonical_name": "Conte Candoli",
+    "name_slug": "conte-candoli",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "22824d73-37d8-484e-99bb-e44309da4e8c",
+    "canonical_name": "Curley Russell",
+    "name_slug": "curley-russell",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "d68cfeb5-da36-4d76-8db3-821e55e670ab",
+    "canonical_name": "Curtis Counce",
+    "name_slug": "curtis-counce",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "56045864-645d-4de6-9487-7b568993ba8a",
+    "canonical_name": "Danny Bank",
+    "name_slug": "danny-bank",
+    "instruments": [
+      "bass clarinet"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "a77fcd94-6d58-4570-89a1-96f039075bbd",
+    "canonical_name": "Dave Brubeck",
+    "name_slug": "dave-brubeck",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "20a8490d-5a6d-449d-b021-1edb4756a2fc",
+    "canonical_name": "Dave Kurtzer",
+    "name_slug": "dave-kurtzer",
+    "instruments": [
+      "bass clarinet"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "76790dbb-7222-4715-b5d7-ee794dbeb28e",
+    "canonical_name": "David van Kriedt",
+    "name_slug": "david-van-kriedt",
+    "instruments": [
+      "tenor saxophone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "cfcb3b75-46d8-4873-b20a-e568ebb2d1fe",
+    "canonical_name": "Denzil Best",
+    "name_slug": "denzil-best",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "b4e80f44-ee3d-4156-99d3-333539b5f974",
+    "canonical_name": "Don Davidson",
+    "name_slug": "don-davidson",
+    "instruments": [
+      "baritone saxophone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "85bcd9e6-46f6-4117-a40e-723f0320e028",
+    "canonical_name": "Don Fagerquist",
+    "name_slug": "don-fagerquist",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "7258a736-2ab5-4725-bee4-634633683b4f",
+    "canonical_name": "Don Kelly",
+    "name_slug": "don-kelly",
+    "instruments": [
+      "bass trombone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "ddcb8e97-a4f2-4bd7-bbf5-f1da5dcb61c7",
+    "canonical_name": "Donald Best",
+    "name_slug": "donald-best",
+    "instruments": [
+      "vibraphone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "52154a51-8c1f-48d8-8134-d684f5b5441d",
+    "canonical_name": "Donald Byrd",
+    "name_slug": "donald-byrd",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "46af3f93-64b1-4cba-a070-a03329e8793a",
+    "canonical_name": "Duke Jordan",
+    "name_slug": "duke-jordan",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "e4fc8fbf-bca4-4ad8-b682-f2b1b438c294",
+    "canonical_name": "Duke Pearson",
+    "name_slug": "duke-pearson",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "1882b787-6412-4679-8308-00a0c4e198b3",
+    "canonical_name": "Ed Leddy",
+    "name_slug": "ed-leddy",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "005cd78a-1caf-4900-aa6a-7878017453ba",
+    "canonical_name": "Ed Shaughnessy",
+    "name_slug": "ed-shaughnessy",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "f08a209b-cf09-460a-9d4b-e58f6a7f51ca",
+    "canonical_name": "Eddie McFadden",
+    "name_slug": "eddie-mcfadden",
+    "instruments": [
+      "guitar"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "3ba1d96a-8720-44d5-b3ea-ba1a632f7c92",
+    "canonical_name": "Frank Patchen",
+    "name_slug": "frank-patchen",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "48acd036-72c6-4150-821a-5f0a23829e0e",
+    "canonical_name": "Fred Katz",
+    "name_slug": "fred-katz",
+    "instruments": [
+      "cello"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "0c9f4bf7-dc9f-4e68-87bd-1ac436bab5dd",
+    "canonical_name": "Freddie Waits",
+    "name_slug": "freddie-waits",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "2b142cd4-3f9a-46dd-b1d8-9912cefb6b30",
+    "canonical_name": "Gary Bartz",
+    "name_slug": "gary-bartz",
+    "instruments": [
+      "alto saxophone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "c93f5608-8db4-4b18-b738-4b77531a5282",
+    "canonical_name": "Gene Ammons",
+    "name_slug": "gene-ammons",
+    "instruments": [
+      "tenor saxophone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "05ea0f7e-b6a0-485a-a51c-df12e44659aa",
+    "canonical_name": "Gene Cherico",
+    "name_slug": "gene-cherico",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "177e7b79-0772-43bf-8a1b-a17923992a57",
+    "canonical_name": "Gene Englund",
+    "name_slug": "gene-englund",
+    "instruments": [
+      "tuba"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "7dea8d58-abd2-472e-a83d-bbbae13d5071",
+    "canonical_name": "Gene Ramey",
+    "name_slug": "gene-ramey",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "49211162-e6c1-45aa-9c96-22d88df3b67b",
+    "canonical_name": "George Barrow",
+    "name_slug": "george-barrow",
+    "instruments": [
+      "baritone saxophone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "e94d93cc-fc8f-4763-957e-7b8284b82e0f",
+    "canonical_name": "George Benson",
+    "name_slug": "george-benson",
+    "instruments": [
+      "guitar"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "2ebcfa9e-f1f3-4b66-8c93-0ead98db4f2a",
+    "canonical_name": "George Duvivier",
+    "name_slug": "george-duvivier",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "ccba50c0-7dbd-4591-91ea-68269167e774",
+    "canonical_name": "Gerald Tarack",
+    "name_slug": "gerald-tarack",
+    "instruments": [
+      "violin"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "d994516f-730c-46f7-b9a5-24fad607cdf6",
+    "canonical_name": "Grachan Moncur III",
+    "name_slug": "grachan-moncur-iii",
+    "instruments": [
+      "trombone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "5be09b48-87ba-4c83-9a40-20dc42c789be",
+    "canonical_name": "Gunther Schuller",
+    "name_slug": "gunther-schuller",
+    "instruments": [
+      "French horn"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "acf0b2a0-d299-4b18-ab23-1eaf3148a6c9",
+    "canonical_name": "Gus Chappell",
+    "name_slug": "gus-chappell",
+    "instruments": [
+      "trombone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "5d7d234b-4238-4289-b3a0-cac957321125",
+    "canonical_name": "H. T. Saunders",
+    "name_slug": "h-t-saunders",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "896775ab-0be0-485c-a3c4-3e45c847e7cd",
+    "canonical_name": "Hampton Hawes",
+    "name_slug": "hampton-hawes",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "6e1dbfc1-5e56-41ca-8027-f554fd54c73f",
+    "canonical_name": "Hank Jones",
+    "name_slug": "hank-jones",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "590a3219-b8e5-47d2-a4f3-bbbe19110712",
+    "canonical_name": "Harry Betts",
+    "name_slug": "harry-betts",
+    "instruments": [
+      "trombone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "1f01d3cb-7868-4a69-abdd-1958ebba384e",
+    "canonical_name": "Harvey Phillips",
+    "name_slug": "harvey-phillips",
+    "instruments": [
+      "tuba"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "e1c7fbeb-8165-4b81-8955-21265acf9387",
+    "canonical_name": "Howard Rumsey",
+    "name_slug": "howard-rumsey",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "22518ca2-72b3-49a2-a0bd-458fa6407611",
+    "canonical_name": "Israel Crosby",
+    "name_slug": "israel-crosby",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "a0b81ff2-6735-41c0-b1b1-4f1bbb463f6d",
+    "canonical_name": "J.J. Johnson",
+    "name_slug": "jj-johnson",
+    "instruments": [
+      "trombone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "aaa50472-87c3-46fb-b667-8cc7c2f25ea0",
+    "canonical_name": "Jack DeJohnette",
+    "name_slug": "jack-dejohnette",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "dda7022e-c73d-464e-ba66-a6dd401d5156",
+    "canonical_name": "Jack Dulong",
+    "name_slug": "jack-dulong",
+    "instruments": [
+      "baritone saxophone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "ef9b52c8-8132-4bad-94fe-89d83e09c676",
+    "canonical_name": "Jack Montrose",
+    "name_slug": "jack-montrose",
+    "instruments": [
+      "tenor saxophone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "1fe7a42e-7348-411d-a10d-04d995927e4d",
+    "canonical_name": "Jacob Glick",
+    "name_slug": "jacob-glick",
+    "instruments": [
+      "viola"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "37b5f433-79a4-489a-a887-52c6a38673d7",
+    "canonical_name": "Jake Koven",
+    "name_slug": "jake-koven",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "7f6e25f0-805e-436c-b8e4-8722ae8da919",
+    "canonical_name": "James Spaulding",
+    "name_slug": "james-spaulding",
+    "instruments": [
+      "alto saxophone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "29c4203b-bfec-4b6d-ab37-8955d57c3e08",
+    "canonical_name": "Jerry Dodgion",
+    "name_slug": "jerry-dodgion",
+    "instruments": [
+      "flute"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "b08ac9bc-7581-4d67-bf52-b5164080457f",
+    "canonical_name": "Jerry Sanfino",
+    "name_slug": "jerry-sanfino",
+    "instruments": [
+      "flute"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "2a95e23c-43d7-44a0-907c-3d4a5ebe270b",
+    "canonical_name": "Jimmy Buffington",
+    "name_slug": "jimmy-buffington",
+    "instruments": [
+      "French horn"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "7c359a1f-af5b-43af-aaff-e74d35cf5e44",
+    "canonical_name": "Jimmy Garrison",
+    "name_slug": "jimmy-garrison",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "b0c291fc-e982-46f0-b01b-5c38188496da",
+    "canonical_name": "Jimmy Raney",
+    "name_slug": "jimmy-raney",
+    "instruments": [
+      "guitar"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "acfe7fa4-325f-4299-b27b-850491b7b1a3",
+    "canonical_name": "Jo Jones",
+    "name_slug": "jo-jones",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "8d29e51f-aa9c-4d97-a39c-8bf10e878b36",
+    "canonical_name": "Joe Mondragon",
+    "name_slug": "joe-mondragon",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "fd277ca2-d249-467b-b157-cb67d80d7a5a",
+    "canonical_name": "Joe Morello",
+    "name_slug": "joe-morello",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "c5f1b1cd-4421-4b0c-be52-8bd63ce015b8",
+    "canonical_name": "Joe Shulman",
+    "name_slug": "joe-shulman",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "1ad24be0-ce84-4aaf-a8eb-62facced892b",
+    "canonical_name": "John Cave",
+    "name_slug": "john-cave",
+    "instruments": [
+      "French horn"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "7bc652ba-0672-4cee-bf38-555fb937927b",
+    "canonical_name": "John Graas",
+    "name_slug": "john-graas",
+    "instruments": [
+      "French horn"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "2ccda014-e175-4a69-aba7-dc85496b9683",
+    "canonical_name": "John Halliburton",
+    "name_slug": "john-halliburton",
+    "instruments": [
+      "trombone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "99ef8836-fb00-4009-ae65-7bbea59453b8",
+    "canonical_name": "John Howell",
+    "name_slug": "john-howell",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "2b4785e1-110d-4873-9a07-f91fd2f61fef",
+    "canonical_name": "John Neves",
+    "name_slug": "john-neves",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "f3b02830-eef8-4947-a306-adc57386d4ba",
+    "canonical_name": "Johnny Griffin",
+    "name_slug": "johnny-griffin",
+    "instruments": [
+      "tenor saxophone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "3f074565-8b31-4d3b-b8d6-eca0acab190c",
+    "canonical_name": "Julius Watkins",
+    "name_slug": "julius-watkins",
+    "instruments": [
+      "French horn"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "9e3e5327-62e8-49d4-9531-61d29e92a52d",
+    "canonical_name": "June Christy",
+    "name_slug": "june-christy",
+    "instruments": [
+      "voice"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "16e83c2c-279c-4970-9b81-d6fec81c79e5",
+    "canonical_name": "Junior Collins",
+    "name_slug": "junior-collins",
+    "instruments": [
+      "French horn"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "17cef92f-5a8b-46c8-98a6-41275a96e89d",
+    "canonical_name": "Jymie Merritt",
+    "name_slug": "jymie-merritt",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "1fa132aa-678f-41ce-b719-6f99c8226a84",
+    "canonical_name": "Kai Winding",
+    "name_slug": "kai-winding",
+    "instruments": [
+      "trombone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "d9b7dd10-b18a-4804-a2b2-56c41e2cf37f",
+    "canonical_name": "Keg Johnson",
+    "name_slug": "keg-johnson",
+    "instruments": [
+      "trombone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "00ed0e52-d49e-4f70-9c17-849863a10cd1",
+    "canonical_name": "Keith Jarrett",
+    "name_slug": "keith-jarrett",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "4fb1b7e8-a915-4597-91f3-49afca670943",
+    "canonical_name": "Kenny Drew",
+    "name_slug": "kenny-drew",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "4e658e11-42d1-4568-8ed0-66bbe77a7b95",
+    "canonical_name": "Kenny Hagood",
+    "name_slug": "kenny-hagood",
+    "instruments": [
+      "voice"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "26c4d363-2835-4c9f-b799-ff4b0c8e3aba",
+    "canonical_name": "Kent Larsen",
+    "name_slug": "kent-larsen",
+    "instruments": [
+      "trombone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "bf10c075-449b-4c93-aa61-caf2c3e29348",
+    "canonical_name": "Larance Marable",
+    "name_slug": "larance-marable",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "89a666f9-a89e-408f-bbb5-0897b80d550f",
+    "canonical_name": "Larry Bunker",
+    "name_slug": "larry-bunker",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "d47e8af1-50df-4a12-90cf-8fe105acc91e",
+    "canonical_name": "Larry Ridley",
+    "name_slug": "larry-ridley",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "467e318c-4cca-4029-9003-326e4ef9e393",
+    "canonical_name": "Larry Young",
+    "name_slug": "larry-young",
+    "instruments": [
+      "organ (hammond)"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "4bdf8027-feea-4589-94c8-60dbb19b1c5b",
+    "canonical_name": "Lennie Niehaus",
+    "name_slug": "lennie-niehaus",
+    "instruments": [
+      "alto saxophone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "ff96ce61-232f-4ce9-a4d7-46524e3e1808",
+    "canonical_name": "Leo Morris",
+    "name_slug": "leo-morris",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "73af7bd3-3e26-4e60-a930-f7a4b3c1c62d",
+    "canonical_name": "Lex Humphries",
+    "name_slug": "lex-humphries",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "d56fa394-077b-45a9-8f6c-dd4ada062f0f",
+    "canonical_name": "Lonnie Smith",
+    "name_slug": "lonnie-smith",
+    "instruments": [
+      "organ (hammond)"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "773c84fd-308e-42c2-8e04-6c005846fd9f",
+    "canonical_name": "Lou Levy",
+    "name_slug": "lou-levy",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "f7a66064-353a-4299-84e5-84058bd11dbb",
+    "canonical_name": "Major Holley",
+    "name_slug": "major-holley",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "c4033ea9-af61-43a8-9c68-e832f785c114",
+    "canonical_name": "Mal Waldron",
+    "name_slug": "mal-waldron",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "d70b305d-4e44-43ae-b0ba-0dc1f59cab88",
+    "canonical_name": "Marty Paich",
+    "name_slug": "marty-paich",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "f07327ea-4dd1-42d6-86ea-374975f543e2",
+    "canonical_name": "Max Bennett",
+    "name_slug": "max-bennett",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "a9672d7c-f42c-4fba-b5ee-40f3e7150a83",
+    "canonical_name": "Mel Torm\u00e9",
+    "name_slug": "mel-torm",
+    "instruments": [
+      "voice"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "608616a2-18a9-4eb1-ac8f-ae4c84844dac",
+    "canonical_name": "Melvin Lastie",
+    "name_slug": "melvin-lastie",
+    "instruments": [
+      "cornet"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "64712f51-a51a-4d4a-86ff-762780d7f390",
+    "canonical_name": "Mickey Roker",
+    "name_slug": "mickey-roker",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "c96c54d4-ac81-43d7-8faa-04cccee4d032",
+    "canonical_name": "Miroslav Vitou\u0161",
+    "name_slug": "miroslav-vitou",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "1f6dde18-8570-4c9e-8d05-63d91c3f8ece",
+    "canonical_name": "Nancy Overton",
+    "name_slug": "nancy-overton",
+    "instruments": [
+      "voice"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "5b244f82-31ee-4326-a3be-bf2cb4cf6994",
+    "canonical_name": "Nat Adderley",
+    "name_slug": "nat-adderley",
+    "instruments": [
+      "cornet"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "c4a2c143-6766-4c9c-b61f-8bd65b6cac15",
+    "canonical_name": "Nelson Boyd",
+    "name_slug": "nelson-boyd",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "6d3926fc-042d-4a54-aed8-b631534b82a9",
+    "canonical_name": "Nick Stabulas",
+    "name_slug": "nick-stabulas",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "4c1d5fa4-e2cc-465a-83c4-f5f93554b3cf",
+    "canonical_name": "Norman Carr",
+    "name_slug": "norman-carr",
+    "instruments": [
+      "violin"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "35a603e4-251c-4c3b-b846-09a5be67336f",
+    "canonical_name": "Oliver Nelson",
+    "name_slug": "oliver-nelson",
+    "instruments": [
+      "alto saxophone",
+      "tenor saxophone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "659469df-0f8c-4446-a3f7-e4cee81fa026",
+    "canonical_name": "Pepper Adams",
+    "name_slug": "pepper-adams",
+    "instruments": [
+      "baritone saxophone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "21187572-9407-49fa-b835-4bf6bfcaad8c",
+    "canonical_name": "Pete Candoli",
+    "name_slug": "pete-candoli",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "e6ceedf8-c813-4ac7-a07d-da88f9090872",
+    "canonical_name": "Pete La Roca",
+    "name_slug": "pete-la-roca",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "10d8d36a-47b9-448a-a78b-0e422d6fe19f",
+    "canonical_name": "Peter Ind",
+    "name_slug": "peter-ind",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "95b00727-e6a3-4b6c-82da-ad3956388373",
+    "canonical_name": "Peter Littman",
+    "name_slug": "peter-littman",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "e6e2f00c-7810-4185-87d3-e0e04e702f9b",
+    "canonical_name": "Peter Littmann",
+    "name_slug": "peter-littmann",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "5e57fe94-bd6e-42ba-b766-6ebf1fa3c2f0",
+    "canonical_name": "Peter Phillips",
+    "name_slug": "peter-phillips",
+    "instruments": [
+      "bass trombone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "2e6437b5-e44d-432f-ae12-c12193ab2c5d",
+    "canonical_name": "Phil Bodner",
+    "name_slug": "phil-bodner",
+    "instruments": [
+      "flute"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "e9059a3f-d54b-4d6d-ba8c-df580db54f56",
+    "canonical_name": "Phil Sunkel",
+    "name_slug": "phil-sunkel",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "844eadce-3597-48eb-9448-c7a64dc938b1",
+    "canonical_name": "Phil Urso",
+    "name_slug": "phil-urso",
+    "instruments": [
+      "tenor saxophone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "7e21030b-5f99-4c5d-b8d7-8a212fb42993",
+    "canonical_name": "Pierre Michelot",
+    "name_slug": "pierre-michelot",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "ec7e321e-34d3-4c5e-9cd9-d4ff4739820a",
+    "canonical_name": "Ralph Blaze",
+    "name_slug": "ralph-blaze",
+    "instruments": [
+      "guitar"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "37688681-da7a-411d-b137-c5a74300334b",
+    "canonical_name": "Ralph Pe\u00f1a",
+    "name_slug": "ralph-pe-a",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "6291b57b-430c-46c8-975f-660e09d1674d",
+    "canonical_name": "Ray Beckenstein",
+    "name_slug": "ray-beckenstein",
+    "instruments": [
+      "alto saxophone",
+      "flute",
+      "piccolo"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "88e3dd7b-0125-4b9a-9b65-0f632e8338a5",
+    "canonical_name": "Ray Crawford",
+    "name_slug": "ray-crawford",
+    "instruments": [
+      "guitar"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "9b86845f-38d5-4f4e-8474-8a1502c9e150",
+    "canonical_name": "Red Mitchell",
+    "name_slug": "red-mitchell",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "43401634-3817-49e7-a2a1-dcf5a2dc67c2",
+    "canonical_name": "Roger Humphries",
+    "name_slug": "roger-humphries",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "72b1a8c3-a902-4422-92f2-ba7470e0250e",
+    "canonical_name": "Romeo Penque",
+    "name_slug": "romeo-penque",
+    "instruments": [
+      "flute"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "038cd35a-6378-4b67-9b6b-b35f4b45c51c",
+    "canonical_name": "Roy Brooks",
+    "name_slug": "roy-brooks",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "8be5df38-4ed9-4ce9-8a28-eb97477c3354",
+    "canonical_name": "Russ Freeman",
+    "name_slug": "russ-freeman",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "29b5cde2-3eec-4022-aba4-2af0d19b04bb",
+    "canonical_name": "Sal Mosca",
+    "name_slug": "sal-mosca",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "7700fa4b-f5db-469d-81d9-cb1028f09b02",
+    "canonical_name": "Sam Noto",
+    "name_slug": "sam-noto",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "cf32a29b-514d-4f19-86a5-14157f2b3387",
+    "canonical_name": "Sam Rivers",
+    "name_slug": "sam-rivers",
+    "instruments": [
+      "tenor saxophone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "f4a8047b-7477-42d8-ab34-e8c32848b47b",
+    "canonical_name": "Sandy Siegelstein",
+    "name_slug": "sandy-siegelstein",
+    "instruments": [
+      "French horn"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "4aeb40c2-dfdf-4a99-979c-61299ec58487",
+    "canonical_name": "Shafi Hadi",
+    "name_slug": "shafi-hadi",
+    "instruments": [
+      "alto saxophone",
+      "tenor saxophone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "af03786b-adb4-4126-8166-322b5169d6ab",
+    "canonical_name": "Sid Cooper",
+    "name_slug": "sid-cooper",
+    "instruments": [
+      "flute"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "8c45d157-df71-491c-ace4-3aa94994c9c5",
+    "canonical_name": "Sonny Fortune",
+    "name_slug": "sonny-fortune",
+    "instruments": [
+      "alto saxophone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "078533f5-ffb1-4221-9517-ab53611065b7",
+    "canonical_name": "Stan Kenton",
+    "name_slug": "stan-kenton",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "d384ccd3-f3e5-4761-b1f3-c2f48c4a7909",
+    "canonical_name": "Steve Davis",
+    "name_slug": "steve-davis",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "2620731b-4ef2-40f3-8f5b-f48187acdf86",
+    "canonical_name": "Steve Kuhn",
+    "name_slug": "steve-kuhn",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "9016fb7a-aeb5-4a9e-884f-e89b090992e8",
+    "canonical_name": "Steve Lacy",
+    "name_slug": "steve-lacy",
+    "instruments": [
+      "soprano saxophone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "06c909fe-f317-40d5-8805-ae5b6a5397b6",
+    "canonical_name": "Stu Williamson",
+    "name_slug": "stu-williamson",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "9eb7325c-ebae-4e14-84ce-4fa32382447f",
+    "canonical_name": "Taft Jordan",
+    "name_slug": "taft-jordan",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "7d4b914b-97b7-40e2-8998-3e40c616bfeb",
+    "canonical_name": "Teddy Charles",
+    "name_slug": "teddy-charles",
+    "instruments": [
+      "vibraphone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "17a52f1a-6d62-4441-b3a4-2682e4194c44",
+    "canonical_name": "Teddy Kotick",
+    "name_slug": "teddy-kotick",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "ba0d474c-ca49-4160-9b18-0e8656299731",
+    "canonical_name": "Teddy Smith",
+    "name_slug": "teddy-smith",
+    "instruments": [
+      "double bass"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "abab27a8-84e0-4557-bbf9-804165355112",
+    "canonical_name": "Thad Jones",
+    "name_slug": "thad-jones",
+    "instruments": [
+      "flugelhorn"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "64755c30-bbea-4ab5-863d-48454b4f8f21",
+    "canonical_name": "Tom Reeves",
+    "name_slug": "tom-reeves",
+    "instruments": [
+      "trumpet"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "54f8c339-0af6-4bbd-a9f0-daf5b7d8239d",
+    "canonical_name": "Tony Miranda",
+    "name_slug": "tony-miranda",
+    "instruments": [
+      "French horn"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "63784037-a9a8-4d9a-8c0e-1b71df570436",
+    "canonical_name": "Tony Studd",
+    "name_slug": "tony-studd",
+    "instruments": [
+      "bass trombone"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "483f0edd-3ac2-4bd9-9747-f2d30dca7c8c",
+    "canonical_name": "Vernel Fournier",
+    "name_slug": "vernel-fournier",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "191635fa-e1a4-4fed-af88-2f25f4791f19",
+    "canonical_name": "Vince de Rosa",
+    "name_slug": "vince-de-rosa",
+    "instruments": [
+      "French horn"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "c608338f-31bb-4448-a4c8-49458eb9f8ab",
+    "canonical_name": "Vocal choir (8 voices)",
+    "name_slug": "vocal-choir-8-voices",
+    "instruments": [
+      "voice"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "c8ce2891-b0b6-4472-a3cd-e1c9703bdf81",
+    "canonical_name": "Walter Davis Jr.",
+    "name_slug": "walter-davis-jr",
+    "instruments": [
+      "piano"
+    ],
+    "album_count": 1
+  },
+  {
+    "person_id": "4976b5ea-1333-4921-af2f-c8ff99220e24",
+    "canonical_name": "Warne Marsh",
+    "name_slug": "warne-marsh",
+    "instruments": [
+      "tenor saxophone"
+    ],
+    "album_count": 1
+  }
+]

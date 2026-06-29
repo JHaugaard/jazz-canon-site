@@ -1,0 +1,358 @@
+{
+  "id": "lennie-tristano-lennie-tristano-1955",
+  "title": "Lennie Tristano",
+  "artist_name": "Lennie Tristano",
+  "year": 1955,
+  "label": "Atlantic",
+  "catalog_number": "1224",
+  "recording_dates_text": "1954-01-01/1955-06-11, 1955-06-11",
+  "description": null,
+  "style_primary": "cool-jazz",
+  "style_display": "Cool Jazz",
+  "cover_art_url": "http://coverartarchive.org/release/41fbab15-f1fa-4a39-9fcb-07edb3c7d8eb/24286755834-500.jpg",
+  "apple_album_id": "50234409",
+  "studios": [
+    "Lennie Tristano's home studio, New York (studio tracks); The Sing-Song Room, Confucius Restaurant, New York (live tracks)"
+  ],
+  "personnel": [
+    {
+      "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+      "canonical_name": "Art Taylor",
+      "name_slug": "art-taylor",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "7dea8d58-abd2-472e-a83d-bbbae13d5071",
+      "canonical_name": "Gene Ramey",
+      "name_slug": "gene-ramey",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "b7e8da38-9427-4427-b06c-6380eeb38b1f",
+      "canonical_name": "Jeff Morton",
+      "name_slug": "jeff-morton",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+      "canonical_name": "Lee Konitz",
+      "name_slug": "lee-konitz",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "c63f68a0-652b-4e42-913f-8d1db4519c35",
+      "canonical_name": "Lennie Tristano",
+      "name_slug": "lennie-tristano",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "10d8d36a-47b9-448a-a78b-0e422d6fe19f",
+      "canonical_name": "Peter Ind",
+      "name_slug": "peter-ind",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "ba17e110-7c81-44f1-a164-068a98895fcf",
+      "title": "Line Up",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "3:34",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b7e8da38-9427-4427-b06c-6380eeb38b1f",
+          "canonical_name": "Jeff Morton",
+          "name_slug": "jeff-morton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c63f68a0-652b-4e42-913f-8d1db4519c35",
+          "canonical_name": "Lennie Tristano",
+          "name_slug": "lennie-tristano",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "10d8d36a-47b9-448a-a78b-0e422d6fe19f",
+          "canonical_name": "Peter Ind",
+          "name_slug": "peter-ind",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "18b7e0e7-3ce6-4fc7-815c-031b7690a111",
+      "title": "Requiem",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "4:53",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "c63f68a0-652b-4e42-913f-8d1db4519c35",
+          "canonical_name": "Lennie Tristano",
+          "name_slug": "lennie-tristano",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "cb0f07e3-3eec-494c-9645-472e70c50a16",
+      "title": "Turkish Mambo",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "3:41",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "c63f68a0-652b-4e42-913f-8d1db4519c35",
+          "canonical_name": "Lennie Tristano",
+          "name_slug": "lennie-tristano",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "3cdd6808-53c3-4c6a-88ca-af3dd4840464",
+      "title": "East Thirty-Second",
+      "track_number": 4,
+      "side": "A",
+      "duration_text": "4:33",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b7e8da38-9427-4427-b06c-6380eeb38b1f",
+          "canonical_name": "Jeff Morton",
+          "name_slug": "jeff-morton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c63f68a0-652b-4e42-913f-8d1db4519c35",
+          "canonical_name": "Lennie Tristano",
+          "name_slug": "lennie-tristano",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "10d8d36a-47b9-448a-a78b-0e422d6fe19f",
+          "canonical_name": "Peter Ind",
+          "name_slug": "peter-ind",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "c4193fcf-4ebf-4c21-a95b-d5f524d9fe05",
+      "title": "These Foolish Things",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "5:46",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7dea8d58-abd2-472e-a83d-bbbae13d5071",
+          "canonical_name": "Gene Ramey",
+          "name_slug": "gene-ramey",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c63f68a0-652b-4e42-913f-8d1db4519c35",
+          "canonical_name": "Lennie Tristano",
+          "name_slug": "lennie-tristano",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "e0c8be98-1584-418f-be0b-42406cb83a67",
+      "title": "You Go to My Head",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "5:20",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7dea8d58-abd2-472e-a83d-bbbae13d5071",
+          "canonical_name": "Gene Ramey",
+          "name_slug": "gene-ramey",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c63f68a0-652b-4e42-913f-8d1db4519c35",
+          "canonical_name": "Lennie Tristano",
+          "name_slug": "lennie-tristano",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "c69f2862-d82b-4d3d-bf7e-b39c8ed32b36",
+      "title": "If I Had You",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": "6:29",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7dea8d58-abd2-472e-a83d-bbbae13d5071",
+          "canonical_name": "Gene Ramey",
+          "name_slug": "gene-ramey",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c63f68a0-652b-4e42-913f-8d1db4519c35",
+          "canonical_name": "Lennie Tristano",
+          "name_slug": "lennie-tristano",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "b2b8d03e-7791-47e7-9d32-1bb231f54d82",
+      "title": "I Don't Stand a Ghost of a Chance With You",
+      "track_number": 8,
+      "side": "B",
+      "duration_text": "6:07",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7dea8d58-abd2-472e-a83d-bbbae13d5071",
+          "canonical_name": "Gene Ramey",
+          "name_slug": "gene-ramey",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c63f68a0-652b-4e42-913f-8d1db4519c35",
+          "canonical_name": "Lennie Tristano",
+          "name_slug": "lennie-tristano",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "f208f86c-cb0f-49fc-bc5b-43a1be07194b",
+      "title": "All the Things You Are",
+      "track_number": 9,
+      "side": "B",
+      "duration_text": "6:11",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7dea8d58-abd2-472e-a83d-bbbae13d5071",
+          "canonical_name": "Gene Ramey",
+          "name_slug": "gene-ramey",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c63f68a0-652b-4e42-913f-8d1db4519c35",
+          "canonical_name": "Lennie Tristano",
+          "name_slug": "lennie-tristano",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

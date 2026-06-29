@@ -1,0 +1,430 @@
+{
+  "id": "joe-henderson-mode-for-joe-1966",
+  "title": "Mode for Joe",
+  "artist_name": "Joe Henderson",
+  "year": 1966,
+  "label": "Blue Note",
+  "catalog_number": "BLP 4227",
+  "recording_dates_text": "1966-01-27",
+  "description": null,
+  "style_primary": "post-bop",
+  "style_display": "Post-Bop",
+  "cover_art_url": "http://coverartarchive.org/release/8a080b21-ff1b-4690-b5dd-ba143d800e63/9144149609-500.jpg",
+  "apple_album_id": "1444104530",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+      "canonical_name": "Bobby Hutcherson",
+      "name_slug": "bobby-hutcherson",
+      "instrument": "vibraphone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "ac5a0d92-8173-42d0-8c74-a91ceab32f25",
+      "canonical_name": "Cedar Walton",
+      "name_slug": "cedar-walton",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "2d07d9c9-693b-4e91-94fc-7296b99ae1ff",
+      "canonical_name": "Curtis Fuller",
+      "name_slug": "curtis-fuller",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "3f42e6c3-2181-4353-a4c7-2798af96fa68",
+      "canonical_name": "Joe Chambers",
+      "name_slug": "joe-chambers",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+      "canonical_name": "Joe Henderson",
+      "name_slug": "joe-henderson",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+      "canonical_name": "Lee Morgan",
+      "name_slug": "lee-morgan",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+      "canonical_name": "Ron Carter",
+      "name_slug": "ron-carter",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "843b78b3-10fc-4ee0-b070-fd3234bc9a83",
+      "title": "A Shade of Jade",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "7:08",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+          "canonical_name": "Bobby Hutcherson",
+          "name_slug": "bobby-hutcherson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ac5a0d92-8173-42d0-8c74-a91ceab32f25",
+          "canonical_name": "Cedar Walton",
+          "name_slug": "cedar-walton",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2d07d9c9-693b-4e91-94fc-7296b99ae1ff",
+          "canonical_name": "Curtis Fuller",
+          "name_slug": "curtis-fuller",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3f42e6c3-2181-4353-a4c7-2798af96fa68",
+          "canonical_name": "Joe Chambers",
+          "name_slug": "joe-chambers",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "ea68fce4-ed5c-4d4d-a252-08fa6ee5a904",
+      "title": "Mode for Joe",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "8:00",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+          "canonical_name": "Bobby Hutcherson",
+          "name_slug": "bobby-hutcherson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ac5a0d92-8173-42d0-8c74-a91ceab32f25",
+          "canonical_name": "Cedar Walton",
+          "name_slug": "cedar-walton",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2d07d9c9-693b-4e91-94fc-7296b99ae1ff",
+          "canonical_name": "Curtis Fuller",
+          "name_slug": "curtis-fuller",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3f42e6c3-2181-4353-a4c7-2798af96fa68",
+          "canonical_name": "Joe Chambers",
+          "name_slug": "joe-chambers",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "188e12de-d6af-41c0-8506-8095a4d285b9",
+      "title": "Black",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "6:51",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+          "canonical_name": "Bobby Hutcherson",
+          "name_slug": "bobby-hutcherson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ac5a0d92-8173-42d0-8c74-a91ceab32f25",
+          "canonical_name": "Cedar Walton",
+          "name_slug": "cedar-walton",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2d07d9c9-693b-4e91-94fc-7296b99ae1ff",
+          "canonical_name": "Curtis Fuller",
+          "name_slug": "curtis-fuller",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3f42e6c3-2181-4353-a4c7-2798af96fa68",
+          "canonical_name": "Joe Chambers",
+          "name_slug": "joe-chambers",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "43058c21-d8b9-449e-ba91-ad97db76c8c3",
+      "title": "Caribbean Fire Dance",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "6:41",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+          "canonical_name": "Bobby Hutcherson",
+          "name_slug": "bobby-hutcherson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ac5a0d92-8173-42d0-8c74-a91ceab32f25",
+          "canonical_name": "Cedar Walton",
+          "name_slug": "cedar-walton",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2d07d9c9-693b-4e91-94fc-7296b99ae1ff",
+          "canonical_name": "Curtis Fuller",
+          "name_slug": "curtis-fuller",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3f42e6c3-2181-4353-a4c7-2798af96fa68",
+          "canonical_name": "Joe Chambers",
+          "name_slug": "joe-chambers",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "3f316ddc-7200-412e-af1e-9b2afd774dd9",
+      "title": "Granted",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "7:20",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+          "canonical_name": "Bobby Hutcherson",
+          "name_slug": "bobby-hutcherson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ac5a0d92-8173-42d0-8c74-a91ceab32f25",
+          "canonical_name": "Cedar Walton",
+          "name_slug": "cedar-walton",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2d07d9c9-693b-4e91-94fc-7296b99ae1ff",
+          "canonical_name": "Curtis Fuller",
+          "name_slug": "curtis-fuller",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3f42e6c3-2181-4353-a4c7-2798af96fa68",
+          "canonical_name": "Joe Chambers",
+          "name_slug": "joe-chambers",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "b754340a-00ea-42f4-9dde-d7d2ca1c24c2",
+      "title": "Free Wheelin'",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "6:39",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+          "canonical_name": "Bobby Hutcherson",
+          "name_slug": "bobby-hutcherson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ac5a0d92-8173-42d0-8c74-a91ceab32f25",
+          "canonical_name": "Cedar Walton",
+          "name_slug": "cedar-walton",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2d07d9c9-693b-4e91-94fc-7296b99ae1ff",
+          "canonical_name": "Curtis Fuller",
+          "name_slug": "curtis-fuller",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3f42e6c3-2181-4353-a4c7-2798af96fa68",
+          "canonical_name": "Joe Chambers",
+          "name_slug": "joe-chambers",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7e347956-859e-4c92-bdbc-a98f34b18545",
+          "canonical_name": "Lee Morgan",
+          "name_slug": "lee-morgan",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "07b13608-48af-4541-814a-989fa92cf2d0",
+          "canonical_name": "Ron Carter",
+          "name_slug": "ron-carter",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

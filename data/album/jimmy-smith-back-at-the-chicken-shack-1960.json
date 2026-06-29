@@ -1,0 +1,191 @@
+{
+  "id": "jimmy-smith-back-at-the-chicken-shack-1960",
+  "title": "Back at the Chicken Shack",
+  "artist_name": "Jimmy Smith",
+  "year": 1960,
+  "label": "Blue Note",
+  "catalog_number": "BST 84117",
+  "recording_dates_text": "1960-04-25",
+  "description": null,
+  "style_primary": "soul-jazz",
+  "style_display": "Soul Jazz",
+  "cover_art_url": "https://coverartarchive.org/release-group/10bb15b0-2d55-369a-90c3-a5131406ac9e/front",
+  "apple_album_id": "724622238",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "c2b8709b-c38f-4ef1-bed3-826e8fa1b49c",
+      "canonical_name": "Donald Bailey",
+      "name_slug": "donald-bailey",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "43b43407-ced4-4e92-80b8-06cf4830aa61",
+      "canonical_name": "Jimmy Smith",
+      "name_slug": "jimmy-smith",
+      "instrument": "organ (hammond)",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "71b7d966-99b4-4902-95fd-df0a59781ed0",
+      "canonical_name": "Kenny Burrell",
+      "name_slug": "kenny-burrell",
+      "instrument": "guitar",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "51379ed2-5adc-4da6-b7a6-e70777372e51",
+      "canonical_name": "Stanley Turrentine",
+      "name_slug": "stanley-turrentine",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "117f855a-8031-4956-8275-2a097e58b189",
+      "title": "Back at the Chicken Shack",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "8:01",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "c2b8709b-c38f-4ef1-bed3-826e8fa1b49c",
+          "canonical_name": "Donald Bailey",
+          "name_slug": "donald-bailey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "43b43407-ced4-4e92-80b8-06cf4830aa61",
+          "canonical_name": "Jimmy Smith",
+          "name_slug": "jimmy-smith",
+          "instrument": "organ (hammond)",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "71b7d966-99b4-4902-95fd-df0a59781ed0",
+          "canonical_name": "Kenny Burrell",
+          "name_slug": "kenny-burrell",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "51379ed2-5adc-4da6-b7a6-e70777372e51",
+          "canonical_name": "Stanley Turrentine",
+          "name_slug": "stanley-turrentine",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "cb3378a9-acba-454f-b4fc-a189a70f6128",
+      "title": "When I Grow Too Old to Dream",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "9:54",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "c2b8709b-c38f-4ef1-bed3-826e8fa1b49c",
+          "canonical_name": "Donald Bailey",
+          "name_slug": "donald-bailey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "43b43407-ced4-4e92-80b8-06cf4830aa61",
+          "canonical_name": "Jimmy Smith",
+          "name_slug": "jimmy-smith",
+          "instrument": "organ (hammond)",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "51379ed2-5adc-4da6-b7a6-e70777372e51",
+          "canonical_name": "Stanley Turrentine",
+          "name_slug": "stanley-turrentine",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "65401f30-a517-436e-b153-65854ed7bed9",
+      "title": "Minor Chant",
+      "track_number": 3,
+      "side": "B",
+      "duration_text": "7:30",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "c2b8709b-c38f-4ef1-bed3-826e8fa1b49c",
+          "canonical_name": "Donald Bailey",
+          "name_slug": "donald-bailey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "43b43407-ced4-4e92-80b8-06cf4830aa61",
+          "canonical_name": "Jimmy Smith",
+          "name_slug": "jimmy-smith",
+          "instrument": "organ (hammond)",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "51379ed2-5adc-4da6-b7a6-e70777372e51",
+          "canonical_name": "Stanley Turrentine",
+          "name_slug": "stanley-turrentine",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "6c167553-1ca1-48c4-ba22-c681ea2a8d59",
+      "title": "Messy Bessie",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "12:25",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "c2b8709b-c38f-4ef1-bed3-826e8fa1b49c",
+          "canonical_name": "Donald Bailey",
+          "name_slug": "donald-bailey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "43b43407-ced4-4e92-80b8-06cf4830aa61",
+          "canonical_name": "Jimmy Smith",
+          "name_slug": "jimmy-smith",
+          "instrument": "organ (hammond)",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "71b7d966-99b4-4902-95fd-df0a59781ed0",
+          "canonical_name": "Kenny Burrell",
+          "name_slug": "kenny-burrell",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "51379ed2-5adc-4da6-b7a6-e70777372e51",
+          "canonical_name": "Stanley Turrentine",
+          "name_slug": "stanley-turrentine",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "id": "gerry-mulligan-what-is-there-to-say-1959",
+  "title": "What Is There to Say?",
+  "artist_name": "Gerry Mulligan Quartet",
+  "year": 1959,
+  "label": "Columbia",
+  "catalog_number": "CS 8116",
+  "recording_dates_text": "1958-12-17, 1958-12-23, 1959-01-15",
+  "description": null,
+  "style_primary": "cool-jazz",
+  "style_display": "Cool Jazz",
+  "cover_art_url": "https://coverartarchive.org/release-group/13644814-6a76-465d-ac4e-e670b02b0b54/front",
+  "apple_album_id": "186288568",
+  "studios": [],
+  "personnel": [
+    {
+      "person_id": "d9ae6648-54de-4a8c-abec-7a1ce896ba31",
+      "canonical_name": "Art Farmer",
+      "name_slug": "art-farmer",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "52acbd56-bb29-4b24-bef6-de8b428979c1",
+      "canonical_name": "Bill Crow",
+      "name_slug": "bill-crow",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "7c4bdcb1-8a5c-489d-8f01-149644fbfadc",
+      "canonical_name": "Dave Bailey",
+      "name_slug": "dave-bailey",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+      "canonical_name": "Gerry Mulligan",
+      "name_slug": "gerry-mulligan",
+      "instrument": "baritone saxophone",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "b81e74bc-57d5-4e0b-a5f2-63a04ff728da",
+      "title": "What Is There to Say?",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "4:03",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d9ae6648-54de-4a8c-abec-7a1ce896ba31",
+          "canonical_name": "Art Farmer",
+          "name_slug": "art-farmer",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52acbd56-bb29-4b24-bef6-de8b428979c1",
+          "canonical_name": "Bill Crow",
+          "name_slug": "bill-crow",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7c4bdcb1-8a5c-489d-8f01-149644fbfadc",
+          "canonical_name": "Dave Bailey",
+          "name_slug": "dave-bailey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "fc3ce769-b9f5-4983-9949-a3a81617268b",
+      "title": "Just in Time",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "4:11",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d9ae6648-54de-4a8c-abec-7a1ce896ba31",
+          "canonical_name": "Art Farmer",
+          "name_slug": "art-farmer",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52acbd56-bb29-4b24-bef6-de8b428979c1",
+          "canonical_name": "Bill Crow",
+          "name_slug": "bill-crow",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7c4bdcb1-8a5c-489d-8f01-149644fbfadc",
+          "canonical_name": "Dave Bailey",
+          "name_slug": "dave-bailey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "ec211fea-032d-43a3-af1e-566cc6006e86",
+      "title": "News from Blueport",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "5:03",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d9ae6648-54de-4a8c-abec-7a1ce896ba31",
+          "canonical_name": "Art Farmer",
+          "name_slug": "art-farmer",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52acbd56-bb29-4b24-bef6-de8b428979c1",
+          "canonical_name": "Bill Crow",
+          "name_slug": "bill-crow",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7c4bdcb1-8a5c-489d-8f01-149644fbfadc",
+          "canonical_name": "Dave Bailey",
+          "name_slug": "dave-bailey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "d0fb8ce2-5422-41c5-b980-aa129e08c533",
+      "title": "Festive Minor",
+      "track_number": 4,
+      "side": "A",
+      "duration_text": "6:14",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d9ae6648-54de-4a8c-abec-7a1ce896ba31",
+          "canonical_name": "Art Farmer",
+          "name_slug": "art-farmer",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52acbd56-bb29-4b24-bef6-de8b428979c1",
+          "canonical_name": "Bill Crow",
+          "name_slug": "bill-crow",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7c4bdcb1-8a5c-489d-8f01-149644fbfadc",
+          "canonical_name": "Dave Bailey",
+          "name_slug": "dave-bailey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "de54dd5a-eb30-4097-a6e2-7ad850189751",
+      "title": "As Catch Can",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "3:54",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d9ae6648-54de-4a8c-abec-7a1ce896ba31",
+          "canonical_name": "Art Farmer",
+          "name_slug": "art-farmer",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52acbd56-bb29-4b24-bef6-de8b428979c1",
+          "canonical_name": "Bill Crow",
+          "name_slug": "bill-crow",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7c4bdcb1-8a5c-489d-8f01-149644fbfadc",
+          "canonical_name": "Dave Bailey",
+          "name_slug": "dave-bailey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "9134ef7b-7d4d-47eb-aba5-377306af0fb8",
+      "title": "My Funny Valentine",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "4:06",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d9ae6648-54de-4a8c-abec-7a1ce896ba31",
+          "canonical_name": "Art Farmer",
+          "name_slug": "art-farmer",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52acbd56-bb29-4b24-bef6-de8b428979c1",
+          "canonical_name": "Bill Crow",
+          "name_slug": "bill-crow",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7c4bdcb1-8a5c-489d-8f01-149644fbfadc",
+          "canonical_name": "Dave Bailey",
+          "name_slug": "dave-bailey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "1e4747ce-7cdf-4c22-b18c-b94d904fb9eb",
+      "title": "Blueport",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": "8:47",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d9ae6648-54de-4a8c-abec-7a1ce896ba31",
+          "canonical_name": "Art Farmer",
+          "name_slug": "art-farmer",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52acbd56-bb29-4b24-bef6-de8b428979c1",
+          "canonical_name": "Bill Crow",
+          "name_slug": "bill-crow",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7c4bdcb1-8a5c-489d-8f01-149644fbfadc",
+          "canonical_name": "Dave Bailey",
+          "name_slug": "dave-bailey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "bf3b4f4b-98c0-47da-8a5f-16d0d8a8a72a",
+      "title": "Utter Chaos",
+      "track_number": 8,
+      "side": "B",
+      "duration_text": "4:23",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "d9ae6648-54de-4a8c-abec-7a1ce896ba31",
+          "canonical_name": "Art Farmer",
+          "name_slug": "art-farmer",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "52acbd56-bb29-4b24-bef6-de8b428979c1",
+          "canonical_name": "Bill Crow",
+          "name_slug": "bill-crow",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7c4bdcb1-8a5c-489d-8f01-149644fbfadc",
+          "canonical_name": "Dave Bailey",
+          "name_slug": "dave-bailey",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "id": "paul-desmond-take-ten-1963",
+  "title": "Take Ten",
+  "artist_name": "Paul Desmond",
+  "year": 1963,
+  "label": "RCA Victor",
+  "catalog_number": "LPM-2569",
+  "recording_dates_text": "1963-06-05, 1963-06-10, 1963-06-12, 1963-06-14, 1963-06-25",
+  "description": null,
+  "style_primary": "cool-jazz",
+  "style_display": "Cool Jazz",
+  "cover_art_url": "https://coverartarchive.org/release-group/8694465e-0848-33e7-8eea-dc218220db7b/front",
+  "apple_album_id": "304783942",
+  "studios": [
+    "Webster Hall, New York City"
+  ],
+  "personnel": [
+    {
+      "person_id": "fcbc1790-261f-4973-bd25-5dd827c1a6e7",
+      "canonical_name": "Connie Kay",
+      "name_slug": "connie-kay",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "e47a52e5-7deb-4a22-8c0e-58f10628d8cb",
+      "canonical_name": "Eugene Wright",
+      "name_slug": "eugene-wright",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "05ea0f7e-b6a0-485a-a51c-df12e44659aa",
+      "canonical_name": "Gene Cherico",
+      "name_slug": "gene-cherico",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "2ebcfa9e-f1f3-4b66-8c93-0ead98db4f2a",
+      "canonical_name": "George Duvivier",
+      "name_slug": "george-duvivier",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+      "canonical_name": "Jim Hall",
+      "name_slug": "jim-hall",
+      "instrument": "guitar",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f8638bc5-4b5c-4aa7-974f-1055689a19ef",
+      "canonical_name": "Paul Desmond",
+      "name_slug": "paul-desmond",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "6d01974d-9eb0-4c2d-9001-ee44a9565a75",
+      "title": "Take Ten",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "3:11",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fcbc1790-261f-4973-bd25-5dd827c1a6e7",
+          "canonical_name": "Connie Kay",
+          "name_slug": "connie-kay",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e47a52e5-7deb-4a22-8c0e-58f10628d8cb",
+          "canonical_name": "Eugene Wright",
+          "name_slug": "eugene-wright",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8638bc5-4b5c-4aa7-974f-1055689a19ef",
+          "canonical_name": "Paul Desmond",
+          "name_slug": "paul-desmond",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "cac10540-3cde-458e-b533-538926ad86d7",
+      "title": "El Prince",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "3:38",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fcbc1790-261f-4973-bd25-5dd827c1a6e7",
+          "canonical_name": "Connie Kay",
+          "name_slug": "connie-kay",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05ea0f7e-b6a0-485a-a51c-df12e44659aa",
+          "canonical_name": "Gene Cherico",
+          "name_slug": "gene-cherico",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8638bc5-4b5c-4aa7-974f-1055689a19ef",
+          "canonical_name": "Paul Desmond",
+          "name_slug": "paul-desmond",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "d93c9fb2-195a-440b-a113-d966b6570702",
+      "title": "Alone Together",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "6:52",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fcbc1790-261f-4973-bd25-5dd827c1a6e7",
+          "canonical_name": "Connie Kay",
+          "name_slug": "connie-kay",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05ea0f7e-b6a0-485a-a51c-df12e44659aa",
+          "canonical_name": "Gene Cherico",
+          "name_slug": "gene-cherico",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8638bc5-4b5c-4aa7-974f-1055689a19ef",
+          "canonical_name": "Paul Desmond",
+          "name_slug": "paul-desmond",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "a57d1b2f-528b-4489-9ec5-7016ff9b5689",
+      "title": "Embarcadero",
+      "track_number": 4,
+      "side": "A",
+      "duration_text": "4:07",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fcbc1790-261f-4973-bd25-5dd827c1a6e7",
+          "canonical_name": "Connie Kay",
+          "name_slug": "connie-kay",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05ea0f7e-b6a0-485a-a51c-df12e44659aa",
+          "canonical_name": "Gene Cherico",
+          "name_slug": "gene-cherico",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8638bc5-4b5c-4aa7-974f-1055689a19ef",
+          "canonical_name": "Paul Desmond",
+          "name_slug": "paul-desmond",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "d0160037-3382-40d0-88a5-35ccb2d237f7",
+      "title": "Theme from \"Black Orpheus\"",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "4:14",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fcbc1790-261f-4973-bd25-5dd827c1a6e7",
+          "canonical_name": "Connie Kay",
+          "name_slug": "connie-kay",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05ea0f7e-b6a0-485a-a51c-df12e44659aa",
+          "canonical_name": "Gene Cherico",
+          "name_slug": "gene-cherico",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8638bc5-4b5c-4aa7-974f-1055689a19ef",
+          "canonical_name": "Paul Desmond",
+          "name_slug": "paul-desmond",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "cec64c4a-5a5c-4926-917f-6d73b383957d",
+      "title": "Nancy (with the Laughing Face)",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "6:05",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fcbc1790-261f-4973-bd25-5dd827c1a6e7",
+          "canonical_name": "Connie Kay",
+          "name_slug": "connie-kay",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05ea0f7e-b6a0-485a-a51c-df12e44659aa",
+          "canonical_name": "Gene Cherico",
+          "name_slug": "gene-cherico",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8638bc5-4b5c-4aa7-974f-1055689a19ef",
+          "canonical_name": "Paul Desmond",
+          "name_slug": "paul-desmond",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "d57ae1ec-048d-41cb-9e62-0ecc51e0b354",
+      "title": "Samba de Orfeu",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": "4:29",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fcbc1790-261f-4973-bd25-5dd827c1a6e7",
+          "canonical_name": "Connie Kay",
+          "name_slug": "connie-kay",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05ea0f7e-b6a0-485a-a51c-df12e44659aa",
+          "canonical_name": "Gene Cherico",
+          "name_slug": "gene-cherico",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8638bc5-4b5c-4aa7-974f-1055689a19ef",
+          "canonical_name": "Paul Desmond",
+          "name_slug": "paul-desmond",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "c6994ebc-a3e5-4562-87f4-b84aef0680af",
+      "title": "The One I Love (Belongs to Somebody Else)",
+      "track_number": 8,
+      "side": "B",
+      "duration_text": "5:37",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fcbc1790-261f-4973-bd25-5dd827c1a6e7",
+          "canonical_name": "Connie Kay",
+          "name_slug": "connie-kay",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "05ea0f7e-b6a0-485a-a51c-df12e44659aa",
+          "canonical_name": "Gene Cherico",
+          "name_slug": "gene-cherico",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "792daac8-1288-458a-b3ea-d93933a21c64",
+          "canonical_name": "Jim Hall",
+          "name_slug": "jim-hall",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f8638bc5-4b5c-4aa7-974f-1055689a19ef",
+          "canonical_name": "Paul Desmond",
+          "name_slug": "paul-desmond",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

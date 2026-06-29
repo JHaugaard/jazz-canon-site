@@ -1,0 +1,240 @@
+{
+  "id": "jackie-mclean-destination-out",
+  "title": "Destination... Out!",
+  "artist_name": "Jackie McLean",
+  "year": 1964,
+  "label": "Blue Note Records",
+  "catalog_number": "BLP 4165 / BST 84165",
+  "recording_dates_text": "1963-09-20",
+  "description": null,
+  "style_primary": "post-bop",
+  "style_display": "Post-Bop",
+  "cover_art_url": "http://coverartarchive.org/release/29dde241-c22e-4f29-bed6-dd4c73be8fa4/35037354137-500.jpg",
+  "apple_album_id": null,
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+      "canonical_name": "Bobby Hutcherson",
+      "name_slug": "bobby-hutcherson",
+      "instrument": "vibraphone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "d994516f-730c-46f7-b9a5-24fad607cdf6",
+      "canonical_name": "Grachan Moncur III",
+      "name_slug": "grachan-moncur-iii",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "c476ad9c-b8ea-47ad-b04e-6c8a009ea8be",
+      "canonical_name": "Jackie McLean",
+      "name_slug": "jackie-mclean",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "d47e8af1-50df-4a12-90cf-8fe105acc91e",
+      "canonical_name": "Larry Ridley",
+      "name_slug": "larry-ridley",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+      "canonical_name": "Roy Haynes",
+      "name_slug": "roy-haynes",
+      "instrument": "drums",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "2a093bb8-baea-49d6-91c5-a73c86a6f5dc",
+      "title": "Love and Hate",
+      "track_number": 1,
+      "side": null,
+      "duration_text": "8:26",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+          "canonical_name": "Bobby Hutcherson",
+          "name_slug": "bobby-hutcherson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d994516f-730c-46f7-b9a5-24fad607cdf6",
+          "canonical_name": "Grachan Moncur III",
+          "name_slug": "grachan-moncur-iii",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c476ad9c-b8ea-47ad-b04e-6c8a009ea8be",
+          "canonical_name": "Jackie McLean",
+          "name_slug": "jackie-mclean",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d47e8af1-50df-4a12-90cf-8fe105acc91e",
+          "canonical_name": "Larry Ridley",
+          "name_slug": "larry-ridley",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "da449c14-4ac2-406e-ab93-47484e78b900",
+      "title": "Esoteric",
+      "track_number": 2,
+      "side": null,
+      "duration_text": "9:06",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+          "canonical_name": "Bobby Hutcherson",
+          "name_slug": "bobby-hutcherson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d994516f-730c-46f7-b9a5-24fad607cdf6",
+          "canonical_name": "Grachan Moncur III",
+          "name_slug": "grachan-moncur-iii",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c476ad9c-b8ea-47ad-b04e-6c8a009ea8be",
+          "canonical_name": "Jackie McLean",
+          "name_slug": "jackie-mclean",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d47e8af1-50df-4a12-90cf-8fe105acc91e",
+          "canonical_name": "Larry Ridley",
+          "name_slug": "larry-ridley",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "7b88195a-0a9c-405f-a37a-29124e3ae5ef",
+      "title": "Kahlil the Prophet",
+      "track_number": 3,
+      "side": null,
+      "duration_text": "10:27",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+          "canonical_name": "Bobby Hutcherson",
+          "name_slug": "bobby-hutcherson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d994516f-730c-46f7-b9a5-24fad607cdf6",
+          "canonical_name": "Grachan Moncur III",
+          "name_slug": "grachan-moncur-iii",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c476ad9c-b8ea-47ad-b04e-6c8a009ea8be",
+          "canonical_name": "Jackie McLean",
+          "name_slug": "jackie-mclean",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d47e8af1-50df-4a12-90cf-8fe105acc91e",
+          "canonical_name": "Larry Ridley",
+          "name_slug": "larry-ridley",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "eaea2ac7-b313-4d9a-8613-4d8abb7f1ab7",
+      "title": "Riff Raff",
+      "track_number": 4,
+      "side": null,
+      "duration_text": "7:10",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "47bc823a-fcf8-4329-a791-8424d5ee4b13",
+          "canonical_name": "Bobby Hutcherson",
+          "name_slug": "bobby-hutcherson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d994516f-730c-46f7-b9a5-24fad607cdf6",
+          "canonical_name": "Grachan Moncur III",
+          "name_slug": "grachan-moncur-iii",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "c476ad9c-b8ea-47ad-b04e-6c8a009ea8be",
+          "canonical_name": "Jackie McLean",
+          "name_slug": "jackie-mclean",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d47e8af1-50df-4a12-90cf-8fe105acc91e",
+          "canonical_name": "Larry Ridley",
+          "name_slug": "larry-ridley",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

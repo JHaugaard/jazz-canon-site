@@ -1,0 +1,242 @@
+{
+  "id": "mccoy-tyner-sahara-1972",
+  "title": "Sahara",
+  "artist_name": "McCoy Tyner",
+  "year": 1972,
+  "label": "Milestone",
+  "catalog_number": "MSP 9039",
+  "recording_dates_text": "1972-01-15",
+  "description": null,
+  "style_primary": "modal-jazz",
+  "style_display": "Modal Jazz",
+  "cover_art_url": "http://coverartarchive.org/release/5065431e-cf4b-3928-8c0f-e9579629781b/3166588326-500.jpg",
+  "apple_album_id": "1442370232",
+  "studios": [],
+  "personnel": [
+    {
+      "person_id": "3a606daa-f969-42b2-8e36-aee40be5d860",
+      "canonical_name": "Alphonse Mouzon",
+      "name_slug": "alphonse-mouzon",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "32fd5b24-9883-4dca-9cd8-66a72445822d",
+      "canonical_name": "Calvin Hill",
+      "name_slug": "calvin-hill",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+      "canonical_name": "McCoy Tyner",
+      "name_slug": "mccoy-tyner",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "8c45d157-df71-491c-ace4-3aa94994c9c5",
+      "canonical_name": "Sonny Fortune",
+      "name_slug": "sonny-fortune",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "38a558a9-f6d0-418a-8a1f-efe97b02ddb7",
+      "title": "Ebony Queen",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "3a606daa-f969-42b2-8e36-aee40be5d860",
+          "canonical_name": "Alphonse Mouzon",
+          "name_slug": "alphonse-mouzon",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "32fd5b24-9883-4dca-9cd8-66a72445822d",
+          "canonical_name": "Calvin Hill",
+          "name_slug": "calvin-hill",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8c45d157-df71-491c-ace4-3aa94994c9c5",
+          "canonical_name": "Sonny Fortune",
+          "name_slug": "sonny-fortune",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "4e85968b-9b77-4dc7-b67b-0fe59340185e",
+      "title": "A Prayer for My Family",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "3a606daa-f969-42b2-8e36-aee40be5d860",
+          "canonical_name": "Alphonse Mouzon",
+          "name_slug": "alphonse-mouzon",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "32fd5b24-9883-4dca-9cd8-66a72445822d",
+          "canonical_name": "Calvin Hill",
+          "name_slug": "calvin-hill",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8c45d157-df71-491c-ace4-3aa94994c9c5",
+          "canonical_name": "Sonny Fortune",
+          "name_slug": "sonny-fortune",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "75b2676a-10e1-430f-b7b7-399ca198f823",
+      "title": "Valley of Life",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "3a606daa-f969-42b2-8e36-aee40be5d860",
+          "canonical_name": "Alphonse Mouzon",
+          "name_slug": "alphonse-mouzon",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "32fd5b24-9883-4dca-9cd8-66a72445822d",
+          "canonical_name": "Calvin Hill",
+          "name_slug": "calvin-hill",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8c45d157-df71-491c-ace4-3aa94994c9c5",
+          "canonical_name": "Sonny Fortune",
+          "name_slug": "sonny-fortune",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "2e6b7dc4-a741-4d29-9bf0-d82d59c42f1d",
+      "title": "Rebirth",
+      "track_number": 4,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "3a606daa-f969-42b2-8e36-aee40be5d860",
+          "canonical_name": "Alphonse Mouzon",
+          "name_slug": "alphonse-mouzon",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "32fd5b24-9883-4dca-9cd8-66a72445822d",
+          "canonical_name": "Calvin Hill",
+          "name_slug": "calvin-hill",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8c45d157-df71-491c-ace4-3aa94994c9c5",
+          "canonical_name": "Sonny Fortune",
+          "name_slug": "sonny-fortune",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "59747550-37c1-44d3-bb76-cb49f3e7f3d2",
+      "title": "Sahara",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "3a606daa-f969-42b2-8e36-aee40be5d860",
+          "canonical_name": "Alphonse Mouzon",
+          "name_slug": "alphonse-mouzon",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "32fd5b24-9883-4dca-9cd8-66a72445822d",
+          "canonical_name": "Calvin Hill",
+          "name_slug": "calvin-hill",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8c45d157-df71-491c-ace4-3aa94994c9c5",
+          "canonical_name": "Sonny Fortune",
+          "name_slug": "sonny-fortune",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

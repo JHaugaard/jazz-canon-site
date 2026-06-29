@@ -1,0 +1,322 @@
+{
+  "id": "modern-jazz-quartet-fontessa-1956",
+  "title": "Fontessa",
+  "artist_name": "The Modern Jazz Quartet",
+  "year": 1956,
+  "label": "Atlantic",
+  "catalog_number": "1231",
+  "recording_dates_text": "1956-01-22, 1956-02-14",
+  "description": null,
+  "style_primary": "cool-jazz",
+  "style_display": "Cool Jazz",
+  "cover_art_url": "https://coverartarchive.org/release-group/59404ca7-e67f-3adc-8123-fc03b9777f15/front",
+  "apple_album_id": "81898862",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "fcbc1790-261f-4973-bd25-5dd827c1a6e7",
+      "canonical_name": "Connie Kay",
+      "name_slug": "connie-kay",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "5d86b7d8-7af1-42f2-8049-b7452149c300",
+      "canonical_name": "John Lewis",
+      "name_slug": "john-lewis",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "08bd9fcb-e1cb-4776-9116-dafc2f797e1e",
+      "canonical_name": "Milt Jackson",
+      "name_slug": "milt-jackson",
+      "instrument": "vibraphone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+      "canonical_name": "Percy Heath",
+      "name_slug": "percy-heath",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "21a6ca57-20d8-432c-abe9-de0cf1be2097",
+      "title": "Versailles",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "3:22",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fcbc1790-261f-4973-bd25-5dd827c1a6e7",
+          "canonical_name": "Connie Kay",
+          "name_slug": "connie-kay",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5d86b7d8-7af1-42f2-8049-b7452149c300",
+          "canonical_name": "John Lewis",
+          "name_slug": "john-lewis",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "08bd9fcb-e1cb-4776-9116-dafc2f797e1e",
+          "canonical_name": "Milt Jackson",
+          "name_slug": "milt-jackson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "6ce2c821-1c57-4388-bd3a-ea9c00add0e1",
+      "title": "Angel Eyes",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "3:48",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fcbc1790-261f-4973-bd25-5dd827c1a6e7",
+          "canonical_name": "Connie Kay",
+          "name_slug": "connie-kay",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5d86b7d8-7af1-42f2-8049-b7452149c300",
+          "canonical_name": "John Lewis",
+          "name_slug": "john-lewis",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "08bd9fcb-e1cb-4776-9116-dafc2f797e1e",
+          "canonical_name": "Milt Jackson",
+          "name_slug": "milt-jackson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "10ca87e3-2943-4c05-a593-9972a3d8f0fc",
+      "title": "Fontessa",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "11:12",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fcbc1790-261f-4973-bd25-5dd827c1a6e7",
+          "canonical_name": "Connie Kay",
+          "name_slug": "connie-kay",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5d86b7d8-7af1-42f2-8049-b7452149c300",
+          "canonical_name": "John Lewis",
+          "name_slug": "john-lewis",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "08bd9fcb-e1cb-4776-9116-dafc2f797e1e",
+          "canonical_name": "Milt Jackson",
+          "name_slug": "milt-jackson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "76564d20-2d79-4121-a41c-ad217a7d640b",
+      "title": "Over the Rainbow",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "3:50",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fcbc1790-261f-4973-bd25-5dd827c1a6e7",
+          "canonical_name": "Connie Kay",
+          "name_slug": "connie-kay",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5d86b7d8-7af1-42f2-8049-b7452149c300",
+          "canonical_name": "John Lewis",
+          "name_slug": "john-lewis",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "08bd9fcb-e1cb-4776-9116-dafc2f797e1e",
+          "canonical_name": "Milt Jackson",
+          "name_slug": "milt-jackson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "1a19ab52-8447-4ff3-b794-ccff0f818574",
+      "title": "Bluesology",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "5:04",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fcbc1790-261f-4973-bd25-5dd827c1a6e7",
+          "canonical_name": "Connie Kay",
+          "name_slug": "connie-kay",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5d86b7d8-7af1-42f2-8049-b7452149c300",
+          "canonical_name": "John Lewis",
+          "name_slug": "john-lewis",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "08bd9fcb-e1cb-4776-9116-dafc2f797e1e",
+          "canonical_name": "Milt Jackson",
+          "name_slug": "milt-jackson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "5eb2bdc5-f9d5-4cf6-9b42-509825a5516b",
+      "title": "Willow Weep for Me",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "4:47",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fcbc1790-261f-4973-bd25-5dd827c1a6e7",
+          "canonical_name": "Connie Kay",
+          "name_slug": "connie-kay",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5d86b7d8-7af1-42f2-8049-b7452149c300",
+          "canonical_name": "John Lewis",
+          "name_slug": "john-lewis",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "08bd9fcb-e1cb-4776-9116-dafc2f797e1e",
+          "canonical_name": "Milt Jackson",
+          "name_slug": "milt-jackson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "38e373de-d49f-4a05-9206-f079cc6b2d67",
+      "title": "Woody 'n' You",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": "4:25",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fcbc1790-261f-4973-bd25-5dd827c1a6e7",
+          "canonical_name": "Connie Kay",
+          "name_slug": "connie-kay",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5d86b7d8-7af1-42f2-8049-b7452149c300",
+          "canonical_name": "John Lewis",
+          "name_slug": "john-lewis",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "08bd9fcb-e1cb-4776-9116-dafc2f797e1e",
+          "canonical_name": "Milt Jackson",
+          "name_slug": "milt-jackson",
+          "instrument": "vibraphone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ef648efa-8ca4-40ba-8509-7a3d38f8cd8c",
+          "canonical_name": "Percy Heath",
+          "name_slug": "percy-heath",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

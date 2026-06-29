@@ -1,0 +1,138 @@
+{
+  "id": "gerry-mulligan-quartet-1952",
+  "title": "Gerry Mulligan Quartet",
+  "artist_name": "Gerry Mulligan Quartet",
+  "year": 1952,
+  "label": "Pacific Jazz",
+  "catalog_number": "PJLP-1",
+  "recording_dates_text": "1952-08-16, 1952-10-15, 1952-10-16",
+  "description": null,
+  "style_primary": "cool-jazz",
+  "style_display": "Cool Jazz",
+  "cover_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ea/13/9a/ea139a97-c688-5850-4de3-06792fe09709/00602577399527.rgb.jpg/1000x1000bb.jpg",
+  "apple_album_id": "1458823286",
+  "studios": [
+    "Phil Turetsky's home / Pacific Jazz sessions, Los Angeles"
+  ],
+  "personnel": [
+    {
+      "person_id": "fff93cae-d059-45ca-ac5d-341d44d4c028",
+      "canonical_name": "Bob Whitlock",
+      "name_slug": "bob-whitlock",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "a629ef2d-7cb1-44c5-8214-1b032123983e",
+      "canonical_name": "Carson Smith",
+      "name_slug": "carson-smith",
+      "instrument": "double bass",
+      "epistemic": "unk"
+    },
+    {
+      "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
+      "canonical_name": "Chet Baker",
+      "name_slug": "chet-baker",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+      "canonical_name": "Chico Hamilton",
+      "name_slug": "chico-hamilton",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+      "canonical_name": "Gerry Mulligan",
+      "name_slug": "gerry-mulligan",
+      "instrument": "baritone saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "89a666f9-a89e-408f-bbb5-0897b80d550f",
+      "canonical_name": "Larry Bunker",
+      "name_slug": "larry-bunker",
+      "instrument": "drums",
+      "epistemic": "unk"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "402f2baf-97e4-4411-9571-339fabcfbfe9",
+      "title": "Bernie's Tune",
+      "track_number": null,
+      "side": null,
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
+          "canonical_name": "Chet Baker",
+          "name_slug": "chet-baker",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "a8daa2d9-8e2e-4b72-8c7c-b6d16ec39a4f",
+      "title": "Walkin' Shoes",
+      "track_number": null,
+      "side": null,
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
+          "canonical_name": "Chet Baker",
+          "name_slug": "chet-baker",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "8ca0d959-da63-452b-b7aa-555b94293a07",
+      "title": "Freeway",
+      "track_number": null,
+      "side": null,
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
+          "canonical_name": "Chet Baker",
+          "name_slug": "chet-baker",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,728 @@
+{
+  "id": "gil-evans-gil-evans-and-ten-1957",
+  "title": "Gil Evans & Ten",
+  "artist_name": "Gil Evans",
+  "year": 1957,
+  "label": "Prestige",
+  "catalog_number": "V6-8555",
+  "recording_dates_text": "1957-09-06, 1957-09-27, 1957-10-10",
+  "description": null,
+  "style_primary": "cool-jazz",
+  "style_display": "Cool Jazz",
+  "cover_art_url": "https://coverartarchive.org/release-group/7ae2d64b-91b7-4ec9-ac79-f43949e62c65/front",
+  "apple_album_id": "1715961278",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "b77ada85-3d0f-4352-8fb1-01518345a67f",
+      "canonical_name": "Bart Varsalona",
+      "name_slug": "bart-varsalona",
+      "instrument": "bass trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "20a8490d-5a6d-449d-b021-1edb4756a2fc",
+      "canonical_name": "Dave Kurtzer",
+      "name_slug": "dave-kurtzer",
+      "instrument": "bass clarinet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+      "canonical_name": "Gil Evans",
+      "name_slug": "gil-evans",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "37b5f433-79a4-489a-a887-52c6a38673d7",
+      "canonical_name": "Jake Koven",
+      "name_slug": "jake-koven",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "984bc449-da1b-49b6-9aa5-a8e5b8b31f53",
+      "canonical_name": "Jimmy Cleveland",
+      "name_slug": "jimmy-cleveland",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "acfe7fa4-325f-4299-b27b-850491b7b1a3",
+      "canonical_name": "Jo Jones",
+      "name_slug": "jo-jones",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "29f1bb4a-7869-42b1-868a-0ec3335c2f9e",
+      "canonical_name": "John Carisi",
+      "name_slug": "john-carisi",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+      "canonical_name": "Lee Konitz",
+      "name_slug": "lee-konitz",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "becdfbba-2a62-45b1-b54f-f478fd5c8888",
+      "canonical_name": "Louis Mucci",
+      "name_slug": "louis-mucci",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "6d3926fc-042d-4a54-aed8-b631534b82a9",
+      "canonical_name": "Nick Stabulas",
+      "name_slug": "nick-stabulas",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+      "canonical_name": "Paul Chambers",
+      "name_slug": "paul-chambers",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "9016fb7a-aeb5-4a9e-884f-e89b090992e8",
+      "canonical_name": "Steve Lacy",
+      "name_slug": "steve-lacy",
+      "instrument": "soprano saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "124cd9a6-18b2-4773-9b62-6124047b747e",
+      "canonical_name": "Willie Ruff",
+      "name_slug": "willie-ruff",
+      "instrument": "French horn",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "7e927107-e170-417d-9b23-26b98cc0bc8c",
+      "title": "Remember",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "4:33",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b77ada85-3d0f-4352-8fb1-01518345a67f",
+          "canonical_name": "Bart Varsalona",
+          "name_slug": "bart-varsalona",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "20a8490d-5a6d-449d-b021-1edb4756a2fc",
+          "canonical_name": "Dave Kurtzer",
+          "name_slug": "dave-kurtzer",
+          "instrument": "bass clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+          "canonical_name": "Gil Evans",
+          "name_slug": "gil-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "37b5f433-79a4-489a-a887-52c6a38673d7",
+          "canonical_name": "Jake Koven",
+          "name_slug": "jake-koven",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "984bc449-da1b-49b6-9aa5-a8e5b8b31f53",
+          "canonical_name": "Jimmy Cleveland",
+          "name_slug": "jimmy-cleveland",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "acfe7fa4-325f-4299-b27b-850491b7b1a3",
+          "canonical_name": "Jo Jones",
+          "name_slug": "jo-jones",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29f1bb4a-7869-42b1-868a-0ec3335c2f9e",
+          "canonical_name": "John Carisi",
+          "name_slug": "john-carisi",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9016fb7a-aeb5-4a9e-884f-e89b090992e8",
+          "canonical_name": "Steve Lacy",
+          "name_slug": "steve-lacy",
+          "instrument": "soprano saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "124cd9a6-18b2-4773-9b62-6124047b747e",
+          "canonical_name": "Willie Ruff",
+          "name_slug": "willie-ruff",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "4295cf94-d23f-45cb-8530-4851e9968d06",
+      "title": "Ella Speed",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "5:50",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b77ada85-3d0f-4352-8fb1-01518345a67f",
+          "canonical_name": "Bart Varsalona",
+          "name_slug": "bart-varsalona",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "20a8490d-5a6d-449d-b021-1edb4756a2fc",
+          "canonical_name": "Dave Kurtzer",
+          "name_slug": "dave-kurtzer",
+          "instrument": "bass clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+          "canonical_name": "Gil Evans",
+          "name_slug": "gil-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "37b5f433-79a4-489a-a887-52c6a38673d7",
+          "canonical_name": "Jake Koven",
+          "name_slug": "jake-koven",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "984bc449-da1b-49b6-9aa5-a8e5b8b31f53",
+          "canonical_name": "Jimmy Cleveland",
+          "name_slug": "jimmy-cleveland",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "becdfbba-2a62-45b1-b54f-f478fd5c8888",
+          "canonical_name": "Louis Mucci",
+          "name_slug": "louis-mucci",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6d3926fc-042d-4a54-aed8-b631534b82a9",
+          "canonical_name": "Nick Stabulas",
+          "name_slug": "nick-stabulas",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9016fb7a-aeb5-4a9e-884f-e89b090992e8",
+          "canonical_name": "Steve Lacy",
+          "name_slug": "steve-lacy",
+          "instrument": "soprano saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "124cd9a6-18b2-4773-9b62-6124047b747e",
+          "canonical_name": "Willie Ruff",
+          "name_slug": "willie-ruff",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "8c088c21-b7ed-4e35-b5bf-f227cffd0d9b",
+      "title": "Big Stuff",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "4:49",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b77ada85-3d0f-4352-8fb1-01518345a67f",
+          "canonical_name": "Bart Varsalona",
+          "name_slug": "bart-varsalona",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "20a8490d-5a6d-449d-b021-1edb4756a2fc",
+          "canonical_name": "Dave Kurtzer",
+          "name_slug": "dave-kurtzer",
+          "instrument": "bass clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+          "canonical_name": "Gil Evans",
+          "name_slug": "gil-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "37b5f433-79a4-489a-a887-52c6a38673d7",
+          "canonical_name": "Jake Koven",
+          "name_slug": "jake-koven",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "984bc449-da1b-49b6-9aa5-a8e5b8b31f53",
+          "canonical_name": "Jimmy Cleveland",
+          "name_slug": "jimmy-cleveland",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "becdfbba-2a62-45b1-b54f-f478fd5c8888",
+          "canonical_name": "Louis Mucci",
+          "name_slug": "louis-mucci",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6d3926fc-042d-4a54-aed8-b631534b82a9",
+          "canonical_name": "Nick Stabulas",
+          "name_slug": "nick-stabulas",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9016fb7a-aeb5-4a9e-884f-e89b090992e8",
+          "canonical_name": "Steve Lacy",
+          "name_slug": "steve-lacy",
+          "instrument": "soprano saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "124cd9a6-18b2-4773-9b62-6124047b747e",
+          "canonical_name": "Willie Ruff",
+          "name_slug": "willie-ruff",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "1e6856bf-44ec-4279-bc30-b83d37b1d1a4",
+      "title": "Nobody's Heart",
+      "track_number": 4,
+      "side": "A",
+      "duration_text": "4:25",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b77ada85-3d0f-4352-8fb1-01518345a67f",
+          "canonical_name": "Bart Varsalona",
+          "name_slug": "bart-varsalona",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "20a8490d-5a6d-449d-b021-1edb4756a2fc",
+          "canonical_name": "Dave Kurtzer",
+          "name_slug": "dave-kurtzer",
+          "instrument": "bass clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+          "canonical_name": "Gil Evans",
+          "name_slug": "gil-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "37b5f433-79a4-489a-a887-52c6a38673d7",
+          "canonical_name": "Jake Koven",
+          "name_slug": "jake-koven",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "984bc449-da1b-49b6-9aa5-a8e5b8b31f53",
+          "canonical_name": "Jimmy Cleveland",
+          "name_slug": "jimmy-cleveland",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "becdfbba-2a62-45b1-b54f-f478fd5c8888",
+          "canonical_name": "Louis Mucci",
+          "name_slug": "louis-mucci",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6d3926fc-042d-4a54-aed8-b631534b82a9",
+          "canonical_name": "Nick Stabulas",
+          "name_slug": "nick-stabulas",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9016fb7a-aeb5-4a9e-884f-e89b090992e8",
+          "canonical_name": "Steve Lacy",
+          "name_slug": "steve-lacy",
+          "instrument": "soprano saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "124cd9a6-18b2-4773-9b62-6124047b747e",
+          "canonical_name": "Willie Ruff",
+          "name_slug": "willie-ruff",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "1cc5c656-0244-49b4-be3c-8f08fc759135",
+      "title": "Just One of Those Things",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "4:25",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b77ada85-3d0f-4352-8fb1-01518345a67f",
+          "canonical_name": "Bart Varsalona",
+          "name_slug": "bart-varsalona",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "20a8490d-5a6d-449d-b021-1edb4756a2fc",
+          "canonical_name": "Dave Kurtzer",
+          "name_slug": "dave-kurtzer",
+          "instrument": "bass clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+          "canonical_name": "Gil Evans",
+          "name_slug": "gil-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "37b5f433-79a4-489a-a887-52c6a38673d7",
+          "canonical_name": "Jake Koven",
+          "name_slug": "jake-koven",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "984bc449-da1b-49b6-9aa5-a8e5b8b31f53",
+          "canonical_name": "Jimmy Cleveland",
+          "name_slug": "jimmy-cleveland",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "becdfbba-2a62-45b1-b54f-f478fd5c8888",
+          "canonical_name": "Louis Mucci",
+          "name_slug": "louis-mucci",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6d3926fc-042d-4a54-aed8-b631534b82a9",
+          "canonical_name": "Nick Stabulas",
+          "name_slug": "nick-stabulas",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9016fb7a-aeb5-4a9e-884f-e89b090992e8",
+          "canonical_name": "Steve Lacy",
+          "name_slug": "steve-lacy",
+          "instrument": "soprano saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "124cd9a6-18b2-4773-9b62-6124047b747e",
+          "canonical_name": "Willie Ruff",
+          "name_slug": "willie-ruff",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "7be96dc6-f611-4a07-81f2-f0fed4cf773d",
+      "title": "If You Could See Me Now",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "4:18",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b77ada85-3d0f-4352-8fb1-01518345a67f",
+          "canonical_name": "Bart Varsalona",
+          "name_slug": "bart-varsalona",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "20a8490d-5a6d-449d-b021-1edb4756a2fc",
+          "canonical_name": "Dave Kurtzer",
+          "name_slug": "dave-kurtzer",
+          "instrument": "bass clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+          "canonical_name": "Gil Evans",
+          "name_slug": "gil-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "37b5f433-79a4-489a-a887-52c6a38673d7",
+          "canonical_name": "Jake Koven",
+          "name_slug": "jake-koven",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "984bc449-da1b-49b6-9aa5-a8e5b8b31f53",
+          "canonical_name": "Jimmy Cleveland",
+          "name_slug": "jimmy-cleveland",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "becdfbba-2a62-45b1-b54f-f478fd5c8888",
+          "canonical_name": "Louis Mucci",
+          "name_slug": "louis-mucci",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6d3926fc-042d-4a54-aed8-b631534b82a9",
+          "canonical_name": "Nick Stabulas",
+          "name_slug": "nick-stabulas",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9016fb7a-aeb5-4a9e-884f-e89b090992e8",
+          "canonical_name": "Steve Lacy",
+          "name_slug": "steve-lacy",
+          "instrument": "soprano saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "124cd9a6-18b2-4773-9b62-6124047b747e",
+          "canonical_name": "Willie Ruff",
+          "name_slug": "willie-ruff",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "e76021ac-4a58-49ea-abe7-7fa0b2c5b9a5",
+      "title": "Jambangle",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": "4:57",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "b77ada85-3d0f-4352-8fb1-01518345a67f",
+          "canonical_name": "Bart Varsalona",
+          "name_slug": "bart-varsalona",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "20a8490d-5a6d-449d-b021-1edb4756a2fc",
+          "canonical_name": "Dave Kurtzer",
+          "name_slug": "dave-kurtzer",
+          "instrument": "bass clarinet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "221a7595-1fb8-46cf-8bb8-49ca1ec75c0b",
+          "canonical_name": "Gil Evans",
+          "name_slug": "gil-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "37b5f433-79a4-489a-a887-52c6a38673d7",
+          "canonical_name": "Jake Koven",
+          "name_slug": "jake-koven",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "984bc449-da1b-49b6-9aa5-a8e5b8b31f53",
+          "canonical_name": "Jimmy Cleveland",
+          "name_slug": "jimmy-cleveland",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f951512b-15d6-43da-9cea-66cbdcb89ce4",
+          "canonical_name": "Lee Konitz",
+          "name_slug": "lee-konitz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "becdfbba-2a62-45b1-b54f-f478fd5c8888",
+          "canonical_name": "Louis Mucci",
+          "name_slug": "louis-mucci",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6d3926fc-042d-4a54-aed8-b631534b82a9",
+          "canonical_name": "Nick Stabulas",
+          "name_slug": "nick-stabulas",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b9cd0fcb-f0a6-4ecc-85a9-1648a37d31cd",
+          "canonical_name": "Paul Chambers",
+          "name_slug": "paul-chambers",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9016fb7a-aeb5-4a9e-884f-e89b090992e8",
+          "canonical_name": "Steve Lacy",
+          "name_slug": "steve-lacy",
+          "instrument": "soprano saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "124cd9a6-18b2-4773-9b62-6124047b747e",
+          "canonical_name": "Willie Ruff",
+          "name_slug": "willie-ruff",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

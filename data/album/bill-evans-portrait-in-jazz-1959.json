@@ -1,0 +1,330 @@
+{
+  "id": "bill-evans-portrait-in-jazz-1959",
+  "title": "Portrait in Jazz",
+  "artist_name": "Bill Evans",
+  "year": 1959,
+  "label": "Riverside",
+  "catalog_number": "713662",
+  "recording_dates_text": "1959-12-28",
+  "description": null,
+  "style_primary": "modal-jazz",
+  "style_display": "Modal Jazz",
+  "cover_art_url": "http://coverartarchive.org/release/2540a282-7cad-402d-9e92-ae50aa316671/15299228841-500.jpg",
+  "apple_album_id": "1440941536",
+  "studios": [
+    "Reeves Sound Studios, New York City"
+  ],
+  "personnel": [
+    {
+      "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+      "canonical_name": "Bill Evans",
+      "name_slug": "bill-evans",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "2fd4a434-0c6f-4946-8bb7-ee3285637919",
+      "canonical_name": "Paul Motian",
+      "name_slug": "paul-motian",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "3ac96e3b-18a9-40cd-bacb-e467f4c1e99d",
+      "canonical_name": "Scott LaFaro",
+      "name_slug": "scott-lafaro",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "d0e86257-ba16-4466-a1f3-4d5d1fdac943",
+      "title": "Come Rain or Come Shine",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "3:24",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2fd4a434-0c6f-4946-8bb7-ee3285637919",
+          "canonical_name": "Paul Motian",
+          "name_slug": "paul-motian",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3ac96e3b-18a9-40cd-bacb-e467f4c1e99d",
+          "canonical_name": "Scott LaFaro",
+          "name_slug": "scott-lafaro",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "afd1e88b-56dd-4ec0-9f86-b0cfdf4954e1",
+      "title": "Autumn Leaves",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "6:00",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2fd4a434-0c6f-4946-8bb7-ee3285637919",
+          "canonical_name": "Paul Motian",
+          "name_slug": "paul-motian",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3ac96e3b-18a9-40cd-bacb-e467f4c1e99d",
+          "canonical_name": "Scott LaFaro",
+          "name_slug": "scott-lafaro",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "59fb7a74-04c3-4fb0-8b1e-e235d71aa7b4",
+      "title": "Witchcraft",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "4:37",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2fd4a434-0c6f-4946-8bb7-ee3285637919",
+          "canonical_name": "Paul Motian",
+          "name_slug": "paul-motian",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3ac96e3b-18a9-40cd-bacb-e467f4c1e99d",
+          "canonical_name": "Scott LaFaro",
+          "name_slug": "scott-lafaro",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "f103fc57-5b11-4fd6-83d3-cb62e808e963",
+      "title": "When I Fall in Love",
+      "track_number": 4,
+      "side": "A",
+      "duration_text": "4:57",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2fd4a434-0c6f-4946-8bb7-ee3285637919",
+          "canonical_name": "Paul Motian",
+          "name_slug": "paul-motian",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3ac96e3b-18a9-40cd-bacb-e467f4c1e99d",
+          "canonical_name": "Scott LaFaro",
+          "name_slug": "scott-lafaro",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "6d8920a3-7e39-4f04-aef1-bb5c09918ab7",
+      "title": "Peri's Scope",
+      "track_number": 5,
+      "side": "A",
+      "duration_text": "3:15",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2fd4a434-0c6f-4946-8bb7-ee3285637919",
+          "canonical_name": "Paul Motian",
+          "name_slug": "paul-motian",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3ac96e3b-18a9-40cd-bacb-e467f4c1e99d",
+          "canonical_name": "Scott LaFaro",
+          "name_slug": "scott-lafaro",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "38ba728d-3c28-4d30-bc48-87857a3b852f",
+      "title": "What Is This Thing Called Love?",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "4:36",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2fd4a434-0c6f-4946-8bb7-ee3285637919",
+          "canonical_name": "Paul Motian",
+          "name_slug": "paul-motian",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3ac96e3b-18a9-40cd-bacb-e467f4c1e99d",
+          "canonical_name": "Scott LaFaro",
+          "name_slug": "scott-lafaro",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "d231d03e-c137-4374-a328-ee1b3a7e5acd",
+      "title": "Spring Is Here",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": "5:09",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2fd4a434-0c6f-4946-8bb7-ee3285637919",
+          "canonical_name": "Paul Motian",
+          "name_slug": "paul-motian",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3ac96e3b-18a9-40cd-bacb-e467f4c1e99d",
+          "canonical_name": "Scott LaFaro",
+          "name_slug": "scott-lafaro",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "5e6fac56-14b0-4315-b7d7-eb39eac3fc3c",
+      "title": "Someday My Prince Will Come",
+      "track_number": 8,
+      "side": "B",
+      "duration_text": "4:57",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2fd4a434-0c6f-4946-8bb7-ee3285637919",
+          "canonical_name": "Paul Motian",
+          "name_slug": "paul-motian",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3ac96e3b-18a9-40cd-bacb-e467f4c1e99d",
+          "canonical_name": "Scott LaFaro",
+          "name_slug": "scott-lafaro",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "54172c12-248d-4e13-8e1e-8920041e020e",
+      "title": "Blue in Green",
+      "track_number": 9,
+      "side": "B",
+      "duration_text": "5:25",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "626e0fa0-aa19-464c-920b-863292a886c5",
+          "canonical_name": "Bill Evans",
+          "name_slug": "bill-evans",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2fd4a434-0c6f-4946-8bb7-ee3285637919",
+          "canonical_name": "Paul Motian",
+          "name_slug": "paul-motian",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3ac96e3b-18a9-40cd-bacb-e467f4c1e99d",
+          "canonical_name": "Scott LaFaro",
+          "name_slug": "scott-lafaro",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

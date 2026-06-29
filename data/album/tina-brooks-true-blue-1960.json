@@ -1,0 +1,332 @@
+{
+  "id": "tina-brooks-true-blue-1960",
+  "title": "True Blue",
+  "artist_name": "Tina Brooks",
+  "year": 1960,
+  "label": "Blue Note",
+  "catalog_number": "BLP 4041",
+  "recording_dates_text": "1960-06-25",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "http://coverartarchive.org/release/5c3072bb-1f20-42a9-a97e-7e766f66af30/8150811516-500.jpg",
+  "apple_album_id": "1443213355",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+      "canonical_name": "Art Taylor",
+      "name_slug": "art-taylor",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "46af3f93-64b1-4cba-a070-a03329e8793a",
+      "canonical_name": "Duke Jordan",
+      "name_slug": "duke-jordan",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+      "canonical_name": "Freddie Hubbard",
+      "name_slug": "freddie-hubbard",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "6595cff2-5123-4c20-84e6-0de2e898a60e",
+      "canonical_name": "Sam Jones",
+      "name_slug": "sam-jones",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "cbb0a08a-10e8-49e8-9fcc-9fcc08ecab72",
+      "canonical_name": "Tina Brooks",
+      "name_slug": "tina-brooks",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "163ce5f5-5f62-4678-8d8b-409a017ed33e",
+      "title": "Good Old Soul",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "8:07",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "46af3f93-64b1-4cba-a070-a03329e8793a",
+          "canonical_name": "Duke Jordan",
+          "name_slug": "duke-jordan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6595cff2-5123-4c20-84e6-0de2e898a60e",
+          "canonical_name": "Sam Jones",
+          "name_slug": "sam-jones",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cbb0a08a-10e8-49e8-9fcc-9fcc08ecab72",
+          "canonical_name": "Tina Brooks",
+          "name_slug": "tina-brooks",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "8600cbfa-1324-4bba-95bf-29b852fda804",
+      "title": "Up Tight's Creek",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "5:17",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "46af3f93-64b1-4cba-a070-a03329e8793a",
+          "canonical_name": "Duke Jordan",
+          "name_slug": "duke-jordan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6595cff2-5123-4c20-84e6-0de2e898a60e",
+          "canonical_name": "Sam Jones",
+          "name_slug": "sam-jones",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cbb0a08a-10e8-49e8-9fcc-9fcc08ecab72",
+          "canonical_name": "Tina Brooks",
+          "name_slug": "tina-brooks",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "30119bfe-9e25-48ad-986c-07af2619a807",
+      "title": "Theme for Doris",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "5:53",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "46af3f93-64b1-4cba-a070-a03329e8793a",
+          "canonical_name": "Duke Jordan",
+          "name_slug": "duke-jordan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6595cff2-5123-4c20-84e6-0de2e898a60e",
+          "canonical_name": "Sam Jones",
+          "name_slug": "sam-jones",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cbb0a08a-10e8-49e8-9fcc-9fcc08ecab72",
+          "canonical_name": "Tina Brooks",
+          "name_slug": "tina-brooks",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "f5056b79-ed71-4d22-888a-97b5973056d3",
+      "title": "True Blue",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "4:57",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "46af3f93-64b1-4cba-a070-a03329e8793a",
+          "canonical_name": "Duke Jordan",
+          "name_slug": "duke-jordan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6595cff2-5123-4c20-84e6-0de2e898a60e",
+          "canonical_name": "Sam Jones",
+          "name_slug": "sam-jones",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cbb0a08a-10e8-49e8-9fcc-9fcc08ecab72",
+          "canonical_name": "Tina Brooks",
+          "name_slug": "tina-brooks",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "1b6dfabc-b66c-4ea6-85e8-bd8b34afd85b",
+      "title": "Miss Hazel",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "5:32",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "46af3f93-64b1-4cba-a070-a03329e8793a",
+          "canonical_name": "Duke Jordan",
+          "name_slug": "duke-jordan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6595cff2-5123-4c20-84e6-0de2e898a60e",
+          "canonical_name": "Sam Jones",
+          "name_slug": "sam-jones",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cbb0a08a-10e8-49e8-9fcc-9fcc08ecab72",
+          "canonical_name": "Tina Brooks",
+          "name_slug": "tina-brooks",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "42dc921d-59d3-4f78-a48e-2c30e984e727",
+      "title": "Nothing Ever Changes My Love for You",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "7:53",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "cbddc118-03b2-4d59-9f18-aeeab1c3c945",
+          "canonical_name": "Art Taylor",
+          "name_slug": "art-taylor",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "46af3f93-64b1-4cba-a070-a03329e8793a",
+          "canonical_name": "Duke Jordan",
+          "name_slug": "duke-jordan",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "31c51c79-08d0-4ab2-b9d2-8224d5b5301f",
+          "canonical_name": "Freddie Hubbard",
+          "name_slug": "freddie-hubbard",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "6595cff2-5123-4c20-84e6-0de2e898a60e",
+          "canonical_name": "Sam Jones",
+          "name_slug": "sam-jones",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cbb0a08a-10e8-49e8-9fcc-9fcc08ecab72",
+          "canonical_name": "Tina Brooks",
+          "name_slug": "tina-brooks",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

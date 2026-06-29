@@ -1,0 +1,329 @@
+{
+  "id": "kenny-burrell-midnight-blue-1963",
+  "title": "Midnight Blue",
+  "artist_name": "Kenny Burrell",
+  "year": 1963,
+  "label": "Blue Note",
+  "catalog_number": "BLP 4123",
+  "recording_dates_text": "1963-01-08",
+  "description": null,
+  "style_primary": "soul-jazz",
+  "style_display": "Soul Jazz",
+  "cover_art_url": "http://coverartarchive.org/release/fad95885-3da7-4dbd-8969-cb7c26be2e4d/8891786011-500.jpg",
+  "apple_album_id": "724536844",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "db978834-4b73-4186-9eda-838f28ecfe8a",
+      "canonical_name": "Bill English",
+      "name_slug": "bill-english",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "71b7d966-99b4-4902-95fd-df0a59781ed0",
+      "canonical_name": "Kenny Burrell",
+      "name_slug": "kenny-burrell",
+      "instrument": "guitar",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f7a66064-353a-4299-84e5-84058bd11dbb",
+      "canonical_name": "Major Holley",
+      "name_slug": "major-holley",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "a2a473f2-2646-481e-bfd0-7c8e8c5185b1",
+      "canonical_name": "Ray Barretto",
+      "name_slug": "ray-barretto",
+      "instrument": "congas",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "51379ed2-5adc-4da6-b7a6-e70777372e51",
+      "canonical_name": "Stanley Turrentine",
+      "name_slug": "stanley-turrentine",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "17638840-75ec-4df3-a323-fdb33f049495",
+      "title": "Chitlins con Carne",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "5:30",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "db978834-4b73-4186-9eda-838f28ecfe8a",
+          "canonical_name": "Bill English",
+          "name_slug": "bill-english",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "71b7d966-99b4-4902-95fd-df0a59781ed0",
+          "canonical_name": "Kenny Burrell",
+          "name_slug": "kenny-burrell",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f7a66064-353a-4299-84e5-84058bd11dbb",
+          "canonical_name": "Major Holley",
+          "name_slug": "major-holley",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a2a473f2-2646-481e-bfd0-7c8e8c5185b1",
+          "canonical_name": "Ray Barretto",
+          "name_slug": "ray-barretto",
+          "instrument": "congas",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "51379ed2-5adc-4da6-b7a6-e70777372e51",
+          "canonical_name": "Stanley Turrentine",
+          "name_slug": "stanley-turrentine",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "b6ef619a-8864-4e8f-9b5a-afac39725342",
+      "title": "Mule",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "6:56",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "db978834-4b73-4186-9eda-838f28ecfe8a",
+          "canonical_name": "Bill English",
+          "name_slug": "bill-english",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "71b7d966-99b4-4902-95fd-df0a59781ed0",
+          "canonical_name": "Kenny Burrell",
+          "name_slug": "kenny-burrell",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f7a66064-353a-4299-84e5-84058bd11dbb",
+          "canonical_name": "Major Holley",
+          "name_slug": "major-holley",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a2a473f2-2646-481e-bfd0-7c8e8c5185b1",
+          "canonical_name": "Ray Barretto",
+          "name_slug": "ray-barretto",
+          "instrument": "congas",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "51379ed2-5adc-4da6-b7a6-e70777372e51",
+          "canonical_name": "Stanley Turrentine",
+          "name_slug": "stanley-turrentine",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "0399b4ac-481f-4e94-92c1-0eb91341998e",
+      "title": "Soul Lament",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "2:43",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "71b7d966-99b4-4902-95fd-df0a59781ed0",
+          "canonical_name": "Kenny Burrell",
+          "name_slug": "kenny-burrell",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "a719776b-9807-4748-b6dc-7e8e5bc74b77",
+      "title": "Midnight Blue",
+      "track_number": 4,
+      "side": "A",
+      "duration_text": "4:02",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "db978834-4b73-4186-9eda-838f28ecfe8a",
+          "canonical_name": "Bill English",
+          "name_slug": "bill-english",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "71b7d966-99b4-4902-95fd-df0a59781ed0",
+          "canonical_name": "Kenny Burrell",
+          "name_slug": "kenny-burrell",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f7a66064-353a-4299-84e5-84058bd11dbb",
+          "canonical_name": "Major Holley",
+          "name_slug": "major-holley",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a2a473f2-2646-481e-bfd0-7c8e8c5185b1",
+          "canonical_name": "Ray Barretto",
+          "name_slug": "ray-barretto",
+          "instrument": "congas",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "237b663b-0ba9-4279-a24d-9a9a9ffb3039",
+      "title": "Wavy Gravy",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "5:47",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "db978834-4b73-4186-9eda-838f28ecfe8a",
+          "canonical_name": "Bill English",
+          "name_slug": "bill-english",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "71b7d966-99b4-4902-95fd-df0a59781ed0",
+          "canonical_name": "Kenny Burrell",
+          "name_slug": "kenny-burrell",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f7a66064-353a-4299-84e5-84058bd11dbb",
+          "canonical_name": "Major Holley",
+          "name_slug": "major-holley",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a2a473f2-2646-481e-bfd0-7c8e8c5185b1",
+          "canonical_name": "Ray Barretto",
+          "name_slug": "ray-barretto",
+          "instrument": "congas",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "51379ed2-5adc-4da6-b7a6-e70777372e51",
+          "canonical_name": "Stanley Turrentine",
+          "name_slug": "stanley-turrentine",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "81820e61-68e4-4b69-9087-6aca1538a871",
+      "title": "Gee, Baby, Ain't I Good to You",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "4:25",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "db978834-4b73-4186-9eda-838f28ecfe8a",
+          "canonical_name": "Bill English",
+          "name_slug": "bill-english",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "71b7d966-99b4-4902-95fd-df0a59781ed0",
+          "canonical_name": "Kenny Burrell",
+          "name_slug": "kenny-burrell",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f7a66064-353a-4299-84e5-84058bd11dbb",
+          "canonical_name": "Major Holley",
+          "name_slug": "major-holley",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "01eb24c7-3361-48bc-8b73-a565e849b67c",
+      "title": "Saturday Night Blues",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": "6:16",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "db978834-4b73-4186-9eda-838f28ecfe8a",
+          "canonical_name": "Bill English",
+          "name_slug": "bill-english",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "71b7d966-99b4-4902-95fd-df0a59781ed0",
+          "canonical_name": "Kenny Burrell",
+          "name_slug": "kenny-burrell",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f7a66064-353a-4299-84e5-84058bd11dbb",
+          "canonical_name": "Major Holley",
+          "name_slug": "major-holley",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a2a473f2-2646-481e-bfd0-7c8e8c5185b1",
+          "canonical_name": "Ray Barretto",
+          "name_slug": "ray-barretto",
+          "instrument": "congas",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "51379ed2-5adc-4da6-b7a6-e70777372e51",
+          "canonical_name": "Stanley Turrentine",
+          "name_slug": "stanley-turrentine",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

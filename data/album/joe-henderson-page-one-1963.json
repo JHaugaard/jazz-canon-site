@@ -1,0 +1,332 @@
+{
+  "id": "joe-henderson-page-one-1963",
+  "title": "Page One",
+  "artist_name": "Joe Henderson",
+  "year": 1963,
+  "label": "Blue Note",
+  "catalog_number": "BLP 4140",
+  "recording_dates_text": "1963-06-03",
+  "description": null,
+  "style_primary": "hard-bop",
+  "style_display": "Hard Bop",
+  "cover_art_url": "https://coverartarchive.org/release-group/b8387a4b-fd1a-3b68-bdba-95ec30962428/front",
+  "apple_album_id": "1444001655",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "58bd4cae-1657-4cc4-9932-d23f445c117b",
+      "canonical_name": "Butch Warren",
+      "name_slug": "butch-warren",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+      "canonical_name": "Joe Henderson",
+      "name_slug": "joe-henderson",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+      "canonical_name": "Kenny Dorham",
+      "name_slug": "kenny-dorham",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+      "canonical_name": "McCoy Tyner",
+      "name_slug": "mccoy-tyner",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "e6ceedf8-c813-4ac7-a07d-da88f9090872",
+      "canonical_name": "Pete La Roca",
+      "name_slug": "pete-la-roca",
+      "instrument": "drums",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "867a17b3-e0ae-459e-ab42-675903db5fd5",
+      "title": "Blue Bossa",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "8:03",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "58bd4cae-1657-4cc4-9932-d23f445c117b",
+          "canonical_name": "Butch Warren",
+          "name_slug": "butch-warren",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+          "canonical_name": "Kenny Dorham",
+          "name_slug": "kenny-dorham",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e6ceedf8-c813-4ac7-a07d-da88f9090872",
+          "canonical_name": "Pete La Roca",
+          "name_slug": "pete-la-roca",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "d0b0e644-ca6f-4d68-bf49-1a0e40a8eef1",
+      "title": "La Mesha",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "9:10",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "58bd4cae-1657-4cc4-9932-d23f445c117b",
+          "canonical_name": "Butch Warren",
+          "name_slug": "butch-warren",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+          "canonical_name": "Kenny Dorham",
+          "name_slug": "kenny-dorham",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e6ceedf8-c813-4ac7-a07d-da88f9090872",
+          "canonical_name": "Pete La Roca",
+          "name_slug": "pete-la-roca",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "8e4646ae-1647-49ef-837b-31a0679730f4",
+      "title": "Homestretch",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "4:15",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "58bd4cae-1657-4cc4-9932-d23f445c117b",
+          "canonical_name": "Butch Warren",
+          "name_slug": "butch-warren",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+          "canonical_name": "Kenny Dorham",
+          "name_slug": "kenny-dorham",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e6ceedf8-c813-4ac7-a07d-da88f9090872",
+          "canonical_name": "Pete La Roca",
+          "name_slug": "pete-la-roca",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "a6e13015-02e4-4f19-b422-28c7c46bc0f8",
+      "title": "Recorda Me",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "6:03",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "58bd4cae-1657-4cc4-9932-d23f445c117b",
+          "canonical_name": "Butch Warren",
+          "name_slug": "butch-warren",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+          "canonical_name": "Kenny Dorham",
+          "name_slug": "kenny-dorham",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e6ceedf8-c813-4ac7-a07d-da88f9090872",
+          "canonical_name": "Pete La Roca",
+          "name_slug": "pete-la-roca",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "a2696141-1040-44f2-9dcc-88b72ee14420",
+      "title": "Jinrikisha",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "7:24",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "58bd4cae-1657-4cc4-9932-d23f445c117b",
+          "canonical_name": "Butch Warren",
+          "name_slug": "butch-warren",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+          "canonical_name": "Kenny Dorham",
+          "name_slug": "kenny-dorham",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e6ceedf8-c813-4ac7-a07d-da88f9090872",
+          "canonical_name": "Pete La Roca",
+          "name_slug": "pete-la-roca",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "d805e8e2-1341-4b0e-b488-21a38b9e4ccc",
+      "title": "Out of the Night",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "7:23",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "58bd4cae-1657-4cc4-9932-d23f445c117b",
+          "canonical_name": "Butch Warren",
+          "name_slug": "butch-warren",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "68821753-073f-415d-9d32-099fc59f615b",
+          "canonical_name": "Kenny Dorham",
+          "name_slug": "kenny-dorham",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60b2f6cc-2820-44ed-bf09-d9e6e5ca2142",
+          "canonical_name": "McCoy Tyner",
+          "name_slug": "mccoy-tyner",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e6ceedf8-c813-4ac7-a07d-da88f9090872",
+          "canonical_name": "Pete La Roca",
+          "name_slug": "pete-la-roca",
+          "instrument": "drums",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

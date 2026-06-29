@@ -1,0 +1,1306 @@
+{
+  "id": "stan-kenton-contemporary-concepts-1955",
+  "title": "Contemporary Concepts",
+  "artist_name": "Stan Kenton",
+  "year": 1955,
+  "label": "Capitol",
+  "catalog_number": "7243 5 42310 2 5",
+  "recording_dates_text": "1955-07-20, 1955-07-22",
+  "description": null,
+  "style_primary": "cool-jazz",
+  "style_display": "Cool Jazz",
+  "cover_art_url": "https://coverartarchive.org/release-group/4e869be5-6aa3-4a5f-b98a-b941cad0da5d/front",
+  "apple_album_id": "724725519",
+  "studios": [
+    "Universal Recording, Chicago, IL"
+  ],
+  "personnel": [
+    {
+      "person_id": "9ccf42e5-6933-4dda-920e-83352d8da59f",
+      "canonical_name": "Al Porcino",
+      "name_slug": "al-porcino",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "82ebc36b-1d8f-4387-bf7e-06022e040595",
+      "canonical_name": "Bill Perkins",
+      "name_slug": "bill-perkins",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "ecd01ff1-5239-4687-87f8-c562d041c3e1",
+      "canonical_name": "Bob Fitzpatrick",
+      "name_slug": "bob-fitzpatrick",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "44fadd51-8149-4a47-9b1c-6b81811bda06",
+      "canonical_name": "Bobby Clark",
+      "name_slug": "bobby-clark",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "9097c9ba-6e65-4105-97b0-ecf240f127b5",
+      "canonical_name": "Carl Fontana",
+      "name_slug": "carl-fontana",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "371ff410-8b54-4ab3-a562-622ed59b6dc9",
+      "canonical_name": "Charlie Mariano",
+      "name_slug": "charlie-mariano",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "76790dbb-7222-4715-b5d7-ee794dbeb28e",
+      "canonical_name": "David van Kriedt",
+      "name_slug": "david-van-kriedt",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "b4e80f44-ee3d-4156-99d3-333539b5f974",
+      "canonical_name": "Don Davidson",
+      "name_slug": "don-davidson",
+      "instrument": "baritone saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "7258a736-2ab5-4725-bee4-634633683b4f",
+      "canonical_name": "Don Kelly",
+      "name_slug": "don-kelly",
+      "instrument": "bass trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "1882b787-6412-4679-8308-00a0c4e198b3",
+      "canonical_name": "Ed Leddy",
+      "name_slug": "ed-leddy",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "acf0b2a0-d299-4b18-ab23-1eaf3148a6c9",
+      "canonical_name": "Gus Chappell",
+      "name_slug": "gus-chappell",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "26c4d363-2835-4c9f-b799-ff4b0c8e3aba",
+      "canonical_name": "Kent Larsen",
+      "name_slug": "kent-larsen",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "4bdf8027-feea-4589-94c8-60dbb19b1c5b",
+      "canonical_name": "Lennie Niehaus",
+      "name_slug": "lennie-niehaus",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "f07327ea-4dd1-42d6-86ea-374975f543e2",
+      "canonical_name": "Max Bennett",
+      "name_slug": "max-bennett",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+      "canonical_name": "Mel Lewis",
+      "name_slug": "mel-lewis",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "ec7e321e-34d3-4c5e-9cd9-d4ff4739820a",
+      "canonical_name": "Ralph Blaze",
+      "name_slug": "ralph-blaze",
+      "instrument": "guitar",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "7700fa4b-f5db-469d-81d9-cb1028f09b02",
+      "canonical_name": "Sam Noto",
+      "name_slug": "sam-noto",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "078533f5-ffb1-4221-9517-ab53611065b7",
+      "canonical_name": "Stan Kenton",
+      "name_slug": "stan-kenton",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "06c909fe-f317-40d5-8805-ae5b6a5397b6",
+      "canonical_name": "Stu Williamson",
+      "name_slug": "stu-williamson",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "0b14dc77-67fe-4dde-80a8-29ea54a0edcc",
+      "title": "What's New?",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": "5:43",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "9ccf42e5-6933-4dda-920e-83352d8da59f",
+          "canonical_name": "Al Porcino",
+          "name_slug": "al-porcino",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "82ebc36b-1d8f-4387-bf7e-06022e040595",
+          "canonical_name": "Bill Perkins",
+          "name_slug": "bill-perkins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ecd01ff1-5239-4687-87f8-c562d041c3e1",
+          "canonical_name": "Bob Fitzpatrick",
+          "name_slug": "bob-fitzpatrick",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "44fadd51-8149-4a47-9b1c-6b81811bda06",
+          "canonical_name": "Bobby Clark",
+          "name_slug": "bobby-clark",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9097c9ba-6e65-4105-97b0-ecf240f127b5",
+          "canonical_name": "Carl Fontana",
+          "name_slug": "carl-fontana",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "371ff410-8b54-4ab3-a562-622ed59b6dc9",
+          "canonical_name": "Charlie Mariano",
+          "name_slug": "charlie-mariano",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "76790dbb-7222-4715-b5d7-ee794dbeb28e",
+          "canonical_name": "David van Kriedt",
+          "name_slug": "david-van-kriedt",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b4e80f44-ee3d-4156-99d3-333539b5f974",
+          "canonical_name": "Don Davidson",
+          "name_slug": "don-davidson",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7258a736-2ab5-4725-bee4-634633683b4f",
+          "canonical_name": "Don Kelly",
+          "name_slug": "don-kelly",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1882b787-6412-4679-8308-00a0c4e198b3",
+          "canonical_name": "Ed Leddy",
+          "name_slug": "ed-leddy",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "acf0b2a0-d299-4b18-ab23-1eaf3148a6c9",
+          "canonical_name": "Gus Chappell",
+          "name_slug": "gus-chappell",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "26c4d363-2835-4c9f-b799-ff4b0c8e3aba",
+          "canonical_name": "Kent Larsen",
+          "name_slug": "kent-larsen",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4bdf8027-feea-4589-94c8-60dbb19b1c5b",
+          "canonical_name": "Lennie Niehaus",
+          "name_slug": "lennie-niehaus",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f07327ea-4dd1-42d6-86ea-374975f543e2",
+          "canonical_name": "Max Bennett",
+          "name_slug": "max-bennett",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+          "canonical_name": "Mel Lewis",
+          "name_slug": "mel-lewis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ec7e321e-34d3-4c5e-9cd9-d4ff4739820a",
+          "canonical_name": "Ralph Blaze",
+          "name_slug": "ralph-blaze",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7700fa4b-f5db-469d-81d9-cb1028f09b02",
+          "canonical_name": "Sam Noto",
+          "name_slug": "sam-noto",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "078533f5-ffb1-4221-9517-ab53611065b7",
+          "canonical_name": "Stan Kenton",
+          "name_slug": "stan-kenton",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "06c909fe-f317-40d5-8805-ae5b6a5397b6",
+          "canonical_name": "Stu Williamson",
+          "name_slug": "stu-williamson",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "fedda961-2c1d-4030-92d7-9f63277be9d5",
+      "title": "Stella by Starlight",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "5:11",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "9ccf42e5-6933-4dda-920e-83352d8da59f",
+          "canonical_name": "Al Porcino",
+          "name_slug": "al-porcino",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "82ebc36b-1d8f-4387-bf7e-06022e040595",
+          "canonical_name": "Bill Perkins",
+          "name_slug": "bill-perkins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ecd01ff1-5239-4687-87f8-c562d041c3e1",
+          "canonical_name": "Bob Fitzpatrick",
+          "name_slug": "bob-fitzpatrick",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "44fadd51-8149-4a47-9b1c-6b81811bda06",
+          "canonical_name": "Bobby Clark",
+          "name_slug": "bobby-clark",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9097c9ba-6e65-4105-97b0-ecf240f127b5",
+          "canonical_name": "Carl Fontana",
+          "name_slug": "carl-fontana",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "371ff410-8b54-4ab3-a562-622ed59b6dc9",
+          "canonical_name": "Charlie Mariano",
+          "name_slug": "charlie-mariano",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "76790dbb-7222-4715-b5d7-ee794dbeb28e",
+          "canonical_name": "David van Kriedt",
+          "name_slug": "david-van-kriedt",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b4e80f44-ee3d-4156-99d3-333539b5f974",
+          "canonical_name": "Don Davidson",
+          "name_slug": "don-davidson",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7258a736-2ab5-4725-bee4-634633683b4f",
+          "canonical_name": "Don Kelly",
+          "name_slug": "don-kelly",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1882b787-6412-4679-8308-00a0c4e198b3",
+          "canonical_name": "Ed Leddy",
+          "name_slug": "ed-leddy",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "acf0b2a0-d299-4b18-ab23-1eaf3148a6c9",
+          "canonical_name": "Gus Chappell",
+          "name_slug": "gus-chappell",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "26c4d363-2835-4c9f-b799-ff4b0c8e3aba",
+          "canonical_name": "Kent Larsen",
+          "name_slug": "kent-larsen",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4bdf8027-feea-4589-94c8-60dbb19b1c5b",
+          "canonical_name": "Lennie Niehaus",
+          "name_slug": "lennie-niehaus",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f07327ea-4dd1-42d6-86ea-374975f543e2",
+          "canonical_name": "Max Bennett",
+          "name_slug": "max-bennett",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+          "canonical_name": "Mel Lewis",
+          "name_slug": "mel-lewis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ec7e321e-34d3-4c5e-9cd9-d4ff4739820a",
+          "canonical_name": "Ralph Blaze",
+          "name_slug": "ralph-blaze",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7700fa4b-f5db-469d-81d9-cb1028f09b02",
+          "canonical_name": "Sam Noto",
+          "name_slug": "sam-noto",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "078533f5-ffb1-4221-9517-ab53611065b7",
+          "canonical_name": "Stan Kenton",
+          "name_slug": "stan-kenton",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "06c909fe-f317-40d5-8805-ae5b6a5397b6",
+          "canonical_name": "Stu Williamson",
+          "name_slug": "stu-williamson",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "62a9e61d-a90e-490e-acd6-81997762aaaf",
+      "title": "I've Got You Under My Skin",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "5:30",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "9ccf42e5-6933-4dda-920e-83352d8da59f",
+          "canonical_name": "Al Porcino",
+          "name_slug": "al-porcino",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "82ebc36b-1d8f-4387-bf7e-06022e040595",
+          "canonical_name": "Bill Perkins",
+          "name_slug": "bill-perkins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ecd01ff1-5239-4687-87f8-c562d041c3e1",
+          "canonical_name": "Bob Fitzpatrick",
+          "name_slug": "bob-fitzpatrick",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "44fadd51-8149-4a47-9b1c-6b81811bda06",
+          "canonical_name": "Bobby Clark",
+          "name_slug": "bobby-clark",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9097c9ba-6e65-4105-97b0-ecf240f127b5",
+          "canonical_name": "Carl Fontana",
+          "name_slug": "carl-fontana",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "371ff410-8b54-4ab3-a562-622ed59b6dc9",
+          "canonical_name": "Charlie Mariano",
+          "name_slug": "charlie-mariano",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "76790dbb-7222-4715-b5d7-ee794dbeb28e",
+          "canonical_name": "David van Kriedt",
+          "name_slug": "david-van-kriedt",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b4e80f44-ee3d-4156-99d3-333539b5f974",
+          "canonical_name": "Don Davidson",
+          "name_slug": "don-davidson",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7258a736-2ab5-4725-bee4-634633683b4f",
+          "canonical_name": "Don Kelly",
+          "name_slug": "don-kelly",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1882b787-6412-4679-8308-00a0c4e198b3",
+          "canonical_name": "Ed Leddy",
+          "name_slug": "ed-leddy",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "acf0b2a0-d299-4b18-ab23-1eaf3148a6c9",
+          "canonical_name": "Gus Chappell",
+          "name_slug": "gus-chappell",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "26c4d363-2835-4c9f-b799-ff4b0c8e3aba",
+          "canonical_name": "Kent Larsen",
+          "name_slug": "kent-larsen",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4bdf8027-feea-4589-94c8-60dbb19b1c5b",
+          "canonical_name": "Lennie Niehaus",
+          "name_slug": "lennie-niehaus",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f07327ea-4dd1-42d6-86ea-374975f543e2",
+          "canonical_name": "Max Bennett",
+          "name_slug": "max-bennett",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+          "canonical_name": "Mel Lewis",
+          "name_slug": "mel-lewis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ec7e321e-34d3-4c5e-9cd9-d4ff4739820a",
+          "canonical_name": "Ralph Blaze",
+          "name_slug": "ralph-blaze",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7700fa4b-f5db-469d-81d9-cb1028f09b02",
+          "canonical_name": "Sam Noto",
+          "name_slug": "sam-noto",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "078533f5-ffb1-4221-9517-ab53611065b7",
+          "canonical_name": "Stan Kenton",
+          "name_slug": "stan-kenton",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "06c909fe-f317-40d5-8805-ae5b6a5397b6",
+          "canonical_name": "Stu Williamson",
+          "name_slug": "stu-williamson",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "f5fd9bda-a2c6-4085-8f16-5fde97e85a46",
+      "title": "Cherokee",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": "3:06",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "9ccf42e5-6933-4dda-920e-83352d8da59f",
+          "canonical_name": "Al Porcino",
+          "name_slug": "al-porcino",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "82ebc36b-1d8f-4387-bf7e-06022e040595",
+          "canonical_name": "Bill Perkins",
+          "name_slug": "bill-perkins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ecd01ff1-5239-4687-87f8-c562d041c3e1",
+          "canonical_name": "Bob Fitzpatrick",
+          "name_slug": "bob-fitzpatrick",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "44fadd51-8149-4a47-9b1c-6b81811bda06",
+          "canonical_name": "Bobby Clark",
+          "name_slug": "bobby-clark",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9097c9ba-6e65-4105-97b0-ecf240f127b5",
+          "canonical_name": "Carl Fontana",
+          "name_slug": "carl-fontana",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "371ff410-8b54-4ab3-a562-622ed59b6dc9",
+          "canonical_name": "Charlie Mariano",
+          "name_slug": "charlie-mariano",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "76790dbb-7222-4715-b5d7-ee794dbeb28e",
+          "canonical_name": "David van Kriedt",
+          "name_slug": "david-van-kriedt",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b4e80f44-ee3d-4156-99d3-333539b5f974",
+          "canonical_name": "Don Davidson",
+          "name_slug": "don-davidson",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7258a736-2ab5-4725-bee4-634633683b4f",
+          "canonical_name": "Don Kelly",
+          "name_slug": "don-kelly",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1882b787-6412-4679-8308-00a0c4e198b3",
+          "canonical_name": "Ed Leddy",
+          "name_slug": "ed-leddy",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "acf0b2a0-d299-4b18-ab23-1eaf3148a6c9",
+          "canonical_name": "Gus Chappell",
+          "name_slug": "gus-chappell",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "26c4d363-2835-4c9f-b799-ff4b0c8e3aba",
+          "canonical_name": "Kent Larsen",
+          "name_slug": "kent-larsen",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4bdf8027-feea-4589-94c8-60dbb19b1c5b",
+          "canonical_name": "Lennie Niehaus",
+          "name_slug": "lennie-niehaus",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f07327ea-4dd1-42d6-86ea-374975f543e2",
+          "canonical_name": "Max Bennett",
+          "name_slug": "max-bennett",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+          "canonical_name": "Mel Lewis",
+          "name_slug": "mel-lewis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ec7e321e-34d3-4c5e-9cd9-d4ff4739820a",
+          "canonical_name": "Ralph Blaze",
+          "name_slug": "ralph-blaze",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7700fa4b-f5db-469d-81d9-cb1028f09b02",
+          "canonical_name": "Sam Noto",
+          "name_slug": "sam-noto",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "078533f5-ffb1-4221-9517-ab53611065b7",
+          "canonical_name": "Stan Kenton",
+          "name_slug": "stan-kenton",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "06c909fe-f317-40d5-8805-ae5b6a5397b6",
+          "canonical_name": "Stu Williamson",
+          "name_slug": "stu-williamson",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "8ba9bdd5-43ba-441d-ad22-4421274ce7e3",
+      "title": "Stompin' at the Savoy",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": "4:36",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "9ccf42e5-6933-4dda-920e-83352d8da59f",
+          "canonical_name": "Al Porcino",
+          "name_slug": "al-porcino",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "82ebc36b-1d8f-4387-bf7e-06022e040595",
+          "canonical_name": "Bill Perkins",
+          "name_slug": "bill-perkins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ecd01ff1-5239-4687-87f8-c562d041c3e1",
+          "canonical_name": "Bob Fitzpatrick",
+          "name_slug": "bob-fitzpatrick",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "44fadd51-8149-4a47-9b1c-6b81811bda06",
+          "canonical_name": "Bobby Clark",
+          "name_slug": "bobby-clark",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9097c9ba-6e65-4105-97b0-ecf240f127b5",
+          "canonical_name": "Carl Fontana",
+          "name_slug": "carl-fontana",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "371ff410-8b54-4ab3-a562-622ed59b6dc9",
+          "canonical_name": "Charlie Mariano",
+          "name_slug": "charlie-mariano",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "76790dbb-7222-4715-b5d7-ee794dbeb28e",
+          "canonical_name": "David van Kriedt",
+          "name_slug": "david-van-kriedt",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b4e80f44-ee3d-4156-99d3-333539b5f974",
+          "canonical_name": "Don Davidson",
+          "name_slug": "don-davidson",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7258a736-2ab5-4725-bee4-634633683b4f",
+          "canonical_name": "Don Kelly",
+          "name_slug": "don-kelly",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1882b787-6412-4679-8308-00a0c4e198b3",
+          "canonical_name": "Ed Leddy",
+          "name_slug": "ed-leddy",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "acf0b2a0-d299-4b18-ab23-1eaf3148a6c9",
+          "canonical_name": "Gus Chappell",
+          "name_slug": "gus-chappell",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "26c4d363-2835-4c9f-b799-ff4b0c8e3aba",
+          "canonical_name": "Kent Larsen",
+          "name_slug": "kent-larsen",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4bdf8027-feea-4589-94c8-60dbb19b1c5b",
+          "canonical_name": "Lennie Niehaus",
+          "name_slug": "lennie-niehaus",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f07327ea-4dd1-42d6-86ea-374975f543e2",
+          "canonical_name": "Max Bennett",
+          "name_slug": "max-bennett",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+          "canonical_name": "Mel Lewis",
+          "name_slug": "mel-lewis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ec7e321e-34d3-4c5e-9cd9-d4ff4739820a",
+          "canonical_name": "Ralph Blaze",
+          "name_slug": "ralph-blaze",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7700fa4b-f5db-469d-81d9-cb1028f09b02",
+          "canonical_name": "Sam Noto",
+          "name_slug": "sam-noto",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "078533f5-ffb1-4221-9517-ab53611065b7",
+          "canonical_name": "Stan Kenton",
+          "name_slug": "stan-kenton",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "06c909fe-f317-40d5-8805-ae5b6a5397b6",
+          "canonical_name": "Stu Williamson",
+          "name_slug": "stu-williamson",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "3be50d41-31dc-4521-b2dc-5455998693e9",
+      "title": "Yesterdays",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "5:37",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "9ccf42e5-6933-4dda-920e-83352d8da59f",
+          "canonical_name": "Al Porcino",
+          "name_slug": "al-porcino",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "82ebc36b-1d8f-4387-bf7e-06022e040595",
+          "canonical_name": "Bill Perkins",
+          "name_slug": "bill-perkins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ecd01ff1-5239-4687-87f8-c562d041c3e1",
+          "canonical_name": "Bob Fitzpatrick",
+          "name_slug": "bob-fitzpatrick",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "44fadd51-8149-4a47-9b1c-6b81811bda06",
+          "canonical_name": "Bobby Clark",
+          "name_slug": "bobby-clark",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9097c9ba-6e65-4105-97b0-ecf240f127b5",
+          "canonical_name": "Carl Fontana",
+          "name_slug": "carl-fontana",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "371ff410-8b54-4ab3-a562-622ed59b6dc9",
+          "canonical_name": "Charlie Mariano",
+          "name_slug": "charlie-mariano",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "76790dbb-7222-4715-b5d7-ee794dbeb28e",
+          "canonical_name": "David van Kriedt",
+          "name_slug": "david-van-kriedt",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b4e80f44-ee3d-4156-99d3-333539b5f974",
+          "canonical_name": "Don Davidson",
+          "name_slug": "don-davidson",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7258a736-2ab5-4725-bee4-634633683b4f",
+          "canonical_name": "Don Kelly",
+          "name_slug": "don-kelly",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1882b787-6412-4679-8308-00a0c4e198b3",
+          "canonical_name": "Ed Leddy",
+          "name_slug": "ed-leddy",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "acf0b2a0-d299-4b18-ab23-1eaf3148a6c9",
+          "canonical_name": "Gus Chappell",
+          "name_slug": "gus-chappell",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "26c4d363-2835-4c9f-b799-ff4b0c8e3aba",
+          "canonical_name": "Kent Larsen",
+          "name_slug": "kent-larsen",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4bdf8027-feea-4589-94c8-60dbb19b1c5b",
+          "canonical_name": "Lennie Niehaus",
+          "name_slug": "lennie-niehaus",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f07327ea-4dd1-42d6-86ea-374975f543e2",
+          "canonical_name": "Max Bennett",
+          "name_slug": "max-bennett",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+          "canonical_name": "Mel Lewis",
+          "name_slug": "mel-lewis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ec7e321e-34d3-4c5e-9cd9-d4ff4739820a",
+          "canonical_name": "Ralph Blaze",
+          "name_slug": "ralph-blaze",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7700fa4b-f5db-469d-81d9-cb1028f09b02",
+          "canonical_name": "Sam Noto",
+          "name_slug": "sam-noto",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "078533f5-ffb1-4221-9517-ab53611065b7",
+          "canonical_name": "Stan Kenton",
+          "name_slug": "stan-kenton",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "06c909fe-f317-40d5-8805-ae5b6a5397b6",
+          "canonical_name": "Stu Williamson",
+          "name_slug": "stu-williamson",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "da8cc3ea-48a2-46da-b88f-e684a64a5584",
+      "title": "Limelight",
+      "track_number": 7,
+      "side": null,
+      "duration_text": "3:08",
+      "apple_track_id": null,
+      "epistemic_track": "unk",
+      "personnel": [
+        {
+          "person_id": "9ccf42e5-6933-4dda-920e-83352d8da59f",
+          "canonical_name": "Al Porcino",
+          "name_slug": "al-porcino",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "82ebc36b-1d8f-4387-bf7e-06022e040595",
+          "canonical_name": "Bill Perkins",
+          "name_slug": "bill-perkins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ecd01ff1-5239-4687-87f8-c562d041c3e1",
+          "canonical_name": "Bob Fitzpatrick",
+          "name_slug": "bob-fitzpatrick",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "44fadd51-8149-4a47-9b1c-6b81811bda06",
+          "canonical_name": "Bobby Clark",
+          "name_slug": "bobby-clark",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9097c9ba-6e65-4105-97b0-ecf240f127b5",
+          "canonical_name": "Carl Fontana",
+          "name_slug": "carl-fontana",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "371ff410-8b54-4ab3-a562-622ed59b6dc9",
+          "canonical_name": "Charlie Mariano",
+          "name_slug": "charlie-mariano",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "76790dbb-7222-4715-b5d7-ee794dbeb28e",
+          "canonical_name": "David van Kriedt",
+          "name_slug": "david-van-kriedt",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b4e80f44-ee3d-4156-99d3-333539b5f974",
+          "canonical_name": "Don Davidson",
+          "name_slug": "don-davidson",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7258a736-2ab5-4725-bee4-634633683b4f",
+          "canonical_name": "Don Kelly",
+          "name_slug": "don-kelly",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1882b787-6412-4679-8308-00a0c4e198b3",
+          "canonical_name": "Ed Leddy",
+          "name_slug": "ed-leddy",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "acf0b2a0-d299-4b18-ab23-1eaf3148a6c9",
+          "canonical_name": "Gus Chappell",
+          "name_slug": "gus-chappell",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "26c4d363-2835-4c9f-b799-ff4b0c8e3aba",
+          "canonical_name": "Kent Larsen",
+          "name_slug": "kent-larsen",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4bdf8027-feea-4589-94c8-60dbb19b1c5b",
+          "canonical_name": "Lennie Niehaus",
+          "name_slug": "lennie-niehaus",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f07327ea-4dd1-42d6-86ea-374975f543e2",
+          "canonical_name": "Max Bennett",
+          "name_slug": "max-bennett",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+          "canonical_name": "Mel Lewis",
+          "name_slug": "mel-lewis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ec7e321e-34d3-4c5e-9cd9-d4ff4739820a",
+          "canonical_name": "Ralph Blaze",
+          "name_slug": "ralph-blaze",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7700fa4b-f5db-469d-81d9-cb1028f09b02",
+          "canonical_name": "Sam Noto",
+          "name_slug": "sam-noto",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "078533f5-ffb1-4221-9517-ab53611065b7",
+          "canonical_name": "Stan Kenton",
+          "name_slug": "stan-kenton",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "06c909fe-f317-40d5-8805-ae5b6a5397b6",
+          "canonical_name": "Stu Williamson",
+          "name_slug": "stu-williamson",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "e580126d-d440-49b1-938b-9439b96549ff",
+      "title": "Sunset Tower",
+      "track_number": 8,
+      "side": null,
+      "duration_text": "3:11",
+      "apple_track_id": null,
+      "epistemic_track": "unk",
+      "personnel": [
+        {
+          "person_id": "9ccf42e5-6933-4dda-920e-83352d8da59f",
+          "canonical_name": "Al Porcino",
+          "name_slug": "al-porcino",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "82ebc36b-1d8f-4387-bf7e-06022e040595",
+          "canonical_name": "Bill Perkins",
+          "name_slug": "bill-perkins",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ecd01ff1-5239-4687-87f8-c562d041c3e1",
+          "canonical_name": "Bob Fitzpatrick",
+          "name_slug": "bob-fitzpatrick",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "44fadd51-8149-4a47-9b1c-6b81811bda06",
+          "canonical_name": "Bobby Clark",
+          "name_slug": "bobby-clark",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9097c9ba-6e65-4105-97b0-ecf240f127b5",
+          "canonical_name": "Carl Fontana",
+          "name_slug": "carl-fontana",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "371ff410-8b54-4ab3-a562-622ed59b6dc9",
+          "canonical_name": "Charlie Mariano",
+          "name_slug": "charlie-mariano",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "76790dbb-7222-4715-b5d7-ee794dbeb28e",
+          "canonical_name": "David van Kriedt",
+          "name_slug": "david-van-kriedt",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "b4e80f44-ee3d-4156-99d3-333539b5f974",
+          "canonical_name": "Don Davidson",
+          "name_slug": "don-davidson",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7258a736-2ab5-4725-bee4-634633683b4f",
+          "canonical_name": "Don Kelly",
+          "name_slug": "don-kelly",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1882b787-6412-4679-8308-00a0c4e198b3",
+          "canonical_name": "Ed Leddy",
+          "name_slug": "ed-leddy",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "acf0b2a0-d299-4b18-ab23-1eaf3148a6c9",
+          "canonical_name": "Gus Chappell",
+          "name_slug": "gus-chappell",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "26c4d363-2835-4c9f-b799-ff4b0c8e3aba",
+          "canonical_name": "Kent Larsen",
+          "name_slug": "kent-larsen",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4bdf8027-feea-4589-94c8-60dbb19b1c5b",
+          "canonical_name": "Lennie Niehaus",
+          "name_slug": "lennie-niehaus",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f07327ea-4dd1-42d6-86ea-374975f543e2",
+          "canonical_name": "Max Bennett",
+          "name_slug": "max-bennett",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a1fc23a5-a425-4bfa-8040-cb50e397c75c",
+          "canonical_name": "Mel Lewis",
+          "name_slug": "mel-lewis",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ec7e321e-34d3-4c5e-9cd9-d4ff4739820a",
+          "canonical_name": "Ralph Blaze",
+          "name_slug": "ralph-blaze",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7700fa4b-f5db-469d-81d9-cb1028f09b02",
+          "canonical_name": "Sam Noto",
+          "name_slug": "sam-noto",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "078533f5-ffb1-4221-9517-ab53611065b7",
+          "canonical_name": "Stan Kenton",
+          "name_slug": "stan-kenton",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "06c909fe-f317-40d5-8805-ae5b6a5397b6",
+          "canonical_name": "Stu Williamson",
+          "name_slug": "stu-williamson",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}

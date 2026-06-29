@@ -1,0 +1,283 @@
+{
+  "id": "wayne-shorter-adams-apple-1966",
+  "title": "Adam's Apple",
+  "artist_name": "Wayne Shorter",
+  "year": 1966,
+  "label": "Blue Note",
+  "catalog_number": "BLP 4232",
+  "recording_dates_text": "1966-02-03, 1966-02-24",
+  "description": null,
+  "style_primary": "post-bop",
+  "style_display": "Post-Bop",
+  "cover_art_url": "http://coverartarchive.org/release/4edb0647-e195-4101-b496-0f949e14983b/32177355178-500.jpg",
+  "apple_album_id": "1443300056",
+  "studios": [
+    "Van Gelder Studio, Englewood Cliffs, New Jersey"
+  ],
+  "personnel": [
+    {
+      "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+      "canonical_name": "Herbie Hancock",
+      "name_slug": "herbie-hancock",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "3f42e6c3-2181-4353-a4c7-2798af96fa68",
+      "canonical_name": "Joe Chambers",
+      "name_slug": "joe-chambers",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+      "canonical_name": "Reggie Workman",
+      "name_slug": "reggie-workman",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+      "canonical_name": "Wayne Shorter",
+      "name_slug": "wayne-shorter",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": "73656480-5d5d-4bed-a82d-dd2650e80eca",
+      "title": "Adam's Apple",
+      "track_number": 1,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3f42e6c3-2181-4353-a4c7-2798af96fa68",
+          "canonical_name": "Joe Chambers",
+          "name_slug": "joe-chambers",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+          "canonical_name": "Reggie Workman",
+          "name_slug": "reggie-workman",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "04944a03-9e57-4460-ad69-74c1bbfdae74",
+      "title": "502 Blues (Drinkin' and Drivin')",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3f42e6c3-2181-4353-a4c7-2798af96fa68",
+          "canonical_name": "Joe Chambers",
+          "name_slug": "joe-chambers",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+          "canonical_name": "Reggie Workman",
+          "name_slug": "reggie-workman",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "3725d73e-d2e6-4515-bd1e-e8ae02e40b57",
+      "title": "El Gaucho",
+      "track_number": 3,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3f42e6c3-2181-4353-a4c7-2798af96fa68",
+          "canonical_name": "Joe Chambers",
+          "name_slug": "joe-chambers",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+          "canonical_name": "Reggie Workman",
+          "name_slug": "reggie-workman",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "9e3d0528-bdf6-4350-876b-cc10922deb49",
+      "title": "Footprints",
+      "track_number": 4,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3f42e6c3-2181-4353-a4c7-2798af96fa68",
+          "canonical_name": "Joe Chambers",
+          "name_slug": "joe-chambers",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+          "canonical_name": "Reggie Workman",
+          "name_slug": "reggie-workman",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "390a2b80-cc50-455a-b282-b95e944586a4",
+      "title": "Teru",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3f42e6c3-2181-4353-a4c7-2798af96fa68",
+          "canonical_name": "Joe Chambers",
+          "name_slug": "joe-chambers",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+          "canonical_name": "Reggie Workman",
+          "name_slug": "reggie-workman",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "5e4a1c1b-e986-4e27-a02e-79d3e798217b",
+      "title": "Chief Crazy Horse",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "16035802-bd81-4132-b245-41c31f25b723",
+          "canonical_name": "Herbie Hancock",
+          "name_slug": "herbie-hancock",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3f42e6c3-2181-4353-a4c7-2798af96fa68",
+          "canonical_name": "Joe Chambers",
+          "name_slug": "joe-chambers",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02dd73da-c6f5-4450-bf34-473fc40ee73e",
+          "canonical_name": "Reggie Workman",
+          "name_slug": "reggie-workman",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "2ca1aff7-d396-447b-b48a-964169a9a802",
+          "canonical_name": "Wayne Shorter",
+          "name_slug": "wayne-shorter",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    }
+  ]
+}
