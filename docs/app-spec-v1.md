@@ -270,7 +270,7 @@ Lightweight list for the timeline. Loaded once on page load.
     "style_display": "Modal Jazz",
     "label": "Columbia",
     "catalog_number": "CL 1355",
-    "cover_art_path": "album-art/miles-davis-kind-of-blue-1959-front.jpg",
+    "cover_art_url": "https://...",
     "apple_album_id": "278229536"
   }
 ]
@@ -290,7 +290,7 @@ One file per album. Lazy-loaded when the user opens a Deep Dive panel.
   "recording_dates_text": "March 2 and April 22, 1959",
   "description": null,
   "style_primary": "modal-jazz",
-  "cover_art_path": "album-art/miles-davis-kind-of-blue-1959-front.jpg",
+  "cover_art_url": "https://...",
   "apple_album_id": "278229536",
   "studios": ["Columbia 30th Street Studio, New York City"],
   "personnel": [
@@ -358,6 +358,7 @@ Pre-computed bipartite graph for the Personnel Network. Loaded once.
 }
 ```
 
+**Edge threshold:** Export only edges where `shared_albums >= 2`. This filters one-off coincidences while preserving meaningful collaboration signals. The threshold is a named constant (`EDGE_MIN_SHARED = 2`) in the export script so it can be raised as the canon grows. The scoped network view (always centered on a single musician) degrades gracefully at any threshold — this is purely a file-size and noise concern for the full JSON.
 #### `data/musicians.json`
 Person index. Used to resolve names from IDs and for future sideman search.
 
@@ -416,7 +417,7 @@ for each, with rationale, before or at the start of implementation.
 **Read-only role:** `_jazzcanon_ro`  
 **Schema DDL:** `data/schema.sql`  
 **Canon source JSON:** `data/canon-draft.json` (100 active albums)  
-**Cover art files:** `data/album-art/`  
+**Cover art:** URLs stored in DB (`album_art.url` or equivalent field). No local binary assets required.  
 **Existing scripts:** `scripts/` (ingest.py, enrich scripts — reference for DB connection pattern)  
 **Genre definitions / scope rules:** `docs/genre-definitions.md`  
 **UI reference screenshots:** `research/ui-reference/disco/` + `research/ui-reference/disco/notes.md`  

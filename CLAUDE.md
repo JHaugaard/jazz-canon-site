@@ -1,6 +1,14 @@
+## Project Configuration
+
+- **Language**: JavaScript (JSDoc)
+- **Package Manager**: npm
+- **Add-ons**: vitest, sveltekit-adapter, prettier
+
+---
+
 # jazz-canon-site
 
-Public discovery app for The Jazz Canon — ~100 canonical jazz albums (post-bebop
+Public discovery app for A Jazz Canon — ~100 and growing canonical jazz albums (post-bebop
 through pre-Fusion) with track-level personnel records and a force-directed
 Personnel Network as the hero feature.
 

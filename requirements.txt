@@ -1,0 +1,6 @@
+# Python dependencies for scripts/export.py (the static-JSON build step).
+# Install into a project venv:
+#   python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+# Run:
+#   .venv/bin/python3 scripts/export.py
+psycopg2-binary>=2.9

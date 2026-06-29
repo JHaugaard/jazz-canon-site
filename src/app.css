@@ -1,0 +1,59 @@
+/* A Jazz Canon — global light theme. No dark mode (standing rule). */
+
+:root {
+	/* Surfaces & ink */
+	--bg: #faf8f3; /* warm paper */
+	--surface: #ffffff;
+	--ink: #1c1a17;
+	--muted: #6b6358;
+	--line: #e6e0d6;
+	--accent: #8a5a2b; /* muted brass */
+
+	/* Type scale */
+	--font: 'Helvetica Neue', Helvetica, Arial, system-ui, sans-serif;
+	--fs-sm: 0.78rem;
+	--fs-base: 0.95rem;
+	--fs-lg: 1.15rem;
+	--fs-xl: 1.6rem;
+
+	/* Spacing */
+	--sp-1: 4px;
+	--sp-2: 8px;
+	--sp-3: 16px;
+	--sp-4: 24px;
+	--radius: 6px;
+
+	/* Era band tints — harmonized low-saturation family, all at equal weight so
+	   overlaps blend evenly. Bands fade at their edges (gradient), so these are the
+	   mid-band peak alpha. */
+	--era-cool: rgba(96, 142, 178, 0.24);
+	--era-hardbop: rgba(196, 126, 72, 0.24);
+	--era-modal: rgba(112, 158, 116, 0.24);
+	--era-postbop: rgba(150, 112, 168, 0.24);
+	--era-ink: #5a5249;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+	background: var(--bg);
+	color: var(--ink);
+	font-family: var(--font);
+	font-size: var(--fs-base);
+	line-height: 1.45;
+}
+
+h1 {
+	font-size: var(--fs-xl);
+	font-weight: 600;
+	margin: var(--sp-4) var(--sp-4) var(--sp-3);
+}
+
+a {
+	color: var(--accent);
+}

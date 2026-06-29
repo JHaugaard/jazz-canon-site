@@ -1,0 +1,28 @@
+<svg viewBox="0 0 720 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="A Jazz Canon wordmark">
+  <defs>
+    <clipPath id="c3-rec"><circle cx="116" cy="100" r="54"/></clipPath>
+  </defs>
+
+  <!-- compact mark: barrel + play, resolving into a record -->
+  <g fill="#314a7d">
+    <rect x="6" y="40" width="34" height="120" rx="9"/>
+    <ellipse cx="66" cy="100" rx="13" ry="78"/>
+    <circle cx="116" cy="100" r="54"/>
+  </g>
+  <rect x="12" y="96" width="28" height="6" rx="3" fill="#faf8f3"/>
+  <path d="M19 84 L37 100 L19 116 Z" fill="#faf8f3"/>
+  <g clip-path="url(#c3-rec)" fill="none" stroke="#faf8f3" stroke-opacity="0.55" stroke-width="2.4">
+    <circle cx="116" cy="100" r="18"/>
+    <circle cx="116" cy="100" r="30"/>
+    <circle cx="116" cy="100" r="42"/>
+  </g>
+  <circle cx="116" cy="100" r="7" fill="#c0883c"/>
+
+  <!-- wordmark -->
+  <text x="206" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="62" letter-spacing="2" fill="#314a7d">
+    A JAZZ <tspan fill="#c0883c">CANON</tspan>
+  </text>
+  <text x="208" y="146" font-family="Georgia, 'Times New Roman', serif" font-size="20" letter-spacing="7" fill="#6b6358">
+    1949 — 1972
+  </text>
+</svg>

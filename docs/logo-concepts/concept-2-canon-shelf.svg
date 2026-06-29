@@ -1,0 +1,22 @@
+<svg viewBox="0 0 360 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="A Jazz Canon — Canon Shelf mark">
+  <!-- the optical elements re-read as LP spines on a shelf: the canon as a collection.
+       Varying widths echo both the original lens train and the app's variable-width years. -->
+  <g fill="#314a7d">
+    <!-- barrel with the play triangle (family resemblance to the original) -->
+    <rect x="0" y="0" width="86" height="260" rx="16"/>
+    <!-- spines of varying width -->
+    <rect x="104" y="0" width="18" height="260" rx="5"/>
+    <rect x="132" y="0" width="28" height="260" rx="5"/>
+    <rect x="170" y="0" width="14" height="260" rx="5"/>
+    <rect x="232" y="0" width="22" height="260" rx="5"/>
+    <rect x="264" y="0" width="34" height="260" rx="5"/>
+    <rect x="308" y="0" width="16" height="260" rx="5"/>
+    <rect x="334" y="0" width="26" height="260" rx="5"/>
+  </g>
+  <!-- one brass spine: the "key" record in the canon -->
+  <rect x="194" y="0" width="30" height="260" rx="5" fill="#c0883c"/>
+
+  <!-- play track + triangle on the barrel -->
+  <rect x="10" y="125" width="76" height="7" rx="3.5" fill="#faf8f3"/>
+  <path d="M36 108 L62 130 L36 152 Z" fill="#faf8f3"/>
+</svg>
