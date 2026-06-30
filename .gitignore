@@ -18,6 +18,10 @@ Thumbs.db
 !.env.example
 !.env.test
 
+# Secrets (Apple MusicKit .p8 private key, etc.) — never commit
+secrets/
+*.p8
+
 # Vite
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*

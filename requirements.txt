@@ -4,3 +4,8 @@
 # Run:
 #   .venv/bin/python3 scripts/export.py
 psycopg2-binary>=2.9
+
+# Apple Music developer-token signing for scripts/apple_previews.py (build-time
+# only; never shipped to the browser). The [crypto] extra pulls in `cryptography`
+# for ES256 JWT signing.
+PyJWT[crypto]>=2.8
