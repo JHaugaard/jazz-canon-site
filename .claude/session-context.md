@@ -12,6 +12,27 @@ now applied in code. A **design / look-and-feel pass is wrapping**; John is star
 - **Running:** app dev server on vps8 `:5173` (`npm run dev -- --host`) → Mac at
   `http://vps8-core:5173`. (Logo-preview `:8080` was stopped.)
 
+## Monday-evening design round (2026-06-29 PM) — from `docs/design-monday-evening.md`
+Done (check 0/0 · tests 24 · build green; both servers up — app :5173, logo gallery :8080):
+- **Personnel Network edges FLATTENED** — removed epistemic dash styling; plain lines (spec
+  defers edge-epistemic for v1). `dashFor` removed.
+- **"More ↓" pill fixed** — was firing on every rows≥2 year even when fully visible (see
+  `more-pill-1956.png`). Now gated by a real **IntersectionObserver below-the-fold check**
+  (bottom sentinel per block) AND rows≥2 — appears only when the block truly runs off-screen.
+- **Timeline COLS_MAX 4→3** — compacts the L→R spread (canon grows rightward); more years
+  become genuinely tall. (maxRows now 4 → taller card area; John accepts the verticality.)
+- **Logo refined → `concept-4b-shelf-record.svg`** (original 4 preserved): spines 12→10,
+  regrouped 4 left / 5 right, lean 18°→15° (gap 65→54, geometry preserved), play triangle
+  moved to the right group's first spine. Blind-computed geometry — **needs John's eye**.
+  Compare at `http://vps8-core:8080/logo-concepts/concept-4b.html`.
+- **Phase 5 briefing written** — `docs/phase5-a11y-and-states-briefing.md` (point-by-point;
+  2 decisions pending: A3 graph fallback approach; WCAG 2.1 AA vs lighter bar).
+
+PENDING John's decision (NOT changed): **export.py SSOT** — my take is in chat; recommend the
+data-platform (`mccoy-tyner`) becomes the single home, site repos consume committed JSON.
+Do NOT do the edge-epistemic best-vs-cautious flip until the SSOT home is settled (the
+`album_refs` change currently lives ONLY in the site copy; `-kc` copy has diverged).
+
 ## The app (Phases 0–4)
 - **Data** (`data/`): albums.json (100), album/{slug}.json (100, lazy via `import.meta.glob`),
   network.json (305 musicians / 209 edges, per-link `album_refs` epistemic), musicians.json.
