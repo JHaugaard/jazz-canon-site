@@ -18,7 +18,7 @@ export function getAlbums() {
 
 /**
  * @typedef {{ person_id: string, canonical_name: string, name_slug: string, instrument: string, epistemic: string }} Performer
- * @typedef {{ track_id: string, title: string, track_number: number, side: string | null, duration_text: string | null, apple_track_id: string | null, personnel: Performer[] }} Track
+ * @typedef {{ track_id: string, title: string, track_number: number, side: string | null, duration_text: string | null, apple_track_id: string | null, preview_url: string | null, personnel: Performer[] }} Track
  * @typedef {Album & { recording_dates_text: string | null, description: string | null, studios: string[], personnel: Performer[], tracks: Track[] }} AlbumDetail
  */
 

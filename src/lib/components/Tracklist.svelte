@@ -2,6 +2,7 @@
 	import { selectMusician } from '$lib/stores/ui.js';
 	import { epistemicMeta } from '$lib/epistemic.js';
 	import EpistemicBadge from './EpistemicBadge.svelte';
+	import PreviewButton from './PreviewButton.svelte';
 
 	/** @type {{ tracks: import('$lib/data/albums.js').Track[] }} */
 	let { tracks } = $props();
@@ -11,6 +12,7 @@
 	{#each tracks as track (track.track_id)}
 		<li class="track">
 			<div class="track-head">
+				<PreviewButton trackId={track.track_id} url={track.preview_url} title={track.title} />
 				<span class="num">{track.track_number}</span>
 				<span class="title">{track.title}</span>
 				{#if track.duration_text}<span class="dur">{track.duration_text}</span>{/if}
@@ -45,7 +47,7 @@
 	}
 	.track-head {
 		display: flex;
-		align-items: baseline;
+		align-items: center;
 		gap: var(--sp-2);
 	}
 	.num {
@@ -63,7 +65,8 @@
 	}
 	.players {
 		list-style: none;
-		margin: var(--sp-1) 0 0 calc(1.4em + var(--sp-2));
+		/* Indent past the play-slot + number so names align under the title. */
+		margin: var(--sp-1) 0 0 calc(1.6em + 1.4em + var(--sp-2) * 2);
 		padding: 0;
 	}
 	.players li {
