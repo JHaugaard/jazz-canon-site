@@ -1,46 +1,47 @@
-<svg viewBox="0 0 376 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="A Jazz Canon — Shelf &amp; Record mark (refined)">
-  <!-- concept-4 refinement (Mon eve):
-       • spines slimmed 12→10 (gap kept 4, step 14) → narrower overall, tighter viewBox
-       • regrouped 4 LEFT of the gap, 5 RIGHT (leaner originates from the smaller left group)
-       • lean tightened 18°→15°; right group moved in so the leaner's top-right still just
-         meets the first right spine → the spanned gap shrinks 65→54px, geometry preserved
-         (leaner pivots on its bottom-left corner (70,196); top-right ≈(124,32) meets x124)
-       • play triangle moved to the LEFT EDGE OF THE RIGHT GROUP (carved into its first spine)
-       Palette from design-spec §2. -->
+<svg viewBox="0 0 340 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="A Jazz Canon — Shelf &amp; Record mark (refined)">
+  <!-- concept-4 refinement v4 (Tue):
+       • spines 8 wide (gap 4, step 12); 4 LEFT of the gap, 5 RIGHT
+       • leaner pivots on its bottom-left corner at (62,196) — now TOUCHING the last left
+         spine's bottom-right; leans 8°; its top-right (~94,27) just meets the first right
+         spine (right group pulled in to x94 to keep both corners nesting)
+       • NO play triangle / no track bar
+       • record nudged so its left edge sits flush with the oval (overlap removed)
+       • LP grooves ×6. Palette from design-spec §2. -->
   <defs>
-    <clipPath id="c4b-rec"><circle cx="287" cy="110" r="74"/></clipPath>
+    <clipPath id="c4b-rec"><circle cx="250" cy="110" r="74"/></clipPath>
   </defs>
 
-  <!-- standing spines: thin (10), blue family. 4 left of the gap, 5 right -->
+  <!-- standing spines: thin (8), blue family. 4 left of the gap, 5 right -->
   <g>
-    <rect x="18"  y="24" width="10" height="172" rx="2.5" fill="#2b5f7a"/>
-    <rect x="32"  y="24" width="10" height="172" rx="2.5" fill="#4a7c95"/>
-    <rect x="46"  y="24" width="10" height="172" rx="2.5" fill="#21506a"/>
-    <rect x="60"  y="24" width="10" height="172" rx="2.5" fill="#2b5f7a"/>
-    <!-- gap (70→124): the leaning LP nests here -->
-    <rect x="124" y="24" width="10" height="172" rx="2.5" fill="#4a7c95"/>
-    <rect x="138" y="24" width="10" height="172" rx="2.5" fill="#21506a"/>
-    <rect x="152" y="24" width="10" height="172" rx="2.5" fill="#2b5f7a"/>
-    <rect x="166" y="24" width="10" height="172" rx="2.5" fill="#4a7c95"/>
-    <rect x="180" y="24" width="10" height="172" rx="2.5" fill="#21506a"/>
+    <rect x="18"  y="24" width="8" height="172" rx="2" fill="#2b5f7a"/>
+    <rect x="30"  y="24" width="8" height="172" rx="2" fill="#4a7c95"/>
+    <rect x="42"  y="24" width="8" height="172" rx="2" fill="#21506a"/>
+    <rect x="54"  y="24" width="8" height="172" rx="2" fill="#2b5f7a"/>
+    <!-- gap (62→94): the leaning LP nests here, touching both sides -->
+    <rect x="94"  y="24" width="8" height="172" rx="2" fill="#4a7c95"/>
+    <rect x="106" y="24" width="8" height="172" rx="2" fill="#21506a"/>
+    <rect x="118" y="24" width="8" height="172" rx="2" fill="#2b5f7a"/>
+    <rect x="130" y="24" width="8" height="172" rx="2" fill="#4a7c95"/>
+    <rect x="142" y="24" width="8" height="172" rx="2" fill="#21506a"/>
   </g>
 
-  <!-- right third, tight: oval butts the last spine (ends 190), record flush to the oval -->
-  <ellipse cx="203" cy="110" rx="13" ry="82" fill="#4a7c95"/>
-  <circle cx="287" cy="110" r="74" fill="#2b5f7a"/>
-  <g clip-path="url(#c4b-rec)" fill="none" stroke="#faf8f3" stroke-opacity="0.5" stroke-width="2.4">
-    <circle cx="287" cy="110" r="26"/>
-    <circle cx="287" cy="110" r="42"/>
-    <circle cx="287" cy="110" r="58"/>
+  <!-- right third: oval butts the last spine (ends 150); record flush to the oval (no overlap) -->
+  <ellipse cx="163" cy="110" rx="13" ry="82" fill="#4a7c95"/>
+  <circle cx="250" cy="110" r="74" fill="#2b5f7a"/>
+  <g clip-path="url(#c4b-rec)" fill="none" stroke="#faf8f3" stroke-opacity="0.5" stroke-width="2">
+    <circle cx="250" cy="110" r="16"/>
+    <circle cx="250" cy="110" r="26"/>
+    <circle cx="250" cy="110" r="37"/>
+    <circle cx="250" cy="110" r="47"/>
+    <circle cx="250" cy="110" r="57"/>
+    <circle cx="250" cy="110" r="68"/>
   </g>
-  <circle cx="287" cy="110" r="8" fill="#c4862a"/>
+  <circle cx="250" cy="110" r="8" fill="#c4862a"/>
 
-  <!-- play system: track threads the shelf; triangle carved into the FIRST spine of the
-       RIGHT group (left edge of the right group). Drawn before the leaner → track behind it. -->
-  <rect x="14" y="107.5" width="110" height="5" rx="2.5" fill="#faf8f3"/>
-  <path d="M125 100 L134 110 L125 120 Z" fill="#faf8f3"/>
-
-  <!-- the leaning LP — single amber accent, from the left group. Pivots on its
-       bottom-left corner (70,196), leans 15°; top-right just meets the first right spine. -->
-  <rect x="70" y="24" width="10" height="172" rx="2.5" fill="#c4862a" transform="rotate(15 70 196)"/>
+  <!-- the leaning LP — single amber accent, from the left group. SAME length as the spines
+       (172). Leaned 8° and seated so its leading bottom corner rests exactly on the baseline
+       (196): a leaned same-length bar spans slightly less than 172 vertically, so it sits
+       fully WITHIN the stack's top/bottom lines — never above the top, never below the base.
+       (Pivot y = 196 − 8·sin8° ≈ 194.9 puts the down-swinging corner on the baseline.) -->
+  <rect x="62" y="22.9" width="8" height="172" rx="1" fill="#c4862a" transform="rotate(8 62 194.9)"/>
 </svg>

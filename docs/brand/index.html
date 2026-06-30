@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>A Jazz Canon — Brand & Logo summary</title>
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Archivo+Narrow:wght@400;600;700&family=Inter:wght@400;600&family=Lora:ital@1&display=swap"
+			rel="stylesheet"
+		/>
+		<style>
+			:root {
+				--bg: #faf8f3;
+				--surface: #ffffff;
+				--ink: #1c1a17;
+				--muted: #6b6358;
+				--line: #e6e0d6;
+				--bn-blue: #2b5f7a;
+				--bn-blue-light: #4a7c95;
+				--bn-blue-dark: #21506a;
+				--amber: #c4862a;
+				--display: 'Archivo Narrow', 'Helvetica Neue Condensed', sans-serif;
+			}
+			* { box-sizing: border-box; }
+			body {
+				margin: 0;
+				background: var(--bg);
+				color: var(--ink);
+				font: 16px/1.6 'Inter', system-ui, sans-serif;
+				padding: 48px clamp(16px, 6vw, 80px) 96px;
+			}
+			h1 { font-family: var(--display); font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; font-size: 2.2rem; margin: 0 0 2px; color: var(--bn-blue); }
+			.lede { color: var(--muted); margin: 0 0 40px; max-width: 70ch; }
+			section { border-top: 1px solid var(--line); padding: 28px 0; }
+			h2 { font-family: var(--display); text-transform: uppercase; letter-spacing: 0.05em; font-size: 1.05rem; color: var(--muted); margin: 0 0 18px; }
+			.tiles { display: flex; flex-wrap: wrap; gap: 20px; align-items: center; }
+			.tile { border: 1px solid var(--line); border-radius: 12px; padding: 28px; display: flex; align-items: center; justify-content: center; }
+			.paper { background: var(--bg); }
+			.white { background: #fff; }
+			.cap { font-size: 0.8rem; color: var(--muted); margin-top: 8px; text-align: center; }
+			.col { display: flex; flex-direction: column; align-items: center; }
+			/* lockups composed in HTML so the Archivo Narrow wordmark renders live */
+			.lockup-h { display: flex; align-items: center; gap: 28px; }
+			.wm { font-family: var(--display); font-weight: 700; text-transform: uppercase; color: var(--bn-blue); line-height: 0.95; letter-spacing: 0.02em; }
+			.wm .tag { display: block; font-size: 0.34em; letter-spacing: 0.5em; color: var(--muted); margin-top: 0.4em; }
+			.lockup-v { display: flex; flex-direction: column; align-items: center; gap: 16px; text-align: center; }
+			/* palette */
+			.swatches { display: flex; flex-wrap: wrap; gap: 14px; }
+			.sw { width: 132px; border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+			.sw .chip { height: 72px; }
+			.sw .meta { padding: 8px 10px; font-size: 0.78rem; }
+			.sw .meta b { display: block; font-size: 0.84rem; }
+			.sw .meta code { color: var(--muted); }
+			.grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; }
+			@media (max-width: 720px) { .grid2 { grid-template-columns: 1fr; } }
+			ul { margin: 8px 0 0; padding-left: 1.2em; }
+			li { margin: 4px 0; }
+			.do { color: #2f6d3a; } .dont { color: #9a3a2f; }
+			.note { background: var(--surface); border: 1px solid var(--line); border-left: 3px solid var(--amber); border-radius: 8px; padding: 14px 18px; color: var(--muted); }
+			.editorial { font-family: 'Lora', Georgia, serif; font-style: italic; }
+			code { font-family: ui-monospace, Menlo, monospace; }
+		</style>
+	</head>
+	<body>
+		<h1>A Jazz Canon — Brand &amp; Logo</h1>
+		<p class="lede">
+			Visual summary of the locked logo and the asset variants we'll need. Light scheme only —
+			no dark-mode variants by design. Palette &amp; type from <code>design-spec-v1.md</code>.
+		</p>
+
+		<section>
+			<h2>1 · Primary mark <span style="color:#2f6d3a">— locked</span></h2>
+			<div class="tiles">
+				<div class="col"><div class="tile paper"><img src="logo-mark.svg" width="380" alt="mark on paper" /></div><div class="cap">on paper <code>#faf8f3</code></div></div>
+				<div class="col"><div class="tile white"><img src="logo-mark.svg" width="260" alt="mark on white" /></div><div class="cap">on white</div></div>
+			</div>
+			<p class="note" style="margin-top:18px">Four blue LP spines · one amber LP leaning in the gap (touches both sides, rests on the baseline) · resolving through an oval into a six-groove record with an amber spindle. <code>logo-mark.svg</code> is font-free → production-ready.</p>
+		</section>
+
+		<section>
+			<h2>2 · Horizontal lockup — primary (site header)</h2>
+			<div class="tile white" style="justify-content:flex-start">
+				<div class="lockup-h">
+					<img src="logo-mark.svg" height="92" alt="" />
+					<span class="wm" style="font-size:74px">A Jazz Canon<span class="tag">1949 — 1972</span></span>
+				</div>
+			</div>
+			<p class="cap" style="text-align:left">Mark + “A JAZZ CANON” (Archivo Narrow 700, bn-blue) + year tagline. On the site this is the mark image + live header type; for any single-image use, outline the wordmark (see §7).</p>
+		</section>
+
+		<section>
+			<h2>3 · Stacked lockup — square placements (social / OG)</h2>
+			<div class="tile white">
+				<div class="lockup-v">
+					<img src="logo-mark.svg" width="260" alt="" />
+					<span class="wm" style="font-size:46px">A Jazz Canon<span class="tag">1949 — 1972</span></span>
+				</div>
+			</div>
+		</section>
+
+		<section>
+			<h2>4 · Favicon / app glyph</h2>
+			<div class="tiles">
+				<div class="col"><div class="tile white"><img src="logo-favicon.svg" width="96" alt="favicon 96" /></div><div class="cap">96px</div></div>
+				<div class="col"><div class="tile white"><img src="logo-favicon.svg" width="48" alt="favicon 48" /></div><div class="cap">48px</div></div>
+				<div class="col"><div class="tile white"><img src="logo-favicon.svg" width="32" alt="favicon 32" /></div><div class="cap">32px</div></div>
+				<div class="col"><div class="tile white"><img src="logo-favicon.svg" width="16" alt="favicon 16" /></div><div class="cap">16px</div></div>
+			</div>
+			<p class="cap" style="text-align:left">The mark distilled — spines + amber leaner, no record/grooves (they blur below ~24px). Alternative if you prefer: the record disc + amber spindle reads well tiny too — easy to swap.</p>
+		</section>
+
+		<section>
+			<h2>5 · Palette</h2>
+			<div class="swatches">
+				<div class="sw"><div class="chip" style="background:#2b5f7a"></div><div class="meta"><b>bn-blue</b><code>#2b5f7a</code> primary</div></div>
+				<div class="sw"><div class="chip" style="background:#4a7c95"></div><div class="meta"><b>bn-blue-light</b><code>#4a7c95</code></div></div>
+				<div class="sw"><div class="chip" style="background:#21506a"></div><div class="meta"><b>bn-blue-dark</b><code>#21506a</code></div></div>
+				<div class="sw"><div class="chip" style="background:#c4862a"></div><div class="meta"><b>amber</b><code>#c4862a</code> accent</div></div>
+				<div class="sw"><div class="chip" style="background:#faf8f3"></div><div class="meta"><b>paper</b><code>#faf8f3</code> bg</div></div>
+				<div class="sw"><div class="chip" style="background:#1c1a17"></div><div class="meta"><b>ink</b><code>#1c1a17</code> text</div></div>
+				<div class="sw"><div class="chip" style="background:#6b6358"></div><div class="meta"><b>muted</b><code>#6b6358</code></div></div>
+			</div>
+		</section>
+
+		<section>
+			<h2>6 · Typography</h2>
+			<p style="font-family:var(--display);font-weight:700;text-transform:uppercase;font-size:2rem;color:var(--bn-blue);margin:0">Archivo Narrow — display / wordmark</p>
+			<p style="font-family:'Inter';margin:6px 0 0">Inter — body &amp; UI. The quick brown fox jumps over the lazy dog.</p>
+			<p class="editorial" style="margin:6px 0 0">Lora italic — editorial notes only.</p>
+		</section>
+
+		<section>
+			<h2>7 · Clear space, min size, usage</h2>
+			<div class="grid2">
+				<div>
+					<p><b>Clear space:</b> keep padding ≥ the height of one spine around the mark/lockup.</p>
+					<p><b>Min size:</b> mark ≥ 24px tall; below that use the favicon glyph. Horizontal lockup ≥ 120px wide.</p>
+					<p class="note"><b>Light scheme only</b> — no dark/reversed variants are part of the system, by design.</p>
+				</div>
+				<div>
+					<ul>
+						<li class="do">✓ Mark in full colour on paper or white.</li>
+						<li class="do">✓ Amber reserved for the single leaning LP + spindle (the one accent).</li>
+						<li class="dont">✗ Don't recolour the spines or add a second amber element.</li>
+						<li class="dont">✗ Don't stretch, rotate, or add effects/shadows.</li>
+						<li class="dont">✗ Don't fuse the year range into the wordmark — it's a tagline.</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+
+		<section>
+			<h2>8 · Asset checklist &amp; production to-dos</h2>
+			<div class="grid2">
+				<div>
+					<p><b>Locked assets (this folder):</b></p>
+					<ul>
+						<li>✓ <code>logo-mark.svg</code> — primary mark (font-free)</li>
+						<li>✓ <code>logo-favicon.svg</code> — favicon / app glyph (font-free)</li>
+						<li>✓ <code>logo-lockup-horizontal.svg</code> — header lockup (live text)</li>
+						<li>✓ <code>logo-lockup-stacked.svg</code> — social / OG lockup (live text)</li>
+					</ul>
+				</div>
+				<div>
+					<p><b>To do before production use:</b></p>
+					<ul>
+						<li>Outline the wordmark to paths in the two lockup SVGs (so they're font-independent as single images).</li>
+						<li>Export favicon to <code>favicon.svg</code> + <code>.ico</code>/PNG (16/32/180/512) and wire into the app (<code>src/lib/assets/</code>, replacing the SvelteKit default).</li>
+						<li>Generate an OG/social share image (1200×630) from the stacked lockup.</li>
+						<li>Optional: decide favicon — spines+leaner (current) vs. record disc.</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+	</body>
+</html>
