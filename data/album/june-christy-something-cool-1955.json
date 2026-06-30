@@ -5,7 +5,7 @@
   "year": 1955,
   "label": "Capitol",
   "catalog_number": "T 516",
-  "recording_dates_text": "1953-08/1955-07",
+  "recording_dates_text": "1953-08-14 through 1955-06-02 (6 sessions)",
   "description": null,
   "style_primary": "cool-jazz",
   "style_display": "Cool Jazz",
@@ -14,18 +14,165 @@
   "studios": [],
   "personnel": [
     {
+      "person_id": "07bc5d90-c2c7-4a83-ab4c-b6c3b32ebd1c",
+      "canonical_name": "Harry Babasin",
+      "name_slug": "harry-babasin",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
       "person_id": "751f51f9-4de0-465a-86e6-2444fbf87b15",
       "canonical_name": "Barney Kessel",
       "name_slug": "barney-kessel",
       "instrument": "guitar",
-      "epistemic": "unk"
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "07f8288b-035f-4fb5-ba4b-46eb020a85e4",
+      "canonical_name": "Frank Beach",
+      "name_slug": "frank-beach",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "7d6c3d1d-2772-44c3-b687-54bb9887b347",
+      "canonical_name": "Gus Bivona",
+      "name_slug": "gus-bivona",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "a83d08a8-11da-42f4-8124-1bd32d677922",
+      "canonical_name": "Bob Cooper",
+      "name_slug": "bob-cooper",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "ecd01ff1-5239-4687-87f8-c562d041c3e1",
+      "canonical_name": "Bob Fitzpatrick",
+      "name_slug": "bob-fitzpatrick",
+      "instrument": "trombone",
+      "epistemic": "obs"
     },
     {
       "person_id": "83c273dd-9057-485d-8ef9-583b4a7803a3",
       "canonical_name": "Bud Shank",
       "name_slug": "bud-shank",
       "instrument": "alto saxophone",
-      "epistemic": "unk"
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "abd00eb4-35b4-47d8-b015-2cbe67ba63a3",
+      "canonical_name": "Frank Carlson",
+      "name_slug": "frank-carlson",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "df37c795-74da-4d88-b619-0401cc4dcfbe",
+      "canonical_name": "Geoff Clarkson",
+      "name_slug": "geoff-clarkson",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "ce755fcb-82cb-43f6-a9e5-07becf79b388",
+      "canonical_name": "Joe Comfort",
+      "name_slug": "joe-comfort",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "e5774b33-e7f8-4f1b-b3f6-30f447a99796",
+      "canonical_name": "Conrad Gozzo",
+      "name_slug": "conrad-gozzo",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "5cc202ab-3cd0-4753-97ad-d87aff14bd0d",
+      "canonical_name": "Conte Candoli",
+      "name_slug": "conte-candoli",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "29438665-ad92-4311-b3f1-96fd203a8139",
+      "canonical_name": "Vincent DeRosa",
+      "name_slug": "vincent-derosa",
+      "instrument": "French horn",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "882c499f-603c-4764-8bdc-219d21035497",
+      "canonical_name": "Nick DiMaio",
+      "name_slug": "nick-dimaio",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "771658ef-c47f-4a5f-aefe-a8b139ef5234",
+      "canonical_name": "Fred Fallensby",
+      "name_slug": "fred-fallensby",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "10a813c4-e7b9-4055-91b1-b8c0800ce682",
+      "canonical_name": "Chuck Gentry",
+      "name_slug": "chuck-gentry",
+      "instrument": "baritone saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "5d2cae59-0cee-4a40-a11d-e695f431de67",
+      "canonical_name": "Bob Gordon",
+      "name_slug": "bob-gordon",
+      "instrument": "baritone saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "4a06ccf2-1931-4148-ad6c-695428f2713e",
+      "canonical_name": "Herbie Harper",
+      "name_slug": "herbie-harper",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "590a3219-b8e5-47d2-a4f3-bbbe19110712",
+      "canonical_name": "Harry Betts",
+      "name_slug": "harry-betts",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "a6c169c5-327e-4b7c-9dd8-119c63133897",
+      "canonical_name": "Skeets Herfurt",
+      "name_slug": "skeets-herfurt",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+      "canonical_name": "Jimmy Giuffre",
+      "name_slug": "jimmy-giuffre",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "8d29e51f-aa9c-4d97-a39c-8bf10e878b36",
+      "canonical_name": "Joe Mondragon",
+      "name_slug": "joe-mondragon",
+      "instrument": "double bass",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "7bc652ba-0672-4cee-bf38-555fb937927b",
+      "canonical_name": "John Graas",
+      "name_slug": "john-graas",
+      "instrument": "French horn",
+      "epistemic": "obs"
     },
     {
       "person_id": "9e3e5327-62e8-49d4-9531-61d29e92a52d",
@@ -35,82 +182,1615 @@
       "epistemic": "obs"
     },
     {
+      "person_id": "8836e4bc-3298-4a9b-91cd-2bbdee790321",
+      "canonical_name": "Harry Klee",
+      "name_slug": "harry-klee",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "972f40ce-f9ee-4358-ad88-3c691b818830",
+      "canonical_name": "Ray Linn",
+      "name_slug": "ray-linn",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "d2f5d539-ade6-414e-a7ec-0073025f54fc",
+      "canonical_name": "Maynard Ferguson",
+      "name_slug": "maynard-ferguson",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "02f4306f-304a-44e6-9184-33b790bb83d3",
+      "canonical_name": "Milt Bernhart",
+      "name_slug": "milt-bernhart",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "4d572ca6-7ffb-4f8c-bb35-cabade0452ae",
+      "canonical_name": "Ted Nash",
+      "name_slug": "ted-nash",
+      "instrument": "tenor saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "60666760-4f62-482f-af95-95e27c959fd4",
+      "canonical_name": "Dick Noel",
+      "name_slug": "dick-noel",
+      "instrument": "bass trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "16cecdb3-f4d8-4bf0-850c-02acfa771f03",
+      "canonical_name": "Tommy Pederson",
+      "name_slug": "tommy-pederson",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "a7c7e4b3-5964-4c35-92bb-8fa8a7a01623",
+      "canonical_name": "Uan Rasey",
+      "name_slug": "uan-rasey",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "8b000ab6-c202-4aa3-8c01-9090c8903570",
+      "canonical_name": "Dick Reynolds",
+      "name_slug": "dick-reynolds",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "8e0e144b-1f86-4d1a-acb8-108a9cf5d4f3",
+      "canonical_name": "Tony Rizzi",
+      "name_slug": "tony-rizzi",
+      "instrument": "guitar",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "e1df4a7d-7683-4bbe-bdd0-c5fc6edb2e22",
+      "canonical_name": "George Roberts",
+      "name_slug": "george-roberts",
+      "instrument": "bass trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "ea4fcbf7-d238-4625-9eba-3c5b76db02be",
+      "canonical_name": "Howard Roberts",
+      "name_slug": "howard-roberts",
+      "instrument": "guitar",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "d578c89b-0020-4430-b8e3-735175e6be53",
+      "canonical_name": "Frank Rosolino",
+      "name_slug": "frank-rosolino",
+      "instrument": "trombone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "a5668d92-e9f4-4136-9f79-2700a6f713b7",
+      "canonical_name": "Johnny Rotella",
+      "name_slug": "johnny-rotella",
+      "instrument": "baritone saxophone",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "8be5df38-4ed9-4ce9-8a28-eb97477c3354",
+      "canonical_name": "Russ Freeman",
+      "name_slug": "russ-freeman",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "1460d2a0-31ac-4d52-a411-772e15fd5b97",
+      "canonical_name": "Paul Sarmento",
+      "name_slug": "paul-sarmento",
+      "instrument": "tuba",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "341fbb55-b1ee-43ea-a441-ac51f5436ffd",
+      "canonical_name": "Willie Schwartz",
+      "name_slug": "willie-schwartz",
+      "instrument": "alto saxophone",
+      "epistemic": "obs"
+    },
+    {
       "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
       "canonical_name": "Shelly Manne",
       "name_slug": "shelly-manne",
       "instrument": "drums",
-      "epistemic": "unk"
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "3fc44ec6-0b25-4e62-8bc9-07fce4988e04",
+      "canonical_name": "Shorty Rogers",
+      "name_slug": "shorty-rogers",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "ea0d9d7c-f535-4cfc-81c6-35208c8ec755",
+      "canonical_name": "Paul Smith",
+      "name_slug": "paul-smith",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "cc9acde9-8672-41a3-a700-13489d8f17af",
+      "canonical_name": "Alvin Stoller",
+      "name_slug": "alvin-stoller",
+      "instrument": "drums",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "7f78ea93-4608-4e80-b6db-abdfe2f28639",
+      "canonical_name": "Ray Triscari",
+      "name_slug": "ray-triscari",
+      "instrument": "trumpet",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "5919b99b-be64-4d3a-858c-02fde5c534f3",
+      "canonical_name": "Claude Williamson",
+      "name_slug": "claude-williamson",
+      "instrument": "piano",
+      "epistemic": "obs"
+    },
+    {
+      "person_id": "27a07741-6ec5-4351-8c6e-ec1f0a104521",
+      "canonical_name": "Jimmy Zito",
+      "name_slug": "jimmy-zito",
+      "instrument": "trumpet",
+      "epistemic": "obs"
     }
   ],
   "tracks": [
     {
-      "track_id": "0f5a247e-5b23-4668-a07a-932a82a6012e",
+      "track_id": "d58fa6d4-8a23-43dd-aadd-8e443375f583",
       "title": "Something Cool",
       "track_number": 1,
       "side": "A",
-      "duration_text": null,
+      "duration_text": "4:20",
       "apple_track_id": null,
       "epistemic_track": "obs",
       "personnel": [
         {
-          "person_id": "9e3e5327-62e8-49d4-9531-61d29e92a52d",
-          "canonical_name": "June Christy",
-          "name_slug": "june-christy",
-          "instrument": "voice",
+          "person_id": "751f51f9-4de0-465a-86e6-2444fbf87b15",
+          "canonical_name": "Barney Kessel",
+          "name_slug": "barney-kessel",
+          "instrument": "guitar",
           "epistemic": "obs"
-        }
-      ]
-    },
-    {
-      "track_id": "6a916559-1607-4130-8920-62aa6a887597",
-      "title": "Midnight Sun",
-      "track_number": null,
-      "side": null,
-      "duration_text": null,
-      "apple_track_id": null,
-      "epistemic_track": "unk",
-      "personnel": [
+        },
+        {
+          "person_id": "7d6c3d1d-2772-44c3-b687-54bb9887b347",
+          "canonical_name": "Gus Bivona",
+          "name_slug": "gus-bivona",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a83d08a8-11da-42f4-8124-1bd32d677922",
+          "canonical_name": "Bob Cooper",
+          "name_slug": "bob-cooper",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "83c273dd-9057-485d-8ef9-583b4a7803a3",
+          "canonical_name": "Bud Shank",
+          "name_slug": "bud-shank",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "abd00eb4-35b4-47d8-b015-2cbe67ba63a3",
+          "canonical_name": "Frank Carlson",
+          "name_slug": "frank-carlson",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "df37c795-74da-4d88-b619-0401cc4dcfbe",
+          "canonical_name": "Geoff Clarkson",
+          "name_slug": "geoff-clarkson",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ce755fcb-82cb-43f6-a9e5-07becf79b388",
+          "canonical_name": "Joe Comfort",
+          "name_slug": "joe-comfort",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e5774b33-e7f8-4f1b-b3f6-30f447a99796",
+          "canonical_name": "Conrad Gozzo",
+          "name_slug": "conrad-gozzo",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "10a813c4-e7b9-4055-91b1-b8c0800ce682",
+          "canonical_name": "Chuck Gentry",
+          "name_slug": "chuck-gentry",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4a06ccf2-1931-4148-ad6c-695428f2713e",
+          "canonical_name": "Herbie Harper",
+          "name_slug": "herbie-harper",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
         {
           "person_id": "9e3e5327-62e8-49d4-9531-61d29e92a52d",
           "canonical_name": "June Christy",
           "name_slug": "june-christy",
           "instrument": "voice",
           "epistemic": "obs"
+        },
+        {
+          "person_id": "d2f5d539-ade6-414e-a7ec-0073025f54fc",
+          "canonical_name": "Maynard Ferguson",
+          "name_slug": "maynard-ferguson",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02f4306f-304a-44e6-9184-33b790bb83d3",
+          "canonical_name": "Milt Bernhart",
+          "name_slug": "milt-bernhart",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4d572ca6-7ffb-4f8c-bb35-cabade0452ae",
+          "canonical_name": "Ted Nash",
+          "name_slug": "ted-nash",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16cecdb3-f4d8-4bf0-850c-02acfa771f03",
+          "canonical_name": "Tommy Pederson",
+          "name_slug": "tommy-pederson",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e1df4a7d-7683-4bbe-bdd0-c5fc6edb2e22",
+          "canonical_name": "George Roberts",
+          "name_slug": "george-roberts",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3fc44ec6-0b25-4e62-8bc9-07fce4988e04",
+          "canonical_name": "Shorty Rogers",
+          "name_slug": "shorty-rogers",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "27a07741-6ec5-4351-8c6e-ec1f0a104521",
+          "canonical_name": "Jimmy Zito",
+          "name_slug": "jimmy-zito",
+          "instrument": "trumpet",
+          "epistemic": "obs"
         }
       ]
     },
     {
-      "track_id": "85fe338d-acad-44e2-be83-c08a3d66f93b",
+      "track_id": "40422f4a-90cd-4e77-9c0d-cb6e8ca673a8",
+      "title": "It Could Happen to You",
+      "track_number": 2,
+      "side": "A",
+      "duration_text": "1:58",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a83d08a8-11da-42f4-8124-1bd32d677922",
+          "canonical_name": "Bob Cooper",
+          "name_slug": "bob-cooper",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "83c273dd-9057-485d-8ef9-583b4a7803a3",
+          "canonical_name": "Bud Shank",
+          "name_slug": "bud-shank",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e5774b33-e7f8-4f1b-b3f6-30f447a99796",
+          "canonical_name": "Conrad Gozzo",
+          "name_slug": "conrad-gozzo",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "590a3219-b8e5-47d2-a4f3-bbbe19110712",
+          "canonical_name": "Harry Betts",
+          "name_slug": "harry-betts",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8d29e51f-aa9c-4d97-a39c-8bf10e878b36",
+          "canonical_name": "Joe Mondragon",
+          "name_slug": "joe-mondragon",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7bc652ba-0672-4cee-bf38-555fb937927b",
+          "canonical_name": "John Graas",
+          "name_slug": "john-graas",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9e3e5327-62e8-49d4-9531-61d29e92a52d",
+          "canonical_name": "June Christy",
+          "name_slug": "june-christy",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8836e4bc-3298-4a9b-91cd-2bbdee790321",
+          "canonical_name": "Harry Klee",
+          "name_slug": "harry-klee",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d2f5d539-ade6-414e-a7ec-0073025f54fc",
+          "canonical_name": "Maynard Ferguson",
+          "name_slug": "maynard-ferguson",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02f4306f-304a-44e6-9184-33b790bb83d3",
+          "canonical_name": "Milt Bernhart",
+          "name_slug": "milt-bernhart",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4d572ca6-7ffb-4f8c-bb35-cabade0452ae",
+          "canonical_name": "Ted Nash",
+          "name_slug": "ted-nash",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16cecdb3-f4d8-4bf0-850c-02acfa771f03",
+          "canonical_name": "Tommy Pederson",
+          "name_slug": "tommy-pederson",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ea4fcbf7-d238-4625-9eba-3c5b76db02be",
+          "canonical_name": "Howard Roberts",
+          "name_slug": "howard-roberts",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a5668d92-e9f4-4136-9f79-2700a6f713b7",
+          "canonical_name": "Johnny Rotella",
+          "name_slug": "johnny-rotella",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8be5df38-4ed9-4ce9-8a28-eb97477c3354",
+          "canonical_name": "Russ Freeman",
+          "name_slug": "russ-freeman",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1460d2a0-31ac-4d52-a411-772e15fd5b97",
+          "canonical_name": "Paul Sarmento",
+          "name_slug": "paul-sarmento",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3fc44ec6-0b25-4e62-8bc9-07fce4988e04",
+          "canonical_name": "Shorty Rogers",
+          "name_slug": "shorty-rogers",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "ff9c235b-614c-4d7b-8cd5-69117a273e4b",
       "title": "Lonely House",
-      "track_number": null,
-      "side": null,
-      "duration_text": null,
+      "track_number": 3,
+      "side": "A",
+      "duration_text": "3:59",
       "apple_track_id": null,
-      "epistemic_track": "unk",
+      "epistemic_track": "obs",
       "personnel": [
+        {
+          "person_id": "a83d08a8-11da-42f4-8124-1bd32d677922",
+          "canonical_name": "Bob Cooper",
+          "name_slug": "bob-cooper",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "83c273dd-9057-485d-8ef9-583b4a7803a3",
+          "canonical_name": "Bud Shank",
+          "name_slug": "bud-shank",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e5774b33-e7f8-4f1b-b3f6-30f447a99796",
+          "canonical_name": "Conrad Gozzo",
+          "name_slug": "conrad-gozzo",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "590a3219-b8e5-47d2-a4f3-bbbe19110712",
+          "canonical_name": "Harry Betts",
+          "name_slug": "harry-betts",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8d29e51f-aa9c-4d97-a39c-8bf10e878b36",
+          "canonical_name": "Joe Mondragon",
+          "name_slug": "joe-mondragon",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7bc652ba-0672-4cee-bf38-555fb937927b",
+          "canonical_name": "John Graas",
+          "name_slug": "john-graas",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
         {
           "person_id": "9e3e5327-62e8-49d4-9531-61d29e92a52d",
           "canonical_name": "June Christy",
           "name_slug": "june-christy",
           "instrument": "voice",
           "epistemic": "obs"
+        },
+        {
+          "person_id": "8836e4bc-3298-4a9b-91cd-2bbdee790321",
+          "canonical_name": "Harry Klee",
+          "name_slug": "harry-klee",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d2f5d539-ade6-414e-a7ec-0073025f54fc",
+          "canonical_name": "Maynard Ferguson",
+          "name_slug": "maynard-ferguson",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02f4306f-304a-44e6-9184-33b790bb83d3",
+          "canonical_name": "Milt Bernhart",
+          "name_slug": "milt-bernhart",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4d572ca6-7ffb-4f8c-bb35-cabade0452ae",
+          "canonical_name": "Ted Nash",
+          "name_slug": "ted-nash",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16cecdb3-f4d8-4bf0-850c-02acfa771f03",
+          "canonical_name": "Tommy Pederson",
+          "name_slug": "tommy-pederson",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ea4fcbf7-d238-4625-9eba-3c5b76db02be",
+          "canonical_name": "Howard Roberts",
+          "name_slug": "howard-roberts",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a5668d92-e9f4-4136-9f79-2700a6f713b7",
+          "canonical_name": "Johnny Rotella",
+          "name_slug": "johnny-rotella",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8be5df38-4ed9-4ce9-8a28-eb97477c3354",
+          "canonical_name": "Russ Freeman",
+          "name_slug": "russ-freeman",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1460d2a0-31ac-4d52-a411-772e15fd5b97",
+          "canonical_name": "Paul Sarmento",
+          "name_slug": "paul-sarmento",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3fc44ec6-0b25-4e62-8bc9-07fce4988e04",
+          "canonical_name": "Shorty Rogers",
+          "name_slug": "shorty-rogers",
+          "instrument": "trumpet",
+          "epistemic": "obs"
         }
       ]
     },
     {
-      "track_id": "5ec6941c-dddb-4b52-88f3-39962ab47eef",
-      "title": "I'll Take Romance",
-      "track_number": null,
-      "side": null,
-      "duration_text": null,
+      "track_id": "4345e331-e0ae-4953-9c09-73b3c030d30b",
+      "title": "This Time the Dream's on Me",
+      "track_number": 4,
+      "side": "A",
+      "duration_text": "1:32",
       "apple_track_id": null,
-      "epistemic_track": "unk",
+      "epistemic_track": "inf",
       "personnel": [
+        {
+          "person_id": "07bc5d90-c2c7-4a83-ab4c-b6c3b32ebd1c",
+          "canonical_name": "Harry Babasin",
+          "name_slug": "harry-babasin",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "83c273dd-9057-485d-8ef9-583b4a7803a3",
+          "canonical_name": "Bud Shank",
+          "name_slug": "bud-shank",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e5774b33-e7f8-4f1b-b3f6-30f447a99796",
+          "canonical_name": "Conrad Gozzo",
+          "name_slug": "conrad-gozzo",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29438665-ad92-4311-b3f1-96fd203a8139",
+          "canonical_name": "Vincent DeRosa",
+          "name_slug": "vincent-derosa",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5d2cae59-0cee-4a40-a11d-e695f431de67",
+          "canonical_name": "Bob Gordon",
+          "name_slug": "bob-gordon",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "590a3219-b8e5-47d2-a4f3-bbbe19110712",
+          "canonical_name": "Harry Betts",
+          "name_slug": "harry-betts",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+          "canonical_name": "Jimmy Giuffre",
+          "name_slug": "jimmy-giuffre",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
         {
           "person_id": "9e3e5327-62e8-49d4-9531-61d29e92a52d",
           "canonical_name": "June Christy",
           "name_slug": "june-christy",
           "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8836e4bc-3298-4a9b-91cd-2bbdee790321",
+          "canonical_name": "Harry Klee",
+          "name_slug": "harry-klee",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d2f5d539-ade6-414e-a7ec-0073025f54fc",
+          "canonical_name": "Maynard Ferguson",
+          "name_slug": "maynard-ferguson",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02f4306f-304a-44e6-9184-33b790bb83d3",
+          "canonical_name": "Milt Bernhart",
+          "name_slug": "milt-bernhart",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ea4fcbf7-d238-4625-9eba-3c5b76db02be",
+          "canonical_name": "Howard Roberts",
+          "name_slug": "howard-roberts",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d578c89b-0020-4430-b8e3-735175e6be53",
+          "canonical_name": "Frank Rosolino",
+          "name_slug": "frank-rosolino",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1460d2a0-31ac-4d52-a411-772e15fd5b97",
+          "canonical_name": "Paul Sarmento",
+          "name_slug": "paul-sarmento",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3fc44ec6-0b25-4e62-8bc9-07fce4988e04",
+          "canonical_name": "Shorty Rogers",
+          "name_slug": "shorty-rogers",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5919b99b-be64-4d3a-858c-02fde5c534f3",
+          "canonical_name": "Claude Williamson",
+          "name_slug": "claude-williamson",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "2b6650f0-5577-4a04-aa3d-f5e18358e679",
+      "title": "The Night We Called It a Day",
+      "track_number": 5,
+      "side": "A",
+      "duration_text": "4:48",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "07bc5d90-c2c7-4a83-ab4c-b6c3b32ebd1c",
+          "canonical_name": "Harry Babasin",
+          "name_slug": "harry-babasin",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "83c273dd-9057-485d-8ef9-583b4a7803a3",
+          "canonical_name": "Bud Shank",
+          "name_slug": "bud-shank",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e5774b33-e7f8-4f1b-b3f6-30f447a99796",
+          "canonical_name": "Conrad Gozzo",
+          "name_slug": "conrad-gozzo",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29438665-ad92-4311-b3f1-96fd203a8139",
+          "canonical_name": "Vincent DeRosa",
+          "name_slug": "vincent-derosa",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5d2cae59-0cee-4a40-a11d-e695f431de67",
+          "canonical_name": "Bob Gordon",
+          "name_slug": "bob-gordon",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "590a3219-b8e5-47d2-a4f3-bbbe19110712",
+          "canonical_name": "Harry Betts",
+          "name_slug": "harry-betts",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+          "canonical_name": "Jimmy Giuffre",
+          "name_slug": "jimmy-giuffre",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9e3e5327-62e8-49d4-9531-61d29e92a52d",
+          "canonical_name": "June Christy",
+          "name_slug": "june-christy",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8836e4bc-3298-4a9b-91cd-2bbdee790321",
+          "canonical_name": "Harry Klee",
+          "name_slug": "harry-klee",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d2f5d539-ade6-414e-a7ec-0073025f54fc",
+          "canonical_name": "Maynard Ferguson",
+          "name_slug": "maynard-ferguson",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02f4306f-304a-44e6-9184-33b790bb83d3",
+          "canonical_name": "Milt Bernhart",
+          "name_slug": "milt-bernhart",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ea4fcbf7-d238-4625-9eba-3c5b76db02be",
+          "canonical_name": "Howard Roberts",
+          "name_slug": "howard-roberts",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d578c89b-0020-4430-b8e3-735175e6be53",
+          "canonical_name": "Frank Rosolino",
+          "name_slug": "frank-rosolino",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1460d2a0-31ac-4d52-a411-772e15fd5b97",
+          "canonical_name": "Paul Sarmento",
+          "name_slug": "paul-sarmento",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3fc44ec6-0b25-4e62-8bc9-07fce4988e04",
+          "canonical_name": "Shorty Rogers",
+          "name_slug": "shorty-rogers",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5919b99b-be64-4d3a-858c-02fde5c534f3",
+          "canonical_name": "Claude Williamson",
+          "name_slug": "claude-williamson",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "fecdf627-87a4-4a47-9e32-2a2e98c13862",
+      "title": "Midnight Sun",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": "3:16",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "07f8288b-035f-4fb5-ba4b-46eb020a85e4",
+          "canonical_name": "Frank Beach",
+          "name_slug": "frank-beach",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e5774b33-e7f8-4f1b-b3f6-30f447a99796",
+          "canonical_name": "Conrad Gozzo",
+          "name_slug": "conrad-gozzo",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "882c499f-603c-4764-8bdc-219d21035497",
+          "canonical_name": "Nick DiMaio",
+          "name_slug": "nick-dimaio",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "771658ef-c47f-4a5f-aefe-a8b139ef5234",
+          "canonical_name": "Fred Fallensby",
+          "name_slug": "fred-fallensby",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "10a813c4-e7b9-4055-91b1-b8c0800ce682",
+          "canonical_name": "Chuck Gentry",
+          "name_slug": "chuck-gentry",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a6c169c5-327e-4b7c-9dd8-119c63133897",
+          "canonical_name": "Skeets Herfurt",
+          "name_slug": "skeets-herfurt",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8d29e51f-aa9c-4d97-a39c-8bf10e878b36",
+          "canonical_name": "Joe Mondragon",
+          "name_slug": "joe-mondragon",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9e3e5327-62e8-49d4-9531-61d29e92a52d",
+          "canonical_name": "June Christy",
+          "name_slug": "june-christy",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "972f40ce-f9ee-4358-ad88-3c691b818830",
+          "canonical_name": "Ray Linn",
+          "name_slug": "ray-linn",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4d572ca6-7ffb-4f8c-bb35-cabade0452ae",
+          "canonical_name": "Ted Nash",
+          "name_slug": "ted-nash",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "60666760-4f62-482f-af95-95e27c959fd4",
+          "canonical_name": "Dick Noel",
+          "name_slug": "dick-noel",
+          "instrument": "bass trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16cecdb3-f4d8-4bf0-850c-02acfa771f03",
+          "canonical_name": "Tommy Pederson",
+          "name_slug": "tommy-pederson",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a7c7e4b3-5964-4c35-92bb-8fa8a7a01623",
+          "canonical_name": "Uan Rasey",
+          "name_slug": "uan-rasey",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8b000ab6-c202-4aa3-8c01-9090c8903570",
+          "canonical_name": "Dick Reynolds",
+          "name_slug": "dick-reynolds",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8e0e144b-1f86-4d1a-acb8-108a9cf5d4f3",
+          "canonical_name": "Tony Rizzi",
+          "name_slug": "tony-rizzi",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "341fbb55-b1ee-43ea-a441-ac51f5436ffd",
+          "canonical_name": "Willie Schwartz",
+          "name_slug": "willie-schwartz",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ea0d9d7c-f535-4cfc-81c6-35208c8ec755",
+          "canonical_name": "Paul Smith",
+          "name_slug": "paul-smith",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cc9acde9-8672-41a3-a700-13489d8f17af",
+          "canonical_name": "Alvin Stoller",
+          "name_slug": "alvin-stoller",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7f78ea93-4608-4e80-b6db-abdfe2f28639",
+          "canonical_name": "Ray Triscari",
+          "name_slug": "ray-triscari",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "5a1c8d4c-dc23-4a31-b91c-0a08a1ab5f3b",
+      "title": "I'll Take Romance",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": "2:21",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "a83d08a8-11da-42f4-8124-1bd32d677922",
+          "canonical_name": "Bob Cooper",
+          "name_slug": "bob-cooper",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ecd01ff1-5239-4687-87f8-c562d041c3e1",
+          "canonical_name": "Bob Fitzpatrick",
+          "name_slug": "bob-fitzpatrick",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "83c273dd-9057-485d-8ef9-583b4a7803a3",
+          "canonical_name": "Bud Shank",
+          "name_slug": "bud-shank",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e5774b33-e7f8-4f1b-b3f6-30f447a99796",
+          "canonical_name": "Conrad Gozzo",
+          "name_slug": "conrad-gozzo",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5cc202ab-3cd0-4753-97ad-d87aff14bd0d",
+          "canonical_name": "Conte Candoli",
+          "name_slug": "conte-candoli",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5d2cae59-0cee-4a40-a11d-e695f431de67",
+          "canonical_name": "Bob Gordon",
+          "name_slug": "bob-gordon",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4a06ccf2-1931-4148-ad6c-695428f2713e",
+          "canonical_name": "Herbie Harper",
+          "name_slug": "herbie-harper",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+          "canonical_name": "Jimmy Giuffre",
+          "name_slug": "jimmy-giuffre",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8d29e51f-aa9c-4d97-a39c-8bf10e878b36",
+          "canonical_name": "Joe Mondragon",
+          "name_slug": "joe-mondragon",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9e3e5327-62e8-49d4-9531-61d29e92a52d",
+          "canonical_name": "June Christy",
+          "name_slug": "june-christy",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02f4306f-304a-44e6-9184-33b790bb83d3",
+          "canonical_name": "Milt Bernhart",
+          "name_slug": "milt-bernhart",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ea4fcbf7-d238-4625-9eba-3c5b76db02be",
+          "canonical_name": "Howard Roberts",
+          "name_slug": "howard-roberts",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3fc44ec6-0b25-4e62-8bc9-07fce4988e04",
+          "canonical_name": "Shorty Rogers",
+          "name_slug": "shorty-rogers",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5919b99b-be64-4d3a-858c-02fde5c534f3",
+          "canonical_name": "Claude Williamson",
+          "name_slug": "claude-williamson",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "1f0505f4-e389-4c63-a340-259ec9704512",
+      "title": "A Stranger Called the Blues",
+      "track_number": 8,
+      "side": "B",
+      "duration_text": "3:59",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "a83d08a8-11da-42f4-8124-1bd32d677922",
+          "canonical_name": "Bob Cooper",
+          "name_slug": "bob-cooper",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ecd01ff1-5239-4687-87f8-c562d041c3e1",
+          "canonical_name": "Bob Fitzpatrick",
+          "name_slug": "bob-fitzpatrick",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "83c273dd-9057-485d-8ef9-583b4a7803a3",
+          "canonical_name": "Bud Shank",
+          "name_slug": "bud-shank",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e5774b33-e7f8-4f1b-b3f6-30f447a99796",
+          "canonical_name": "Conrad Gozzo",
+          "name_slug": "conrad-gozzo",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5cc202ab-3cd0-4753-97ad-d87aff14bd0d",
+          "canonical_name": "Conte Candoli",
+          "name_slug": "conte-candoli",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5d2cae59-0cee-4a40-a11d-e695f431de67",
+          "canonical_name": "Bob Gordon",
+          "name_slug": "bob-gordon",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4a06ccf2-1931-4148-ad6c-695428f2713e",
+          "canonical_name": "Herbie Harper",
+          "name_slug": "herbie-harper",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+          "canonical_name": "Jimmy Giuffre",
+          "name_slug": "jimmy-giuffre",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8d29e51f-aa9c-4d97-a39c-8bf10e878b36",
+          "canonical_name": "Joe Mondragon",
+          "name_slug": "joe-mondragon",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9e3e5327-62e8-49d4-9531-61d29e92a52d",
+          "canonical_name": "June Christy",
+          "name_slug": "june-christy",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02f4306f-304a-44e6-9184-33b790bb83d3",
+          "canonical_name": "Milt Bernhart",
+          "name_slug": "milt-bernhart",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ea4fcbf7-d238-4625-9eba-3c5b76db02be",
+          "canonical_name": "Howard Roberts",
+          "name_slug": "howard-roberts",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3fc44ec6-0b25-4e62-8bc9-07fce4988e04",
+          "canonical_name": "Shorty Rogers",
+          "name_slug": "shorty-rogers",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5919b99b-be64-4d3a-858c-02fde5c534f3",
+          "canonical_name": "Claude Williamson",
+          "name_slug": "claude-williamson",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "2cdddcb8-5f8f-4a54-bbb7-ad4c87d06bfb",
+      "title": "I Should Care",
+      "track_number": 9,
+      "side": "B",
+      "duration_text": "2:11",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "a83d08a8-11da-42f4-8124-1bd32d677922",
+          "canonical_name": "Bob Cooper",
+          "name_slug": "bob-cooper",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "83c273dd-9057-485d-8ef9-583b4a7803a3",
+          "canonical_name": "Bud Shank",
+          "name_slug": "bud-shank",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e5774b33-e7f8-4f1b-b3f6-30f447a99796",
+          "canonical_name": "Conrad Gozzo",
+          "name_slug": "conrad-gozzo",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "590a3219-b8e5-47d2-a4f3-bbbe19110712",
+          "canonical_name": "Harry Betts",
+          "name_slug": "harry-betts",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8d29e51f-aa9c-4d97-a39c-8bf10e878b36",
+          "canonical_name": "Joe Mondragon",
+          "name_slug": "joe-mondragon",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "7bc652ba-0672-4cee-bf38-555fb937927b",
+          "canonical_name": "John Graas",
+          "name_slug": "john-graas",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9e3e5327-62e8-49d4-9531-61d29e92a52d",
+          "canonical_name": "June Christy",
+          "name_slug": "june-christy",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8836e4bc-3298-4a9b-91cd-2bbdee790321",
+          "canonical_name": "Harry Klee",
+          "name_slug": "harry-klee",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d2f5d539-ade6-414e-a7ec-0073025f54fc",
+          "canonical_name": "Maynard Ferguson",
+          "name_slug": "maynard-ferguson",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02f4306f-304a-44e6-9184-33b790bb83d3",
+          "canonical_name": "Milt Bernhart",
+          "name_slug": "milt-bernhart",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "4d572ca6-7ffb-4f8c-bb35-cabade0452ae",
+          "canonical_name": "Ted Nash",
+          "name_slug": "ted-nash",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "16cecdb3-f4d8-4bf0-850c-02acfa771f03",
+          "canonical_name": "Tommy Pederson",
+          "name_slug": "tommy-pederson",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ea4fcbf7-d238-4625-9eba-3c5b76db02be",
+          "canonical_name": "Howard Roberts",
+          "name_slug": "howard-roberts",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "a5668d92-e9f4-4136-9f79-2700a6f713b7",
+          "canonical_name": "Johnny Rotella",
+          "name_slug": "johnny-rotella",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8be5df38-4ed9-4ce9-8a28-eb97477c3354",
+          "canonical_name": "Russ Freeman",
+          "name_slug": "russ-freeman",
+          "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1460d2a0-31ac-4d52-a411-772e15fd5b97",
+          "canonical_name": "Paul Sarmento",
+          "name_slug": "paul-sarmento",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3fc44ec6-0b25-4e62-8bc9-07fce4988e04",
+          "canonical_name": "Shorty Rogers",
+          "name_slug": "shorty-rogers",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "50b011f0-fffb-49c3-97e8-a6f866a6a9af",
+      "title": "Softly, as in a Morning Sunrise",
+      "track_number": 10,
+      "side": "B",
+      "duration_text": "2:21",
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "07bc5d90-c2c7-4a83-ab4c-b6c3b32ebd1c",
+          "canonical_name": "Harry Babasin",
+          "name_slug": "harry-babasin",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "83c273dd-9057-485d-8ef9-583b4a7803a3",
+          "canonical_name": "Bud Shank",
+          "name_slug": "bud-shank",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e5774b33-e7f8-4f1b-b3f6-30f447a99796",
+          "canonical_name": "Conrad Gozzo",
+          "name_slug": "conrad-gozzo",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29438665-ad92-4311-b3f1-96fd203a8139",
+          "canonical_name": "Vincent DeRosa",
+          "name_slug": "vincent-derosa",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5d2cae59-0cee-4a40-a11d-e695f431de67",
+          "canonical_name": "Bob Gordon",
+          "name_slug": "bob-gordon",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "590a3219-b8e5-47d2-a4f3-bbbe19110712",
+          "canonical_name": "Harry Betts",
+          "name_slug": "harry-betts",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+          "canonical_name": "Jimmy Giuffre",
+          "name_slug": "jimmy-giuffre",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9e3e5327-62e8-49d4-9531-61d29e92a52d",
+          "canonical_name": "June Christy",
+          "name_slug": "june-christy",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8836e4bc-3298-4a9b-91cd-2bbdee790321",
+          "canonical_name": "Harry Klee",
+          "name_slug": "harry-klee",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d2f5d539-ade6-414e-a7ec-0073025f54fc",
+          "canonical_name": "Maynard Ferguson",
+          "name_slug": "maynard-ferguson",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02f4306f-304a-44e6-9184-33b790bb83d3",
+          "canonical_name": "Milt Bernhart",
+          "name_slug": "milt-bernhart",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ea4fcbf7-d238-4625-9eba-3c5b76db02be",
+          "canonical_name": "Howard Roberts",
+          "name_slug": "howard-roberts",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d578c89b-0020-4430-b8e3-735175e6be53",
+          "canonical_name": "Frank Rosolino",
+          "name_slug": "frank-rosolino",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1460d2a0-31ac-4d52-a411-772e15fd5b97",
+          "canonical_name": "Paul Sarmento",
+          "name_slug": "paul-sarmento",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3fc44ec6-0b25-4e62-8bc9-07fce4988e04",
+          "canonical_name": "Shorty Rogers",
+          "name_slug": "shorty-rogers",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5919b99b-be64-4d3a-858c-02fde5c534f3",
+          "canonical_name": "Claude Williamson",
+          "name_slug": "claude-williamson",
+          "instrument": "piano",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "e043b868-6ebe-44d0-91aa-4c827c4a7f2c",
+      "title": "I'm Thrilled",
+      "track_number": 11,
+      "side": "B",
+      "duration_text": "2:43",
+      "apple_track_id": null,
+      "epistemic_track": "inf",
+      "personnel": [
+        {
+          "person_id": "07bc5d90-c2c7-4a83-ab4c-b6c3b32ebd1c",
+          "canonical_name": "Harry Babasin",
+          "name_slug": "harry-babasin",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "83c273dd-9057-485d-8ef9-583b4a7803a3",
+          "canonical_name": "Bud Shank",
+          "name_slug": "bud-shank",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "e5774b33-e7f8-4f1b-b3f6-30f447a99796",
+          "canonical_name": "Conrad Gozzo",
+          "name_slug": "conrad-gozzo",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "29438665-ad92-4311-b3f1-96fd203a8139",
+          "canonical_name": "Vincent DeRosa",
+          "name_slug": "vincent-derosa",
+          "instrument": "French horn",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5d2cae59-0cee-4a40-a11d-e695f431de67",
+          "canonical_name": "Bob Gordon",
+          "name_slug": "bob-gordon",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "590a3219-b8e5-47d2-a4f3-bbbe19110712",
+          "canonical_name": "Harry Betts",
+          "name_slug": "harry-betts",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "0593c7b9-528f-4a10-aaa8-e1510af1f3fa",
+          "canonical_name": "Jimmy Giuffre",
+          "name_slug": "jimmy-giuffre",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "9e3e5327-62e8-49d4-9531-61d29e92a52d",
+          "canonical_name": "June Christy",
+          "name_slug": "june-christy",
+          "instrument": "voice",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "8836e4bc-3298-4a9b-91cd-2bbdee790321",
+          "canonical_name": "Harry Klee",
+          "name_slug": "harry-klee",
+          "instrument": "alto saxophone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d2f5d539-ade6-414e-a7ec-0073025f54fc",
+          "canonical_name": "Maynard Ferguson",
+          "name_slug": "maynard-ferguson",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "02f4306f-304a-44e6-9184-33b790bb83d3",
+          "canonical_name": "Milt Bernhart",
+          "name_slug": "milt-bernhart",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "ea4fcbf7-d238-4625-9eba-3c5b76db02be",
+          "canonical_name": "Howard Roberts",
+          "name_slug": "howard-roberts",
+          "instrument": "guitar",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "d578c89b-0020-4430-b8e3-735175e6be53",
+          "canonical_name": "Frank Rosolino",
+          "name_slug": "frank-rosolino",
+          "instrument": "trombone",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1460d2a0-31ac-4d52-a411-772e15fd5b97",
+          "canonical_name": "Paul Sarmento",
+          "name_slug": "paul-sarmento",
+          "instrument": "tuba",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+          "canonical_name": "Shelly Manne",
+          "name_slug": "shelly-manne",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "3fc44ec6-0b25-4e62-8bc9-07fce4988e04",
+          "canonical_name": "Shorty Rogers",
+          "name_slug": "shorty-rogers",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "5919b99b-be64-4d3a-858c-02fde5c534f3",
+          "canonical_name": "Claude Williamson",
+          "name_slug": "claude-williamson",
+          "instrument": "piano",
           "epistemic": "obs"
         }
       ]
