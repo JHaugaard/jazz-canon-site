@@ -29,7 +29,7 @@ describe('buildLayout', () => {
 		const y1964 = blocks.find((b) => b.year === 1964);
 		expect(y1964?.count).toBe(11);
 		expect(y1964?.cols).toBe(COLS_MAX);
-		expect(y1964?.rows).toBe(3);
+		expect(y1964?.rows).toBe(Math.ceil(11 / COLS_MAX));
 	});
 
 	it('gives empty years a thin non-zero width and no rows', () => {

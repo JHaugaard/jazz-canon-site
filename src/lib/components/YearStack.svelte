@@ -4,15 +4,34 @@
 	/** @type {{ block: import('$lib/timeline-layout.js').YearBlock }} */
 	let { block } = $props();
 
-	// Full-height blocks (no cap). Multi-row years extend below the fold, so flag
-	// "there's more, scroll down" — no number: the fold is a moving target and the
-	// whole block is rendered anyway, so an exact hidden-count would be a lie.
-	const hasMore = $derived(block.rows >= 2);
+	// Full-height blocks (no cap). The "More ↓" cue should appear ONLY when the block
+	// actually runs past the bottom of the viewport — otherwise it lies on years whose
+	// rows are all visible. A sentinel at the block's bottom + IntersectionObserver
+	// tells us exactly that, regardless of fold position / screen size / canon growth.
+	const multiRow = $derived(block.rows >= 2);
+
+	/** @type {HTMLElement | undefined} */
+	let sentinel = $state();
+	let belowFold = $state(false);
+
+	$effect(() => {
+		if (!sentinel) return;
+		const io = new IntersectionObserver(
+			([entry]) => {
+				belowFold = !entry.isIntersecting;
+			},
+			{ root: null, threshold: 0 }
+		);
+		io.observe(sentinel);
+		return () => io.disconnect();
+	});
+
+	const showMore = $derived(multiRow && belowFold);
 </script>
 
 <div class="year-stack" style="left: {block.x}px; width: {block.width}px;">
-	{#if hasMore}
-		<!-- top-anchored so it's seen while scrubbing horizontally (eye is on row 1) -->
+	{#if showMore}
+		<!-- only when the block's bottom is off-screen — a true "more below" signal -->
 		<span class="more-badge">More ↓</span>
 	{/if}
 	<div class="grid" style="grid-template-columns: repeat({block.cols}, 1fr);">
@@ -20,6 +39,7 @@
 			<AlbumCard {album} />
 		{/each}
 	</div>
+	<div class="sentinel" bind:this={sentinel}></div>
 </div>
 
 <style>
@@ -30,6 +50,9 @@
 	.grid {
 		display: grid;
 		gap: var(--sp-3);
+	}
+	.sentinel {
+		height: 1px;
 	}
 	.more-badge {
 		position: absolute;

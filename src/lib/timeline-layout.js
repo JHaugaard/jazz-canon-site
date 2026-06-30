@@ -5,7 +5,7 @@
 // the per-year x/width computed here.
 
 export const CARD_W = 216; // one card's horizontal footprint (cover ~200 + gap)
-export const COLS_MAX = 4; // cards per row
+export const COLS_MAX = 3; // cards per row (3 compacts the L→R spread; canon grows rightward)
 export const EMPTY_YEAR_W = 44; // width of a year with no albums (never zero)
 export const YEAR_GAP = 28; // gap between adjacent year blocks
 export const AXIS_MIN = 1949;

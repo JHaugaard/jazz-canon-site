@@ -28,10 +28,9 @@
 		return COLOR_MUSICIAN;
 	};
 
-	// Epistemic edge encoding (spec §5.3): solid=obs, dashed=inf, dotted=unk.
-	// null (no label) renders solid so the graph still reads if a link is unlabelled.
-	const dashFor = (/** @type {string | null} */ epi) =>
-		epi === 'inf' ? '6 3' : epi === 'unk' ? '2 3' : null;
+	// Edges render as plain lines. Per design-spec the network conveys collaboration by
+	// node weight, not edge epistemic (edge-epistemic deferred for v1); the Deep Dive
+	// still carries obs/inf/unk faithfully.
 
 	$effect(() => {
 		const slug = $selectedMusician;
@@ -64,8 +63,7 @@
 			.selectAll('line')
 			.data(graph.links)
 			.join('line')
-			.attr('stroke-width', 1.3)
-			.attr('stroke-dasharray', (/** @type {any} */ d) => dashFor(d.epistemic));
+			.attr('stroke-width', 1.3);
 
 		const node = root
 			.append('g')
