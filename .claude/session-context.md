@@ -1,92 +1,105 @@
 # Session Context
 
-## Status (2026-06-29)
+## Status (2026-06-30)
 **jazz-canon-site** — public discovery app for *A Jazz Canon* (100 albums, 1949–1972).
 Static SvelteKit + adapter-static, plain JS+JSDoc, D3 graph, Cloudflare Pages target.
-v1 is functionally built (Phases 0–4), the timeline was redesigned, and the design spec is
-now applied in code. A **design / look-and-feel pass is wrapping**; John is starting a
-**build session** next for structural/logic work.
+v1 is functionally complete: Phases 0–4 built, timeline redesigned, design spec applied,
+and **Apple Music fully integrated** (previews for everyone + full-album playback for
+subscribers). John is now on the **logo & typeface** pass — "getting close to something
+showable." Build/DB work is parked clean.
 
-- **Uncommitted:** everything since the GitHub push (head `a911a2b`) is local working-tree
-  only — the whole design pass + timeline redesign. Consider committing early in the build session.
-- **Running:** app dev server on vps8 `:5173` (`npm run dev -- --host`) → Mac at
-  `http://vps8-core:5173`. (Logo-preview `:8080` was stopped.)
+## Apple Music integration — DONE (Steps 1–3, committed + pushed)
+- **Step 1 — previews data:** `scripts/apple_previews.py` signs an ES256 dev token from the
+  `.p8`, fetches each album from the Apple catalog API, title-matches tracks (robust to
+  reorder / featuring-credits / remaster suffixes; coverage sanity-net), and bakes
+  `preview_url` (+ backfills `apple_track_id`) into `data/album/*.json`. Decoupled from
+  `export.py` (previews are volatile cache, re-run AFTER export).
+- **Step 2 — per-track previews:** ▶ button per track (`PreviewButton.svelte` +
+  `stores/preview.js`, single-active, 7 tests). **Graceful: never a dead button** — no
+  `preview_url` → no button; runtime failure → button self-removes.
+- **Step 3 — full playback:** `src/lib/apple/musickit.js` lazy-loads MusicKit v3, configures
+  with the baked `PUBLIC_APPLE_DEV_TOKEN`, authorizes, `setQueue({album})` + play.
+  `AppleFullPlayback.svelte` = visible player (prev/play-pause/next, progress, time,
+  now-playing) in the Deep Dive. Detects the 30s-preview fallback and explains why.
+- **Coverage: 640/666 tracks** have previews. The rest are expected gaps: Lee Konitz
+  *Subconscious-Lee* (13, not in Apple catalog), MJQ *Django* (8, no standalone album → NULL),
+  ~5 genuine bonus tracks.
+- **⚠️ Full (DRM) playback needs a secure context (https/localhost).** Over the plain-http dev
+  URL it serves 30s previews by design — UNVERIFIED end-to-end until tested over HTTPS
+  (e.g. `tailscale serve`, or the prod deploy). Subscriber account also required.
+- **Token rotation (the recurring chore):** `PUBLIC_APPLE_DEV_TOKEN` baked at build, **expires
+  2026-12-27**. Rotate with `scripts/gen_dev_token.py --write`; runbook in
+  **`docs/apple-token-rotation.md`** (linked from the SOP); runtime console warning at ≤14 days.
+  Prod must set `PUBLIC_APPLE_DEV_TOKEN` in the host build env.
 
-## Monday-evening design round (2026-06-29 PM) — from `docs/design-monday-evening.md`
-Done (check 0/0 · tests 24 · build green; both servers up — app :5173, logo gallery :8080):
-- **Personnel Network edges FLATTENED** — removed epistemic dash styling; plain lines (spec
-  defers edge-epistemic for v1). `dashFor` removed.
-- **"More ↓" pill fixed** — was firing on every rows≥2 year even when fully visible (see
-  `more-pill-1956.png`). Now gated by a real **IntersectionObserver below-the-fold check**
-  (bottom sentinel per block) AND rows≥2 — appears only when the block truly runs off-screen.
-- **Timeline COLS_MAX 4→3** — compacts the L→R spread (canon grows rightward); more years
-  become genuinely tall. (maxRows now 4 → taller card area; John accepts the verticality.)
-- **Logo refined → `concept-4b-shelf-record.svg`** (original 4 preserved): spines 12→10,
-  regrouped 4 left / 5 right, lean 18°→15° (gap 65→54, geometry preserved), play triangle
-  moved to the right group's first spine. Blind-computed geometry — **needs John's eye**.
-  Compare at `http://vps8-core:8080/logo-concepts/concept-4b.html`.
-- **Phase 5 briefing written** — `docs/phase5-a11y-and-states-briefing.md` (point-by-point;
-  2 decisions pending: A3 graph fallback approach; WCAG 2.1 AA vs lighter bar).
-
-PENDING John's decision (NOT changed): **export.py SSOT** — my take is in chat; recommend the
-data-platform (`mccoy-tyner`) becomes the single home, site repos consume committed JSON.
-Do NOT do the edge-epistemic best-vs-cautious flip until the SSOT home is settled (the
-`album_refs` change currently lives ONLY in the site copy; `-kc` copy has diverged).
+## Data SSOT — settled
+- **Canonical data is authored ONLY in mccoy-tyner** (the `_jazzcanon` Postgres DB is the SSOT).
+  jazz-canon-site is a **read-only consumer** of committed JSON. Repo naming: local dir
+  `mccoy-tyner` = GitHub `mccoy-tyner-project`. **If asked to edit a fact in the site repo,
+  PAUSE and redirect to mccoy-tyner.** See [[data-changes-go-through-mccoy-tyner]].
+- `export.py` (DB → site JSON) physically still lives in `site/scripts/`; the move to
+  mccoy-tyner is decided but not yet executed. Flow order: `export.py` → `apple_previews.py`
+  (export wipes `preview_url`). Both are OK to run in the site (they consume/cache the SSOT).
+- **5 problem albums resolved (DB + site JSON match):** Ahmad Jamal `1445769114`, Jackie McLean
+  `1442859687`, Gerry Mulligan `1460621783`; Konitz + Django correctly NULL.
+- **Bill Evans *Waltz for Debby*:** apple_album_id points to expanded edition — confirmed 6/6
+  title-match (canonical tracks all have previews), no action needed. Link-out lands on
+  remaster with bonus takes, which is a cosmetic non-issue.
 
 ## The app (Phases 0–4)
 - **Data** (`data/`): albums.json (100), album/{slug}.json (100, lazy via `import.meta.glob`),
-  network.json (305 musicians / 209 edges, per-link `album_refs` epistemic), musicians.json.
+  network.json (bipartite musician graph, per-link `album_refs` epistemic), musicians.json.
 - **Timeline** (`Timeline`/`EraBands`/`YearAxis`/`YearStack`/`AlbumCard`, geometry in pure
-  `timeline-layout.js` w/ tests): **year-block strip** — each year's width = its 4-wide card
-  grid; cards on a proportional axis; one horizontal scroll. **Full-height years** (no cap);
-  multi-row years show a top-right **"More ↓"** badge. Three layers: swim-lane era bands
-  (sliding labels) · year axis (large numerals) · album cards (~200px covers).
-- **Deep Dive** (`DeepDivePanel` + `Tracklist`/`PersonnelList`/`AppleMusicLink`/`EpistemicBadge`):
-  slide-in; per-track personnel; epistemic obs/inf/unk single-sourced in `epistemic.js`.
-- **Hero graph** (`PersonnelNetwork` + `graph/force.js`), branded **"Constellation"**: D3
-  force graph scoped to a musician; album-node → Deep Dive; musician-node → re-scope.
+  `timeline-layout.js` w/ tests): **year-block strip** (each year's width = its 3-wide card
+  grid), proportional axis, one horizontal scroll. **Full-height years**; multi-row years show a
+  top-right **"More ↓"** badge gated by an IntersectionObserver below-fold check. Swim-lane era
+  bands · large year numerals · ~200px album covers.
+- **Deep Dive** (`DeepDivePanel` + `Tracklist`/`PersonnelList`/`AppleMusicLink`/
+  `AppleFullPlayback`/`PreviewButton`/`EpistemicBadge`): slide-in; per-track personnel + ▶
+  previews; epistemic obs/inf/unk single-sourced in `epistemic.js`; Apple link + full player.
+- **Hero graph** (`PersonnelNetwork` + `graph/force.js`), branded **"Constellation"**: D3 force
+  graph scoped to a musician; album-node → Deep Dive; musician-node → re-scope. Edges flattened
+  (edge-epistemic deferred for v1).
 
-## Design pass — done (2026-06-29)
-- Design spec reconciled into `docs/design-spec-v1.md` (retired `--accent-red`; epistemic →
-  §2.4 amber family, weight+marker not hue) and **applied in code**: fonts (Archivo Narrow /
-  Inter / Lora), tokens `--bn-blue / --bn-blue-light / --impulse-amber / --sp-5`, era-band
-  palette, EpistemicBadge amber.
-- Timeline: opacity fade **removed** (covers 100%); **full-height** years + **"More ↓"** badge;
-  year-axis numerals **2×**; removed the confusing "·count" by the date.
-- Personnel Network: removed "Personnel Network" kicker; **"Constellation"** label (singular)
-  top-left of the field, enlarged **~2×** (signature concept); modal enlarged; labels always on.
-- **About page** stubbed at `/about` + header "About" link.
-- Logo **concept 4 "Shelf & Record"** designed (`docs/logo-concepts/concept-4*`), "being lived with".
-
-## → NEXT: build session (what John is doing now)
-- **Edge-epistemic semantics** — confirm "best/most-certain credit wins" (current) vs
-  "most-cautious"; one-line flip in `export.py` (`min`↔`max` rank) + re-run export.
-- **Personnel Network edges** — spec defers edge-epistemic for v1 (weight only); decide
-  whether to flatten the faint obs/inf/unk dashes to plain lines.
-- **Phase 5 logic polish** — accessibility (keyboard/focus for panels + graph); empty/missing
-  states vs real nulls (4 albums no studio, 3 no apple_id).
-- **Commit** the uncommitted design + build work when ready.
-
-## Open design follow-ups (for the later logo/header pass)
-- **Logo + header** (John returning to this): wordmark lockup (A JAZZ CANON, Archivo Narrow),
-  simplified favicon glyph, reversed/white variant; concept-4 levers — spine 11px / lean 16° /
-  gap 3px. See [[logo-concept-4-shelf-record]].
-- "Listen on Apple Music" — filled button → blue **text link** (spec) pending John's preference.
-- **Meta description** still says "Personnel Network" → update when the name is locked
-  (Constellation vs Constellations; currently singular).
-- [[era-bands-vs-genre-labels-tension]] still unresolved.
+## Design — logo locked, typeface/header IN PROGRESS (John's current focus)
+- **Logo FINALIZED & LOCKED** (`d2b651d`): concept-4b "Shelf & Record" — 8px spines, 4 left/5
+  right, 8° amber leaner, 6 grooves, record flush to oval. Brand assets in **`docs/brand/`**
+  (mark, favicon, h/v lockups, `index.html`). **Light-only, no dark variants.** See
+  [[logo-concept-4-shelf-record]].
+- Fonts in code: Archivo Narrow (display) / Inter (body) / Lora (serif). John is refining the
+  **typeface** choice now (`docs/type-specimen.html` is his scratch); plus wordmark lockup,
+  favicon export + wiring into the app, OG image — all in this design pass.
+- Tokens: `--bn-blue / --bn-blue-light / --impulse-amber`, era-band palette, amber epistemic.
 
 ## Repo / ops
-- GitHub `github.com/JHaugaard/jazz-canon-site`, branch `main` (head `a911a2b`). Future: plain
-  `git push`; branch off `main` for features; commits/pushes on John's say-so.
-- **Secrets clean:** `.env.local` ignored; `.env.example` placeholders only; Apple Team ID
-  fully scrubbed from history + local clone. Real secret (`.p8`) never in repo.
+- GitHub `github.com/JHaugaard/jazz-canon-site`, branch `main`, **in sync with origin**
+  (head `f6403c6`). Recent: Step 3 playback, data-fix flow (3 ids + preview restore), SOP.
+- **Uncommitted = John's live design work only** (`app.css`, `+page.svelte`, `about/+page.svelte`,
+  `docs/brand/*`, `docs/type-specimen.html`, this file). Build/DB tree is clean.
+- **Secrets clean:** `.env.local` ignored; `secrets/` + `*.p8` ignored; the MusicKit `.p8` lives
+  in `secrets/AuthKey_64D3G9K5N8.p8` (never committed); Apple Team ID scrubbed from history.
 
 ## Dev workflow + gotchas ([[vps8-dev-server-workflow]])
-`npm run dev -- --host` on vps8 → `http://vps8-core:5173`. Don't run `check`/`build` while the
-dev server runs (svelte-kit sync → reload loop). After `npm install`, `rm -rf node_modules/.vite`
-if the server hangs. Relaunch logo gallery: `python3 -m http.server 8080 --bind 0.0.0.0
---directory docs` → `/logo-concepts/`.
+- `npm run dev -- --host --port 5173` on vps8 → `http://vps8-core:5173` (HMR live for design).
+- **Don't launch the dev server with a trailing `&`** from the Bash tool — it hangs the call.
+  Use the tool's background mode instead.
+- Don't run `check`/`build` while the dev server runs (svelte-kit sync → reload loop).
+  After `npm install`, `rm -rf node_modules/.vite` if it hangs.
+- John works from his Mac over Tailscale; he may also commit in this same repo dir concurrently
+  — stage only specific files (never `git add -A`) to avoid sweeping in his in-progress work.
+
+## Open items (post-design, before/at v1 ship)
+- **Verify full playback over HTTPS** (secure context) — the one Apple piece untested e2e.
+- **Per-track full play** — currently album-level only; per-track full playback is a deferred
+  enhancement.
+- **Meta description** still says "Personnel Network" → update to "Constellation".
+- **Phase 5 a11y polish** — `docs/phase5-a11y-and-states-briefing.md` (keyboard/focus for panels
+  + graph; empty/missing states); 2 decisions pending (graph fallback; WCAG 2.1 AA vs lighter).
+- **Hosting** not finalized (Cloudflare Pages leaning; baked token is host-agnostic). On deploy,
+  set `PUBLIC_APPLE_DEV_TOKEN` in the host build env.
+- "Listen on Apple Music" filled button → blue text link (spec) pending John's preference.
+- [[era-bands-vs-genre-labels-tension]] still unresolved.
 
 ## Memories
-[[site-design-direction]] · [[logo-concept-4-shelf-record]] · [[era-bands-vs-genre-labels-tension]] · [[vps8-dev-server-workflow]]
+[[data-changes-go-through-mccoy-tyner]] · [[logo-concept-4-shelf-record]] · [[site-design-direction]] ·
+[[era-bands-vs-genre-labels-tension]] · [[vps8-dev-server-workflow]]
