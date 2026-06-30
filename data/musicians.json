@@ -75,6 +75,15 @@
     "album_count": 10
   },
   {
+    "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
+    "canonical_name": "Shelly Manne",
+    "name_slug": "shelly-manne",
+    "instruments": [
+      "drums"
+    ],
+    "album_count": 9
+  },
+  {
     "person_id": "d5c7dc0d-65e4-4733-b029-99b500164bb3",
     "canonical_name": "Art Blakey",
     "name_slug": "art-blakey",
@@ -90,15 +99,6 @@
     "instruments": [
       "flugelhorn",
       "trumpet"
-    ],
-    "album_count": 8
-  },
-  {
-    "person_id": "62f5b20d-cd32-45ab-9e30-ad949e6a9595",
-    "canonical_name": "Shelly Manne",
-    "name_slug": "shelly-manne",
-    "instruments": [
-      "drums"
     ],
     "album_count": 8
   },
@@ -394,15 +394,6 @@
     "album_count": 3
   },
   {
-    "person_id": "a629ef2d-7cb1-44c5-8214-1b032123983e",
-    "canonical_name": "Carson Smith",
-    "name_slug": "carson-smith",
-    "instruments": [
-      "double bass"
-    ],
-    "album_count": 3
-  },
-  {
     "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
     "canonical_name": "Chet Baker",
     "name_slug": "chet-baker",
@@ -673,6 +664,15 @@
     "name_slug": "booker-ervin",
     "instruments": [
       "tenor saxophone"
+    ],
+    "album_count": 2
+  },
+  {
+    "person_id": "a629ef2d-7cb1-44c5-8214-1b032123983e",
+    "canonical_name": "Carson Smith",
+    "name_slug": "carson-smith",
+    "instruments": [
+      "double bass"
     ],
     "album_count": 2
   },
@@ -2292,15 +2292,6 @@
     "person_id": "bf10c075-449b-4c93-aa61-caf2c3e29348",
     "canonical_name": "Larance Marable",
     "name_slug": "larance-marable",
-    "instruments": [
-      "drums"
-    ],
-    "album_count": 1
-  },
-  {
-    "person_id": "89a666f9-a89e-408f-bbb5-0897b80d550f",
-    "canonical_name": "Larry Bunker",
-    "name_slug": "larry-bunker",
     "instruments": [
       "drums"
     ],

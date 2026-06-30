@@ -5,7 +5,7 @@
   "year": 1952,
   "label": "Pacific Jazz",
   "catalog_number": "PJLP-1",
-  "recording_dates_text": "1952-08-16, 1952-10-15, 1952-10-16",
+  "recording_dates_text": "1952-08-16; 1952-10-15/16",
   "description": null,
   "style_primary": "cool-jazz",
   "style_display": "Cool Jazz",
@@ -21,13 +21,6 @@
       "name_slug": "bob-whitlock",
       "instrument": "double bass",
       "epistemic": "obs"
-    },
-    {
-      "person_id": "a629ef2d-7cb1-44c5-8214-1b032123983e",
-      "canonical_name": "Carson Smith",
-      "name_slug": "carson-smith",
-      "instrument": "double bass",
-      "epistemic": "unk"
     },
     {
       "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
@@ -49,30 +42,37 @@
       "name_slug": "gerry-mulligan",
       "instrument": "baritone saxophone",
       "epistemic": "obs"
-    },
-    {
-      "person_id": "89a666f9-a89e-408f-bbb5-0897b80d550f",
-      "canonical_name": "Larry Bunker",
-      "name_slug": "larry-bunker",
-      "instrument": "drums",
-      "epistemic": "unk"
     }
   ],
   "tracks": [
     {
-      "track_id": "402f2baf-97e4-4411-9571-339fabcfbfe9",
+      "track_id": "ca1a8081-31f1-493f-b87d-19596d8571da",
       "title": "Bernie's Tune",
-      "track_number": null,
-      "side": null,
+      "track_number": 1,
+      "side": "A",
       "duration_text": null,
       "apple_track_id": null,
       "epistemic_track": "obs",
       "personnel": [
         {
+          "person_id": "fff93cae-d059-45ca-ac5d-341d44d4c028",
+          "canonical_name": "Bob Whitlock",
+          "name_slug": "bob-whitlock",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
           "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
           "canonical_name": "Chet Baker",
           "name_slug": "chet-baker",
           "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+          "canonical_name": "Chico Hamilton",
+          "name_slug": "chico-hamilton",
+          "instrument": "drums",
           "epistemic": "obs"
         },
         {
@@ -85,19 +85,33 @@
       ]
     },
     {
-      "track_id": "a8daa2d9-8e2e-4b72-8c7c-b6d16ec39a4f",
+      "track_id": "7a502b15-a67e-457d-bd2d-12f7ea1e0e01",
       "title": "Walkin' Shoes",
-      "track_number": null,
-      "side": null,
+      "track_number": 2,
+      "side": "A",
       "duration_text": null,
       "apple_track_id": null,
       "epistemic_track": "obs",
       "personnel": [
         {
+          "person_id": "fff93cae-d059-45ca-ac5d-341d44d4c028",
+          "canonical_name": "Bob Whitlock",
+          "name_slug": "bob-whitlock",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
           "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
           "canonical_name": "Chet Baker",
           "name_slug": "chet-baker",
           "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+          "canonical_name": "Chico Hamilton",
+          "name_slug": "chico-hamilton",
+          "instrument": "drums",
           "epistemic": "obs"
         },
         {
@@ -110,19 +124,228 @@
       ]
     },
     {
-      "track_id": "8ca0d959-da63-452b-b7aa-555b94293a07",
-      "title": "Freeway",
-      "track_number": null,
-      "side": null,
+      "track_id": "14ab898c-2c21-4eda-9f18-bcc44122ddc9",
+      "title": "Nights At The Turntable",
+      "track_number": 3,
+      "side": "A",
       "duration_text": null,
       "apple_track_id": null,
       "epistemic_track": "obs",
       "personnel": [
         {
+          "person_id": "fff93cae-d059-45ca-ac5d-341d44d4c028",
+          "canonical_name": "Bob Whitlock",
+          "name_slug": "bob-whitlock",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
           "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
           "canonical_name": "Chet Baker",
           "name_slug": "chet-baker",
           "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+          "canonical_name": "Chico Hamilton",
+          "name_slug": "chico-hamilton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "3cc0a630-e269-4281-8f5b-194b85a546d6",
+      "title": "Lullaby Of The Leaves",
+      "track_number": 4,
+      "side": "A",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fff93cae-d059-45ca-ac5d-341d44d4c028",
+          "canonical_name": "Bob Whitlock",
+          "name_slug": "bob-whitlock",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
+          "canonical_name": "Chet Baker",
+          "name_slug": "chet-baker",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+          "canonical_name": "Chico Hamilton",
+          "name_slug": "chico-hamilton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "46a2ea00-3102-4e59-9916-715000b82a85",
+      "title": "Frenesi",
+      "track_number": 5,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fff93cae-d059-45ca-ac5d-341d44d4c028",
+          "canonical_name": "Bob Whitlock",
+          "name_slug": "bob-whitlock",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
+          "canonical_name": "Chet Baker",
+          "name_slug": "chet-baker",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+          "canonical_name": "Chico Hamilton",
+          "name_slug": "chico-hamilton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "a13edc9f-d8f0-4c5b-af60-945b0017082b",
+      "title": "Freeway",
+      "track_number": 6,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fff93cae-d059-45ca-ac5d-341d44d4c028",
+          "canonical_name": "Bob Whitlock",
+          "name_slug": "bob-whitlock",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
+          "canonical_name": "Chet Baker",
+          "name_slug": "chet-baker",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+          "canonical_name": "Chico Hamilton",
+          "name_slug": "chico-hamilton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "a2e3aa77-deb9-4f9a-8f20-98e375123dbd",
+      "title": "Soft Shoe",
+      "track_number": 7,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fff93cae-d059-45ca-ac5d-341d44d4c028",
+          "canonical_name": "Bob Whitlock",
+          "name_slug": "bob-whitlock",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
+          "canonical_name": "Chet Baker",
+          "name_slug": "chet-baker",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+          "canonical_name": "Chico Hamilton",
+          "name_slug": "chico-hamilton",
+          "instrument": "drums",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "835dc1c2-c7e6-4753-8a31-65a8d536d906",
+          "canonical_name": "Gerry Mulligan",
+          "name_slug": "gerry-mulligan",
+          "instrument": "baritone saxophone",
+          "epistemic": "obs"
+        }
+      ]
+    },
+    {
+      "track_id": "9770dbad-e6bb-42b0-95bf-ca1c35458360",
+      "title": "Aren't You Glad You're You",
+      "track_number": 8,
+      "side": "B",
+      "duration_text": null,
+      "apple_track_id": null,
+      "epistemic_track": "obs",
+      "personnel": [
+        {
+          "person_id": "fff93cae-d059-45ca-ac5d-341d44d4c028",
+          "canonical_name": "Bob Whitlock",
+          "name_slug": "bob-whitlock",
+          "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "1d721c2b-734b-40a1-9373-6d8020eafc54",
+          "canonical_name": "Chet Baker",
+          "name_slug": "chet-baker",
+          "instrument": "trumpet",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cf42790b-8ba9-48c1-992c-372c50915803",
+          "canonical_name": "Chico Hamilton",
+          "name_slug": "chico-hamilton",
+          "instrument": "drums",
           "epistemic": "obs"
         },
         {

@@ -5,7 +5,7 @@
   "year": 1964,
   "label": "Blue Note Records",
   "catalog_number": "BLP 4151 (mono) / BST 84151 (stereo)",
-  "recording_dates_text": "1963-11-08",
+  "recording_dates_text": "1963-11-08/09",
   "description": null,
   "style_primary": "post-bop",
   "style_display": "Post-Bop",
@@ -49,9 +49,10 @@
       "track_id": "ecf689e8-7a63-452c-8682-32acc62b28a5",
       "title": "Pumpkin",
       "track_number": 1,
-      "side": null,
+      "side": "A",
       "duration_text": "5:24",
-      "apple_track_id": null,
+      "apple_track_id": "1443108715",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8b/b4/9c/8bb49ce9-3fcf-0735-afd2-016cc049b22e/mzaf_14154411846558027279.plus.aac.p.m4a",
       "epistemic_track": "obs",
       "personnel": [
         {
@@ -62,10 +63,24 @@
           "epistemic": "obs"
         },
         {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
           "person_id": "17dab1b9-7957-486f-8844-f6801aba6167",
           "canonical_name": "Richard Davis",
           "name_slug": "richard-davis",
           "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
           "epistemic": "obs"
         }
       ]
@@ -74,9 +89,10 @@
       "track_id": "46825bab-b802-495e-a446-21a7ccfa0bd9",
       "title": "Subterfuge",
       "track_number": 2,
-      "side": null,
+      "side": "A",
       "duration_text": "8:04",
-      "apple_track_id": null,
+      "apple_track_id": "1443108863",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b0/0c/f9/b00cf953-0975-44b8-2f34-dc6b67d278b2/mzaf_11817674188223096245.plus.aac.p.m4a",
       "epistemic_track": "obs",
       "personnel": [
         {
@@ -91,6 +107,13 @@
           "canonical_name": "Richard Davis",
           "name_slug": "richard-davis",
           "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
           "epistemic": "obs"
         }
       ]
@@ -99,9 +122,10 @@
       "track_id": "b2f642cf-f63f-4e93-b75d-32312e3c1a08",
       "title": "Black Fire",
       "track_number": 3,
-      "side": null,
+      "side": "A",
       "duration_text": "6:56",
-      "apple_track_id": null,
+      "apple_track_id": "1443108869",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/77/56/a1/7756a1eb-520f-e7d9-597d-cdce24416dd4/mzaf_11220420281800514181.plus.aac.p.m4a",
       "epistemic_track": "obs",
       "personnel": [
         {
@@ -112,10 +136,24 @@
           "epistemic": "obs"
         },
         {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
           "person_id": "17dab1b9-7957-486f-8844-f6801aba6167",
           "canonical_name": "Richard Davis",
           "name_slug": "richard-davis",
           "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
           "epistemic": "obs"
         }
       ]
@@ -124,9 +162,10 @@
       "track_id": "b21bde58-e3f9-4381-b2f1-6222a0530ee1",
       "title": "Cantarnos",
       "track_number": 4,
-      "side": null,
+      "side": "B",
       "duration_text": "5:42",
-      "apple_track_id": null,
+      "apple_track_id": "1443108878",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2b/c2/f1/2bc2f1ba-d584-be0a-c063-321d80147c9f/mzaf_5387102034410385421.plus.aac.p.m4a",
       "epistemic_track": "obs",
       "personnel": [
         {
@@ -137,10 +176,24 @@
           "epistemic": "obs"
         },
         {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
           "person_id": "17dab1b9-7957-486f-8844-f6801aba6167",
           "canonical_name": "Richard Davis",
           "name_slug": "richard-davis",
           "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
           "epistemic": "obs"
         }
       ]
@@ -149,9 +202,10 @@
       "track_id": "885b57d9-49a2-4aea-a9ef-59e3f58ffeb5",
       "title": "Tired Trade",
       "track_number": 5,
-      "side": null,
+      "side": "B",
       "duration_text": "5:51",
-      "apple_track_id": null,
+      "apple_track_id": "1443109129",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/83/a9/8e/83a98ea7-283f-b736-4133-632214e2373e/mzaf_3581737593038216557.plus.aac.p.m4a",
       "epistemic_track": "obs",
       "personnel": [
         {
@@ -167,6 +221,13 @@
           "name_slug": "richard-davis",
           "instrument": "double bass",
           "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
+          "epistemic": "obs"
         }
       ]
     },
@@ -174,9 +235,10 @@
       "track_id": "767893ac-ccfc-4419-adc7-7f9e00cf93b2",
       "title": "McNeil Island",
       "track_number": 6,
-      "side": null,
+      "side": "B",
       "duration_text": "2:58",
-      "apple_track_id": null,
+      "apple_track_id": "1443109139",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/dd/f4/21/ddf42189-a9a0-9915-fa59-e2357d783226/mzaf_6673524428237832525.plus.aac.p.m4a",
       "epistemic_track": "obs",
       "personnel": [
         {
@@ -184,6 +246,13 @@
           "canonical_name": "Andrew Hill",
           "name_slug": "andrew-hill",
           "instrument": "piano",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
           "epistemic": "obs"
         },
         {
@@ -199,9 +268,10 @@
       "track_id": "6723706d-a493-4ac2-bd6e-84ea3f19c5fc",
       "title": "Land of Nod",
       "track_number": 7,
-      "side": null,
+      "side": "B",
       "duration_text": "5:48",
-      "apple_track_id": null,
+      "apple_track_id": "1443109148",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/31/bb/0a/31bb0a36-ea39-7bd1-e56b-7a14bafcaaf1/mzaf_12575188237874583675.plus.aac.p.m4a",
       "epistemic_track": "obs",
       "personnel": [
         {
@@ -212,10 +282,24 @@
           "epistemic": "obs"
         },
         {
+          "person_id": "f3ac5abb-24ba-49bf-bd09-8d4a4e732ca8",
+          "canonical_name": "Joe Henderson",
+          "name_slug": "joe-henderson",
+          "instrument": "tenor saxophone",
+          "epistemic": "obs"
+        },
+        {
           "person_id": "17dab1b9-7957-486f-8844-f6801aba6167",
           "canonical_name": "Richard Davis",
           "name_slug": "richard-davis",
           "instrument": "double bass",
+          "epistemic": "obs"
+        },
+        {
+          "person_id": "cb83d0bd-4aaa-4140-abed-75605629cfa6",
+          "canonical_name": "Roy Haynes",
+          "name_slug": "roy-haynes",
+          "instrument": "drums",
           "epistemic": "obs"
         }
       ]
