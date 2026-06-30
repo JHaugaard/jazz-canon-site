@@ -33,7 +33,7 @@
     "label": "Pacific Jazz",
     "catalog_number": "PJLP-1",
     "cover_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ea/13/9a/ea139a97-c688-5850-4de3-06792fe09709/00602577399527.rgb.jpg/1000x1000bb.jpg",
-    "apple_album_id": "1458823286"
+    "apple_album_id": "1460621783"
   },
   {
     "id": "shorty-rogers-cool-and-crazy",
@@ -141,7 +141,7 @@
     "label": "Prestige",
     "catalog_number": "PRLP 7057",
     "cover_art_url": "http://coverartarchive.org/release/4e7cc473-d705-3b58-9d92-119b5861ab41/2074510393-500.jpg",
-    "apple_album_id": "1191353582"
+    "apple_album_id": null
   },
   {
     "id": "lennie-tristano-lennie-tristano-1955",
@@ -369,7 +369,7 @@
     "label": "Argo Records",
     "catalog_number": "LP-628 (mono); LPS-628 (stereo)",
     "cover_art_url": "https://coverartarchive.org/release/0008f765-032b-46cd-ab69-2220edab1837/21102547590-500.jpg",
-    "apple_album_id": null
+    "apple_album_id": "1445769114"
   },
   {
     "id": "sonny-clark-cool-struttin-1958",
@@ -909,7 +909,7 @@
     "label": "Blue Note Records",
     "catalog_number": "BLP 4165 / BST 84165",
     "cover_art_url": "http://coverartarchive.org/release/29dde241-c22e-4f29-bed6-dd4c73be8fa4/35037354137-500.jpg",
-    "apple_album_id": null
+    "apple_album_id": "1442859687"
   },
   {
     "id": "herbie-hancock-empyrean-isles-1964",

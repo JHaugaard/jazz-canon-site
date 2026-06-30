@@ -65,8 +65,7 @@
       "track_number": 1,
       "side": "A",
       "duration_text": "3:34",
-      "apple_track_id": "50234413",
-      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/6b/fa/96/6bfa960f-8ce1-fd76-58be-90c6e50e8531/mzaf_6137403621952093694.plus.aac.p.m4a",
+      "apple_track_id": null,
       "epistemic_track": "obs",
       "personnel": [
         {
@@ -98,8 +97,7 @@
       "track_number": 2,
       "side": "A",
       "duration_text": "4:53",
-      "apple_track_id": "50234415",
-      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/5f/4d/b4/5f4db41f-7793-2102-1bb4-7c714b2a9655/mzaf_17987436869540803092.plus.aac.p.m4a",
+      "apple_track_id": null,
       "epistemic_track": "obs",
       "personnel": [
         {
@@ -117,8 +115,7 @@
       "track_number": 3,
       "side": "A",
       "duration_text": "3:41",
-      "apple_track_id": "50234417",
-      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/df/99/24/df992465-070d-3b2e-587e-7defa7239c46/mzaf_13512162965991371920.plus.aac.p.m4a",
+      "apple_track_id": null,
       "epistemic_track": "obs",
       "personnel": [
         {
@@ -136,8 +133,7 @@
       "track_number": 4,
       "side": "A",
       "duration_text": "4:33",
-      "apple_track_id": "50234419",
-      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/58/6a/95/586a9513-89d6-5c5d-9aee-bca517c85946/mzaf_7275069341036093191.plus.aac.p.m4a",
+      "apple_track_id": null,
       "epistemic_track": "obs",
       "personnel": [
         {
@@ -169,8 +165,7 @@
       "track_number": 5,
       "side": "B",
       "duration_text": "5:46",
-      "apple_track_id": "50234421",
-      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/54/49/79/544979f7-21c9-c772-c56b-3f7c5c11101e/mzaf_2974419797786115418.plus.aac.p.m4a",
+      "apple_track_id": null,
       "epistemic_track": "obs",
       "personnel": [
         {
@@ -209,8 +204,7 @@
       "track_number": 6,
       "side": "B",
       "duration_text": "5:20",
-      "apple_track_id": "50234423",
-      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/1e/8c/b4/1e8cb405-faba-7f57-7483-c565179ab24b/mzaf_1528110004054211044.plus.aac.p.m4a",
+      "apple_track_id": null,
       "epistemic_track": "obs",
       "personnel": [
         {
@@ -249,8 +243,7 @@
       "track_number": 7,
       "side": "B",
       "duration_text": "6:29",
-      "apple_track_id": "50234425",
-      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/be/85/f3/be85f3ce-c48f-5df0-e416-f07200d64161/mzaf_8582827491963360592.plus.aac.p.m4a",
+      "apple_track_id": null,
       "epistemic_track": "obs",
       "personnel": [
         {
@@ -289,8 +282,7 @@
       "track_number": 8,
       "side": "B",
       "duration_text": "6:07",
-      "apple_track_id": "50234427",
-      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cf/12/83/cf1283b4-eb61-e80a-c267-4b6bce9e75ad/mzaf_4889705821002750341.plus.aac.p.m4a",
+      "apple_track_id": null,
       "epistemic_track": "obs",
       "personnel": [
         {
@@ -329,8 +321,7 @@
       "track_number": 9,
       "side": "B",
       "duration_text": "6:11",
-      "apple_track_id": "50234429",
-      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/87/18/b6/8718b6a9-a1f3-12ed-9bdd-e5f138a9669a/mzaf_16421731501356153631.plus.aac.p.m4a",
+      "apple_track_id": null,
       "epistemic_track": "obs",
       "personnel": [
         {

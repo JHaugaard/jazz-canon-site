@@ -61,16 +61,16 @@ stale CDN link), step 2 alone is fine.
 
 These are data problems, not script bugs. `apple_previews.py` flags them.
 
-| Album | Problem |
-|-------|---------|
-| Ahmad Jamal — *At the Pershing: But Not for Me* | missing `apple_album_id` |
-| Jackie McLean — *Destination Out* | missing `apple_album_id` |
-| Lee Konitz — *Subconscious-Lee* | missing `apple_album_id` |
-| Gerry Mulligan Quartet 1952 | **wrong** `apple_album_id` (returns different songs) |
-| Modern Jazz Quartet — *Django* | **wrong** `apple_album_id` (returns a 1-track single) |
+| Album | Problem | Status |
+|-------|---------|--------|
+| Ahmad Jamal — *At the Pershing: But Not for Me* | missing `apple_album_id` | ✅ Fixed — `1445769114` (8 tracks) |
+| Jackie McLean — *Destination... Out!* | missing `apple_album_id` | ✅ Fixed — `1442859687` (4 tracks, correct for this BN album) |
+| Gerry Mulligan Quartet 1952 | wrong `apple_album_id` (was returning 6-track compilation) | ✅ Fixed — `1460621783` (Vol.1 Expanded Edition, 18 tracks) |
+| Lee Konitz — *Subconscious-Lee* | missing `apple_album_id` | ⛔ Not on Apple Music — 1950 Prestige LP unavailable in catalog |
+| Modern Jazz Quartet — *Django* | wrong `apple_album_id` (was returning 1-track single) | ⛔ No standalone album on Apple Music — cleared to NULL |
 
-Current coverage: **621 / 666 tracks** have previews. Closing the 5 above (plus
-genuine bonus tracks Apple doesn't carry) is the remaining ceiling.
+After these fixes, coverage ceiling is **~641 / 666 tracks** (3 resolved × ~7 tracks avg,
+minus Lee Konitz and Django which are genuinely absent from Apple Music).
 
 ## Playback UX contract
 
