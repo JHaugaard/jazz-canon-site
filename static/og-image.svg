@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="A Jazz Canon — Jazz on Record">
+  <!-- Open Graph share card. SVG for now; upgradeable to a 1200x630 PNG at deploy
+       for maximum scraper compatibility (same path). Brand: warm paper, Blue Note
+       teal, Impulse! amber. -->
+  <rect width="1200" height="630" fill="#faf8f3"/>
+  <rect x="0" y="0" width="1200" height="12" fill="#2b5f7a"/>
+
+  <!-- record-groove motif, right side -->
+  <g transform="translate(940,315)" fill="none" stroke="#2b5f7a" stroke-opacity="0.18">
+    <circle r="210" stroke-width="2"/>
+    <circle r="170" stroke-width="2"/>
+    <circle r="130" stroke-width="2"/>
+    <circle r="90" stroke-width="2"/>
+  </g>
+  <circle cx="940" cy="315" r="46" fill="#c4862a"/>
+  <circle cx="940" cy="315" r="7" fill="#faf8f3"/>
+
+  <!-- wordmark -->
+  <text x="90" y="300" font-family="Oswald, 'Arial Narrow', sans-serif" font-weight="600"
+        font-size="118" letter-spacing="2" fill="#1c1a17">A JAZZ CANON</text>
+  <rect x="94" y="338" width="150" height="6" fill="#c4862a"/>
+  <text x="90" y="392" font-family="Georgia, 'Times New Roman', serif" font-style="italic"
+        font-size="40" fill="#6b6358">Jazz on Record</text>
+
+  <text x="90" y="520" font-family="Inter, Helvetica, Arial, sans-serif" font-size="30"
+        fill="#6b6358">A curated canon · 1949–1972 · track-level personnel</text>
+  <text x="90" y="562" font-family="Inter, Helvetica, Arial, sans-serif" font-size="30"
+        fill="#6b6358">and the interactive Constellation of who played with whom.</text>
+</svg>

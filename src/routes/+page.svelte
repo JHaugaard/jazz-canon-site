@@ -20,13 +20,33 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content={TITLE} />
 	<meta property="og:description" content={DESCRIPTION} />
-	<meta name="twitter:card" content="summary" />
+	<meta property="og:image" content="/og-image.svg" />
+	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content={TITLE} />
 	<meta name="twitter:description" content={DESCRIPTION} />
+	<meta name="twitter:image" content="/og-image.svg" />
 </svelte:head>
 
 <SiteHeader navLabel="About" navHref="/about" />
 
+<h1 class="sr-only">A Jazz Canon — a curated canon of essential jazz albums, 1949–1972</h1>
+
 <Timeline albums={data.albums} />
+
+<style>
+	/* Accessible page heading without altering the visual design (the brand
+	   wordmark in the header is a link, not the document heading). */
+	.sr-only {
+		position: absolute;
+		width: 1px;
+		height: 1px;
+		padding: 0;
+		margin: -1px;
+		overflow: hidden;
+		clip: rect(0, 0, 0, 0);
+		white-space: nowrap;
+		border: 0;
+	}
+</style>
 <DeepDivePanel />
 <PersonnelNetwork />

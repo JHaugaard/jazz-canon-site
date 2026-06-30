@@ -116,3 +116,15 @@ The export survey found real holes; the UI must never show an empty label or a b
   "graph = mouse enhancement, Deep Dive = the accessible equivalent" and just document it?
 - **Scope:** target **WCAG 2.1 AA** as the bar, or a lighter "reasonable keyboard + contrast"
   pass for v1?
+
+## Resolved for v1 (2026-06-30)
+- **Deep Dive focus management — DONE.** The panel is now `role="dialog"` `aria-modal="true"`;
+  opening moves focus into it, Tab is trapped within it, and closing returns focus to the
+  album card that opened it (Escape + backdrop close already existed). See `DeepDivePanel.svelte`
+  (`trapFocus` action).
+- **A3 — DECIDED: document the limitation (no text fallback for v1).** The Constellation graph
+  is a **pointer/mouse enhancement**; the **timeline is the keyboard-accessible primary
+  navigation** and the **Deep Dive panel is the accessible equivalent** of the album/personnel
+  information. A keyboard/screen-reader text-fallback for the force graph is deferred post-v1.
+- **Scope — DECIDED: "reasonable keyboard + contrast" for v1**, not a formal WCAG 2.1 AA audit.
+  Path to AA (graph fallback, full audit) noted for a later pass.

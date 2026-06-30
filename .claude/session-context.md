@@ -5,8 +5,9 @@
 Static SvelteKit + adapter-static, plain JS+JSDoc, D3 graph, Cloudflare Pages target.
 v1 is functionally complete: Phases 0–4 built, timeline redesigned, design spec applied,
 and **Apple Music fully integrated** (previews for everyone + full-album playback for
-subscribers). John is now on the **logo & typeface** pass — "getting close to something
-showable." Build/DB work is parked clean.
+subscribers). **The design pass is DONE — logo, tagline, and display typeface are all
+locked**, committed and pushed (`536b1eb`). John is moving to **build loose ends, then
+deploy**.
 
 ## Apple Music integration — DONE (Steps 1–3, committed + pushed)
 - **Step 1 — previews data:** `scripts/apple_previews.py` signs an ES256 dev token from the
@@ -61,21 +62,31 @@ showable." Build/DB work is parked clean.
   graph scoped to a musician; album-node → Deep Dive; musician-node → re-scope. Edges flattened
   (edge-epistemic deferred for v1).
 
-## Design — logo locked, typeface/header IN PROGRESS (John's current focus)
-- **Logo FINALIZED & LOCKED** (`d2b651d`): concept-4b "Shelf & Record" — 8px spines, 4 left/5
-  right, 8° amber leaner, 6 grooves, record flush to oval. Brand assets in **`docs/brand/`**
-  (mark, favicon, h/v lockups, `index.html`). **Light-only, no dark variants.** See
-  [[logo-concept-4-shelf-record]].
-- Fonts in code: Archivo Narrow (display) / Inter (body) / Lora (serif). John is refining the
-  **typeface** choice now (`docs/type-specimen.html` is his scratch); plus wordmark lockup,
-  favicon export + wiring into the app, OG image — all in this design pass.
+## Design — LOCKED (logo, tagline, display typeface, header — all done)
+- **Logo + tagline FINALIZED & LOCKED** (`d2b651d`, deepened `536b1eb`): concept-4b "Shelf &
+  Record" — 8px spines, 4 left/5 right, 8° amber leaner, 6 grooves, record flush to oval.
+  Tagline = **"Jazz on Record"** (year-range tagline retired — "the canon grows forward").
+  Brand assets in **`docs/brand/`** (mark, favicon, h/v lockups, `index.html`). **Light-only, no
+  dark variants.** See [[logo-concept-4-shelf-record]].
+- **Display typeface LOCKED**: Oswald weight 600 + small-caps (was Archivo Narrow + uppercase) —
+  validated in `docs/type-specimen.html`, propagated through `design-spec-v1.md` §3, `app.css`,
+  every component on `--font-display`, and the brand docs/lockup SVGs. Lora stays for editorial
+  notes (Playfair Display tested, rejected). See [[display-font-oswald-lock]].
+- **Logo wired into the live app**: header lockup (mark + wordmark + tagline) and favicon, not
+  just `docs/brand/` reference assets. Header extracted into **`SiteHeader.svelte`** — shared by
+  `/` and `/about`, use it for any new route. Logo mark `142×92`, deliberately taller than the
+  text block, sharing a baseline (`align-items: flex-end`). See [[site-header-component]].
 - Tokens: `--bn-blue / --bn-blue-light / --impulse-amber`, era-band palette, amber epistemic.
+- **All pushed to Honcho** (peer-attributed) for cross-tool continuity (Hermes/Codex/future
+  sessions) — ask Honcho if a future session needs to recall these locks instead of re-deriving.
 
 ## Repo / ops
 - GitHub `github.com/JHaugaard/jazz-canon-site`, branch `main`, **in sync with origin**
-  (head `f6403c6`). Recent: Step 3 playback, data-fix flow (3 ids + preview restore), SOP.
-- **Uncommitted = John's live design work only** (`app.css`, `+page.svelte`, `about/+page.svelte`,
-  `docs/brand/*`, `docs/type-specimen.html`, this file). Build/DB tree is clean.
+  (head `536b1eb` — design lock commit). Recent: Step 3 playback, data-fix flow (3 ids + preview
+  restore), SOP, design lock (typeface/tagline/logo + SiteHeader extraction).
+- **Untracked, not committed:** `docs/logo-screenshot.png` — a working reference screenshot
+  (has a stray browser tooltip baked in), left out deliberately, not a curated asset. Otherwise
+  tree is clean.
 - **Secrets clean:** `.env.local` ignored; `secrets/` + `*.p8` ignored; the MusicKit `.p8` lives
   in `secrets/AuthKey_64D3G9K5N8.p8` (never committed); Apple Team ID scrubbed from history.
 
@@ -88,18 +99,36 @@ showable." Build/DB work is parked clean.
 - John works from his Mac over Tailscale; he may also commit in this same repo dir concurrently
   — stage only specific files (never `git add -A`) to avoid sweeping in his in-progress work.
 
-## Open items (post-design, before/at v1 ship)
+## Pre-deploy build punch list — done 2026-06-30 (commit pending)
+- **OG share card** — `static/og-image.svg` + `og:image`/`twitter:image` (summary_large_image)
+  on `/`. SVG for now; upgrade to a 1200×630 PNG + absolute `og:url` at deploy (domain-gated).
+- **"Listen on Apple Music"** — now a blue **text link** (was filled button), per spec.
+- **Branded 404** — `src/routes/+error.svelte`; adapter `fallback: '404.html'` so static hosts
+  serve it. `build/404.html` confirmed emitted.
+- **Deep Dive a11y** — `role="dialog"` `aria-modal` + focus-in / Tab-trap / focus-restore
+  (`trapFocus` action in `DeepDivePanel.svelte`).
+- **Homepage `<h1>`** — added a visually-hidden h1 (`.sr-only`) on `/` (was missing).
+- **a11y scope DECIDED** (briefing "Resolved for v1"): graph = pointer enhancement, Deep Dive =
+  accessible equivalent (no graph text-fallback for v1); bar = "reasonable keyboard + contrast",
+  not a formal WCAG 2.1 AA audit.
+- **Meta description** already says "Constellation" (was fixed earlier) — verified.
+- Empty/missing states verified graceful (null cover → title fallback; conditional studio/dates).
+
+## Open items — for the DEPLOY session
 - **Verify full playback over HTTPS** (secure context) — the one Apple piece untested e2e.
-- **Per-track full play** — currently album-level only; per-track full playback is a deferred
-  enhancement.
-- **Meta description** still says "Personnel Network" → update to "Constellation".
-- **Phase 5 a11y polish** — `docs/phase5-a11y-and-states-briefing.md` (keyboard/focus for panels
-  + graph; empty/missing states); 2 decisions pending (graph fallback; WCAG 2.1 AA vs lighter).
-- **Hosting** not finalized (Cloudflare Pages leaning; baked token is host-agnostic). On deploy,
-  set `PUBLIC_APPLE_DEV_TOKEN` in the host build env.
-- "Listen on Apple Music" filled button → blue text link (spec) pending John's preference.
+  First post-deploy check.
+- **Set `PUBLIC_APPLE_DEV_TOKEN`** in the host build env (else full playback silently disables).
+- **Pick host** (Cloudflare Pages leaning; baked token is host-agnostic).
+- **OG finalize:** export `og-image.png` (no rasterizer on vps8) + set absolute `og:url`/`og:image`
+  to the real domain. `sitemap.xml` also deferred (needs the domain).
+
+## Deferred (post-v1)
+- **Per-track full play** — album-level only today.
+- **Graph keyboard text-fallback** + full WCAG 2.1 AA audit.
+- `export.py` physical move to mccoy-tyner (site consumes committed JSON — not a blocker).
 - [[era-bands-vs-genre-labels-tension]] still unresolved.
 
 ## Memories
 [[data-changes-go-through-mccoy-tyner]] · [[logo-concept-4-shelf-record]] · [[site-design-direction]] ·
-[[era-bands-vs-genre-labels-tension]] · [[vps8-dev-server-workflow]]
+[[era-bands-vs-genre-labels-tension]] · [[vps8-dev-server-workflow]] · [[display-font-oswald-lock]] ·
+[[site-header-component]]

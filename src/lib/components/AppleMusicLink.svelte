@@ -17,15 +17,12 @@
 <style>
 	.apple-cta {
 		display: inline-block;
-		padding: var(--sp-2) var(--sp-3);
-		background: var(--ink);
-		color: #fff;
-		border-radius: var(--radius);
+		color: var(--bn-blue);
 		text-decoration: none;
 		font-size: var(--fs-sm);
 		font-weight: 600;
 	}
 	.apple-cta:hover {
-		background: #000;
+		text-decoration: underline;
 	}
 </style>

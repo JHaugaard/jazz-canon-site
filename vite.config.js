@@ -10,7 +10,9 @@ export default defineConfig({
 				// Force runes mode for the project, except for libraries. Can be removed in svelte 6.
 				runes: ({ filename }) => filename.split(/[/\\]/).includes('node_modules') ? undefined : true
 			},
-			adapter: adapter(),
+			// fallback emits build/404.html so static hosts (Cloudflare Pages, etc.)
+			// serve our branded +error.svelte for unknown URLs.
+			adapter: adapter({ fallback: '404.html' }),
 			// The canon JSON lives at the repo root (outside src/). $data lets the
 			// loader import it cleanly; this is the static-site "API". Declaring it
 			// here (SvelteKit alias) wires both Vite *and* the generated tsconfig path.

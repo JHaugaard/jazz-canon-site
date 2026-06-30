@@ -14,6 +14,42 @@
 	function onKey(e) {
 		if (e.key === 'Escape') clearSelection();
 	}
+
+	// Accessibility: when the dialog opens, move focus into it and trap Tab; on
+	// close, return focus to whatever opened it (the album card).
+	/** @param {HTMLElement} node */
+	function trapFocus(node) {
+		const previously = /** @type {HTMLElement | null} */ (document.activeElement);
+		const selector =
+			'a[href], button:not([disabled]), input, select, textarea, [tabindex]:not([tabindex="-1"])';
+		const items = () =>
+			/** @type {HTMLElement[]} */ ([...node.querySelectorAll(selector)]).filter(
+				(el) => el.offsetParent !== null
+			);
+		node.focus();
+		/** @param {KeyboardEvent} e */
+		function onKeydown(e) {
+			if (e.key !== 'Tab') return;
+			const f = items();
+			if (!f.length) return;
+			const first = f[0];
+			const last = f[f.length - 1];
+			if (e.shiftKey && document.activeElement === first) {
+				e.preventDefault();
+				last.focus();
+			} else if (!e.shiftKey && document.activeElement === last) {
+				e.preventDefault();
+				first.focus();
+			}
+		}
+		node.addEventListener('keydown', onKeydown);
+		return {
+			destroy() {
+				node.removeEventListener('keydown', onKeydown);
+				previously?.focus?.();
+			}
+		};
+	}
 </script>
 
 <svelte:window onkeydown={onKey} />
@@ -23,7 +59,14 @@
 	<button class="backdrop" type="button" aria-label="Close album detail" onclick={clearSelection}
 	></button>
 
-	<aside class="panel" aria-label="Album detail">
+	<div
+		class="panel"
+		role="dialog"
+		aria-modal="true"
+		aria-label="Album detail"
+		tabindex="-1"
+		use:trapFocus
+	>
 		<button class="dismiss" onclick={clearSelection} aria-label="Close">×</button>
 
 		{#await albumPromise}
@@ -73,7 +116,7 @@
 		{:catch err}
 			<p class="state">Couldn’t load “{$selectedAlbumId}”: {err?.message ?? 'unknown error'}</p>
 		{/await}
-	</aside>
+	</div>
 {/if}
 
 <style>
