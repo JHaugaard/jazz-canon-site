@@ -2,6 +2,7 @@
 	import { selectedAlbumId, clearSelection } from '$lib/stores/ui.js';
 	import { loadAlbum } from '$lib/data/albums.js';
 	import AppleMusicLink from './AppleMusicLink.svelte';
+	import AppleFullPlayback from './AppleFullPlayback.svelte';
 	import Tracklist from './Tracklist.svelte';
 	import PersonnelList from './PersonnelList.svelte';
 
@@ -41,6 +42,7 @@
 					</p>
 					<p class="style">{album.style_display}</p>
 					<AppleMusicLink appleAlbumId={album.apple_album_id} />
+					<AppleFullPlayback appleAlbumId={album.apple_album_id} title={album.title} />
 				</header>
 
 				{#if album.description}
