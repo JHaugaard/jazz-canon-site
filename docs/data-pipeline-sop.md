@@ -28,6 +28,7 @@ not a fact — so enrichment is a separate, re-runnable step owned by the site.
 ```
 1. .venv/bin/python3 scripts/export.py            # rebuild data/ from the DB
 2. .venv/bin/python3 scripts/apple_previews.py     # re-add preview URLs
+3. git add data/ && git commit && git push         # publish to site
 ```
 
 If you only edited the DB and re-ran export, you MUST re-run apple_previews or
