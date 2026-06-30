@@ -7,7 +7,7 @@
 		<link rel="preconnect" href="https://fonts.googleapis.com" />
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 		<link
-			href="https://fonts.googleapis.com/css2?family=Archivo+Narrow:wght@400;600;700&family=Inter:wght@400;600&family=Lora:ital@1&display=swap"
+			href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&family=Inter:wght@400;600&family=Lora:ital@1&display=swap"
 			rel="stylesheet"
 		/>
 		<style>
@@ -21,7 +21,7 @@
 				--bn-blue-light: #4a7c95;
 				--bn-blue-dark: #21506a;
 				--amber: #c4862a;
-				--display: 'Archivo Narrow', 'Helvetica Neue Condensed', sans-serif;
+				--display: 'Oswald', 'Helvetica Neue Condensed', sans-serif;
 			}
 			* { box-sizing: border-box; }
 			body {
@@ -31,20 +31,20 @@
 				font: 16px/1.6 'Inter', system-ui, sans-serif;
 				padding: 48px clamp(16px, 6vw, 80px) 96px;
 			}
-			h1 { font-family: var(--display); font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; font-size: 2.2rem; margin: 0 0 2px; color: var(--bn-blue); }
+			h1 { font-family: var(--display); font-weight: 600; font-variant: small-caps; letter-spacing: 0.03em; font-size: 2.3rem; margin: 0 0 2px; color: var(--bn-blue); }
 			.lede { color: var(--muted); margin: 0 0 40px; max-width: 70ch; }
 			section { border-top: 1px solid var(--line); padding: 28px 0; }
-			h2 { font-family: var(--display); text-transform: uppercase; letter-spacing: 0.05em; font-size: 1.05rem; color: var(--muted); margin: 0 0 18px; }
+			h2 { font-family: var(--display); font-weight: 600; font-variant: small-caps; letter-spacing: 0.05em; font-size: 1.05rem; color: var(--muted); margin: 0 0 18px; }
 			.tiles { display: flex; flex-wrap: wrap; gap: 20px; align-items: center; }
 			.tile { border: 1px solid var(--line); border-radius: 12px; padding: 28px; display: flex; align-items: center; justify-content: center; }
 			.paper { background: var(--bg); }
 			.white { background: #fff; }
 			.cap { font-size: 0.8rem; color: var(--muted); margin-top: 8px; text-align: center; }
 			.col { display: flex; flex-direction: column; align-items: center; }
-			/* lockups composed in HTML so the Archivo Narrow wordmark renders live */
+			/* lockups composed in HTML so the Oswald wordmark renders live */
 			.lockup-h { display: flex; align-items: center; gap: 28px; }
-			.wm { font-family: var(--display); font-weight: 700; text-transform: uppercase; color: var(--bn-blue); line-height: 0.95; letter-spacing: 0.02em; }
-			.wm .tag { display: block; font-size: 0.34em; letter-spacing: 0.5em; color: var(--muted); margin-top: 0.4em; }
+			.wm { font-family: var(--display); font-weight: 600; font-variant: small-caps; color: var(--bn-blue); line-height: 0.95; letter-spacing: 0.04em; }
+			.wm .tag { display: block; font-variant: normal; font-size: 0.36em; letter-spacing: 0.18em; color: var(--muted); margin-top: 0.5em; }
 			.lockup-v { display: flex; flex-direction: column; align-items: center; gap: 16px; text-align: center; }
 			/* palette */
 			.swatches { display: flex; flex-wrap: wrap; gap: 14px; }
@@ -83,11 +83,11 @@
 			<h2>2 · Horizontal lockup — primary (site header)</h2>
 			<div class="tile white" style="justify-content:flex-start">
 				<div class="lockup-h">
-					<img src="logo-mark.svg" height="92" alt="" />
-					<span class="wm" style="font-size:74px">A Jazz Canon<span class="tag">1949 — 1972</span></span>
+					<img src="logo-mark.svg" height="100" alt="" />
+					<span class="wm" style="font-size:46px">A Jazz Canon<span class="tag">Jazz on Record</span></span>
 				</div>
 			</div>
-			<p class="cap" style="text-align:left">Mark + “A JAZZ CANON” (Archivo Narrow 700, bn-blue) + year tagline. On the site this is the mark image + live header type; for any single-image use, outline the wordmark (see §7).</p>
+			<p class="cap" style="text-align:left">Mark + “A Jazz Canon” in large-cap/small-cap (Oswald 600, bn-blue), sized down relative to the mark, with the “Jazz on Record” tagline. On the site this is the mark image + live header type; for any single-image use, outline the wordmark (see §7).</p>
 		</section>
 
 		<section>
@@ -95,7 +95,7 @@
 			<div class="tile white">
 				<div class="lockup-v">
 					<img src="logo-mark.svg" width="260" alt="" />
-					<span class="wm" style="font-size:46px">A Jazz Canon<span class="tag">1949 — 1972</span></span>
+					<span class="wm" style="font-size:40px">A Jazz Canon<span class="tag">Jazz on Record</span></span>
 				</div>
 			</div>
 		</section>
@@ -126,7 +126,7 @@
 
 		<section>
 			<h2>6 · Typography</h2>
-			<p style="font-family:var(--display);font-weight:700;text-transform:uppercase;font-size:2rem;color:var(--bn-blue);margin:0">Archivo Narrow — display / wordmark</p>
+			<p style="font-family:var(--display);font-weight:600;font-variant:small-caps;font-size:2rem;color:var(--bn-blue);margin:0">Oswald 600 — display / wordmark</p>
 			<p style="font-family:'Inter';margin:6px 0 0">Inter — body &amp; UI. The quick brown fox jumps over the lazy dog.</p>
 			<p class="editorial" style="margin:6px 0 0">Lora italic — editorial notes only.</p>
 		</section>
@@ -145,7 +145,8 @@
 						<li class="do">✓ Amber reserved for the single leaning LP + spindle (the one accent).</li>
 						<li class="dont">✗ Don't recolour the spines or add a second amber element.</li>
 						<li class="dont">✗ Don't stretch, rotate, or add effects/shadows.</li>
-						<li class="dont">✗ Don't fuse the year range into the wordmark — it's a tagline.</li>
+						<li class="dont">✗ Don't reintroduce a year range — tagline is simply “Jazz on Record” (the canon grows forward).</li>
+						<li class="dont">✗ Don't set the wordmark in full all-caps — use the large-cap/small-cap treatment.</li>
 					</ul>
 				</div>
 			</div>

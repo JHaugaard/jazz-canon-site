@@ -14,9 +14,9 @@
 	--bn-blue-light: #4a7c95; /* lighter variant — hover/secondary */
 	--impulse-amber: #c4862a; /* Impulse! warm brass — editorial accent */
 
-	/* Typography (design-spec §3) — Archivo Narrow (display, Reid Miles DNA),
+	/* Typography (design-spec §3) — Oswald (display, condensed/era-appropriate),
 	   Inter (body), Lora italic (editorial voice). */
-	--font-display: 'Archivo Narrow', 'Helvetica Neue Condensed', sans-serif;
+	--font-display: 'Oswald', 'Helvetica Neue Condensed', sans-serif;
 	--font-body: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	--font-serif: 'Lora', Georgia, 'Times New Roman', serif;
 	--font: var(--font-body); /* legacy alias — components inherit body */
@@ -59,18 +59,21 @@ body {
 	line-height: 1.45;
 }
 
-/* Display face for all headings (design-spec §3 type hierarchy). */
+/* Display face for all headings (design-spec §3 type hierarchy). Oswald 600 —
+   tested heavier (700) and it's too bulky condensed; 600 is the locked weight. */
 h1,
 h2,
 h3 {
 	font-family: var(--font-display);
+	font-weight: 600;
 }
 
 h1 {
 	font-size: var(--fs-xl);
-	font-weight: 700;
-	text-transform: uppercase;
-	letter-spacing: 0.01em;
+	/* large-cap / small-cap treatment — less bulk than all-caps, more presence than
+	   sentence case. Text stays title-case (e.g. "A Jazz Canon"). */
+	font-variant: small-caps;
+	letter-spacing: 0.03em;
 	margin: var(--sp-4) var(--sp-4) var(--sp-3);
 }
 

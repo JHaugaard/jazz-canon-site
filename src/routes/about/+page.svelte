@@ -1,3 +1,7 @@
+<script>
+	import SiteHeader from '$lib/components/SiteHeader.svelte';
+</script>
+
 <svelte:head>
 	<title>About — A Jazz Canon</title>
 	<meta
@@ -6,10 +10,7 @@
 	/>
 </svelte:head>
 
-<header class="site-header">
-	<a class="home" href="/">A Jazz Canon</a>
-	<nav class="site-nav"><a href="/">Timeline</a></nav>
-</header>
+<SiteHeader navLabel="Timeline" navHref="/" />
 
 <main class="about">
 	<h1>About</h1>
@@ -31,36 +32,13 @@
 </main>
 
 <style>
-	.site-header {
-		display: flex;
-		justify-content: space-between;
-		align-items: baseline;
-		padding: var(--sp-4) var(--sp-4) var(--sp-3);
-		border-bottom: 1px solid var(--line);
-	}
-	.home {
-		font-family: var(--font-display, inherit);
-		font-size: var(--fs-xl);
-		font-weight: 700;
-		color: var(--ink);
-		text-decoration: none;
-	}
-	.site-nav a {
-		font-family: var(--font-display, inherit);
-		text-transform: uppercase;
-		letter-spacing: 0.04em;
-		color: var(--bn-blue);
-		text-decoration: none;
-	}
-	.site-nav a:hover {
-		text-decoration: underline;
-	}
 	.about {
 		max-width: 60ch;
 		padding: var(--sp-5, 32px) var(--sp-4);
 		line-height: 1.6;
 	}
 	.about h1 {
+		font-size: 2rem;
 		margin: 0 0 var(--sp-3);
 	}
 	.lede {

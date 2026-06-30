@@ -238,9 +238,9 @@
 		font-family: var(--font-display, inherit);
 		/* signature concept — given pride of place, ~2× */
 		font-size: 1.6rem;
-		font-weight: 700;
+		font-weight: 600;
 		letter-spacing: 0.06em;
-		text-transform: uppercase;
+		font-variant: small-caps;
 		color: var(--bn-blue);
 	}
 	svg {

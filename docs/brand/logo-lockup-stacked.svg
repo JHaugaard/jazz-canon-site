@@ -2,8 +2,8 @@
   <!-- STACKED LOCKUP: mark over wordmark, centred. For square-ish placements (social/OG,
        larger displays). Live text — OUTLINE to paths for single-image/social use. -->
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow:wght@700&display=swap');
-    .wm { font-family: 'Archivo Narrow', 'Helvetica Neue Condensed', sans-serif; }
+    @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+    .wm { font-family: 'Oswald', 'Helvetica Neue Condensed', sans-serif; }
   </style>
   <defs>
     <clipPath id="ls-rec"><circle cx="250" cy="110" r="74"/></clipPath>
@@ -31,6 +31,6 @@
   </g>
 
   <!-- wordmark, centred under the mark -->
-  <text class="wm" x="180" y="285" text-anchor="middle" font-size="62" font-weight="700" letter-spacing="3" fill="#2b5f7a">A JAZZ CANON</text>
-  <text class="wm" x="180" y="320" text-anchor="middle" font-size="20" font-weight="700" letter-spacing="9" fill="#6b6358">1949 — 1972</text>
+  <text class="wm" x="180" y="278" text-anchor="middle" font-size="52" font-weight="600" font-variant="small-caps" letter-spacing="2" fill="#2b5f7a">A Jazz Canon</text>
+  <text class="wm" x="180" y="308" text-anchor="middle" font-size="18" font-weight="600" letter-spacing="6" fill="#6b6358">Jazz on Record</text>
 </svg>

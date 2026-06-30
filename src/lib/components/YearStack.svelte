@@ -62,9 +62,9 @@
 		pointer-events: none;
 		font-family: var(--font-display, inherit);
 		font-size: var(--fs-sm);
-		font-weight: 700;
+		font-weight: 600;
 		letter-spacing: 0.04em;
-		text-transform: uppercase;
+		font-variant: small-caps;
 		color: var(--bn-blue, var(--ink));
 		background: var(--surface);
 		border: 1px solid var(--bn-blue, var(--line));

@@ -156,7 +156,7 @@
 	.editorial-tag {
 		font-family: var(--font-display);
 		font-size: 0.62rem;
-		text-transform: uppercase;
+		font-variant: small-caps;
 		letter-spacing: 0.05em;
 		color: var(--impulse-amber);
 		font-weight: 600;

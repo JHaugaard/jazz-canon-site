@@ -8,6 +8,11 @@ tags: jazz-canon, design, spec, visual
 
 **Status:** Draft — 2026-06-28 · revised 2026-06-29 (epistemic treatment dialed
 back per `docs/sunday-update.md` §1: red retired, epistemic folded into §2.4)
+· revised 2026-06-30 (display typeface locked: Oswald 600, small-caps replaces
+uppercase — see §3; tagline locked: "Jazz on Record")
+**Locked:** Logo (`docs/brand/` — see `docs/brand/index.html`) · Tagline
+("Jazz on Record") · Display typeface (Oswald 600 + small-caps). Color palette,
+layout, and component details remain Draft.
 **Companion to:** `docs/app-spec-v1.md` and timeline redesign prompts
 **Purpose:** Design layer applied on top of existing structural work. Defines
 color, typography, epistemic treatment, and layout principles derived from the
@@ -22,8 +27,10 @@ covers — primarily Blue Note Records (Reid Miles / Francis Wolff), Impulse!
 Records (Pete Turner), and Columbia Records. Four principles repeat across all
 labels and styles in the collection:
 
-1. **Bold condensed sans-serif for titles.** Always uppercase, always heavy,
-   always confident.
+1. **Bold condensed sans-serif for titles.** Always heavy, always confident —
+   the era's covers favor full uppercase; this implementation favors the
+   gentler large-cap/small-cap treatment instead (see §3), same confidence
+   without the visual weight of an all-caps block.
 2. **Limited palettes.** Rarely more than three colors, often just two plus
    black and white.
 3. **Single accent against neutral base.** One color carries the emotional
@@ -136,10 +143,27 @@ Three typefaces, each with a specific role. All available on Google Fonts
 ### Font definitions
 
 ```
---font-display: 'Archivo Narrow', 'Helvetica Neue Condensed', sans-serif;
+--font-display: 'Oswald', 'Helvetica Neue Condensed', sans-serif;
 --font-body: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 --font-serif: 'Lora', Georgia, 'Times New Roman', serif;
 ```
+
+**Locked 2026-06-30** (superseding the original Archivo Narrow choice, which
+was untested against the actual brand palette). `docs/type-specimen.html`
+compared Archivo Narrow vs. Oswald and Lora vs. Playfair Display at real
+in-app sizes; verdict: Oswald at **weight 600** (700 is too bulky condensed),
+Lora stays for editorial-note body (Playfair only earns its keep at large
+serif-headline sizes, which this app doesn't currently use).
+
+### Case treatment: large-cap / small-cap, not all-caps
+
+Every `--font-display` usage that was previously `text-transform: uppercase`
+is now `font-variant: small-caps` instead — source text stays title-case (e.g.
+"A Jazz Canon", "Hard Bop", "Editorial note") and the browser synthesizes the
+small-caps rendering. This reads as confident and condensed without the visual
+weight of a full uppercase block, and avoids fighting the small-caps treatment
+already locked into the wordmark. Numeral-only display text (e.g. year-axis
+ticks) is unaffected — there's no case to transform.
 
 ### Font loading strategy
 
@@ -148,37 +172,38 @@ Load via Google Fonts in `app.html` (or SvelteKit layout):
 ```html
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link href="https://fonts.googleapis.com/css2?family=Archivo+Narrow:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,400;1,400&display=swap" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,400;1,400&display=swap" rel="stylesheet" />
 ```
 
 Three families is the maximum. The tradeoff: Lora adds one font for editorial
 content only, but it creates a visual distinction between sourced facts
 (sans-serif) and editorial interpretation (serif italic) that directly serves
-the epistemic principle (app-spec §3). Worth the load.
+the epistemic principle (app-spec §3). Worth the load. Oswald is loaded at a
+single weight (600) — the locked display weight, no others used.
 
 ### Type hierarchy
 
 | Element | Font | Weight | Size | Transform | Notes |
 |---------|------|--------|------|----------|-------|
-| Site title "A Jazz Canon" | Archivo Narrow | 700 | 2rem | uppercase | The brand |
-| Tagline "1949–1972" | Inter | 400 | 0.9rem | none | letter-spacing: 0.02em |
-| Era band labels | Archivo Narrow | 600 | 0.8rem | uppercase | In swim lanes |
+| Site title "A Jazz Canon" | Oswald | 600 | 2rem | small-caps | The brand |
+| Tagline "Jazz on Record" | Inter | 400 | 0.9rem | none | letter-spacing: 0.02em |
+| Era band labels | Oswald | 600 | 0.8rem | small-caps | In swim lanes |
 | Year axis labels | Inter | 500 | 0.75rem | none | |
-| Album card title | Archivo Narrow | 600 | 0.95rem | none | |
+| Album card title | Oswald | 600 | 0.95rem | none | |
 | Album card artist | Inter | 400 | 0.85rem | none | |
 | Album card year badge | Inter | 700 | 0.7rem | none | On cover art |
 | Album card style label | Inter | 400 | 0.7rem | uppercase | letter-spacing: 0.04em |
-| Deep Dive header | Archivo Narrow | 700 | 1.8rem | none | Album title |
+| Deep Dive header | Oswald | 600 | 1.8rem | none | Album title |
 | Deep Dive subheader | Inter | 400 | 0.9rem | none | Artist · year · label |
 | Tracklist track number | Inter | 500 | 0.8rem | none | |
 | Tracklist track title | Inter | 500 | 0.85rem | none | |
 | Tracklist duration | Inter | 400 | 0.75rem | none | --muted color |
 | Personnel names | Inter | 500 | 0.85rem | none | Clickable → network |
 | Personnel instrument | Inter | 400 | 0.8rem | none | --muted color |
-| Editorial note label | Archivo Narrow | 600 | 0.7rem | uppercase | "Editorial note" |
+| Editorial note label | Oswald | 600 | 0.7rem | small-caps | "Editorial note" |
 | Editorial note body | Lora | 400 italic | 0.9rem | none | The serif distinction |
 | Epistemic badges | Inter | 400/700 | 0.62rem | uppercase | See §2.4 |
-| Personnel Network title | Archivo Narrow | 700 | 1.4rem | none | Center musician name |
+| Personnel Network title | Oswald | 600 | 1.4rem | none | Center musician name |
 | Personnel Network hint | Inter | 400 | 0.8rem | none | --muted color |
 | Apple Music link | Inter | 500 | 0.85rem | none | --bn-blue color |
 
@@ -247,7 +272,7 @@ The album covers let the image do the work. On the site:
 - Slides in from the right. Background: `--surface`.
 - Header: large cover art (left), title + metadata (right). `--font-display` for
   album title. `--font-body` for artist, year, label, catalog.
-- "Editorial note" label: `--font-display` 600, uppercase, 0.7rem,
+- "Editorial note" label: `--font-display` 600, small-caps, 0.7rem,
   `--impulse-amber` color. Body text: `--font-serif` italic, 0.9rem.
 - Tracklist: clean table-like layout. Track number in `--muted`. Title in
   `--ink`. Duration in `--muted`, right-aligned.
@@ -278,7 +303,7 @@ The album covers let the image do the work. On the site:
 ### Swim lane era bands
 
 - Band background: era color tokens (see §2). Gradient fade at edges.
-- Band label: `--font-display` 600, uppercase, 0.8rem. Color: `--era-ink`.
+- Band label: `--font-display` 600, small-caps, 0.8rem. Color: `--era-ink`.
 - Label slides with scroll, clamped to band's horizontal extent (see timeline
   redesign prompt for implementation detail).
 
@@ -326,10 +351,11 @@ token needed. Apply `font-display` class to headings, `font-body` to text,
 
 ### Google Fonts performance
 
-Three families at the weights specified total approximately 180KB (woff2,
-gzipped). This is acceptable for a static site with no other heavy assets
-(the JSON data is small). Use `display=swap` so text renders immediately in
-system fallback and swaps to the loaded font without layout shift.
+Three families at the weights specified (Oswald single-weight, Inter four
+weights, Lora regular + italic) total well under 150KB (woff2, gzipped). This
+is acceptable for a static site with no other heavy assets (the JSON data is
+small). Use `display=swap` so text renders immediately in system fallback and
+swaps to the loaded font without layout shift.
 
 ---
 

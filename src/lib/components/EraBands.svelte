@@ -61,7 +61,7 @@
 		font-size: var(--fs-sm);
 		font-weight: 600;
 		letter-spacing: 0.04em;
-		text-transform: uppercase;
+		font-variant: small-caps;
 		color: var(--era-ink);
 		background: rgba(250, 248, 243, 0.78);
 		padding: 1px 8px;

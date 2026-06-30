@@ -1,10 +1,10 @@
 <svg viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="A Jazz Canon logo">
-  <!-- HORIZONTAL LOCKUP: mark + wordmark. Type is LIVE TEXT (Archivo Narrow) — for the
+  <!-- HORIZONTAL LOCKUP: mark + wordmark. Type is LIVE TEXT (Oswald) — for the
        website this renders fine (font is loaded); for any single-image/social use, OUTLINE
        the wordmark to paths first (img-isolated SVGs don't fetch web fonts). -->
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow:wght@700&display=swap');
-    .wm { font-family: 'Archivo Narrow', 'Helvetica Neue Condensed', sans-serif; }
+    @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+    .wm { font-family: 'Oswald', 'Helvetica Neue Condensed', sans-serif; }
   </style>
   <defs>
     <clipPath id="lh-rec"><circle cx="250" cy="110" r="74"/></clipPath>
@@ -31,7 +31,7 @@
   <circle cx="250" cy="110" r="8" fill="#c4862a"/>
   <rect x="62" y="22.9" width="8" height="172" rx="1" fill="#c4862a" transform="rotate(8 62 194.9)"/>
 
-  <!-- wordmark -->
-  <text class="wm" x="372" y="118" font-size="96" font-weight="700" letter-spacing="4" fill="#2b5f7a">A JAZZ CANON</text>
-  <text class="wm" x="375" y="158" font-size="26" font-weight="700" letter-spacing="11" fill="#6b6358">1949 — 1972</text>
+  <!-- wordmark: large-cap/small-cap, sized down relative to the mark -->
+  <text class="wm" x="372" y="104" font-size="72" font-weight="600" font-variant="small-caps" letter-spacing="3" fill="#2b5f7a">A Jazz Canon</text>
+  <text class="wm" x="374" y="142" font-size="24" font-weight="600" letter-spacing="6" fill="#6b6358">Jazz on Record</text>
 </svg>

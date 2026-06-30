@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>A Jazz Canon — type specimen (temp)</title>
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Archivo+Narrow:wght@500;600;700&family=Oswald:wght@400;500;600;700&family=Inter:wght@400;600&family=Lora:ital@0;1&family=Playfair+Display:ital,wght@0,400;0,600;1,400;1,600&display=swap"
+			rel="stylesheet"
+		/>
+		<style>
+			:root {
+				--bg: #faf8f3; --surface: #fff; --ink: #1c1a17; --muted: #6b6358; --line: #e6e0d6;
+				--bn-blue: #2b5f7a; --amber: #c4862a;
+				--archivo: 'Archivo Narrow', sans-serif;
+				--oswald: 'Oswald', sans-serif;
+				--lora: 'Lora', Georgia, serif;
+				--playfair: 'Playfair Display', Georgia, serif;
+			}
+			* { box-sizing: border-box; }
+			body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.6 'Inter', system-ui, sans-serif; padding: 40px clamp(16px,5vw,72px) 96px; }
+			h1.page { font-family: var(--oswald); font-weight: 700; font-variant: small-caps; letter-spacing: .03em; color: var(--bn-blue); font-size: 2.2rem; margin: 0 0 2px; }
+			.lede { color: var(--muted); margin: 0 0 36px; max-width: 72ch; }
+			section { border-top: 1px solid var(--line); padding: 26px 0; }
+			h2.sec { font-family: var(--oswald); text-transform: uppercase; letter-spacing: .05em; font-size: 1rem; color: var(--muted); margin: 0 0 20px; }
+			.two { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+			@media (max-width: 760px){ .two { grid-template-columns: 1fr; } }
+			.card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 24px 26px; }
+			.tag { display: inline-block; font-family: var(--oswald); text-transform: uppercase; letter-spacing: .08em; font-size: .7rem; font-weight: 600; color: var(--amber); margin-bottom: 14px; }
+			.tag.cur { color: var(--muted); }
+			/* wordmark treatment (matches the app: large-cap/small-cap) */
+			.wm { font-variant: small-caps; font-weight: 700; color: var(--bn-blue); line-height: .95; letter-spacing: .03em; }
+			.wm.archivo { font-family: var(--archivo); }
+			.wm.oswald { font-family: var(--oswald); }
+			.subtag { color: var(--muted); font-size: .95rem; margin-top: 4px; }
+			.years { font-weight: 600; color: var(--ink); letter-spacing: .02em; margin-top: 18px; }
+			.years.archivo { font-family: var(--archivo); }
+			.years.oswald { font-family: var(--oswald); }
+			.wt { color: var(--muted); font-size: .72rem; }
+			/* editorial note sample */
+			.note { font-style: italic; }
+			.note.lora { font-family: var(--lora); }
+			.note.playfair { font-family: var(--playfair); }
+			.note.body { font-size: .98rem; line-height: 1.6; }     /* real editorial-note size */
+			.note.display { font-size: 1.7rem; line-height: 1.35; margin-top: 16px; }
+			.label { font-size: .72rem; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; margin: 14px 0 4px; }
+			/* pairing mock */
+			.lockup { display: flex; align-items: center; gap: 22px; margin-bottom: 18px; }
+			.lockup img { height: 78px; }
+			.note-block { border-left: 3px solid var(--amber); background: var(--bg); border-radius: 8px; padding: 10px 16px; }
+			.note-block .etag { font-family: inherit; font-size: .6rem; text-transform: uppercase; letter-spacing: .05em; color: var(--amber); font-weight: 600; }
+		</style>
+	</head>
+	<body>
+		<h1 class="page">A Jazz Canon — Type Specimen</h1>
+		<p class="lede">
+			Temporary side-by-side: <strong>current</strong> (Archivo Narrow + Lora) vs.
+			<strong>proposed</strong> (Oswald + Playfair Display), at real in-app sizes. This page itself
+			uses Oswald for its own headings so you can feel it live. Nothing here is wired into the app.
+		</p>
+
+		<section>
+			<h2 class="sec">1 · Display face — wordmark &amp; numerals</h2>
+			<div class="two">
+				<div class="card">
+					<span class="tag cur">Current — Archivo Narrow</span>
+					<div class="wm archivo" style="font-size:64px">A Jazz Canon</div>
+					<div class="subtag">Jazz on Record</div>
+					<div class="years archivo" style="font-size:2.4rem">1955 · 1960 · 1964</div>
+					<div style="margin-top:14px">
+						<div class="wm archivo" style="font-size:40px;font-weight:700">A Jazz Canon <span class="wt">700</span></div>
+						<div class="wm archivo" style="font-size:40px;font-weight:600">A Jazz Canon <span class="wt">600</span></div>
+						<div class="wm archivo" style="font-size:40px;font-weight:500">A Jazz Canon <span class="wt">500</span></div>
+					</div>
+				</div>
+				<div class="card">
+					<span class="tag">Proposed — Oswald</span>
+					<div class="wm oswald" style="font-size:64px">A Jazz Canon</div>
+					<div class="subtag">Jazz on Record</div>
+					<div class="years oswald" style="font-size:2.4rem">1955 · 1960 · 1964</div>
+					<div style="margin-top:14px">
+						<div class="wm oswald" style="font-size:40px;font-weight:700">A Jazz Canon <span class="wt">700</span></div>
+						<div class="wm oswald" style="font-size:40px;font-weight:600">A Jazz Canon <span class="wt">600 ← likely sweet spot</span></div>
+						<div class="wm oswald" style="font-size:40px;font-weight:500">A Jazz Canon <span class="wt">500</span></div>
+					</div>
+				</div>
+			</div>
+			<p class="label">Note: small caps are browser-synthesized for both (neither ships true small-cap glyphs). Compare how each scales down.</p>
+		</section>
+
+		<section>
+			<h2 class="sec">2 · Editorial serif — the readability test (running note)</h2>
+			<div class="two">
+				<div class="card">
+					<span class="tag cur">Current — Lora (text serif)</span>
+					<div class="label">at the real editorial-note size</div>
+					<p class="note lora body">Recorded over two late-night sessions at Van Gelder's, the date catches the quintet mid-thought — Tyner's voicings opening rooms the horns hadn't noticed were there, Elvin pushing the time until the whole thing tilts forward and refuses to settle.</p>
+					<div class="label">larger</div>
+					<p class="note lora display">Tyner's voicings opening rooms the horns hadn't noticed were there.</p>
+				</div>
+				<div class="card">
+					<span class="tag">Proposed — Playfair Display (display serif)</span>
+					<div class="label">at the real editorial-note size</div>
+					<p class="note playfair body">Recorded over two late-night sessions at Van Gelder's, the date catches the quintet mid-thought — Tyner's voicings opening rooms the horns hadn't noticed were there, Elvin pushing the time until the whole thing tilts forward and refuses to settle.</p>
+					<div class="label">larger</div>
+					<p class="note playfair display">Tyner's voicings opening rooms the horns hadn't noticed were there.</p>
+				</div>
+			</div>
+			<p class="label">Watch the body size: Playfair's hairlines thin out in running prose (it's built for headlines); Lora holds up as text. Playfair gets gorgeous at the larger size.</p>
+		</section>
+
+		<section>
+			<h2 class="sec">3 · Pairing in context</h2>
+			<div class="two">
+				<div class="card">
+					<span class="tag cur">Current — Archivo Narrow + Lora</span>
+					<div class="lockup">
+						<img src="brand/logo-mark.svg" alt="" />
+						<div><div class="wm archivo" style="font-size:40px">A Jazz Canon</div><div class="subtag">Jazz on Record</div></div>
+					</div>
+					<div class="note-block"><span class="etag" style="font-family:var(--archivo)">Editorial note</span><p class="note lora body" style="margin:4px 0 0">The date catches the quintet mid-thought, refusing to settle.</p></div>
+				</div>
+				<div class="card">
+					<span class="tag">Proposed — Oswald + Playfair</span>
+					<div class="lockup">
+						<img src="brand/logo-mark.svg" alt="" />
+						<div><div class="wm oswald" style="font-size:40px">A Jazz Canon</div><div class="subtag">Jazz on Record</div></div>
+					</div>
+					<div class="note-block"><span class="etag" style="font-family:var(--oswald)">Editorial note</span><p class="note playfair body" style="margin:4px 0 0">The date catches the quintet mid-thought, refusing to settle.</p></div>
+				</div>
+			</div>
+			<p class="label">Gut check: does Oswald+Playfair read “jazz record” or drift “fashion magazine”? Either can be right — trust your eye.</p>
+		</section>
+
+		<section>
+			<h2 class="sec">4 · My read (recap)</h2>
+			<p style="max-width:72ch">Oswald for display — strong, era-appropriate; test it at <strong>600</strong>, not 700. Playfair — keep it for <em>large</em> serif moments only; for the editorial-note <em>body</em> a text serif (Lora) reads better. A defensible hybrid: <strong>Oswald + Lora</strong> (impact display, readable notes), reserving Playfair for any future big serif headline.</p>
+		</section>
+	</body>
+</html>
